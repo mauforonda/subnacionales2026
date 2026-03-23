@@ -1,8 +1,19 @@
 CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,InscritosHabilitados,VotoValido,VotoBlanco,VotoNulo,VotoEmitido,VotoValidoReal,VotoEmitidoReal
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000021,2,240,130,72,5,207,130,207
 1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000031,3,240,114,76,14,204,114,204
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000041,4,240,115,76,7,198,115,198
+1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000051,5,240,101,84,17,202,101,202
 1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000061,6,240,104,80,9,193,104,193
 1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000071,7,240,99,86,10,195,99,195
 1,Cercado,1,Tarija,1860,San Mateo,1,U.E. San Mateo,6000081,8,240,103,86,8,197,103,197
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000331,3,240,117,74,12,203,117,203
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000341,4,240,113,87,5,205,113,205
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000361,6,86,46,37,0,83,46,83
+1,Cercado,1,Tarija,1880,Pampa Redonda Centro,1,U.E. Luis De Fuentes,6000461,2,208,70,78,5,153,70,153
+1,Cercado,1,Tarija,1882,Guerra Huayco,1,U.E. San Lazaro de Guerra Huayco,6000501,4,240,70,101,24,195,70,195
+1,Cercado,1,Tarija,1883,San Andrés,1,U.E. San Andres,6000551,1,240,118,85,8,211,118,211
+1,Cercado,1,Tarija,1883,San Andrés,1,U.E. San Andres,6000591,5,240,104,91,13,208,104,208
+1,Cercado,1,Tarija,1883,San Andrés,1,U.E. San Andres,6000611,7,254,94,106,18,218,94,218
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000821,1,240,157,32,11,200,157,200
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000831,2,240,164,30,5,199,164,199
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000841,3,240,153,40,9,202,153,202
@@ -41,6 +52,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001051,11,240,162,44,6,212,162,212
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001061,12,240,168,45,6,219,168,219
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001081,14,38,27,6,1,34,27,34
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002071,1,240,149,61,13,223,149,223
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002081,2,240,126,80,7,213,126,213
 1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002091,3,240,140,56,8,204,140,204
 1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002101,4,240,144,54,7,205,144,205
 1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002111,5,240,175,33,10,218,175,218
@@ -59,6 +72,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,8,U.E. Carmen Echazu,6001511,7,186,128,32,5,165,128,165
 1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000911,1,240,154,42,11,207,154,207
 1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000921,2,240,167,37,9,213,167,213
+1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000931,3,240,153,39,11,203,153,203
 1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000941,4,208,140,16,12,168,140,168
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002841,1,240,108,91,12,211,108,211
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002851,2,240,89,86,16,191,89,191
@@ -96,13 +110,17 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001291,1,240,147,41,9,197,147,197
 1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001301,2,240,146,50,9,205,146,205
 1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001311,3,240,161,33,10,204,161,204
+1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001321,4,240,153,43,12,208,153,208
 1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001331,5,240,160,36,10,206,160,206
 1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001341,6,92,67,10,1,78,67,78
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005251,1,240,158,42,12,212,158,212
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005261,2,240,168,35,6,209,168,209
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005271,3,240,134,63,15,212,134,212
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005281,4,240,143,55,16,214,143,214
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005291,5,240,154,48,10,212,154,212
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005301,6,240,160,40,16,216,160,216
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005311,7,240,136,54,19,209,136,209
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005321,8,240,162,45,12,219,162,219
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005331,9,240,143,52,13,208,143,208
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005341,10,240,151,45,12,208,151,208
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005351,11,240,156,42,13,211,156,211
@@ -112,6 +130,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004611,1,240,158,54,6,218,158,218
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004621,2,240,136,69,6,211,136,211
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004631,3,240,137,58,15,210,137,210
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004641,4,240,126,73,10,209,126,209
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004651,5,240,131,69,15,215,131,215
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004661,6,240,142,60,16,218,142,218
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004671,7,240,141,69,13,223,141,223
@@ -141,6 +160,13 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004251,17,240,148,48,11,207,148,207
 1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004261,18,240,161,44,9,214,161,214
 1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004271,19,126,90,24,0,114,90,114
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6004981,1,240,142,64,12,218,142,218
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6004991,2,240,141,60,15,216,141,216
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005101,13,240,125,65,18,208,125,208
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005121,15,240,132,73,16,221,132,221
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005171,20,240,134,64,9,207,134,207
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005181,21,240,134,66,16,216,134,216
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005201,23,212,135,41,7,183,135,183
 1,Cercado,1,Tarija,2680,Tarija,74,U.E. Castelfort Castellanos,6005491,1,240,145,59,7,211,145,211
 1,Cercado,1,Tarija,2680,Tarija,74,U.E. Castelfort Castellanos,6005501,2,240,144,56,11,211,144,211
 1,Cercado,1,Tarija,2680,Tarija,74,U.E. Castelfort Castellanos,6005511,3,240,152,51,6,209,152,209
@@ -179,6 +205,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005681,3,240,156,52,6,214,156,214
 1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005691,4,240,136,70,7,213,136,213
 1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005701,5,240,128,68,15,211,128,211
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005711,6,240,115,67,7,189,115,189
 1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005721,7,240,137,63,14,214,137,214
 1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005731,8,240,149,54,8,211,149,211
 1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005741,9,240,143,61,11,215,143,215
@@ -219,14 +246,19 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006191,15,240,123,46,8,177,123,177
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006201,16,240,139,43,4,186,139,186
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006211,17,141,73,22,3,98,73,98
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005921,1,240,130,49,9,188,130,188
 1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005931,2,240,133,41,14,188,133,188
 1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005951,4,240,133,36,9,178,133,178
 1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005961,5,240,132,37,12,181,132,181
 1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005971,6,240,134,40,14,188,134,188
 1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6005981,7,240,137,35,9,181,137,181
 1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6006001,9,240,142,46,13,201,142,201
+1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6006021,11,240,123,47,12,182,123,182
 1,Cercado,1,Tarija,2680,Tarija,80,U.A.J.M.S Campus,6006031,12,240,139,46,11,196,139,196
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006231,1,240,132,68,10,210,132,210
 1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006241,2,240,138,61,12,211,138,211
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006261,4,240,127,74,8,209,127,209
+1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006301,8,240,140,55,16,211,140,211
 1,Cercado,1,Tarija,2680,Tarija,81,U.E. San Luis,6006321,10,136,67,38,7,112,67,112
 1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006331,1,240,126,69,16,211,126,211
 1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006341,2,240,145,56,11,212,145,212
@@ -234,7 +266,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006361,4,240,156,35,21,212,156,212
 1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006371,5,240,172,34,18,224,172,224
 1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006381,6,42,26,11,0,37,26,37
+1,Cercado,1,Tarija,2680,Tarija,83,U.E. San Blas,6006451,2,240,137,68,14,219,137,219
 1,Cercado,1,Tarija,2680,Tarija,83,U.E. San Blas,6006471,4,233,147,62,9,218,147,218
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007721,3,240,148,52,14,214,148,214
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007731,4,240,156,56,12,224,156,224
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007761,7,240,159,59,10,228,159,228
+1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007771,8,240,136,64,13,213,136,213
 1,Cercado,1,Tarija,2680,Tarija,84,U.E. 6 de Junio,6007781,9,33,19,12,1,32,19,32
 1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002191,1,240,136,60,20,216,136,216
 1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002201,2,240,125,66,11,202,125,202
@@ -283,7 +320,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006941,15,45,31,4,3,38,31,38
 1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004791,2,240,138,65,8,211,138,211
 1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004801,3,240,152,56,11,219,152,219
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004861,9,240,129,62,13,204,129,204
 1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004891,12,240,144,43,14,201,144,201
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004921,15,240,115,74,12,201,115,201
+1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004941,17,240,128,57,20,205,128,205
 1,Cercado,1,Tarija,2680,Tarija,89,U.E. La Paz,6004971,20,79,46,20,4,70,46,70
 1,Cercado,1,Tarija,2680,Tarija,90,U.E. Bancario,6006391,1,240,165,48,4,217,165,217
 1,Cercado,1,Tarija,2680,Tarija,90,U.E. Bancario,6006401,2,240,163,43,10,216,163,216
@@ -292,6 +332,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,6006611,1,240,141,58,22,221,141,221
 1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,6006621,2,240,143,56,7,206,143,206
 1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,6006631,3,240,164,41,14,219,164,219
+1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,6006661,6,159,97,45,3,145,97,145
 1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002511,2,240,126,62,11,199,126,199
 1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002521,3,240,113,63,19,195,113,195
 1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002531,4,240,144,60,9,213,144,213
@@ -341,6 +382,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007371,15,240,139,65,6,210,139,210
 1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007381,16,240,132,64,20,216,132,216
 1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007391,17,240,110,75,21,206,110,206
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007401,18,78,47,16,3,66,47,66
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003411,3,240,123,82,5,210,123,210
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003421,4,240,134,58,19,211,134,211
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003441,6,240,132,71,10,213,132,213
@@ -351,6 +393,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003491,11,240,142,61,10,213,142,213
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003501,12,240,129,72,9,210,129,210
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003511,13,240,125,75,16,216,125,216
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003531,15,240,142,56,13,211,142,211
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003541,16,240,128,58,21,207,128,207
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003551,17,240,133,65,12,210,133,210
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003561,18,240,135,69,13,217,135,217
@@ -444,6 +487,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003291,1,240,112,62,18,192,112,192
 1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003301,2,240,121,70,22,213,121,213
 1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003311,3,240,120,73,13,206,120,206
+1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003321,4,240,117,69,14,200,117,200
 1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003331,5,240,120,68,14,202,120,202
 1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003341,6,240,112,72,13,197,112,197
 1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003351,7,240,109,79,11,199,109,199
@@ -491,12 +535,16 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004461,19,174,97,49,9,155,97,155
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005391,1,240,134,53,18,205,134,205
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005401,2,240,150,59,12,221,150,221
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005411,3,240,126,66,12,204,126,204
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005421,4,240,153,53,8,214,153,214
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005431,5,240,145,56,12,213,145,213
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005451,7,240,140,62,12,214,140,214
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005471,9,240,145,67,8,220,145,220
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005481,10,210,126,55,10,191,126,191
 1,Cercado,1,Tarija,2680,Tarija,25714,U.E. Aniceto Arce,6002001,1,240,164,38,12,214,164,214
+1,Cercado,1,Tarija,2680,Tarija,25714,U.E. Aniceto Arce,6002011,2,240,155,33,13,201,155,201
 1,Cercado,1,Tarija,2680,Tarija,25714,U.E. Aniceto Arce,6002021,3,240,160,41,6,207,160,207
+1,Cercado,1,Tarija,2680,Tarija,25714,U.E. Aniceto Arce,6002031,4,178,105,36,15,156,105,156
 1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004031,1,240,109,71,18,198,109,198
 1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004041,2,240,115,62,21,198,115,198
 1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004051,3,240,128,57,14,199,128,199
@@ -526,6 +574,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre,6001901,3,240,115,74,11,200,115,200
 1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre,6001911,4,240,119,81,15,215,119,215
 1,Cercado,1,Tarija,2680,Tarija,31054,U.E. Hermann Gmeiner Inicial (Kinder),6003031,1,240,111,75,13,199,111,199
+1,Cercado,1,Tarija,2680,Tarija,31054,U.E. Hermann Gmeiner Inicial (Kinder),6003041,2,240,109,76,14,199,109,199
+1,Cercado,1,Tarija,2680,Tarija,31054,U.E. Hermann Gmeiner Inicial (Kinder),6003051,3,240,97,85,24,206,97,206
+1,Cercado,1,Tarija,2680,Tarija,31054,U.E. Hermann Gmeiner Inicial (Kinder),6003071,5,119,59,32,12,103,59,103
 1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001091,1,240,138,56,15,209,138,209
 1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001101,2,240,152,50,9,211,152,211
 1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001111,3,240,153,56,8,217,153,217
@@ -571,19 +622,31 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001951,3,240,124,70,10,204,124,204
 1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001961,4,240,135,64,10,209,135,209
 1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001971,5,106,67,23,4,94,67,94
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005581,1,240,158,47,12,217,158,217
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005591,2,240,132,66,10,208,132,208
 1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005601,3,240,153,58,7,218,153,218
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005611,4,240,141,61,11,213,141,213
 1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005631,6,240,133,67,11,211,133,211
 1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005641,7,240,151,59,7,217,151,217
+1,Cercado,1,Tarija,3288,Obrajes,1,U.E. San Francisco De Asis,6000711,1,240,116,84,10,210,116,210
+1,Cercado,1,Tarija,3288,Obrajes,1,U.E. San Francisco De Asis,6000721,2,240,124,74,8,206,124,206
+1,Cercado,1,Tarija,3288,Obrajes,1,U.E. San Francisco De Asis,6000731,3,73,36,28,1,65,36,65
+1,Cercado,1,Tarija,4647,Turumayo,32456,U.E. Turumayo,6000811,2,243,113,109,4,226,113,226
 5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015641,2,240,153,45,10,208,153,208
 5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015651,3,240,158,35,8,201,158,201
 5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015671,5,240,172,35,6,213,172,213
 5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015691,7,240,148,36,18,202,148,202
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015721,10,240,130,45,13,188,130,188
 5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015731,11,240,135,40,18,193,135,193
 5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015741,12,240,137,51,15,203,137,203
+5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015751,13,118,77,14,8,99,77,99
 5,Méndez,1,San Lorenzo,1991,Tarija Cancha,3,U.E. Tarija Cancha Sud,6015771,1,240,132,54,11,197,132,197
 5,Méndez,1,San Lorenzo,1991,Tarija Cancha,3,U.E. Tarija Cancha Sud,6015791,3,240,162,39,10,211,162,211
 5,Méndez,1,San Lorenzo,1991,Tarija Cancha,3,U.E. Tarija Cancha Sud,6015801,4,190,128,37,11,176,128,176
+5,Méndez,1,San Lorenzo,1992,Lajas Merced,4,U.E. Nestor Paz Zamora,6015811,1,240,133,62,17,212,133,212
 5,Méndez,1,San Lorenzo,1992,Lajas Merced,4,U.E. Nestor Paz Zamora,6015821,2,240,133,67,10,210,133,210
+5,Méndez,1,San Lorenzo,1992,Lajas Merced,4,U.E. Nestor Paz Zamora,6015831,3,240,145,38,17,200,145,200
+5,Méndez,1,San Lorenzo,1992,Lajas Merced,4,U.E. Nestor Paz Zamora,6015841,4,159,73,54,11,138,73,138
 5,Méndez,1,San Lorenzo,1997,Rancho Norte,8,U.E. Serapio Martinez,6016121,1,240,157,47,16,220,157,220
 5,Méndez,1,San Lorenzo,1997,Rancho Norte,8,U.E. Serapio Martinez,6016131,2,240,147,41,18,206,147,206
 5,Méndez,1,San Lorenzo,1997,Rancho Norte,8,U.E. Serapio Martinez,6016141,3,240,154,60,13,227,154,227
@@ -591,6 +654,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Méndez,1,San Lorenzo,1998,Rancho Sud,9,U.E. Rancho Sud,6016211,4,51,28,15,4,47,28,47
 5,Méndez,1,San Lorenzo,1999,Tucumilla,10,U.E. Tucumillas,6016221,1,125,59,40,9,108,59,108
 5,Méndez,1,San Lorenzo,2000,Calama,11,U.E. Osvaldo Galvez,6016251,3,240,138,59,12,209,138,209
+5,Méndez,1,San Lorenzo,2000,Calama,11,U.E. Osvaldo Galvez,6016261,4,35,13,16,1,30,13,30
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015851,1,240,134,54,16,204,134,204
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015861,2,240,135,53,18,206,135,206
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015881,4,240,133,62,21,216,133,216
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015891,5,240,137,59,21,217,137,217
+5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015911,7,240,125,57,23,205,125,205
 5,Méndez,1,San Lorenzo,3290,Bordo El Mollar,1,U.E. Bordo El Mollar,6015571,2,240,143,41,8,192,143,192
 5,Méndez,1,San Lorenzo,3290,Bordo El Mollar,1,U.E. Bordo El Mollar,6015581,3,240,130,54,7,191,130,191
 5,Méndez,1,San Lorenzo,3290,Bordo El Mollar,1,U.E. Bordo El Mollar,6015591,4,95,58,17,9,84,58,84
