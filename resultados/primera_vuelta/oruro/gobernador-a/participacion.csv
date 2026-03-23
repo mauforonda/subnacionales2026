@@ -17,6 +17,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003511,8,240,154,25,24,203,154,203
 1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003521,9,240,159,29,25,213,159,213
 1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003531,10,173,121,20,8,149,121,149
+1,Cercado,1,Oruro,2059,Oruro,81,U. E. Oscar Unzaga De La Vega,4002181,1,240,149,29,41,219,149,219
 1,Cercado,1,Oruro,2059,Oruro,81,U. E. Oscar Unzaga De La Vega,4002231,6,240,159,29,24,212,159,212
 1,Cercado,1,Oruro,2059,Oruro,81,U. E. Oscar Unzaga De La Vega,4002251,8,240,174,18,25,217,174,217
 1,Cercado,1,Oruro,2059,Oruro,81,U. E. Oscar Unzaga De La Vega,4002271,10,240,166,15,24,205,166,205
@@ -130,6 +131,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,95,U. E. Juan Velez de Cordoba (Inca Pozo).,4001841,2,240,162,26,34,222,162,222
 1,Cercado,1,Oruro,2059,Oruro,95,U. E. Juan Velez de Cordoba (Inca Pozo).,4001851,3,240,153,30,45,228,153,228
 1,Cercado,1,Oruro,2059,Oruro,95,U. E. Juan Velez de Cordoba (Inca Pozo).,4001861,4,240,146,30,45,221,146,221
+1,Cercado,1,Oruro,2059,Oruro,95,U. E. Juan Velez de Cordoba (Inca Pozo).,4001871,5,240,157,35,30,222,157,222
 1,Cercado,1,Oruro,2059,Oruro,95,U. E. Juan Velez de Cordoba (Inca Pozo).,4001881,6,156,111,19,12,142,111,142
 1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4002921,1,240,154,26,23,203,154,203
 1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4002931,2,240,158,18,31,207,158,207
@@ -258,6 +260,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001441,3,240,162,20,28,210,162,210
 1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001451,4,240,169,18,28,215,169,215
 1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001461,5,240,171,18,20,209,171,209
+1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001501,9,240,168,14,29,211,168,211
+1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001521,11,186,140,12,16,168,140,168
 1,Cercado,1,Oruro,2059,Oruro,115,Col. Jorge Oblitas,4001531,1,240,173,14,23,210,173,210
 1,Cercado,1,Oruro,2059,Oruro,115,Col. Jorge Oblitas,4001551,3,240,175,12,26,213,175,213
 1,Cercado,1,Oruro,2059,Oruro,115,Col. Jorge Oblitas,4001561,4,240,174,22,21,217,174,217
@@ -290,8 +294,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,121,Esc. Juan Pablo,4010321,5,240,169,17,27,213,169,213
 1,Cercado,1,Oruro,2059,Oruro,121,Esc. Juan Pablo,4010331,6,240,165,14,30,209,165,209
 1,Cercado,1,Oruro,2059,Oruro,121,Esc. Juan Pablo,4010341,7,240,160,16,33,209,160,209
+1,Cercado,1,Oruro,2059,Oruro,121,Esc. Juan Pablo,4010351,8,240,169,20,17,206,169,206
 1,Cercado,1,Oruro,2059,Oruro,121,Esc. Juan Pablo,4010381,11,240,178,19,16,213,178,213
 1,Cercado,1,Oruro,2059,Oruro,121,Esc. Juan Pablo,4010391,12,240,171,15,21,207,171,207
+1,Cercado,1,Oruro,2059,Oruro,121,Esc. Juan Pablo,4010401,13,240,171,20,23,214,171,214
 1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009761,1,240,182,13,23,218,182,218
 1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009771,2,240,185,12,18,215,185,215
 1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009781,3,240,181,11,30,222,181,222
@@ -309,6 +315,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,4009911,2,240,166,17,22,205,166,205
 1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,4009921,3,240,174,28,13,215,174,215
 1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,4009931,4,240,171,18,24,213,171,213
+1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,4009941,5,240,172,20,19,211,172,211
 1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,4009951,6,253,173,29,24,226,173,226
 1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009491,1,240,170,16,17,203,170,203
 1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009501,2,240,174,17,12,203,174,203
@@ -404,6 +411,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,4008141,17,240,179,19,24,222,179,222
 1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,4008151,18,240,173,20,28,221,173,221
 1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,4008161,19,240,188,11,15,214,188,214
+1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,4008171,20,240,169,17,32,218,169,218
 1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,4008181,21,240,182,18,24,224,182,224
 1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,4008201,23,240,183,12,22,217,183,217
 1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,4008211,24,240,179,14,15,208,179,208
@@ -436,6 +444,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,137,U. E. Oruro Otawa (Secundaria),4008591,2,240,145,30,28,203,145,203
 1,Cercado,1,Oruro,2059,Oruro,137,U. E. Oruro Otawa (Secundaria),4008601,3,240,169,32,14,215,169,215
 1,Cercado,1,Oruro,2059,Oruro,137,U. E. Oruro Otawa (Secundaria),4008611,4,240,173,17,21,211,173,211
+1,Cercado,1,Oruro,2059,Oruro,137,U. E. Oruro Otawa (Secundaria),4008641,7,240,163,17,23,203,163,203
+1,Cercado,1,Oruro,2059,Oruro,137,U. E. Oruro Otawa (Secundaria),4008651,8,240,170,17,31,218,170,218
 1,Cercado,1,Oruro,2059,Oruro,138,Col. Nal. Mixto Carmen Guzman De Mier,4005711,1,240,182,12,23,217,182,217
 1,Cercado,1,Oruro,2059,Oruro,138,Col. Nal. Mixto Carmen Guzman De Mier,4005721,2,240,173,18,28,219,173,219
 1,Cercado,1,Oruro,2059,Oruro,138,Col. Nal. Mixto Carmen Guzman De Mier,4005751,5,240,176,17,32,225,176,225
@@ -455,6 +465,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004241,3,240,159,23,33,215,159,215
 1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004251,4,240,166,14,36,216,166,216
 1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004261,5,240,164,20,32,216,164,216
+1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004291,8,240,160,23,27,210,160,210
+1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004311,10,177,114,19,29,162,114,162
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004841,2,240,163,19,30,212,163,212
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004861,4,240,149,23,32,204,149,204
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004871,5,240,143,20,37,200,143,200
@@ -467,6 +479,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004951,13,240,158,18,23,199,158,199
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004971,15,240,142,31,26,199,142,199
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004981,16,240,146,21,35,202,146,202
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004991,17,240,169,20,27,216,169,216
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005001,18,240,158,20,27,205,158,205
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005011,19,240,167,23,15,205,167,205
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005031,21,240,157,33,28,218,157,218
@@ -479,6 +492,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,141,U.E. Tomas Barron,4002361,2,240,166,21,29,216,166,216
 1,Cercado,1,Oruro,2059,Oruro,141,U.E. Tomas Barron,4002371,3,240,163,28,27,218,163,218
 1,Cercado,1,Oruro,2059,Oruro,141,U.E. Tomas Barron,4002381,4,240,167,21,30,218,167,218
+1,Cercado,1,Oruro,2059,Oruro,141,U.E. Tomas Barron,4002391,5,240,159,25,34,218,159,218
 1,Cercado,1,Oruro,2059,Oruro,141,U.E. Tomas Barron,4002401,6,240,154,30,37,221,154,221
 1,Cercado,1,Oruro,2059,Oruro,141,U.E. Tomas Barron,4002431,9,240,171,22,27,220,171,220
 1,Cercado,1,Oruro,2059,Oruro,141,U.E. Tomas Barron,4002441,10,240,157,15,37,209,157,209
@@ -539,7 +553,16 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007071,9,240,173,15,30,218,173,218
 1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007081,10,240,143,19,40,202,143,202
 1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007091,11,121,75,11,24,110,75,110
+1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,4004321,1,240,150,26,40,216,150,216
+1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,4004331,2,240,133,29,56,218,133,218
+1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,4004351,4,240,151,26,37,214,151,214
+1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,4004361,5,240,147,36,34,217,147,217
+1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,4004381,7,240,162,26,29,217,162,217
+1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,4004391,8,240,159,25,36,220,159,220
 1,Cercado,1,Oruro,2059,Oruro,149,(Cárcel) Centro Penitenciario La Merced,4004421,1,156,66,32,15,113,66,113
+1,Cercado,1,Oruro,2059,Oruro,25027,U. E. Kantuta II (Josermo Murillo),4005331,3,240,170,16,28,214,170,214
+1,Cercado,1,Oruro,2059,Oruro,25027,U. E. Kantuta II (Josermo Murillo),4005381,8,240,169,26,20,215,169,215
+1,Cercado,1,Oruro,2059,Oruro,25027,U. E. Kantuta II (Josermo Murillo),4005431,13,141,94,16,15,125,94,125
 1,Cercado,1,Oruro,2059,Oruro,25028,Kinder Chiripujio,4010051,1,240,163,16,22,201,163,201
 1,Cercado,1,Oruro,2059,Oruro,25028,Kinder Chiripujio,4010061,2,212,159,7,15,181,159,181
 1,Cercado,1,Oruro,2059,Oruro,25029,Inicial Carmen Guzman De Mier,4005951,1,240,168,24,24,216,168,216
@@ -588,6 +611,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,25037,U. E. Carmela Cerruto,4009751,4,203,139,11,21,171,139,171
 1,Cercado,1,Oruro,2059,Oruro,25038,U. Esc. San Juan De Dios,4009161,4,240,149,22,46,217,149,217
 1,Cercado,1,Oruro,2059,Oruro,25038,U. Esc. San Juan De Dios,4009171,5,240,159,20,40,219,159,219
+1,Cercado,1,Oruro,2059,Oruro,25038,U. Esc. San Juan De Dios,4009201,8,240,156,35,25,216,156,216
+1,Cercado,1,Oruro,2059,Oruro,25038,U. Esc. San Juan De Dios,4009231,11,225,161,18,21,200,161,200
 1,Cercado,1,Oruro,2059,Oruro,25039,U. Esc. El Kasso   El Progreso,4005121,1,240,176,18,22,216,176,216
 1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4006301,1,240,167,17,33,217,167,217
 1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4006311,2,240,177,30,11,218,177,218
@@ -753,18 +778,24 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,32494,U. E. Adolfo Ballivian 1,4005441,1,158,122,6,18,146,122,146
 1,Cercado,1,Oruro,2059,Oruro,32495,U. E. Apoyo Educativo Oruro,4006891,1,50,33,3,10,46,33,46
 1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010731,1,240,162,41,22,225,162,225
+1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010741,2,240,148,27,42,217,148,217
+1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010771,5,240,152,33,37,222,152,222
 1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010781,6,240,159,28,38,225,159,225
 1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010791,7,240,133,42,44,219,133,219
 1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010811,9,240,151,30,33,214,151,214
 1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010821,10,240,144,43,34,221,144,221
+1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010841,12,240,156,32,34,222,156,222
 1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010861,14,240,151,40,34,225,151,225
+1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010891,17,156,107,21,19,147,107,147
 1,Cercado,2,Caracollo,2060,Caracollo,4,U.E. Simon Bolivar Primario,4010901,1,240,155,36,13,204,155,204
 1,Cercado,2,Caracollo,2060,Caracollo,4,U.E. Simon Bolivar Primario,4010911,2,240,144,40,26,210,144,210
 1,Cercado,2,Caracollo,2060,Caracollo,4,U.E. Simon Bolivar Primario,4010921,3,240,149,27,38,214,149,214
 1,Cercado,2,Caracollo,2060,Caracollo,4,U.E. Simon Bolivar Primario,4010931,4,245,156,40,28,224,156,224
+1,Cercado,2,Caracollo,2060,Caracollo,5,U.E. Litoral,4010941,1,240,137,29,31,197,137,197
 1,Cercado,2,Caracollo,2060,Caracollo,5,U.E. Litoral,4010991,6,240,142,23,24,189,142,189
 1,Cercado,2,Caracollo,2060,Caracollo,5,U.E. Litoral,4011001,7,240,165,23,21,209,165,209
 1,Cercado,2,Caracollo,2060,Caracollo,5,U.E. Litoral,4011011,8,240,158,17,21,196,158,196
+1,Cercado,2,Caracollo,2060,Caracollo,32406,Escuela Superior de Formación de Maestros Caracollo,4011191,1,227,155,19,20,194,155,194
 1,Cercado,2,Caracollo,2064,Janco Ñuño,2,Esc. Elizardo Perez,4010601,1,240,118,59,40,217,118,217
 1,Cercado,2,Caracollo,2064,Janco Ñuño,2,Esc. Elizardo Perez,4010611,2,59,34,17,2,53,34,53
 1,Cercado,2,Caracollo,2065,La Joya,25564,Casa Productiva,4011061,1,240,149,28,22,199,149,199
@@ -774,6 +805,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,2,Caracollo,2065,La Joya,25564,Casa Productiva,4011101,5,231,145,26,26,197,145,197
 1,Cercado,2,Caracollo,2083,Kemalla,2,U.E. Alemania,4010671,1,240,134,36,40,210,134,210
 1,Cercado,2,Caracollo,2807,Soledad,32181,Corregimiento de Soledad,4011161,1,67,47,9,3,59,47,59
+1,Cercado,2,Caracollo,2808,Central Huntuta,2,U.E. Sebastian Pagador,4010691,1,240,119,41,50,210,119,210
 1,Cercado,2,Caracollo,2808,Central Huntuta,2,U.E. Sebastian Pagador,4010701,2,155,87,17,31,135,87,135
 1,Cercado,2,Caracollo,3485,Concha Marca,1,Esc. Tupac Katari,4010521,1,45,36,3,4,43,36,43
 1,Cercado,2,Caracollo,4625,Pasto Grande,32405,U.E. 24 de Julio,4011171,1,240,160,38,28,226,160,226
@@ -826,6 +858,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Abaroa,1,Challapata,2084,Challapata,1,U. E. Republica Argentina,4011921,13,240,136,23,37,196,136,196
 2,Abaroa,1,Challapata,2084,Challapata,1,U. E. Republica Argentina,4011931,14,240,135,25,36,196,135,196
 2,Abaroa,1,Challapata,2084,Challapata,1,U. E. Republica Argentina,4011941,15,254,140,26,40,206,140,206
+2,Abaroa,1,Challapata,2084,Challapata,2,U. E. Eduardo Avaroa,4012021,1,240,143,26,31,200,143,200
 2,Abaroa,1,Challapata,2084,Challapata,2,U. E. Eduardo Avaroa,4012031,2,240,145,24,37,206,145,206
 2,Abaroa,1,Challapata,2084,Challapata,2,U. E. Eduardo Avaroa,4012041,3,240,146,29,34,209,146,209
 2,Abaroa,1,Challapata,2084,Challapata,2,U. E. Eduardo Avaroa,4012051,4,240,157,36,20,213,157,213
@@ -896,8 +929,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Carangas,2,Choquecota,2107,Choquecota,2,Esc. Jose Ballivian,4013161,3,114,74,20,4,98,74,98
 3,Carangas,2,Choquecota,2809,Andapata,2,U.E. Andapata,4013171,1,92,67,6,7,80,67,80
 4,Sajama,1,Curahuara de Carangas,2108,Curahuara de Carangas,32083,U. E. Elizardo Pérez,4013251,5,240,92,30,20,142,92,142
+4,Sajama,1,Curahuara de Carangas,2111,Lagunas,2,U.E. Litoral B,4013201,1,176,83,48,16,147,83,147
 4,Sajama,2,Turco,2112,Titiri,2,Nucleo Escolar Titiri,4013311,1,101,69,10,10,89,69,89
 4,Sajama,2,Turco,2113,Huajriri,2,U.E. Asuncion De Huajrire,4013321,1,25,17,3,2,22,17,22
+4,Sajama,2,Turco,2114,Chachacomani,2,U.E. Porvenir,4013331,1,240,169,20,8,197,169,197
 4,Sajama,2,Turco,2115,Asunción de Laca Laca,2,U.E. Eduardo Avaroa,4013351,1,107,78,8,6,92,78,92
 4,Sajama,2,Turco,2852,Turco,2,Esc. Central Turco,4013361,1,240,124,63,22,209,124,209
 4,Sajama,2,Turco,2852,Turco,2,Esc. Central Turco,4013371,2,240,140,47,12,199,140,199
@@ -1002,6 +1037,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,3,Esc. Franz Tamayo,4014601,12,240,163,28,24,215,163,215
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,3,Esc. Franz Tamayo,4014611,13,198,142,24,22,188,142,188
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,4,U.E. Venezuela,4014621,1,240,152,25,14,191,152,191
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,4,U.E. Venezuela,4014631,2,240,137,18,18,173,137,173
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,4,U.E. Venezuela,4014641,3,226,118,23,27,168,118,168
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,5,U.E. 12 de Abril,4014651,1,240,156,35,21,212,156,212
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,5,U.E. 12 de Abril,4014661,2,240,166,19,22,207,166,207
@@ -1045,8 +1081,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Ladislao Cabrera,1,AIOC de Salinas,2154,Aroma,2,U.E. Aroma,4015001,2,240,141,25,39,205,141,205
 8,Ladislao Cabrera,1,AIOC de Salinas,2154,Aroma,2,U.E. Aroma,4015011,3,57,38,5,5,48,38,48
 8,Ladislao Cabrera,1,AIOC de Salinas,2155,Ucumasi,2,U.E. Otto Saucedo Rivera,4015021,1,240,132,52,33,217,132,217
+8,Ladislao Cabrera,1,AIOC de Salinas,2155,Ucumasi,2,U.E. Otto Saucedo Rivera,4015031,2,240,164,35,27,226,164,226
 8,Ladislao Cabrera,1,AIOC de Salinas,2155,Ucumasi,2,U.E. Otto Saucedo Rivera,4015041,3,240,158,43,31,232,158,232
 8,Ladislao Cabrera,1,AIOC de Salinas,2155,Ucumasi,2,U.E. Otto Saucedo Rivera,4015061,5,46,27,8,6,41,27,41
+8,Ladislao Cabrera,1,AIOC de Salinas,2157,San Martín,2,Esc. America San Martin,4015091,2,40,30,7,2,39,30,39
 8,Ladislao Cabrera,1,AIOC de Salinas,2158,Villa Esperanza,2,Esc. Villa Esperanza,4015101,1,178,99,26,22,147,99,147
 8,Ladislao Cabrera,1,AIOC de Salinas,3024,Luca,2,U.E. Bolivia Luca,4015111,1,69,39,4,9,52,39,52
 8,Ladislao Cabrera,1,AIOC de Salinas,4433,Tambo   Tambillo,26328,U.E. Bautista Saavedra de Tambillo,4015141,1,108,61,11,13,85,61,85
