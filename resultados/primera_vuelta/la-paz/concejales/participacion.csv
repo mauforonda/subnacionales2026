@@ -1,6 +1,7 @@
 CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,InscritosHabilitados,VotoValido,VotoBlanco,VotoNulo,VotoEmitido,VotoValidoReal,VotoEmitidoReal
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,101,Escuela Industrial Superior Pedro Domingo Murillo,2012337,13,240,152,46,17,215,152,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,103,U. E. Litoral A,2012607,9,240,155,60,11,226,155,226
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,202,U. E. John Fitzgerald Kennedy,2012737,6,94,67,17,1,85,67,85
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,204,U. E. Nicolás Fernandez Naranjo,2013877,1,240,206,2,14,222,206,222
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,204,U. E. Nicolás Fernandez Naranjo,2013967,10,240,152,57,7,216,152,216
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,204,U. E. Nicolás Fernandez Naranjo,2014037,17,240,151,54,13,218,151,218
@@ -36,7 +37,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,601,U.E.  Pablo Iturri Jurado B,2015867,30,61,37,19,0,56,37,56
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,603,U.E.  Simón Rodriguez Carreño,2016657,1,240,115,60,35,210,115,210
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,603,U.E.  Simón Rodriguez Carreño,2016667,2,240,145,53,12,210,145,210
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,603,U.E.  Simón Rodriguez Carreño,2016717,7,240,141,54,4,199,141,199
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,603,U.E.  Simón Rodriguez Carreño,2016737,9,240,157,44,14,215,157,215
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,603,U.E.  Simón Rodriguez Carreño,2016747,10,240,148,50,12,210,148,210
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,603,U.E.  Simón Rodriguez Carreño,2016857,21,240,156,49,11,216,156,216
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,607,U.E.  La Merced B,2016197,33,240,144,50,17,211,144,211
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,608,U.E.  Irene Nava de Castillo B,2016267,5,240,142,54,23,219,142,219
@@ -50,6 +53,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,608,U.E.  Irene Nava de Castillo B,2016517,30,240,150,41,19,210,150,210
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,608,U.E.  Irene Nava de Castillo B,2016537,32,240,140,47,21,208,140,208
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,608,U.E.  Irene Nava de Castillo B,2016547,33,240,170,41,4,215,170,215
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,701,U.E. Copacabana C,2017617,10,240,168,41,9,218,168,218
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,701,U.E. Copacabana C,2017627,11,240,154,37,20,211,154,211
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,702,U.E. Cristiano Vida Nueva,2017817,2,240,184,35,9,228,184,228
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,702,U.E. Cristiano Vida Nueva,2017827,3,240,141,60,14,215,141,215
@@ -59,16 +63,22 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,801,U.E.  Genoveva Ríos,2018607,21,240,167,43,11,221,167,221
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,802,U.E. Gral. José de San Martin,2018637,2,240,165,45,10,220,165,220
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,802,U.E. Gral. José de San Martin,2018657,4,240,168,37,11,216,168,216
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,802,U.E. Gral. José de San Martin,2018697,8,240,168,38,10,216,168,216
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,802,U.E. Gral. José de San Martin,2018737,12,240,168,39,3,210,168,210
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,802,U.E. Gral. José de San Martin,2018757,14,240,145,54,12,211,145,211
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,802,U.E. Gral. José de San Martin,2018797,18,240,149,57,5,211,149,211
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,802,U.E. Gral. José de San Martin,2018847,23,240,144,54,17,215,144,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,802,U.E. Gral. José de San Martin,2018857,24,240,168,43,8,219,168,219
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,802,U.E. Gral. José de San Martin,2018867,25,240,170,38,7,215,170,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,802,U.E. Gral. José de San Martin,2018907,29,240,167,43,16,226,167,226
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,802,U.E. Gral. José de San Martin,2018927,31,21,18,2,1,21,18,21
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,807,U.E. San Antonio Fe y Alegría,2019067,11,240,155,48,12,215,155,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,807,U.E. San Antonio Fe y Alegría,2019077,12,240,155,50,14,219,155,219
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,807,U.E. San Antonio Fe y Alegría,2019107,15,240,149,58,13,220,149,220
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,807,U.E. San Antonio Fe y Alegría,2019117,16,240,186,35,7,228,186,228
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,807,U.E. San Antonio Fe y Alegría,2019127,17,240,151,53,8,212,151,212
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,901,U.E. Topater,2019457,9,240,146,54,11,211,146,211
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,901,U.E. Topater,2019507,14,240,148,58,8,214,148,214
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,901,U.E. Topater,2019517,15,240,138,44,20,202,138,202
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,901,U.E. Topater,2019527,16,240,161,51,5,217,161,217
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,901,U.E. Topater,2019537,17,231,155,40,13,208,155,208
@@ -83,24 +93,45 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1009,U.E. Villa Callapa,2020407,8,240,145,60,10,215,145,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1101,U. E. Fuerzas Armadas De La Nación,2026727,14,240,171,35,4,210,171,210
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1101,U. E. Fuerzas Armadas De La Nación,2026737,15,240,172,36,13,221,172,221
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1102,U.E. Rose Marie Galindo de Barrientos,2022667,8,240,140,45,16,201,140,201
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1102,U.E. Rose Marie Galindo de Barrientos,2022677,9,240,180,32,5,217,180,217
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1102,U.E. Rose Marie Galindo de Barrientos,2022697,11,240,149,40,8,197,149,197
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1102,U.E. Rose Marie Galindo de Barrientos,2022707,12,240,136,49,12,197,136,197
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1102,U.E. Rose Marie Galindo de Barrientos,2022857,27,240,155,46,6,207,155,207
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1102,U.E. Rose Marie Galindo de Barrientos,2022937,35,240,146,46,13,205,146,205
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1103,U.E. Victor Paz Estensoro,2021707,1,240,165,40,18,223,165,223
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1103,U.E. Victor Paz Estensoro,2021727,3,240,152,55,9,216,152,216
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1103,U.E. Victor Paz Estensoro,2021757,6,240,162,36,13,211,162,211
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1103,U.E. Victor Paz Estensoro,2021767,7,240,181,35,7,223,181,223
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1103,U.E. Victor Paz Estensoro,2021777,8,240,154,54,13,221,154,221
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1103,U.E. Victor Paz Estensoro,2021787,9,240,165,42,9,216,165,216
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1103,U.E. Victor Paz Estensoro,2021837,14,240,143,69,11,223,143,223
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1103,U.E. Victor Paz Estensoro,2021887,19,237,154,44,17,215,154,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1201,U.E. Franco Boliviano,2023517,1,240,163,44,8,215,163,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1201,U.E. Franco Boliviano,2023527,2,240,164,40,7,211,164,211
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1201,U.E. Franco Boliviano,2023537,3,240,167,27,8,202,167,202
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1201,U.E. Franco Boliviano,2023547,4,240,163,33,10,206,163,206
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1201,U.E. Franco Boliviano,2023567,6,240,180,25,7,212,180,212
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1201,U.E. Franco Boliviano,2023657,15,240,155,36,7,198,155,198
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1201,U.E. Franco Boliviano,2023687,18,240,146,58,5,209,146,209
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1201,U.E. Franco Boliviano,2023747,24,240,173,35,4,212,173,212
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1201,U.E. Franco Boliviano,2023857,35,240,170,36,2,208,170,208
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1201,U.E. Franco Boliviano,2023867,36,240,159,40,6,205,159,205
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1202,U.E. Achumani,2021247,6,240,160,37,5,202,160,202
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1202,U.E. Achumani,2021277,9,240,163,40,8,211,163,211
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1202,U.E. Achumani,2021287,10,240,159,48,8,215,159,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1202,U.E. Achumani,2021367,18,240,175,38,8,221,175,221
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1202,U.E. Achumani,2021487,30,240,157,49,3,209,157,209
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1202,U.E. Achumani,2021507,32,240,151,39,13,203,151,203
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1202,U.E. Achumani,2021667,48,240,165,41,9,215,165,215
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1202,U.E. Achumani,2021687,50,240,164,38,3,205,164,205
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1204,U.E. René Barrientos Ortuño,2022037,2,240,174,23,6,203,174,203
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1204,U.E. René Barrientos Ortuño,2022047,3,240,157,31,7,195,157,195
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1204,U.E. René Barrientos Ortuño,2022057,4,240,167,28,4,199,167,199
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1204,U.E. René Barrientos Ortuño,2022067,5,240,167,36,4,207,167,207
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1204,U.E. René Barrientos Ortuño,2022077,6,240,156,30,12,198,156,198
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1204,U.E. René Barrientos Ortuño,2022087,7,240,170,20,6,196,170,196
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1204,U.E. René Barrientos Ortuño,2022107,9,240,144,40,14,198,144,198
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1204,U.E. René Barrientos Ortuño,2022117,10,240,159,35,2,196,159,196
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1204,U.E. René Barrientos Ortuño,2022127,11,240,159,27,6,192,159,192
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1204,U.E. René Barrientos Ortuño,2022157,14,240,161,26,13,200,161,200
@@ -113,20 +144,29 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1402,U.E. Santa Rosa De Lima B,2025087,19,240,118,87,14,219,118,219
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1402,U.E. Santa Rosa De Lima B,2025097,20,104,55,41,2,98,55,98
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1403,U.E. Bethesda,2024767,4,240,140,70,11,221,140,221
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1403,U.E. Bethesda,2024787,6,240,154,52,12,218,154,218
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1501,Iglesia del Nazareno Boliviano,2025287,1,240,167,27,5,199,167,199
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1501,Iglesia del Nazareno Boliviano,2025317,4,119,85,12,2,99,85,99
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1512,U.E. Jupapina,2025337,2,240,144,65,9,218,144,218
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1512,U.E. Jupapina,2025347,3,240,160,41,10,211,160,211
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1512,U.E. Jupapina,2025377,6,240,149,59,10,218,149,218
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1604,U.E. Francisco de Miranda B,2026337,10,240,148,68,8,224,148,224
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1604,U.E. Francisco de Miranda B,2026437,20,240,160,43,12,215,160,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1605,U.E. Juan Pablo II,2026167,6,240,158,35,13,206,158,206
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1605,U.E. Juan Pablo II,2026187,8,240,168,26,14,208,168,208
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1605,U.E. Juan Pablo II,2026197,9,240,179,35,7,221,179,221
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1605,U.E. Juan Pablo II,2026237,13,148,97,18,8,123,97,123
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1704,U.E. Nazario Pardo Valle,2004017,2,240,150,47,17,214,150,214
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1707,U.E. Gregorio Reynolds,2002947,18,240,173,30,12,215,173,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1708,U.E. Amor de Dios,2000857,8,240,166,36,1,203,166,203
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1708,U.E. Amor de Dios,2000867,9,240,161,39,7,207,161,207
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1801,U.E. San José I,2004187,6,240,161,49,11,221,161,221
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1902,U.E. Luis Espinal Camps Nro 1,2004997,5,240,113,84,18,215,113,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1902,U.E. Luis Espinal Camps Nro 1,2005007,6,240,133,78,10,221,133,221
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,1902,U.E. Luis Espinal Camps Nro 1,2005017,7,240,123,74,16,213,123,213
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2001,U.E. Ignacio Calderón Fe y Alegría I,2007257,15,240,169,38,10,217,169,217
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2004,U. E.  Raúl Salmon De La Barra,2004727,7,240,141,65,9,215,141,215
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2004,U. E.  Raúl Salmon De La Barra,2004737,8,240,132,74,11,217,132,217
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2005,U. E. Pantaleon Dalence,2007347,1,240,165,46,10,221,165,221
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2005,U. E. Pantaleon Dalence,2007397,6,240,154,60,6,220,154,220
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2005,U. E. Pantaleon Dalence,2007407,7,240,163,41,12,216,163,216
@@ -140,6 +180,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2306,U.E. Libertad Nro 1,2008457,7,240,148,57,8,213,148,213
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2306,U.E. Libertad Nro 1,2008467,8,240,153,60,9,222,153,222
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2306,U.E. Libertad Nro 1,2008477,9,240,158,53,10,221,158,221
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2405,U.E.  Daniel Sanchez Bustamante II,2006477,2,240,141,60,21,222,141,222
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2405,U.E.  Daniel Sanchez Bustamante II,2006487,3,240,165,37,11,213,165,213
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2405,U.E.  Daniel Sanchez Bustamante II,2006497,4,240,153,51,11,215,153,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2405,U.E.  Daniel Sanchez Bustamante II,2006527,7,240,147,51,18,216,147,216
@@ -149,12 +190,20 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2406,U.E. Brig.  My. Remberto Tapia,2006937,14,240,146,74,11,231,146,231
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2501,U. E. República de Italia,2010397,11,240,150,58,11,219,150,219
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2504,U.E. Holanda,2008607,3,240,150,56,11,217,150,217
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2601,U. E. Cnl. Max Toledo,2009307,18,240,159,49,11,219,159,219
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2701,U. E. Copacabana Fe y Alegría,2009977,4,240,132,78,14,224,132,224
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2702,U. E. Abraham Reyes Fe y Alegría,2010257,9,240,145,47,25,217,145,217
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2702,U. E. Abraham Reyes Fe y Alegría,2010267,10,240,149,61,17,227,149,227
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2801,U.E. Manuel Bernal Mariaca,2009567,11,240,149,66,12,227,149,227
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2803,U. E. Franz Tamayo Nro. 3,2009737,16,240,152,39,21,212,152,212
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2803,U. E. Franz Tamayo Nro. 3,2009747,17,240,173,34,10,217,173,217
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2803,U. E. Franz Tamayo Nro. 3,2009757,18,240,169,39,9,217,169,217
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2804,U. E. Marien Garten A,2010907,11,240,164,52,9,225,164,225
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2804,U. E. Marien Garten A,2010917,12,240,167,45,12,224,167,224
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2804,U. E. Marien Garten A,2010927,13,240,161,45,12,218,161,218
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2902,U. E. República de Francia B,2012897,5,240,162,44,7,213,162,213
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2902,U. E. República de Francia B,2012917,7,240,164,37,8,209,164,209
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2903,U. E. República Federativa del Brasil,2013017,9,240,164,33,11,208,164,208
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2905,U. E.  Fabril 18 de Mayo,2011937,2,240,170,40,6,216,170,216
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2905,U. E.  Fabril 18 de Mayo,2011947,3,240,151,40,21,212,151,212
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,2907,U. E. Eloy Álvarez Plata,2012167,3,240,152,50,13,215,152,215
@@ -164,29 +213,42 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,3002,U. E. Bolivia I,2011707,8,240,144,61,14,219,144,219
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,3007,U.E. Valle Hermoso,2017467,10,240,137,58,15,210,137,210
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,3017,U. E. República de China,2013767,5,240,166,47,7,220,166,220
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,3017,U. E. República de China,2013827,11,240,160,50,12,222,160,222
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,3017,U. E. República de China,2013837,12,240,148,58,13,219,148,219
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,3017,U. E. República de China,2013867,15,199,137,38,7,182,137,182
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,3025,U. E. Carlos Salinas Aramayo,2001187,1,240,172,37,4,213,172,213
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,3025,U. E. Carlos Salinas Aramayo,2001207,3,240,160,50,10,220,160,220
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25030,Unidad Educativa Mallasa,2025407,1,240,160,48,11,219,160,219
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25030,Unidad Educativa Mallasa,2025437,4,240,146,54,19,219,146,219
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25030,Unidad Educativa Mallasa,2025447,5,240,137,64,11,212,137,212
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25030,Unidad Educativa Mallasa,2025467,7,240,154,56,5,215,154,215
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25030,Unidad Educativa Mallasa,2025477,8,240,148,57,5,210,148,210
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25030,Unidad Educativa Mallasa,2025487,9,240,170,43,5,218,170,218
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25030,Unidad Educativa Mallasa,2025497,10,78,56,11,1,68,56,68
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25031,Centro de Capacitacion Inti Paxsi,2025517,2,240,150,46,9,205,150,205
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25031,Centro de Capacitacion Inti Paxsi,2025597,10,230,130,53,18,201,130,201
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25034,U. E. Antonio Diaz Villamil A,2014477,4,240,176,24,16,216,176,216
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25034,U. E. Antonio Diaz Villamil A,2014497,6,240,165,42,13,220,165,220
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25036,U.E. Cristo Rey San Luis Fe y Alegría,2003827,10,240,164,41,9,214,164,214
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25038,U.E. Saint Peter's,2007587,5,240,153,49,10,212,153,212
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25038,U.E. Saint Peter's,2007597,6,240,161,40,12,213,161,213
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25039,U.E. Simón Bolivar Nro 1,2007637,3,240,157,36,17,210,157,210
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25044,U. E. Luis Alberto Pabon B,2014607,4,240,164,46,5,215,164,215
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25045,U. E. Flora Perez de Saavedra,2014247,1,240,180,37,10,227,180,227
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25046,U.E.  Nuestra Señora de Fátima,2017247,2,240,141,40,29,210,141,210
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25046,U.E.  Nuestra Señora de Fátima,2017297,7,240,154,55,15,224,154,224
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25046,U.E.  Nuestra Señora de Fátima,2017357,13,191,112,45,5,162,112,162
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25051,U. E. República de Cuba,2007717,3,240,160,37,18,215,160,215
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25054,U.E. El Pedregal,2025197,10,240,141,58,17,216,141,216
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25056,U.E. Rosario,2004277,3,240,177,37,7,221,177,221
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25343,U.E. San Andrés A,2022577,8,240,163,38,5,206,163,206
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25480,U.E. Dora Schmidt A,2002577,5,240,150,45,11,206,150,206
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25480,U.E. Dora Schmidt A,2002587,6,240,166,24,14,204,166,204
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25480,U.E. Dora Schmidt A,2002597,7,240,158,36,11,205,158,205
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25480,U.E. Dora Schmidt A,2002617,9,240,166,32,3,201,166,201
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25594,Sede Social Litoral,2021177,3,240,146,68,7,221,146,221
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25594,Sede Social Litoral,2021187,4,185,106,47,8,161,106,161
+1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,25728,U.E. Boliviano del Sur,2024577,11,240,165,31,17,213,165,213
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,30031,U.E. San Jose II,2004347,2,240,156,60,7,223,156,223
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,30031,U.E. San Jose II,2004377,5,240,150,59,12,221,150,221
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,30038,U.E. LYNNS,2024627,4,240,163,57,11,231,163,231
@@ -198,6 +260,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,32378,Instituto Tecnológico Marcelo Quiroga Santa Cruz,2005817,1,49,33,12,4,49,33,49
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,32382,Facultad de Ingeniería de Cursos Básicos y Pre Facultativos,2001257,2,240,148,41,24,213,148,213
 1,Murillo,1,Nuestra Señora de La Paz,729,Nuestra Señora de La Paz,32383,U.E. Ismael Montes,2001177,5,29,16,9,2,27,16,27
+1,Murillo,5,El Alto,820,El Alto,101,U.E. Villa Tunari,2044547,13,240,120,78,20,218,120,218
 1,Murillo,5,El Alto,820,El Alto,102,U. E. San Vicente de Paul Fe y Alegría,2042257,3,240,132,69,17,218,132,218
 1,Murillo,5,El Alto,820,El Alto,102,U. E. San Vicente de Paul Fe y Alegría,2042327,10,240,122,70,27,219,122,219
 1,Murillo,5,El Alto,820,El Alto,201,U.E. Huayna Potosí,2047197,2,240,104,77,38,219,104,219
@@ -205,6 +268,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,5,El Alto,820,El Alto,201,U.E. Huayna Potosí,2047227,5,240,105,79,32,216,105,216
 1,Murillo,5,El Alto,820,El Alto,201,U.E. Huayna Potosí,2047347,17,240,107,73,39,219,107,219
 1,Murillo,5,El Alto,820,El Alto,201,U.E. Huayna Potosí,2047367,19,240,106,63,34,203,106,203
+1,Murillo,5,El Alto,820,El Alto,202,U.E. Noruega,2046767,8,240,106,74,35,215,106,215
+1,Murillo,5,El Alto,820,El Alto,202,U.E. Noruega,2046787,10,240,118,70,35,223,118,223
+1,Murillo,5,El Alto,820,El Alto,202,U.E. Noruega,2046797,11,240,123,59,30,212,123,212
+1,Murillo,5,El Alto,820,El Alto,202,U.E. Noruega,2046867,18,240,116,75,26,217,116,217
 1,Murillo,5,El Alto,820,El Alto,203,U.E. Tupac Katari,2048827,7,240,116,65,37,218,116,218
 1,Murillo,5,El Alto,820,El Alto,203,U.E. Tupac Katari,2048837,8,240,114,67,26,207,114,207
 1,Murillo,5,El Alto,820,El Alto,204,U.E. Rafael Mendoza Castellón B,2049017,10,240,116,64,26,206,116,206
@@ -214,10 +281,20 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,5,El Alto,820,El Alto,303,U.E. Rafael Pabón,2046517,9,240,101,80,32,213,101,213
 1,Murillo,5,El Alto,820,El Alto,303,U.E. Rafael Pabón,2046527,10,240,106,85,23,214,106,214
 1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051337,4,240,118,77,31,226,118,226
+1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051357,6,240,136,60,22,218,136,218
 1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051397,10,240,121,70,31,222,121,222
+1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051417,12,240,120,67,19,206,120,206
+1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051427,13,240,127,70,23,220,127,220
 1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051487,19,240,126,64,28,218,126,218
+1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051497,20,240,133,59,27,219,133,219
+1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051537,24,240,122,66,32,220,122,220
+1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051587,29,240,141,45,29,215,141,215
 1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051597,30,240,112,72,36,220,112,220
 1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051647,35,240,120,71,31,222,120,222
+1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051667,37,240,137,63,25,225,137,225
+1,Murillo,5,El Alto,820,El Alto,403,U.E. Adrián Castillo Nava B,2051697,40,104,60,31,7,98,60,98
+1,Murillo,5,El Alto,820,El Alto,404,U.E. Juan José Torrez Gonzales B,2051297,16,71,31,19,12,62,31,62
+1,Murillo,5,El Alto,820,El Alto,405,U.E. Luis Espinal Camps Fe y Alegría,2053007,10,240,125,67,27,219,125,219
 1,Murillo,5,El Alto,820,El Alto,501,U.E. Elizardo Perez,2052387,17,240,135,72,19,226,135,226
 1,Murillo,5,El Alto,820,El Alto,502,U.E. Mcal. José Ballivián  D,2051737,1,240,129,67,27,223,129,223
 1,Murillo,5,El Alto,820,El Alto,502,U.E. Mcal. José Ballivián  D,2051747,2,240,119,76,28,223,119,223
@@ -226,6 +303,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,5,El Alto,820,El Alto,503,U.E. Nazareno Basil Miller,2052017,12,240,137,49,34,220,137,220
 1,Murillo,5,El Alto,820,El Alto,504,U.E. Gran Bretaña,2052547,9,240,115,69,38,222,115,222
 1,Murillo,5,El Alto,820,El Alto,504,U.E. Gran Bretaña,2052557,10,240,116,54,51,221,116,221
+1,Murillo,5,El Alto,820,El Alto,504,U.E. Gran Bretaña,2052637,18,240,140,56,25,221,140,221
 1,Murillo,5,El Alto,820,El Alto,504,U.E. Gran Bretaña,2052647,19,240,128,63,29,220,128,220
 1,Murillo,5,El Alto,820,El Alto,504,U.E. Gran Bretaña,2052657,20,240,129,66,34,229,129,229
 1,Murillo,5,El Alto,820,El Alto,504,U.E. Gran Bretaña,2052667,21,240,132,65,31,228,132,228
@@ -234,6 +312,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,5,El Alto,820,El Alto,601,U.E. Santa Maria de Los Ángeles,2050157,13,240,130,75,22,227,130,227
 1,Murillo,5,El Alto,820,El Alto,601,U.E. Santa Maria de Los Ángeles,2050167,14,240,122,61,34,217,122,217
 1,Murillo,5,El Alto,820,El Alto,603,U.E. Juvenal Mariaca B,2049767,8,240,127,56,28,211,127,211
+1,Murillo,5,El Alto,820,El Alto,603,U.E. Juvenal Mariaca B,2049927,24,240,137,65,26,228,137,228
+1,Murillo,5,El Alto,820,El Alto,603,U.E. Juvenal Mariaca B,2049977,29,240,133,57,27,217,133,217
 1,Murillo,5,El Alto,820,El Alto,603,U.E. Juvenal Mariaca B,2049997,31,240,145,42,31,218,145,218
 1,Murillo,5,El Alto,820,El Alto,603,U.E. Juvenal Mariaca B,2050007,32,240,134,55,36,225,134,225
 1,Murillo,5,El Alto,820,El Alto,605,U.E.  Interandino Boliviano,2050367,1,240,140,38,18,196,140,196
@@ -242,6 +322,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,5,El Alto,820,El Alto,1002,U.E. Vicente Donoso Torres A,2030307,11,240,133,55,27,215,133,215
 1,Murillo,5,El Alto,820,El Alto,1002,U.E. Vicente Donoso Torres A,2030317,12,240,135,47,36,218,135,218
 1,Murillo,5,El Alto,820,El Alto,1002,U.E. Vicente Donoso Torres A,2030337,14,240,143,45,35,223,143,223
+1,Murillo,5,El Alto,820,El Alto,1101,U.E. Libertad en las Américas,2032527,14,240,122,72,21,215,122,215
 1,Murillo,5,El Alto,820,El Alto,1102,U.E. Rotary Chuquiago Marca,2030957,11,240,120,62,29,211,120,211
 1,Murillo,5,El Alto,820,El Alto,1102,U.E. Rotary Chuquiago Marca,2031037,19,240,126,62,32,220,126,220
 1,Murillo,5,El Alto,820,El Alto,1103,U.E. Bolivia,2032747,2,240,118,73,18,209,118,209
@@ -255,6 +336,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,5,El Alto,820,El Alto,1203,U.E. Ecológico Los Pinos B,2056287,16,240,87,78,40,205,87,205
 1,Murillo,5,El Alto,820,El Alto,1203,U.E. Ecológico Los Pinos B,2056427,30,240,116,69,27,212,116,212
 1,Murillo,5,El Alto,820,El Alto,1206,U.E. Atipiris,2055787,19,171,82,50,26,158,82,158
+1,Murillo,5,El Alto,820,El Alto,1207,U.E. 23 de Marzo B,2055207,23,240,68,80,62,210,68,210
+1,Murillo,5,El Alto,820,El Alto,1208,U.E. Bolivia Mar B,2057137,14,240,114,70,24,208,114,208
+1,Murillo,5,El Alto,820,El Alto,1301,U.E. Republica de Francia,2033407,3,240,132,64,15,211,132,211
 1,Murillo,5,El Alto,820,El Alto,1301,U.E. Republica de Francia,2033417,4,240,119,63,30,212,119,212
 1,Murillo,5,El Alto,820,El Alto,1301,U.E. Republica de Francia,2033437,6,240,121,64,32,217,121,217
 1,Murillo,5,El Alto,820,El Alto,1302,Sede Social Villa Asunción San Pedro,2034827,2,240,110,79,16,205,110,205
@@ -264,20 +348,26 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,5,El Alto,820,El Alto,1306,U.E. Topater,2058897,24,240,129,65,31,225,129,225
 1,Murillo,5,El Alto,820,El Alto,1307,U.E. Católico Mercedes B,2058477,1,240,121,65,30,216,121,216
 1,Murillo,5,El Alto,820,El Alto,1403,U.E. Puerto del Rosario,2034217,3,240,124,69,33,226,124,226
+1,Murillo,5,El Alto,820,El Alto,1403,U.E. Puerto del Rosario,2034247,6,240,112,78,28,218,112,218
 1,Murillo,5,El Alto,820,El Alto,1403,U.E. Puerto del Rosario,2034287,10,240,125,65,31,221,125,221
 1,Murillo,5,El Alto,820,El Alto,1403,U.E. Puerto del Rosario,2034317,13,240,115,57,46,218,115,218
 1,Murillo,5,El Alto,820,El Alto,1403,U.E. Puerto del Rosario,2034477,29,240,132,60,26,218,132,218
+1,Murillo,5,El Alto,820,El Alto,1403,U.E. Puerto del Rosario,2034487,30,240,128,51,35,214,128,214
 1,Murillo,5,El Alto,820,El Alto,1501,U.E. Union Europea A,2035847,26,240,136,47,30,213,136,213
 1,Murillo,5,El Alto,820,El Alto,1702,U.E. Carlos Palenque Aviles Dolores F,2040657,9,240,127,69,19,215,127,215
 1,Murillo,5,El Alto,820,El Alto,1702,U.E. Carlos Palenque Aviles Dolores F,2040677,11,240,130,64,24,218,130,218
 1,Murillo,5,El Alto,820,El Alto,1702,U.E. Carlos Palenque Aviles Dolores F,2040687,12,240,125,72,29,226,125,226
 1,Murillo,5,El Alto,820,El Alto,1704,U.E. Republica de Cuba Pacajes,2040767,2,240,136,52,28,216,136,216
+1,Murillo,5,El Alto,820,El Alto,1705,U.E. Adela Zamudio A,2038467,2,240,116,49,45,210,116,210
 1,Murillo,5,El Alto,820,El Alto,1705,U.E. Adela Zamudio A,2038477,3,240,129,53,28,210,129,210
+1,Murillo,5,El Alto,820,El Alto,1705,U.E. Adela Zamudio A,2038487,4,240,144,48,22,214,144,214
+1,Murillo,5,El Alto,820,El Alto,1705,U.E. Adela Zamudio A,2038547,10,240,115,59,44,218,115,218
 1,Murillo,5,El Alto,820,El Alto,1801,U.E. Calama,2040337,9,240,128,57,28,213,128,213
 1,Murillo,5,El Alto,820,El Alto,1801,U.E. Calama,2040347,10,240,132,68,20,220,132,220
 1,Murillo,5,El Alto,820,El Alto,1801,U.E. Calama,2040417,17,240,127,71,25,223,127,223
 1,Murillo,5,El Alto,820,El Alto,1803,U.E. Primavera B,2040827,2,240,118,67,29,214,118,214
 1,Murillo,5,El Alto,820,El Alto,1902,U.E. San Luis,2039167,3,240,134,60,25,219,134,219
+1,Murillo,5,El Alto,820,El Alto,1902,U.E. San Luis,2039177,4,240,119,69,34,222,119,222
 1,Murillo,5,El Alto,820,El Alto,1903,U.E. Illimani,2040927,4,240,118,69,32,219,118,219
 1,Murillo,5,El Alto,820,El Alto,1903,U.E. Illimani,2040937,5,240,127,64,27,218,127,218
 1,Murillo,5,El Alto,820,El Alto,1903,U.E. Illimani,2041057,17,240,126,64,27,217,126,217
@@ -307,17 +397,25 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,5,El Alto,820,El Alto,1907,U.E. Mercedes Elio De Rivero B,2059537,32,52,30,13,4,47,30,47
 1,Murillo,5,El Alto,820,El Alto,1908,U.E. Gral. Juan José Torres Gonzales,2038197,1,240,129,64,26,219,129,219
 1,Murillo,5,El Alto,820,El Alto,1908,U.E. Gral. Juan José Torres Gonzales,2038397,21,240,134,66,26,226,134,226
+1,Murillo,5,El Alto,820,El Alto,1908,U.E. Gral. Juan José Torres Gonzales,2038427,24,240,128,72,19,219,128,219
 1,Murillo,5,El Alto,820,El Alto,2002,U.E. Martin Cardenas Hermosa C,2039427,1,240,160,40,18,218,160,218
+1,Murillo,5,El Alto,820,El Alto,2002,U.E. Martin Cardenas Hermosa C,2039447,3,240,142,33,41,216,142,216
+1,Murillo,5,El Alto,820,El Alto,2002,U.E. Martin Cardenas Hermosa C,2039457,4,240,130,54,33,217,130,217
 1,Murillo,5,El Alto,820,El Alto,2002,U.E. Martin Cardenas Hermosa C,2039537,12,240,141,53,20,214,141,214
 1,Murillo,5,El Alto,820,El Alto,2002,U.E. Martin Cardenas Hermosa C,2039617,20,240,140,45,28,213,140,213
 1,Murillo,5,El Alto,820,El Alto,2002,U.E. Martin Cardenas Hermosa C,2039637,22,240,121,65,31,217,121,217
+1,Murillo,5,El Alto,820,El Alto,2002,U.E. Martin Cardenas Hermosa C,2039897,48,240,123,60,29,212,123,212
+1,Murillo,5,El Alto,820,El Alto,2004,U.E. San Juan,2037197,17,240,130,53,32,215,130,215
+1,Murillo,5,El Alto,820,El Alto,2007,U.E. Villa Alemania,2039957,1,240,124,74,27,225,124,225
 1,Murillo,5,El Alto,820,El Alto,2007,U.E. Villa Alemania,2040037,9,240,122,71,31,224,122,224
 1,Murillo,5,El Alto,820,El Alto,2102,U. E. 6 de Junio de Cosmos 79,2037917,10,240,109,75,27,211,109,211
 1,Murillo,5,El Alto,820,El Alto,2102,U. E. 6 de Junio de Cosmos 79,2037947,13,240,143,49,23,215,143,215
 1,Murillo,5,El Alto,820,El Alto,2102,U. E. 6 de Junio de Cosmos 79,2038087,27,240,125,58,32,215,125,215
 1,Murillo,5,El Alto,820,El Alto,2103,U. E. Fernando Nogales Castro Fe y Alegría,2041997,3,240,131,52,31,214,131,214
 1,Murillo,5,El Alto,820,El Alto,2104,U. E. República del Uruguay,2059137,4,213,108,71,17,196,108,196
+1,Murillo,5,El Alto,820,El Alto,2105,U. E. República Popular de China,2043907,4,240,93,95,21,209,93,209
 1,Murillo,5,El Alto,820,El Alto,2105,U. E. República Popular de China,2044017,15,240,107,88,27,222,107,222
+1,Murillo,5,El Alto,820,El Alto,2105,U. E. República Popular de China,2044037,17,240,101,98,22,221,101,221
 1,Murillo,5,El Alto,820,El Alto,2105,U. E. República Popular de China,2044177,31,240,89,94,41,224,89,224
 1,Murillo,5,El Alto,820,El Alto,2105,U. E. República Popular de China,2044187,32,240,86,95,37,218,86,218
 1,Murillo,5,El Alto,820,El Alto,2202,U. E. Juan Carlos Flores Bedregal,2043547,22,240,116,82,24,222,116,222
@@ -331,6 +429,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,5,El Alto,820,El Alto,2401,U. E. Bautista Saavedra,2060037,7,240,95,76,35,206,95,206
 1,Murillo,5,El Alto,820,El Alto,2401,U. E. Bautista Saavedra,2060117,15,240,103,86,26,215,103,215
 1,Murillo,5,El Alto,820,El Alto,2401,U. E. Bautista Saavedra,2060207,24,240,108,87,25,220,108,220
+1,Murillo,5,El Alto,820,El Alto,2401,U. E. Bautista Saavedra,2060217,25,240,94,86,27,207,94,207
 1,Murillo,5,El Alto,820,El Alto,2401,U. E. Bautista Saavedra,2060257,29,240,98,80,28,206,98,206
 1,Murillo,5,El Alto,820,El Alto,2401,U. E. Bautista Saavedra,2060327,36,240,110,87,20,217,110,217
 1,Murillo,5,El Alto,820,El Alto,2402,U. E. San Roque,2054447,10,240,80,107,32,219,80,219
@@ -364,10 +463,16 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,5,El Alto,820,El Alto,25601,U. E. Juan Pablo II B,2037377,1,240,131,44,30,205,131,205
 1,Murillo,5,El Alto,820,El Alto,25727,U.E. Villa Victoria A,2034527,1,240,133,56,26,215,133,215
 1,Murillo,5,El Alto,820,El Alto,25727,U.E. Villa Victoria A,2034537,2,240,134,46,17,197,134,197
+1,Murillo,5,El Alto,820,El Alto,30042,U.E. Juan Pablo II Don Bosco,2031307,9,240,129,58,29,216,129,216
 1,Murillo,5,El Alto,820,El Alto,30042,U.E. Juan Pablo II Don Bosco,2031317,10,240,114,58,45,217,114,217
+1,Murillo,5,El Alto,820,El Alto,30042,U.E. Juan Pablo II Don Bosco,2031337,12,84,50,21,8,79,50,79
 1,Murillo,5,El Alto,820,El Alto,30045,U.E. San Antonio A,2057957,11,240,116,70,27,213,116,213
+1,Murillo,5,El Alto,820,El Alto,30047,U.E. Jardines del Sur,2056487,1,240,117,66,30,213,117,213
+1,Murillo,5,El Alto,820,El Alto,30047,U.E. Jardines del Sur,2056507,3,240,109,80,26,215,109,215
 1,Murillo,5,El Alto,820,El Alto,30049,U. E. San José de Yunguyo A,2043717,2,240,109,81,31,221,109,221
+1,Murillo,5,El Alto,820,El Alto,30049,U. E. San José de Yunguyo A,2043727,3,240,107,77,30,214,107,214
 1,Murillo,5,El Alto,820,El Alto,30049,U. E. San José de Yunguyo A,2043737,4,240,135,69,15,219,135,219
+1,Murillo,5,El Alto,820,El Alto,30049,U. E. San José de Yunguyo A,2043747,5,240,127,59,32,218,127,218
 1,Murillo,5,El Alto,820,El Alto,30049,U. E. San José de Yunguyo A,2043767,7,240,124,61,25,210,124,210
 1,Murillo,5,El Alto,820,El Alto,30049,U. E. San José de Yunguyo A,2043777,8,240,114,73,27,214,114,214
 1,Murillo,5,El Alto,820,El Alto,30049,U. E. San José de Yunguyo A,2043797,10,240,106,77,37,220,106,220
@@ -379,6 +484,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,5,El Alto,820,El Alto,30054,U.E. Taiwan,2045817,9,240,113,77,30,220,113,220
 1,Murillo,5,El Alto,820,El Alto,30054,U.E. Taiwan,2045827,10,240,110,81,31,222,110,222
 1,Murillo,5,El Alto,820,El Alto,32152,U.E. Horizontes A,2034597,4,240,127,47,38,212,127,212
+1,Murillo,5,El Alto,820,El Alto,32152,U.E. Horizontes A,2034647,9,240,143,52,17,212,143,212
 1,Murillo,5,El Alto,820,El Alto,32152,U.E. Horizontes A,2034687,13,240,135,47,25,207,135,207
 1,Murillo,5,El Alto,820,El Alto,32154,U.E. San Luis de Gonzaga A,2039407,1,170,108,29,16,153,108,153
 1,Murillo,5,El Alto,820,El Alto,32156,U.E. Adventista Salomón,2031637,1,196,117,41,14,172,117,172
