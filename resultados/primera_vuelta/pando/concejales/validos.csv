@@ -191,6 +191,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,2,Porvenir,2798,Campoana,16,U.E.  Gutembert Cruz,9001917,1,5,72,,2,25,,0,,,41,,
 1,Nicolás Suárez,2,Porvenir,2798,Campoana,16,U.E.  Gutembert Cruz,9001927,2,5,24,,1,19,,0,,,16,,
 1,Nicolás Suárez,2,Porvenir,4276,Trinchera,25962,U. E. Maranguapi,9001937,1,3,3,,0,19,,0,,,11,,
+1,Nicolás Suárez,2,Porvenir,4446,Comunidad Campesina  5 de Agosto,26366,U.E. 23 de Marzo,9001947,1,3,2,,0,21,,0,,,34,,
 1,Nicolás Suárez,3,Bolpebra,1116,San Pedro de Bolpebra,19,U.E. De Bolpebra,9002017,1,13,27,3,7,2,,0,,,,,
 1,Nicolás Suárez,3,Bolpebra,1118,Nareuda,20,U.E.  Genoveva Rios,9002047,1,50,67,1,1,16,,0,,,,,
 1,Nicolás Suárez,3,Bolpebra,1118,Nareuda,20,U.E.  Genoveva Rios,9002057,2,9,15,1,0,5,,0,,,,,
@@ -203,16 +204,26 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,3,Bolpebra,3872,Nueva Canaán,1,U.E. Nueva Canaán,9002007,1,40,17,7,2,6,,0,,,,,
 1,Nicolás Suárez,3,Bolpebra,4264,Vera Cruz,25950,U. E. Vera Cruz,9002067,1,20,55,5,3,6,,0,,,,,
 1,Nicolás Suárez,3,Bolpebra,4447,Comunidad Campesina Turística Ecológica  Arca de Noé,26367,U.E. Arca de Noé,9002077,1,6,54,6,1,0,,0,,,,,
+1,Nicolás Suárez,4,Bella Flor,1125,Villa el Carmen,23,U.E. Buena Vista,9002167,1,41,36,30,1,0,0,0,,,,,
 1,Nicolás Suárez,4,Bella Flor,1127,San Antonio Km 60,24,U.E.  Km. 60 de San Antonio,9002177,1,65,12,31,0,2,5,0,,,,,
 1,Nicolás Suárez,4,Bella Flor,1129,Mapajo (Samahuma),26,U.E. Mapajo,9002207,1,15,13,11,0,2,2,0,,,,,
 1,Nicolás Suárez,4,Bella Flor,3262,Santa Lucía,1,U.E.  Hugo Antequera,9002087,1,69,19,24,4,11,6,0,,,,,
 1,Nicolás Suárez,4,Bella Flor,3262,Santa Lucía,1,U.E.  Hugo Antequera,9002097,2,69,24,29,2,9,16,0,,,,,
+1,Nicolás Suárez,4,Bella Flor,3262,Santa Lucía,1,U.E.  Hugo Antequera,9002107,3,26,15,20,0,3,4,0,,,,,
 1,Nicolás Suárez,4,Bella Flor,3386,Montevideo,1,U.E. Jorge Benito Vera,9002117,1,21,54,5,18,18,2,0,,,,,
 1,Nicolás Suárez,4,Bella Flor,3386,Montevideo,1,U.E. Jorge Benito Vera,9002127,2,14,46,6,9,20,1,0,,,,,
+1,Nicolás Suárez,4,Bella Flor,3527,Florida (TCO),1,U.E. De Florida,9002137,1,5,1,1,0,0,0,0,,,,,
 1,Nicolás Suárez,4,Bella Flor,3874,San Pedro,1,U.E. Simon Bolívar,9002147,1,29,32,32,1,0,1,0,,,,,
 1,Nicolás Suárez,4,Bella Flor,3890,Santa Lourdes,1,U.E. Santa Lourdes,9002157,1,27,31,45,1,2,3,0,,,,,
 1,Nicolás Suárez,4,Bella Flor,4663,Comunidad Campesina El Fortín,32490,U.E. Fortín,9002227,1,7,14,13,3,2,5,0,,,,,
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002277,1,20,1,10,2,18,23,0,,,23,,18
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002287,2,12,2,17,3,12,25,0,,,24,,23
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002297,3,14,3,16,8,20,16,0,,,7,,20
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002307,4,15,9,7,1,23,14,0,,,25,,27
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002317,5,26,3,8,2,18,21,0,,,18,,20
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002337,7,24,1,7,5,16,7,0,,,28,,28
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002347,8,22,1,6,5,10,24,0,,,8,,29
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002367,10,14,3,7,1,15,8,0,,,15,,24
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,25572,U.E. Puerto Rico,9002437,1,11,4,11,2,10,10,0,,,12,,16
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,25572,U.E. Puerto Rico,9002447,2,9,4,9,0,8,8,0,,,13,,13
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,25572,U.E. Puerto Rico,9002457,3,3,1,10,0,9,8,0,,,9,,8
@@ -224,6 +235,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Manuripi,1,Puerto Rico,3399,Puerto Madre de Dios,1,U.E.  Silverio Rojas Gonzales,9002257,1,3,2,3,0,22,5,0,,,16,,3
 2,Manuripi,1,Puerto Rico,3528,Mandarino,1,U.E.  Los Mandarinos,9002267,1,7,0,2,0,8,4,0,,,7,,6
 2,Manuripi,1,Puerto Rico,4273,Abaroa Km. 10,25959,U. E. Carmelo Mojica,9002467,1,1,0,1,0,1,0,0,,,17,,2
+2,Manuripi,2,San Pedro,1140,Loma Velarde,34,U.E.  12 de Abril,9002507,1,44,29,8,,6,,0,,,,,
 2,Manuripi,2,San Pedro,1140,Loma Velarde,34,U.E.  12 de Abril,9002517,2,26,5,4,,5,,0,,,,,
 2,Manuripi,2,San Pedro,3401,3 Estrellas (TCO),1,U.E.  Jorge Haensel,9002477,1,66,28,1,,4,,0,,,,,
 2,Manuripi,2,San Pedro,3401,3 Estrellas (TCO),1,U.E.  Jorge Haensel,9002487,2,41,22,0,,1,,0,,,,,
@@ -257,6 +269,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Madre de Dios,2,San Lorenzo,1166,Trinidacito,54,U.E. Gregoria Destre Maturana,9003117,1,5,70,,,42,,0,,,,,
 3,Madre de Dios,2,San Lorenzo,1166,Trinidacito,54,U.E. Gregoria Destre Maturana,9003127,2,1,7,,,6,,0,,,,,
 3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003067,1,8,42,,,72,,0,,,,,
+3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003077,2,5,49,,,84,,0,,,,,
 3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003087,3,5,25,,,86,,0,,,,,
 3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003097,4,5,33,,,95,,0,,,,,
 3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003107,5,0,7,,,12,,0,,,,,
@@ -273,3 +286,19 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Madre de Dios,2,San Lorenzo,4254,Navidad,25937,U.E. 12 de Abril,9003217,1,3,1,,,36,,0,,,,,
 3,Madre de Dios,2,San Lorenzo,4275,Nueva Esperanza,25961,U. E. 21 de Septiembre,9003227,1,7,3,,,41,,0,,,,,
 3,Madre de Dios,3,Sena,3300,El Turi (Carretera),2,U.E.  2 de Agosto,9003287,1,,0,,,7,54,0,,,2,,
+4,Abuná,1,Santa Rosa,3301,1 de Mayo,1,U.E.  Zacarias Moreno,9003557,1,24,,,3,58,26,0,,,,,
+4,Abuná,1,Santa Rosa,3301,1 de Mayo,1,U.E.  Zacarias Moreno,9003567,2,12,,,12,46,23,0,,,,,
+4,Abuná,1,Santa Rosa,3759,Nueva Esperanza(Urbanización Puerto Morales),1,U.E. Genoveva Ríos,9003587,1,12,,,86,3,9,0,,,,,
+4,Abuná,1,Santa Rosa,4253,Nacebe,25936,U.E. Benito Tirina Suarez,9003617,1,4,,,31,15,5,0,,,,,
+4,Abuná,1,Santa Rosa,4443,Comunidad  Alto Bahia,26363,U.E. Walter Melgar Mejía,9003627,1,3,,,18,36,9,0,,,,,
+4,Abuná,2,Ingavi,1185,Humaita,73,U.E. Humaita,9003647,1,37,33,,,36,,0,,,3,,
+4,Abuná,2,Ingavi,1185,Humaita,73,U.E. Humaita,9003657,2,44,34,,,26,,0,,,0,,
+4,Abuná,2,Ingavi,1185,Humaita,73,U.E. Humaita,9003667,3,22,9,,,5,,0,,,2,,
+4,Abuná,2,Ingavi,4266,Barro Alto,25952,U. E. 10 de Marzo,9003707,1,4,0,,,0,,0,,,10,,
+5,Federico Román,1,Nueva Esperanza,2796,Nueva Esperanza,76,U.E.  Manuel Estremadoiro Martinez,9003777,2,32,3,,,,28,0,,,,,
+5,Federico Román,1,Nueva Esperanza,3259,Arca de Israel,1,U.E.  Monte Sinai,9003727,1,3,80,,,,4,0,,,,,
+5,Federico Román,1,Nueva Esperanza,3302,Puerto Consuelo,1,U.E. Rufino Chao,9003737,1,6,6,,,,6,0,,,,,
+5,Federico Román,1,Nueva Esperanza,3404,Puerto Consuelo Area 2,1,U.E. Gral. Federico Román,9003747,1,20,13,,,,17,0,,,,,
+5,Federico Román,1,Nueva Esperanza,3911,Gran Cruz,1,U.E. La Gran Cruz,9003757,1,4,29,,,,2,0,,,,,
+5,Federico Román,1,Nueva Esperanza,4107,Nueva Unión,25516,U.E. Bruno Racua,9003787,1,9,29,,,,54,0,,,,,
+5,Federico Román,1,Nueva Esperanza,4268,La Selva,25954,U. E. San Andrés,9003797,1,0,32,,,,9,0,,,,,
