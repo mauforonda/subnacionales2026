@@ -385,6 +385,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Trinidad,2529,Puerto Almacén,1,Esc. Mayor Pedro Vaca Diez,8000067,1,240,168,6,13,187,168,187
 1,Cercado,1,Trinidad,2529,Puerto Almacén,1,Esc. Mayor Pedro Vaca Diez,8000077,2,235,150,7,18,175,150,175
 1,Cercado,1,Trinidad,3069,Casarabe,1,Escuela Casarabe,8000097,1,240,166,13,8,187,166,187
+1,Cercado,1,Trinidad,3069,Casarabe,1,Escuela Casarabe,8000107,2,240,162,7,12,181,162,181
+1,Cercado,1,Trinidad,3069,Casarabe,1,Escuela Casarabe,8000117,3,231,168,5,18,191,168,191
 1,Cercado,1,Trinidad,3070,Ibiato,1,Escuela Iviato,8000127,1,240,170,5,4,179,170,179
 1,Cercado,1,Trinidad,3125,Puerto Barador,1,Esc. Puerto Varador,8000147,1,240,163,11,19,193,163,193
 1,Cercado,1,Trinidad,3125,Puerto Barador,1,Esc. Puerto Varador,8000157,2,240,151,16,28,195,151,195
@@ -396,7 +398,56 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,2,San Javier,2532,Espíritu Santo,2,Escuela Espiritu Santo,8004047,1,66,34,13,2,49,34,49
 1,Cercado,2,San Javier,2535,San Pedro,2,Escuela San Pedro,8004057,1,240,185,10,10,205,185,205
 1,Cercado,2,San Javier,2535,San Pedro,2,Escuela San Pedro,8004067,2,244,185,11,4,200,185,200
+1,Cercado,2,San Javier,2539,Nueva Israel,2,Escuela Nueva Israel,8004077,1,240,181,6,12,199,181,199
+1,Cercado,2,San Javier,2539,Nueva Israel,2,Escuela Nueva Israel,8004087,2,240,174,4,8,186,174,186
 1,Cercado,2,San Javier,2539,Nueva Israel,2,Escuela Nueva Israel,8004097,3,240,173,10,11,194,173,194
+1,Cercado,2,San Javier,2539,Nueva Israel,2,Escuela Nueva Israel,8004107,4,186,146,2,10,158,146,158
 1,Cercado,2,San Javier,3126,Laguna Colorada,2,Escuela Laguna Colorada,8004117,1,96,74,6,5,85,74,85
+1,Cercado,2,San Javier,3340,Pedro Ignacio Muiba,1,Escuela Pedro Ignacio Muiba,8003967,1,240,156,5,11,172,156,172
+1,Cercado,2,San Javier,3340,Pedro Ignacio Muiba,1,Escuela Pedro Ignacio Muiba,8003977,2,159,118,3,3,124,118,124
+1,Cercado,2,San Javier,3867,La Curva,1,U.E. La Curva,8003987,1,240,91,0,3,94,91,94
+1,Cercado,2,San Javier,3867,La Curva,1,U.E. La Curva,8003997,2,240,99,3,6,108,99,108
+1,Cercado,2,San Javier,3867,La Curva,1,U.E. La Curva,8004007,3,71,7,0,0,7,7,7
 1,Cercado,2,San Javier,4172,Villa Rodeo,25567,U.E. Villa Rodeo,8004127,1,134,71,3,1,75,71,75
+6,Marbán,2,San Andrés,2635,Villa Banzer,1,Esc.Villa Banzer,8012117,1,124,95,7,5,107,95,107
+6,Marbán,2,San Andrés,2636,Santa Rosa Km.100,1,Esc. Santa Rosa,8012127,1,240,176,12,14,202,176,202
+6,Marbán,2,San Andrés,2636,Santa Rosa Km.100,1,Esc. Santa Rosa,8012137,2,240,161,7,19,187,161,187
+6,Marbán,2,San Andrés,2636,Santa Rosa Km.100,1,Esc. Santa Rosa,8012147,3,28,17,1,0,18,17,18
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012347,3,240,171,6,14,191,171,191
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012357,4,240,176,6,11,193,176,193
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012367,5,240,176,4,14,194,176,194
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012377,6,240,165,7,16,188,165,188
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012387,7,240,168,6,20,194,168,194
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012397,8,240,198,4,9,211,198,211
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012407,9,240,161,14,15,190,161,190
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012417,10,240,178,8,11,197,178,197
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012427,11,240,168,8,16,192,168,192
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012437,12,240,161,11,14,186,161,186
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012447,13,255,187,6,14,207,187,207
+6,Marbán,2,San Andrés,2638,Caimanes,1,Esc. Caimanes,8012157,1,239,170,6,12,188,170,188
+6,Marbán,2,San Andrés,2748,Buen Jesús,1,Esc. Buen Jesus,8012207,1,240,181,6,2,189,181,189
+6,Marbán,2,San Andrés,3113,4 de Julio,1,Escuela 4 de Julio,8012247,1,240,163,11,18,192,163,192
+6,Marbán,2,San Andrés,3113,4 de Julio,1,Escuela 4 de Julio,8012257,2,42,29,2,2,33,29,33
 6,Marbán,2,San Andrés,3341,Nueva Magdalena,1,Escuela Nueva Magdalena,8012287,1,240,175,8,22,205,175,205
+6,Marbán,2,San Andrés,3341,Nueva Magdalena,1,Escuela Nueva Magdalena,8012297,2,116,84,5,7,96,84,96
+6,Marbán,2,San Andrés,3385,Nueva Betania,1,Escuela de Nueva Betania,8012307,1,240,181,5,10,196,181,196
+6,Marbán,2,San Andrés,3385,Nueva Betania,1,Escuela de Nueva Betania,8012317,2,181,132,4,9,145,132,145
+6,Marbán,2,San Andrés,4115,Villa San Pedro,25525,U.E. Canaan,8012457,1,240,161,9,17,187,161,187
+6,Marbán,2,San Andrés,4115,Villa San Pedro,25525,U.E. Canaan,8012467,2,217,155,12,11,178,155,178
+6,Marbán,2,San Andrés,4422,Unión y Fe,26179,U.E. Unión y Fe,8012477,1,240,172,15,17,204,172,204
+6,Marbán,2,San Andrés,4422,Unión y Fe,26179,U.E. Unión y Fe,8012487,2,28,21,1,0,22,21,22
+8,Iténez,1,Magdalena,2648,Versalles,1,Esc. Central 1o. De Mayo,8012967,1,78,57,2,4,63,57,63
+8,Iténez,1,Magdalena,2682,Buena Vista,1,Esc. Buena Vista,8013057,1,240,154,9,16,179,154,179
+8,Iténez,1,Magdalena,2682,Buena Vista,1,Esc. Buena Vista,8013067,2,39,25,1,0,26,25,26
+8,Iténez,1,Magdalena,4578,Nueva Brema,32289,U.E. Nueva Brema,8013187,1,111,88,2,6,96,88,96
+8,Iténez,2,Baures,2654,El Remanzo del Itenez,1,Esc. El Remanzo,8013277,1,240,165,3,10,178,165,178
+8,Iténez,2,Baures,2654,El Remanzo del Itenez,1,Esc. El Remanzo,8013287,2,186,137,7,7,151,137,151
+8,Iténez,2,Baures,2656,Cafetal,1,Esc. Seccional Cafetal,8013297,1,240,129,0,6,135,129,135
+8,Iténez,2,Baures,2656,Cafetal,1,Esc. Seccional Cafetal,8013307,2,64,34,0,0,34,34,34
+8,Iténez,2,Baures,2819,San Simon,1,Esc. San Simon,8013317,1,240,146,13,16,175,146,175
+8,Iténez,2,Baures,2819,San Simon,1,Esc. San Simon,8013327,2,31,18,0,3,21,18,21
+8,Iténez,2,Baures,3524,Monte Cristo del Tiquin,1,Esc. Monte Cristo Del Tiquin,8013357,1,230,127,7,18,152,127,152
+8,Iténez,2,Baures,4417,Mategua,26174,U.E. Mategua,8013377,1,82,55,6,4,65,55,65
+8,Iténez,3,Huacaraje,2658,El Carmen del Itenez,1,Esc. El Carmen,8013447,1,240,197,1,7,205,197,205
+8,Iténez,3,Huacaraje,2658,El Carmen del Itenez,1,Esc. El Carmen,8013457,2,240,179,2,3,184,179,184
+8,Iténez,3,Huacaraje,2658,El Carmen del Itenez,1,Esc. El Carmen,8013467,3,185,156,2,2,160,156,160
