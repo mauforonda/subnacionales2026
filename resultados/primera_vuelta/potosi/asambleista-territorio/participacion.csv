@@ -27,6 +27,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002201,1,240,159,31,17,207,159,207
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002211,2,240,154,35,17,206,154,206
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002221,3,240,162,47,9,218,162,218
+1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002231,4,240,142,45,17,204,142,204
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002241,5,240,157,39,16,212,157,212
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002261,7,240,153,41,18,212,153,212
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002271,8,240,171,34,13,218,171,218
@@ -42,7 +43,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001341,5,240,146,57,13,216,146,216
 1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001351,6,240,137,52,20,209,137,209
 1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001361,7,169,114,24,11,149,114,149
+1,Tomás Frías,1,Potosí,1494,Potosí,17,Coleg. Luis Espinal,5001451,1,240,143,55,17,215,143,215
 1,Tomás Frías,1,Potosí,1494,Potosí,17,Coleg. Luis Espinal,5001471,3,240,146,58,12,216,146,216
+1,Tomás Frías,1,Potosí,1494,Potosí,17,Coleg. Luis Espinal,5001491,5,240,151,51,13,215,151,215
+1,Tomás Frías,1,Potosí,1494,Potosí,17,Coleg. Luis Espinal,5001531,9,240,136,66,7,209,136,209
+1,Tomás Frías,1,Potosí,1494,Potosí,17,Coleg. Luis Espinal,5001561,12,240,134,49,23,206,134,206
 1,Tomás Frías,1,Potosí,1494,Potosí,18,Esc. Jose A.Zampa,5002311,1,240,133,28,8,169,133,169
 1,Tomás Frías,1,Potosí,1494,Potosí,18,Esc. Jose A.Zampa,5002331,3,240,142,50,16,208,142,208
 1,Tomás Frías,1,Potosí,1494,Potosí,18,Esc. Jose A.Zampa,5002341,4,240,121,66,16,203,121,203
@@ -56,10 +61,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,19,Coleg. Cristo Maestro,5002431,5,240,165,47,9,221,165,221
 1,Tomás Frías,1,Potosí,1494,Potosí,19,Coleg. Cristo Maestro,5002441,6,141,94,23,11,128,94,128
 1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001371,1,240,116,63,11,190,116,190
+1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001391,3,240,146,43,6,195,146,195
 1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001401,4,240,139,50,16,205,139,205
 1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001411,5,240,125,65,10,200,125,200
 1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001421,6,240,138,55,14,207,138,207
 1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001431,7,240,123,56,18,197,123,197
+1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001441,8,225,119,59,13,191,119,191
 1,Tomás Frías,1,Potosí,1494,Potosí,21,Esc. Daniel Campos,5002491,1,240,139,55,11,205,139,205
 1,Tomás Frías,1,Potosí,1494,Potosí,21,Esc. Daniel Campos,5002501,2,240,156,44,12,212,156,212
 1,Tomás Frías,1,Potosí,1494,Potosí,21,Esc. Daniel Campos,5002511,3,240,143,52,17,212,143,212
@@ -76,6 +83,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,21,Esc. Daniel Campos,5002631,15,240,140,50,14,204,140,204
 1,Tomás Frías,1,Potosí,1494,Potosí,21,Esc. Daniel Campos,5002641,16,240,155,35,5,195,155,195
 1,Tomás Frías,1,Potosí,1494,Potosí,21,Esc. Daniel Campos,5002651,17,240,137,38,25,200,137,200
+1,Tomás Frías,1,Potosí,1494,Potosí,24,U. E. Vicente Bernedo  A,5001921,2,240,143,60,18,221,143,221
 1,Tomás Frías,1,Potosí,1494,Potosí,24,U. E. Vicente Bernedo  A,5001931,3,240,145,56,15,216,145,216
 1,Tomás Frías,1,Potosí,1494,Potosí,24,U. E. Vicente Bernedo  A,5001971,7,240,152,64,7,223,152,223
 1,Tomás Frías,1,Potosí,1494,Potosí,24,U. E. Vicente Bernedo  A,5001981,8,240,134,57,23,214,134,214
@@ -90,6 +98,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001671,9,240,124,59,35,218,124,218
 1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001681,10,233,122,76,11,209,122,209
 1,Tomás Frías,1,Potosí,1494,Potosí,27,Coleg. Don Bosco,5002801,1,240,152,48,14,214,152,214
+1,Tomás Frías,1,Potosí,1494,Potosí,27,Coleg. Don Bosco,5002811,2,240,169,30,13,212,169,212
 1,Tomás Frías,1,Potosí,1494,Potosí,27,Coleg. Don Bosco,5002821,3,240,167,35,15,217,167,217
 1,Tomás Frías,1,Potosí,1494,Potosí,27,Coleg. Don Bosco,5002831,4,240,161,47,15,223,161,223
 1,Tomás Frías,1,Potosí,1494,Potosí,27,Coleg. Don Bosco,5002841,5,125,91,22,5,118,91,118
@@ -115,7 +124,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001101,1,240,154,32,24,210,154,210
 1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001111,2,240,159,41,17,217,159,217
 1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001121,3,240,169,36,12,217,169,217
+1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001131,4,240,155,40,24,219,155,219
 1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001141,5,240,160,48,15,223,160,223
+1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001151,6,41,30,9,0,39,30,39
 1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003921,1,240,143,56,18,217,143,217
 1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003931,2,240,140,64,19,223,140,223
 1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003951,4,240,141,55,15,211,141,211
@@ -193,6 +204,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005851,9,240,185,25,8,218,185,218
 1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005861,10,240,169,31,15,215,169,215
 1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005871,11,240,180,24,15,219,180,219
+1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005881,12,240,149,45,13,207,149,207
 1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005891,13,240,153,39,23,215,153,215
 1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005901,14,240,168,31,13,212,168,212
 1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005911,15,240,148,42,18,208,148,208
@@ -226,6 +238,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,45,Esc. 6 de Junio,5007221,3,240,115,89,16,220,115,220
 1,Tomás Frías,1,Potosí,1494,Potosí,45,Esc. 6 de Junio,5007241,5,240,139,71,15,225,139,225
 1,Tomás Frías,1,Potosí,1494,Potosí,45,Esc. 6 de Junio,5007271,8,240,120,76,27,223,120,223
+1,Tomás Frías,1,Potosí,1494,Potosí,45,Esc. 6 de Junio,5007291,10,240,117,84,16,217,117,217
+1,Tomás Frías,1,Potosí,1494,Potosí,45,Esc. 6 de Junio,5007331,14,240,124,65,26,215,124,215
 1,Tomás Frías,1,Potosí,1494,Potosí,46,Esc. Karachipampa,5006661,1,240,114,86,20,220,114,220
 1,Tomás Frías,1,Potosí,1494,Potosí,46,Esc. Karachipampa,5006671,2,240,121,68,21,210,121,210
 1,Tomás Frías,1,Potosí,1494,Potosí,46,Esc. Karachipampa,5006681,3,240,102,94,14,210,102,210
@@ -238,9 +252,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,50,Esc. Kenny Prieto Melgarejo,5006891,1,240,153,53,18,224,153,224
 1,Tomás Frías,1,Potosí,1494,Potosí,50,Esc. Kenny Prieto Melgarejo,5006901,2,240,131,53,29,213,131,213
 1,Tomás Frías,1,Potosí,1494,Potosí,50,Esc. Kenny Prieto Melgarejo,5006911,3,240,146,46,19,211,146,211
+1,Tomás Frías,1,Potosí,1494,Potosí,50,Esc. Kenny Prieto Melgarejo,5006921,4,240,135,48,27,210,135,210
 1,Tomás Frías,1,Potosí,1494,Potosí,50,Esc. Kenny Prieto Melgarejo,5006931,5,240,156,48,13,217,156,217
 1,Tomás Frías,1,Potosí,1494,Potosí,50,Esc. Kenny Prieto Melgarejo,5006941,6,240,130,51,23,204,130,204
 1,Tomás Frías,1,Potosí,1494,Potosí,50,Esc. Kenny Prieto Melgarejo,5006961,8,240,165,39,13,217,165,217
+1,Tomás Frías,1,Potosí,1494,Potosí,50,Esc. Kenny Prieto Melgarejo,5007051,17,240,151,38,31,220,151,220
+1,Tomás Frías,1,Potosí,1494,Potosí,50,Esc. Kenny Prieto Melgarejo,5007061,18,240,160,40,17,217,160,217
 1,Tomás Frías,1,Potosí,1494,Potosí,50,Esc. Kenny Prieto Melgarejo,5007071,19,240,153,42,17,212,153,212
 1,Tomás Frías,1,Potosí,1494,Potosí,50,Esc. Kenny Prieto Melgarejo,5007111,23,115,80,16,8,104,80,104
 1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005001,1,240,138,60,8,206,138,206
@@ -316,6 +333,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,25031,Esc. Cobija,5004821,2,240,155,52,17,224,155,224
 1,Tomás Frías,1,Potosí,1494,Potosí,25031,Esc. Cobija,5004841,4,240,147,46,25,218,147,218
 1,Tomás Frías,1,Potosí,1494,Potosí,25031,Esc. Cobija,5004871,7,240,147,53,18,218,147,218
+1,Tomás Frías,1,Potosí,1494,Potosí,25031,Esc. Cobija,5004881,8,240,154,48,19,221,154,221
 1,Tomás Frías,1,Potosí,1494,Potosí,25031,Esc. Cobija,5004911,11,240,157,46,9,212,157,212
 1,Tomás Frías,1,Potosí,1494,Potosí,25031,Esc. Cobija,5004941,14,240,152,48,17,217,152,217
 1,Tomás Frías,1,Potosí,1494,Potosí,25031,Esc. Cobija,5004951,15,90,72,12,3,87,72,87
@@ -345,18 +363,26 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000301,4,240,131,62,17,210,131,210
 1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000311,5,240,118,77,21,216,118,216
 1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000321,6,240,134,54,15,203,134,203
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000341,8,240,149,57,8,214,149,214
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000351,9,240,138,61,18,217,138,217
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000381,12,240,140,61,10,211,140,211
 1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000391,13,240,143,64,12,219,143,219
 1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000401,14,240,133,70,21,224,133,224
 1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000411,15,240,127,69,14,210,127,210
 1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000431,17,240,142,50,10,202,142,202
 1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000441,18,240,142,54,9,205,142,205
 1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000451,19,62,24,14,3,41,24,41
+1,Tomás Frías,1,Potosí,1494,Potosí,25041,Esc. 12 de Abril,5004161,3,240,144,54,25,223,144,223
 1,Tomás Frías,1,Potosí,1494,Potosí,25042,Esc. Jesus de Nazaret,5006521,5,240,136,61,17,214,136,214
 1,Tomás Frías,1,Potosí,1494,Potosí,25042,Esc. Jesus de Nazaret,5006531,6,240,149,55,10,214,149,214
 1,Tomás Frías,1,Potosí,1494,Potosí,25044,U.E. Humberto Iporre Salinas,5006701,1,240,110,73,26,209,110,209
 1,Tomás Frías,1,Potosí,1494,Potosí,25044,U.E. Humberto Iporre Salinas,5006741,5,240,123,79,13,215,123,215
 1,Tomás Frías,1,Potosí,1494,Potosí,25044,U.E. Humberto Iporre Salinas,5006811,12,240,123,63,29,215,123,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25044,U.E. Humberto Iporre Salinas,5006831,14,240,147,56,16,219,147,219
+1,Tomás Frías,1,Potosí,1494,Potosí,25044,U.E. Humberto Iporre Salinas,5006851,16,240,138,62,20,220,138,220
 1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,5000531,1,240,134,56,22,212,134,212
+1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,5000551,3,240,131,65,10,206,131,206
+1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,5000581,6,240,133,61,18,212,133,212
 1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,5000591,7,240,125,71,20,216,125,216
 1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,5000621,10,240,123,67,20,210,123,210
 1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004311,1,240,164,40,11,215,164,215
@@ -400,6 +426,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,31101,U.E. San Roque (Inicial),5002681,2,240,136,57,17,210,136,210
 1,Tomás Frías,1,Potosí,1494,Potosí,31101,U.E. San Roque (Inicial),5002691,3,240,137,52,24,213,137,213
 1,Tomás Frías,1,Potosí,1494,Potosí,31101,U.E. San Roque (Inicial),5002701,4,21,17,1,0,18,17,18
+1,Tomás Frías,1,Potosí,1494,Potosí,31102,U. E. Tomás Frías,5002981,2,240,156,55,9,220,156,220
+1,Tomás Frías,1,Potosí,1494,Potosí,31102,U. E. Tomás Frías,5003001,4,240,140,54,20,214,140,214
 1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000641,1,240,118,78,18,214,118,214
 1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000651,2,240,119,76,16,211,119,211
 1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000661,3,240,132,59,22,213,132,213
@@ -450,6 +478,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001831,4,240,140,56,16,212,140,212
 1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001841,5,240,147,50,19,216,147,216
 1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001871,8,240,159,43,16,218,159,218
+1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001891,10,240,159,46,18,223,159,223
 1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001901,11,90,50,18,8,76,50,76
 1,Tomás Frías,1,Potosí,1494,Potosí,31118,U. E. Juan Pablo II  B  (Inicial),5006441,1,240,145,55,13,213,145,213
 1,Tomás Frías,1,Potosí,1494,Potosí,31118,U. E. Juan Pablo II  B  (Inicial),5006451,2,240,152,47,17,216,152,216
@@ -465,7 +494,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005251,5,240,160,46,11,217,160,217
 1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005261,6,240,160,41,15,216,160,216
 1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005271,7,222,142,41,17,200,142,200
+1,Tomás Frías,1,Potosí,1494,Potosí,31125,Instituto Tecnológico Superior Nuevo Amanecer,5002721,2,240,144,55,14,213,144,213
 1,Tomás Frías,1,Potosí,1494,Potosí,31125,Instituto Tecnológico Superior Nuevo Amanecer,5002731,3,240,134,69,14,217,134,217
+1,Tomás Frías,1,Potosí,1494,Potosí,31125,Instituto Tecnológico Superior Nuevo Amanecer,5002741,4,240,131,82,9,222,131,222
 1,Tomás Frías,1,Potosí,1494,Potosí,31125,Instituto Tecnológico Superior Nuevo Amanecer,5002751,5,160,89,56,7,152,89,152
 1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005701,1,240,163,43,14,220,163,220
 1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005711,2,240,147,54,17,218,147,218
