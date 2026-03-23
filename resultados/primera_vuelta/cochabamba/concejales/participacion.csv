@@ -1,8 +1,14 @@
 CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,InscritosHabilitados,VotoValido,VotoBlanco,VotoNulo,VotoEmitido,VotoValidoReal,VotoEmitidoReal
 1,Cercado,1,Cochabamba,821,Cochabamba,101,Escuela IV Centenario,3002847,12,240,137,66,15,218,137,218
 1,Cercado,1,Cochabamba,821,Cochabamba,101,Escuela IV Centenario,3002857,13,240,168,40,4,212,168,212
+1,Cercado,1,Cochabamba,821,Cochabamba,103,Colegio Marista Nuestra Señora Del Pilar,3001437,6,240,152,62,5,219,152,219
 1,Cercado,1,Cochabamba,821,Cochabamba,107,Unidad Educativa Club De Leones,3001167,4,240,158,45,6,209,158,209
+1,Cercado,1,Cochabamba,821,Cochabamba,108,Escuela Mixta Fiscal Temporal A,3000437,2,240,150,54,10,214,150,214
+1,Cercado,1,Cochabamba,821,Cochabamba,108,Escuela Mixta Fiscal Temporal A,3000447,3,240,152,56,10,218,152,218
 1,Cercado,1,Cochabamba,821,Cochabamba,108,Escuela Mixta Fiscal Temporal A,3000497,8,240,160,38,9,207,160,207
+1,Cercado,1,Cochabamba,821,Cochabamba,108,Escuela Mixta Fiscal Temporal A,3000507,9,240,152,49,12,213,152,213
+1,Cercado,1,Cochabamba,821,Cochabamba,108,Escuela Mixta Fiscal Temporal A,3000517,10,240,145,58,9,212,145,212
+1,Cercado,1,Cochabamba,821,Cochabamba,108,Escuela Mixta Fiscal Temporal A,3000527,11,240,166,35,14,215,166,215
 1,Cercado,1,Cochabamba,821,Cochabamba,109,Colegio Marista,3002287,18,240,149,47,12,208,149,208
 1,Cercado,1,Cochabamba,821,Cochabamba,111,Colegio Federico Froebel,3000117,2,240,155,53,3,211,155,211
 1,Cercado,1,Cochabamba,821,Cochabamba,111,Colegio Federico Froebel,3000127,3,240,164,43,7,214,164,214
@@ -13,35 +19,53 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,117,Escuela Maryknoll,3021087,3,240,160,33,7,200,160,200
 1,Cercado,1,Cochabamba,821,Cochabamba,117,Escuela Maryknoll,3021117,6,240,160,45,7,212,160,212
 1,Cercado,1,Cochabamba,821,Cochabamba,117,Escuela Maryknoll,3021127,7,240,153,40,5,198,153,198
+1,Cercado,1,Cochabamba,821,Cochabamba,128,Seminario San Jose,3005657,3,240,156,56,9,221,156,221
 1,Cercado,1,Cochabamba,821,Cochabamba,128,Seminario San Jose,3005667,4,240,161,41,8,210,161,210
 1,Cercado,1,Cochabamba,821,Cochabamba,128,Seminario San Jose,3005677,5,240,192,12,9,213,192,213
 1,Cercado,1,Cochabamba,821,Cochabamba,128,Seminario San Jose,3005687,6,240,175,44,6,225,175,225
 1,Cercado,1,Cochabamba,821,Cochabamba,128,Seminario San Jose,3005697,7,240,137,67,10,214,137,214
 1,Cercado,1,Cochabamba,821,Cochabamba,128,Seminario San Jose,3005707,8,240,172,34,12,218,172,218
+1,Cercado,1,Cochabamba,821,Cochabamba,128,Seminario San Jose,3005727,10,240,189,19,7,215,189,215
 1,Cercado,1,Cochabamba,821,Cochabamba,128,Seminario San Jose,3005757,13,240,154,59,6,219,154,219
 1,Cercado,1,Cochabamba,821,Cochabamba,129,Esc. Fiscal Juan XXIII A Juancito Pinto,3005907,2,240,156,57,6,219,156,219
 1,Cercado,1,Cochabamba,821,Cochabamba,129,Esc. Fiscal Juan XXIII A Juancito Pinto,3005927,4,240,156,53,11,220,156,220
+1,Cercado,1,Cochabamba,821,Cochabamba,129,Esc. Fiscal Juan XXIII A Juancito Pinto,3005947,6,240,158,55,3,216,158,216
+1,Cercado,1,Cochabamba,821,Cochabamba,129,Esc. Fiscal Juan XXIII A Juancito Pinto,3005957,7,240,148,51,16,215,148,215
+1,Cercado,1,Cochabamba,821,Cochabamba,129,Esc. Fiscal Juan XXIII A Juancito Pinto,3005967,8,240,152,49,9,210,152,210
+1,Cercado,1,Cochabamba,821,Cochabamba,129,Esc. Fiscal Juan XXIII A Juancito Pinto,3005977,9,240,171,35,4,210,171,210
+1,Cercado,1,Cochabamba,821,Cochabamba,129,Esc. Fiscal Juan XXIII A Juancito Pinto,3005987,10,231,164,36,7,207,164,207
 1,Cercado,1,Cochabamba,821,Cochabamba,132,Escuela Antofagasta,3003977,1,240,141,71,10,222,141,222
 1,Cercado,1,Cochabamba,821,Cochabamba,132,Escuela Antofagasta,3003987,2,240,158,47,7,212,158,212
 1,Cercado,1,Cochabamba,821,Cochabamba,132,Escuela Antofagasta,3004017,5,240,156,57,3,216,156,216
 1,Cercado,1,Cochabamba,821,Cochabamba,132,Escuela Antofagasta,3004027,6,240,164,51,4,219,164,219
 1,Cercado,1,Cochabamba,821,Cochabamba,132,Escuela Antofagasta,3004107,14,240,141,72,7,220,141,220
 1,Cercado,1,Cochabamba,821,Cochabamba,132,Escuela Antofagasta,3004117,15,240,151,62,3,216,151,216
+1,Cercado,1,Cochabamba,821,Cochabamba,132,Escuela Antofagasta,3004127,16,240,161,50,8,219,161,219
 1,Cercado,1,Cochabamba,821,Cochabamba,136,Colegio Cristo Rey,3021607,1,240,153,55,10,218,153,218
+1,Cercado,1,Cochabamba,821,Cochabamba,136,Colegio Cristo Rey,3021647,5,240,164,53,3,220,164,220
+1,Cercado,1,Cochabamba,821,Cochabamba,136,Colegio Cristo Rey,3021667,7,240,153,59,8,220,153,220
 1,Cercado,1,Cochabamba,821,Cochabamba,137,Colegio Paulo VI,3021427,1,240,141,48,18,207,141,207
 1,Cercado,1,Cochabamba,821,Cochabamba,137,Colegio Paulo VI,3021437,2,240,179,36,7,222,179,222
 1,Cercado,1,Cochabamba,821,Cochabamba,137,Colegio Paulo VI,3021447,3,240,158,41,8,207,158,207
 1,Cercado,1,Cochabamba,821,Cochabamba,137,Colegio Paulo VI,3021467,5,240,166,37,4,207,166,207
+1,Cercado,1,Cochabamba,821,Cochabamba,145,Colegio Don Bosco,3019217,4,240,163,39,2,204,163,204
 1,Cercado,1,Cochabamba,821,Cochabamba,147,Escuela Wilge Rodriguez,3018047,1,240,170,20,12,202,170,202
+1,Cercado,1,Cochabamba,821,Cochabamba,147,Escuela Wilge Rodriguez,3018057,2,240,157,34,5,196,157,196
 1,Cercado,1,Cochabamba,821,Cochabamba,147,Escuela Wilge Rodriguez,3018067,3,240,142,34,14,190,142,190
 1,Cercado,1,Cochabamba,821,Cochabamba,147,Escuela Wilge Rodriguez,3018077,4,240,159,41,9,209,159,209
 1,Cercado,1,Cochabamba,821,Cochabamba,147,Escuela Wilge Rodriguez,3018087,5,119,81,18,3,102,81,102
+1,Cercado,1,Cochabamba,821,Cochabamba,149,Escuela Gualberto Villarroel,3019097,1,240,179,29,1,209,179,209
+1,Cercado,1,Cochabamba,821,Cochabamba,149,Escuela Gualberto Villarroel,3019127,4,240,185,22,10,217,185,217
+1,Cercado,1,Cochabamba,821,Cochabamba,149,Escuela Gualberto Villarroel,3019147,6,240,146,45,13,204,146,204
 1,Cercado,1,Cochabamba,821,Cochabamba,151,Colegio San Rafael,3018857,4,240,156,51,9,216,156,216
 1,Cercado,1,Cochabamba,821,Cochabamba,151,Colegio San Rafael,3018877,6,240,145,55,18,218,145,218
 1,Cercado,1,Cochabamba,821,Cochabamba,162,Liceo Adela Zamudio,3005547,9,240,155,27,7,189,155,189
 1,Cercado,1,Cochabamba,821,Cochabamba,162,Liceo Adela Zamudio,3005557,10,240,166,31,8,205,166,205
+1,Cercado,1,Cochabamba,821,Cochabamba,162,Liceo Adela Zamudio,3005567,11,240,142,38,8,188,142,188
 1,Cercado,1,Cochabamba,821,Cochabamba,162,Liceo Adela Zamudio,3005587,13,240,160,36,11,207,160,207
+1,Cercado,1,Cochabamba,821,Cochabamba,162,Liceo Adela Zamudio,3005597,14,240,165,39,4,208,165,208
 1,Cercado,1,Cochabamba,821,Cochabamba,162,Liceo Adela Zamudio,3005617,16,48,35,10,0,45,35,45
+1,Cercado,1,Cochabamba,821,Cochabamba,164,Unidad Educativa Santa Maria Micaela,3005177,19,240,131,63,9,203,131,203
 1,Cercado,1,Cochabamba,821,Cochabamba,165,Esc. Republica Del Peru O I. Vasquez,3006787,5,240,149,74,5,228,149,228
 1,Cercado,1,Cochabamba,821,Cochabamba,165,Esc. Republica Del Peru O I. Vasquez,3006797,6,240,124,81,8,213,124,213
 1,Cercado,1,Cochabamba,821,Cochabamba,165,Esc. Republica Del Peru O I. Vasquez,3006807,7,240,131,78,6,215,131,215
@@ -50,38 +74,53 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,165,Esc. Republica Del Peru O I. Vasquez,3006897,16,240,147,61,8,216,147,216
 1,Cercado,1,Cochabamba,821,Cochabamba,165,Esc. Republica Del Peru O I. Vasquez,3006907,17,240,138,70,5,213,138,213
 1,Cercado,1,Cochabamba,821,Cochabamba,165,Esc. Republica Del Peru O I. Vasquez,3006917,18,240,161,52,7,220,161,220
+1,Cercado,1,Cochabamba,821,Cochabamba,165,Esc. Republica Del Peru O I. Vasquez,3006927,19,240,154,54,10,218,154,218
 1,Cercado,1,Cochabamba,821,Cochabamba,165,Esc. Republica Del Peru O I. Vasquez,3006937,20,240,168,48,5,221,168,221
 1,Cercado,1,Cochabamba,821,Cochabamba,165,Esc. Republica Del Peru O I. Vasquez,3006947,21,240,147,62,9,218,147,218
 1,Cercado,1,Cochabamba,821,Cochabamba,165,Esc. Republica Del Peru O I. Vasquez,3006977,24,240,137,70,18,225,137,225
 1,Cercado,1,Cochabamba,821,Cochabamba,169,Unidad Educativa Andres Bello,3009507,1,240,143,68,7,218,143,218
 1,Cercado,1,Cochabamba,821,Cochabamba,169,Unidad Educativa Andres Bello,3009517,2,240,149,37,18,204,149,204
 1,Cercado,1,Cochabamba,821,Cochabamba,169,Unidad Educativa Andres Bello,3009547,5,240,155,50,4,209,155,209
+1,Cercado,1,Cochabamba,821,Cochabamba,169,Unidad Educativa Andres Bello,3009567,7,240,143,52,17,212,143,212
+1,Cercado,1,Cochabamba,821,Cochabamba,169,Unidad Educativa Andres Bello,3009587,9,240,117,77,11,205,117,205
 1,Cercado,1,Cochabamba,821,Cochabamba,169,Unidad Educativa Andres Bello,3009597,10,240,135,62,11,208,135,208
 1,Cercado,1,Cochabamba,821,Cochabamba,169,Unidad Educativa Andres Bello,3009607,11,240,140,68,8,216,140,216
 1,Cercado,1,Cochabamba,821,Cochabamba,169,Unidad Educativa Andres Bello,3009637,14,240,133,56,7,196,133,196
+1,Cercado,1,Cochabamba,821,Cochabamba,169,Unidad Educativa Andres Bello,3009657,16,240,139,56,9,204,139,204
 1,Cercado,1,Cochabamba,821,Cochabamba,169,Unidad Educativa Andres Bello,3009667,17,240,0,213,0,213,0,213
+1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,3008237,2,240,154,59,4,217,154,217
+1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,3008257,4,240,132,76,7,215,132,215
+1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,3008287,7,240,139,62,17,218,139,218
+1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,3008297,8,240,138,70,3,211,138,211
 1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,3008327,11,240,154,52,5,211,154,211
 1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,3008337,12,240,152,58,9,219,152,219
 1,Cercado,1,Cochabamba,821,Cochabamba,175,Escuela Buenas Nuevas A,3008817,9,240,131,64,14,209,131,209
+1,Cercado,1,Cochabamba,821,Cochabamba,175,Escuela Buenas Nuevas A,3008827,10,240,134,56,12,202,134,202
 1,Cercado,1,Cochabamba,821,Cochabamba,175,Escuela Buenas Nuevas A,3008837,11,240,134,65,6,205,134,205
 1,Cercado,1,Cochabamba,821,Cochabamba,175,Escuela Buenas Nuevas A,3008847,12,240,138,68,10,216,138,216
+1,Cercado,1,Cochabamba,821,Cochabamba,175,Escuela Buenas Nuevas A,3008857,13,240,129,78,4,211,129,211
 1,Cercado,1,Cochabamba,821,Cochabamba,178,Centro Educativo P.  Maria Auxiliadora,3007537,2,240,128,81,8,217,128,217
 1,Cercado,1,Cochabamba,821,Cochabamba,178,Centro Educativo P.  Maria Auxiliadora,3007557,4,240,123,81,9,213,123,213
 1,Cercado,1,Cochabamba,821,Cochabamba,178,Centro Educativo P.  Maria Auxiliadora,3007567,5,240,153,52,9,214,153,214
 1,Cercado,1,Cochabamba,821,Cochabamba,178,Centro Educativo P.  Maria Auxiliadora,3007597,8,240,140,63,7,210,140,210
 1,Cercado,1,Cochabamba,821,Cochabamba,178,Centro Educativo P.  Maria Auxiliadora,3007617,10,240,151,47,23,221,151,221
+1,Cercado,1,Cochabamba,821,Cochabamba,178,Centro Educativo P.  Maria Auxiliadora,3007627,11,240,155,53,10,218,155,218
 1,Cercado,1,Cochabamba,821,Cochabamba,178,Centro Educativo P.  Maria Auxiliadora,3007667,15,240,130,68,21,219,130,219
 1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,3018627,1,240,175,30,7,212,175,212
+1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,3018647,3,159,114,26,4,144,114,144
 1,Cercado,1,Cochabamba,821,Cochabamba,196,(Cárcel) Penitenciaria San Sebastian  Varones,3018017,2,240,95,81,16,192,95,192
 1,Cercado,1,Cochabamba,821,Cochabamba,196,(Cárcel) Penitenciaria San Sebastian  Varones,3018027,3,121,48,42,8,98,48,98
 1,Cercado,1,Cochabamba,821,Cochabamba,197,(Cárcel) Penitenciaria San Antonio,3017467,1,240,88,81,14,183,88,183
 1,Cercado,1,Cochabamba,821,Cochabamba,197,(Cárcel) Penitenciaria San Antonio,3017477,2,78,28,26,4,58,28,58
 1,Cercado,1,Cochabamba,821,Cochabamba,203,Colegio Luis Quintin Vila,3002617,7,240,165,45,4,214,165,214
+1,Cercado,1,Cochabamba,821,Cochabamba,203,Colegio Luis Quintin Vila,3002647,10,240,157,50,10,217,157,217
+1,Cercado,1,Cochabamba,821,Cochabamba,204,Liceo Elena Arze De Arze,3021287,15,240,180,18,6,204,180,204
 1,Cercado,1,Cochabamba,821,Cochabamba,209,Universidad Ucatec (Ex Ceivo),3000337,5,240,151,49,7,207,151,207
 1,Cercado,1,Cochabamba,821,Cochabamba,209,Universidad Ucatec (Ex Ceivo),3000367,8,240,161,44,7,212,161,212
 1,Cercado,1,Cochabamba,821,Cochabamba,209,Universidad Ucatec (Ex Ceivo),3000377,9,240,165,44,6,215,165,215
 1,Cercado,1,Cochabamba,821,Cochabamba,209,Universidad Ucatec (Ex Ceivo),3000387,10,240,160,41,7,208,160,208
 1,Cercado,1,Cochabamba,821,Cochabamba,209,Universidad Ucatec (Ex Ceivo),3000407,12,240,169,37,5,211,169,211
+1,Cercado,1,Cochabamba,821,Cochabamba,209,Universidad Ucatec (Ex Ceivo),3000417,13,136,89,30,3,122,89,122
 1,Cercado,1,Cochabamba,821,Cochabamba,210,Colegio Santo Domingo Savio,3007307,2,240,159,39,14,212,159,212
 1,Cercado,1,Cochabamba,821,Cochabamba,210,Colegio Santo Domingo Savio,3007317,3,240,152,42,9,203,152,203
 1,Cercado,1,Cochabamba,821,Cochabamba,210,Colegio Santo Domingo Savio,3007327,4,240,157,47,8,212,157,212
@@ -89,11 +128,17 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,210,Colegio Santo Domingo Savio,3007347,6,240,156,39,9,204,156,204
 1,Cercado,1,Cochabamba,821,Cochabamba,210,Colegio Santo Domingo Savio,3007377,9,240,142,49,12,203,142,203
 1,Cercado,1,Cochabamba,821,Cochabamba,210,Colegio Santo Domingo Savio,3007407,12,240,153,47,10,210,153,210
+1,Cercado,1,Cochabamba,821,Cochabamba,219,Escuela Fiscal Juan XXIII A,3006007,2,240,152,53,9,214,152,214
+1,Cercado,1,Cochabamba,821,Cochabamba,219,Escuela Fiscal Juan XXIII A,3006027,4,240,152,57,11,220,152,220
+1,Cercado,1,Cochabamba,821,Cochabamba,219,Escuela Fiscal Juan XXIII A,3006037,5,240,147,55,8,210,147,210
 1,Cercado,1,Cochabamba,821,Cochabamba,219,Escuela Fiscal Juan XXIII A,3006047,6,240,140,61,12,213,140,213
 1,Cercado,1,Cochabamba,821,Cochabamba,219,Escuela Fiscal Juan XXIII A,3006057,7,240,171,40,9,220,171,220
 1,Cercado,1,Cochabamba,821,Cochabamba,220,Unidad Educativa Jose Ignacio Sanjines,3006157,1,240,161,40,9,210,161,210
 1,Cercado,1,Cochabamba,821,Cochabamba,220,Unidad Educativa Jose Ignacio Sanjines,3006167,2,240,157,41,7,205,157,205
 1,Cercado,1,Cochabamba,821,Cochabamba,220,Unidad Educativa Jose Ignacio Sanjines,3006177,3,240,144,57,9,210,144,210
+1,Cercado,1,Cochabamba,821,Cochabamba,220,Unidad Educativa Jose Ignacio Sanjines,3006207,6,240,152,50,9,211,152,211
+1,Cercado,1,Cochabamba,821,Cochabamba,220,Unidad Educativa Jose Ignacio Sanjines,3006227,8,240,157,54,6,217,157,217
+1,Cercado,1,Cochabamba,821,Cochabamba,224,Unidad Educativa Atiy,3013567,1,240,136,64,14,214,136,214
 1,Cercado,1,Cochabamba,821,Cochabamba,224,Unidad Educativa Atiy,3013577,2,240,122,76,9,207,122,207
 1,Cercado,1,Cochabamba,821,Cochabamba,224,Unidad Educativa Atiy,3013607,5,240,119,77,8,204,119,204
 1,Cercado,1,Cochabamba,821,Cochabamba,224,Unidad Educativa Atiy,3013627,7,240,127,64,9,200,127,200
@@ -103,42 +148,69 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,3006277,3,240,162,47,3,212,162,212
 1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,3006287,4,61,49,5,0,54,49,54
 1,Cercado,1,Cochabamba,821,Cochabamba,247,Unidad Educativa Prof. Oscar Rojas Caballero,3007487,2,240,129,69,13,211,129,211
+1,Cercado,1,Cochabamba,821,Cochabamba,247,Unidad Educativa Prof. Oscar Rojas Caballero,3007497,3,240,131,64,14,209,131,209
+1,Cercado,1,Cochabamba,821,Cochabamba,247,Unidad Educativa Prof. Oscar Rojas Caballero,3007507,4,240,130,66,11,207,130,207
+1,Cercado,1,Cochabamba,821,Cochabamba,247,Unidad Educativa Prof. Oscar Rojas Caballero,3007517,5,31,18,9,1,28,18,28
 1,Cercado,1,Cochabamba,821,Cochabamba,25313,U.E. Madre De La Divina Providencia,3008167,1,240,125,63,6,194,125,194
 1,Cercado,1,Cochabamba,821,Cochabamba,25313,U.E. Madre De La Divina Providencia,3008177,2,240,138,64,8,210,138,210
 1,Cercado,1,Cochabamba,821,Cochabamba,25313,U.E. Madre De La Divina Providencia,3008197,4,240,147,49,10,206,147,206
+1,Cercado,1,Cochabamba,821,Cochabamba,25313,U.E. Madre De La Divina Providencia,3008207,5,240,154,55,11,220,154,220
+1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,3015257,1,240,137,64,14,215,137,215
 1,Cercado,1,Cochabamba,821,Cochabamba,25870,U. E. San José,3004227,2,240,168,43,6,217,168,217
 1,Cercado,1,Cochabamba,821,Cochabamba,25870,U. E. San José,3004237,3,240,164,39,4,207,164,207
+1,Cercado,1,Cochabamba,821,Cochabamba,25870,U. E. San José,3004247,4,240,167,48,3,218,167,218
+1,Cercado,1,Cochabamba,821,Cochabamba,25870,U. E. San José,3004257,5,240,178,33,5,216,178,216
+1,Cercado,1,Cochabamba,821,Cochabamba,25870,U. E. San José,3004267,6,240,172,45,2,219,172,219
 1,Cercado,1,Cochabamba,821,Cochabamba,25870,U. E. San José,3004287,8,78,56,10,1,67,56,67
 1,Cercado,1,Cochabamba,821,Cochabamba,25884,U. E. Alcides Arguedas A.,3008007,1,240,129,62,12,203,129,203
 1,Cercado,1,Cochabamba,821,Cochabamba,25884,U. E. Alcides Arguedas A.,3008017,2,240,142,55,19,216,142,216
+1,Cercado,1,Cochabamba,821,Cochabamba,25884,U. E. Alcides Arguedas A.,3008037,4,240,168,31,10,209,168,209
 1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,3008057,1,240,130,63,7,200,130,200
 1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,3008067,2,240,156,34,7,197,156,197
 1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,3008077,3,240,156,35,7,198,156,198
 1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,3008087,4,93,58,17,3,78,58,78
 1,Cercado,1,Cochabamba,821,Cochabamba,25921,U. E. Ave María,3018957,2,240,161,38,8,207,161,207
 1,Cercado,1,Cochabamba,821,Cochabamba,25921,U. E. Ave María,3018967,3,240,157,35,9,201,157,201
+1,Cercado,1,Cochabamba,821,Cochabamba,25921,U. E. Ave María,3018997,6,178,135,16,6,157,135,157
 1,Cercado,1,Cochabamba,821,Cochabamba,26147,U.E. Prof. Jaime Alfonso Escalante Gutierrez,3015217,1,240,162,57,13,232,162,232
+1,Cercado,1,Cochabamba,821,Cochabamba,26147,U.E. Prof. Jaime Alfonso Escalante Gutierrez,3015227,2,240,154,58,7,219,154,219
 1,Cercado,1,Cochabamba,821,Cochabamba,26147,U.E. Prof. Jaime Alfonso Escalante Gutierrez,3015237,3,240,146,73,4,223,146,223
 1,Cercado,1,Cochabamba,821,Cochabamba,26147,U.E. Prof. Jaime Alfonso Escalante Gutierrez,3015247,4,202,165,15,4,184,165,184
 1,Cercado,1,Cochabamba,821,Cochabamba,26445,kinder Branko Petricevic B,3003857,1,240,156,57,7,220,156,220
 1,Cercado,1,Cochabamba,821,Cochabamba,26445,kinder Branko Petricevic B,3003877,3,240,166,46,10,222,166,222
 1,Cercado,1,Cochabamba,821,Cochabamba,26445,kinder Branko Petricevic B,3003887,4,184,146,18,5,169,146,169
 1,Cercado,1,Cochabamba,821,Cochabamba,32413,U.E. Pedro Poveda,3020017,2,240,159,45,6,210,159,210
+1,Cercado,1,Cochabamba,821,Cochabamba,32413,U.E. Pedro Poveda,3020027,3,240,156,48,7,211,156,211
 9,Quillacollo,1,Quillacollo,934,Quillacollo,25049,Unidad Educativa Heroinas,3032397,1,240,153,40,22,215,153,215
+9,Quillacollo,1,Quillacollo,934,Quillacollo,25049,Unidad Educativa Heroinas,3032417,3,240,152,48,10,210,152,210
+9,Quillacollo,1,Quillacollo,934,Quillacollo,25049,Unidad Educativa Heroinas,3032427,4,240,147,58,10,215,147,215
+9,Quillacollo,1,Quillacollo,934,Quillacollo,25049,Unidad Educativa Heroinas,3032437,5,240,164,47,10,221,164,221
 9,Quillacollo,1,Quillacollo,934,Quillacollo,25049,Unidad Educativa Heroinas,3032477,9,240,158,43,7,208,158,208
 9,Quillacollo,1,Quillacollo,934,Quillacollo,25049,Unidad Educativa Heroinas,3032487,10,240,183,24,7,214,183,214
 9,Quillacollo,1,Quillacollo,934,Quillacollo,25049,Unidad Educativa Heroinas,3032497,11,240,162,37,14,213,162,213
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,25698,U.E. Monseñor Salomón Romero,3037997,1,240,152,29,15,196,152,196
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,25698,U.E. Monseñor Salomón Romero,3038007,2,240,152,36,15,203,152,203
+9,Quillacollo,3,Tiquipaya,951,Tiquipaya,25698,U.E. Monseñor Salomón Romero,3038057,7,240,164,30,7,201,164,201
+9,Quillacollo,3,Tiquipaya,951,Tiquipaya,25698,U.E. Monseñor Salomón Romero,3038087,10,100,81,7,3,91,81,91
 9,Quillacollo,3,Tiquipaya,955,Ciudad del Niño,26151,U.E. Técnico Humanístico San Rafael,3038127,1,240,160,32,15,207,160,207
+9,Quillacollo,3,Tiquipaya,957,Linde   Chiquicollo,9037,Aldeas S.O.S,3037757,1,240,133,64,16,213,133,213
+9,Quillacollo,3,Tiquipaya,957,Linde   Chiquicollo,9037,Aldeas S.O.S,3037777,3,240,151,48,22,221,151,221
+9,Quillacollo,3,Tiquipaya,957,Linde   Chiquicollo,9037,Aldeas S.O.S,3037787,4,240,156,56,14,226,156,226
+9,Quillacollo,3,Tiquipaya,957,Linde   Chiquicollo,9037,Aldeas S.O.S,3037797,5,240,150,49,14,213,150,213
+9,Quillacollo,3,Tiquipaya,957,Linde   Chiquicollo,9037,Aldeas S.O.S,3037837,9,144,97,16,18,131,97,131
+9,Quillacollo,4,Vinto,959,Vinto,9055,Unidad Educativa Sagrada Familia,3039717,6,240,161,35,11,207,161,207
+9,Quillacollo,4,Vinto,959,Vinto,9055,Unidad Educativa Sagrada Familia,3039767,11,240,165,37,10,212,165,212
 9,Quillacollo,4,Vinto,959,Vinto,9055,Unidad Educativa Sagrada Familia,3039797,14,240,152,42,21,215,152,215
 9,Quillacollo,4,Vinto,959,Vinto,9055,Unidad Educativa Sagrada Familia,3039807,15,228,153,31,12,196,153,196
+9,Quillacollo,4,Vinto,959,Vinto,25699,U.E. Avelino Mérida Zubieta,3039237,1,240,146,40,13,199,146,199
 9,Quillacollo,4,Vinto,959,Vinto,25699,U.E. Avelino Mérida Zubieta,3039247,2,240,123,47,24,194,123,194
 9,Quillacollo,4,Vinto,959,Vinto,25699,U.E. Avelino Mérida Zubieta,3039257,3,240,123,45,28,196,123,196
 9,Quillacollo,4,Vinto,959,Vinto,25699,U.E. Avelino Mérida Zubieta,3039267,4,240,156,35,19,210,156,210
 9,Quillacollo,4,Vinto,959,Vinto,25699,U.E. Avelino Mérida Zubieta,3039287,6,240,162,44,10,216,162,216
 9,Quillacollo,4,Vinto,959,Vinto,25699,U.E. Avelino Mérida Zubieta,3039307,8,154,97,20,12,129,97,129
+9,Quillacollo,4,Vinto,962,Anocaraire,9042,Unidad Educativa Anocaraire,3038817,9,240,146,50,13,209,146,209
 9,Quillacollo,4,Vinto,962,Anocaraire,26461,U.E. Álvaro García Linera,3038957,2,240,118,83,15,216,118,216
+9,Quillacollo,4,Vinto,962,Anocaraire,26461,U.E. Álvaro García Linera,3038977,4,240,164,37,19,220,164,220
 10,Chapare,1,Sacaba,973,Quintanilla,25693,U.E. Puntiti Chico,3046297,6,240,171,29,12,212,171,212
 10,Chapare,1,Sacaba,973,Quintanilla,25694,U.E. José Vía García,3047527,1,226,110,72,14,196,110,196
 10,Chapare,1,Sacaba,974,Pacata,1052,Unidad Educativa René Barrientos Ortuño,3044827,1,240,159,34,13,206,159,206
@@ -154,7 +226,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Chapare,1,Sacaba,976,Esmeralda,1013,Unidad Educativa Ceilab,3043657,5,240,159,40,13,212,159,212
 10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,3043737,1,240,141,48,21,210,141,210
 10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,3043837,11,240,134,57,23,214,134,214
+10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,3043857,13,240,150,51,9,210,150,210
 10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,3043877,15,240,149,53,10,212,149,212
 10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,3043887,16,240,155,43,19,217,155,217
 10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,3043897,17,240,142,61,11,214,142,214
+10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,3043907,18,240,149,55,12,216,149,216
 10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,3043917,19,134,84,26,6,116,84,116
