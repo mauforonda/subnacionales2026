@@ -24,6 +24,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008577,7,240,101,80,16,197,101,197
 1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008587,8,240,117,65,14,196,117,196
 1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008607,10,240,93,88,13,194,93,194
+1,Oropeza,1,Sucre,2794,Sucre,110,Unid. Educ. Jose Clemente Maurer,1008617,11,191,82,54,8,144,82,144
 1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005277,1,240,130,63,11,204,130,204
 1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005287,2,240,125,60,22,207,125,207
 1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005297,3,240,130,56,13,199,130,199
@@ -38,6 +39,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005407,14,240,120,67,24,211,120,211
 1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005417,15,240,129,56,22,207,129,207
 1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005427,16,240,144,43,14,201,144,201
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005457,19,240,120,65,17,202,120,202
 1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005497,23,240,141,44,16,201,141,201
 1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005507,24,240,118,67,10,195,118,195
 1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005517,25,138,62,41,7,110,62,110
@@ -108,6 +110,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,204,Col. Sagrado Corazon,1000807,4,240,145,39,10,194,145,194
 1,Oropeza,1,Sucre,2794,Sucre,204,Col. Sagrado Corazon,1000817,5,74,56,7,5,68,56,68
 1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007897,1,240,153,35,19,207,153,207
+1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007907,2,240,159,46,12,217,159,217
 1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007917,3,240,151,41,20,212,151,212
 1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007927,4,240,155,47,15,217,155,217
 1,Oropeza,1,Sucre,2794,Sucre,208,Kinder Municipal,1007937,5,240,157,40,10,207,157,207
@@ -152,6 +155,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006007,16,240,138,50,23,211,138,211
 1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006017,17,240,138,47,19,204,138,204
 1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006027,18,240,112,70,29,211,112,211
+1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006037,19,240,133,53,24,210,133,210
 1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006057,21,240,137,57,16,210,137,210
 1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006077,23,240,148,52,19,219,148,219
 1,Oropeza,1,Sucre,2794,Sucre,212,Esc. Guido Villagomez,1006087,24,129,75,31,4,110,75,110
@@ -167,12 +171,17 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003047,11,240,154,34,22,210,154,210
 1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003057,12,240,130,51,33,214,130,214
 1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003067,13,240,119,64,25,208,119,208
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003077,14,240,120,59,17,196,120,196
+1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003097,16,240,133,64,10,207,133,207
 1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003147,21,240,142,50,17,209,142,209
 1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003157,22,240,143,51,12,206,143,206
 1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003167,23,240,131,60,10,201,131,201
 1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003177,24,240,147,51,13,211,147,211
 1,Oropeza,1,Sucre,2794,Sucre,216,Col. Jorge Revilla,1003187,25,80,48,17,3,68,48,68
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002747,3,240,138,53,15,206,138,206
 1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002767,5,240,96,70,31,197,96,197
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002777,6,240,117,67,20,204,117,204
+1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002787,7,240,113,65,16,194,113,194
 1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002807,9,240,117,63,12,192,117,192
 1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002817,10,240,104,74,19,197,104,197
 1,Oropeza,1,Sucre,2794,Sucre,217,U.E. Marcelo Quiroga Santa Cruz,1002827,11,240,127,66,12,205,127,205
@@ -231,11 +240,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006857,11,240,144,43,17,204,144,204
 1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006867,12,240,152,50,11,213,152,213
 1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006877,13,240,163,36,11,210,163,210
+1,Oropeza,1,Sucre,2794,Sucre,228,Colegio Fe y Alegria,1006937,19,240,154,38,21,213,154,213
 1,Oropeza,1,Sucre,2794,Sucre,229,Colegio Domingo Sabio,1007717,9,240,140,55,15,210,140,210
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007337,1,240,135,50,21,206,135,206
 1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007347,2,240,124,62,19,205,124,205
 1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007367,4,240,122,51,24,197,122,197
 1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007377,5,240,126,66,20,212,126,212
 1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007387,6,240,139,65,9,213,139,213
+1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007397,7,240,113,60,21,194,113,194
 1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007407,8,240,114,71,12,197,114,197
 1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007417,9,240,123,62,16,201,123,201
 1,Oropeza,1,Sucre,2794,Sucre,230,Unidad Educativa 6 de Junio,1007427,10,240,123,61,19,203,123,203
@@ -253,12 +265,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004507,1,240,141,40,23,204,141,204
 1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004527,3,240,154,41,9,204,154,204
 1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004537,4,240,169,36,9,214,169,214
+1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004577,8,240,158,45,11,214,158,214
 1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004597,10,240,149,48,14,211,149,211
 1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004607,11,240,174,29,9,212,174,212
 1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004617,12,240,148,43,12,203,148,203
 1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004627,13,240,154,42,16,212,154,212
 1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004637,14,240,146,45,10,201,146,201
 1,Oropeza,1,Sucre,2794,Sucre,400,Fac. Derecho,1004647,15,237,158,26,14,198,158,198
+1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1008947,2,240,125,57,14,196,125,196
 1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1008957,3,240,135,55,11,201,135,201
 1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1008967,4,240,121,58,15,194,121,194
 1,Oropeza,1,Sucre,2794,Sucre,401,Col. Victorino Vega,1008977,5,240,124,62,16,202,124,202
@@ -282,6 +296,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001537,7,240,123,53,23,199,123,199
 1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001547,8,240,129,60,17,206,129,206
 1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001577,11,240,134,46,14,194,134,194
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001587,12,240,119,69,11,199,119,199
 1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001597,13,240,136,61,9,206,136,206
 1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001607,14,240,139,56,16,211,139,211
 1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001617,15,240,133,48,18,199,133,199
@@ -313,6 +328,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002697,16,240,150,50,14,214,150,214
 1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002707,17,240,157,46,9,212,157,212
 1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002717,18,111,67,25,6,98,67,98
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005527,1,240,90,74,20,184,90,184
+1,Oropeza,1,Sucre,2794,Sucre,408,Esc. Angel Baspineiro,1005567,5,240,95,76,25,196,95,196
 1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1003977,1,240,161,43,8,212,161,212
 1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1003987,2,240,147,47,14,208,147,208
 1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1003997,3,240,146,55,8,209,146,209
@@ -360,6 +377,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002407,4,240,150,36,10,196,150,196
 1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002417,5,240,156,42,14,212,156,212
 1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002427,6,240,135,39,22,196,135,196
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002447,8,240,165,35,11,211,165,211
 1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002497,13,240,156,37,16,209,156,209
 1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002507,14,240,151,34,17,202,151,202
 1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002517,15,240,158,41,18,217,158,217
@@ -406,6 +424,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,523,Coliseo Jorge Revilla Aldana,1005097,4,240,149,36,20,205,149,205
 1,Oropeza,1,Sucre,2794,Sucre,523,Coliseo Jorge Revilla Aldana,1005107,5,240,161,37,7,205,161,205
 1,Oropeza,1,Sucre,2794,Sucre,523,Coliseo Jorge Revilla Aldana,1005117,6,34,19,8,1,28,19,28
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1006997,4,240,150,47,20,217,150,217
+1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1007037,8,240,165,44,14,223,165,223
 1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008797,1,240,140,41,18,199,140,199
 1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008807,2,240,143,43,14,200,143,200
 1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008817,3,240,133,50,23,206,133,206
@@ -419,6 +439,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008907,12,240,127,44,30,201,127,201
 1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008917,13,240,125,68,12,205,125,205
 1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008927,14,74,40,17,2,59,40,59
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005657,1,240,156,51,9,216,156,216
 1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005667,2,240,147,58,12,217,147,217
 1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005677,3,240,152,49,16,217,152,217
 1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005697,5,240,124,57,22,203,124,203
@@ -469,7 +490,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,25031,Mercado Yurac Yurac,1007617,13,195,111,55,6,172,111,172
 1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009767,10,240,108,72,17,197,108,197
 1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009777,11,240,113,68,9,190,113,190
+1,Oropeza,1,Sucre,2794,Sucre,25032,Unidad Educativa Alberto Bohorquez,1009797,13,240,115,67,19,201,115,201
 1,Oropeza,1,Sucre,2794,Sucre,25033,Unidad Educativa Ruffo,1009607,2,240,104,84,21,209,104,209
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006667,11,240,117,67,25,209,117,209
+1,Oropeza,1,Sucre,2794,Sucre,25329,U.E. Gastón Vilar Casso,1006737,18,240,134,59,19,212,134,212
 1,Oropeza,1,Sucre,2794,Sucre,25476,Coliseo Libertadores,1003567,7,240,147,52,13,212,147,212
 1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001387,3,240,163,35,14,212,163,212
 1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001427,7,240,151,44,22,217,151,217
@@ -477,6 +501,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001457,10,240,159,31,15,205,159,205
 1,Oropeza,1,Sucre,2794,Sucre,25526,U.E. Eduardo Abaroa,1001467,11,248,156,41,13,210,156,210
 1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,1007137,1,240,175,44,7,226,175,226
+1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,1007157,3,240,155,43,17,215,155,215
 1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1009957,1,240,116,73,19,208,116,208
 1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1009967,2,240,109,65,21,195,109,195
 1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1009977,3,240,101,80,13,194,101,194
@@ -515,8 +540,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003667,1,240,138,51,18,207,138,207
 1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003677,2,240,118,52,21,191,118,191
 1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003707,5,240,143,47,13,203,143,203
+1,Oropeza,1,Sucre,2794,Sucre,26373,U.E. Franz Tamayo,1003747,9,49,31,8,3,42,31,42
 1,Oropeza,1,Sucre,2794,Sucre,26374,U.E. Kurusa Llawi,1007307,1,240,116,66,20,202,116,202
+1,Oropeza,1,Sucre,2794,Sucre,26374,U.E. Kurusa Llawi,1007317,2,240,121,66,15,202,121,202
 1,Oropeza,1,Sucre,2794,Sucre,26374,U.E. Kurusa Llawi,1007327,3,142,68,32,9,109,68,109
+1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1009857,2,240,93,71,21,185,93,185
 1,Oropeza,1,Sucre,2794,Sucre,26376,Campo Deportivo Barrio Lindo,1002067,1,240,149,48,13,210,149,210
 1,Oropeza,1,Sucre,2794,Sucre,26376,Campo Deportivo Barrio Lindo,1002087,3,240,145,38,16,199,145,199
 1,Oropeza,1,Sucre,2794,Sucre,26376,Campo Deportivo Barrio Lindo,1002097,4,200,116,37,9,162,116,162
@@ -543,9 +571,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008367,1,240,143,43,22,208,143,208
 1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008377,2,240,127,57,19,203,127,203
 1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008387,3,240,134,59,11,204,134,204
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008397,4,240,134,58,15,207,134,207
 1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008407,5,240,132,50,16,198,132,198
 1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008417,6,240,135,61,7,203,135,203
 1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008427,7,240,93,84,18,195,93,195
+1,Oropeza,1,Sucre,2794,Sucre,30015,U.E. Gualberto Paredes,1008437,8,240,111,63,24,198,111,198
 1,Oropeza,1,Sucre,2794,Sucre,32160,U.E. Genoveva Rios,1009327,1,240,121,64,18,203,121,203
 1,Oropeza,1,Sucre,2794,Sucre,32160,U.E. Genoveva Rios,1009337,2,209,108,45,19,172,108,172
 1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005227,1,240,120,58,25,203,120,203
@@ -571,6 +601,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000927,4,240,165,29,9,203,165,203
 1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000937,5,240,153,39,10,202,153,202
 1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000947,6,240,172,33,9,214,172,214
+1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000957,7,191,133,20,16,169,133,169
 1,Oropeza,1,Sucre,2794,Sucre,32438,Salón Multifuncional Barrio Icla,1010017,1,38,23,10,4,37,23,37
 1,Oropeza,1,Sucre,2794,Sucre,32439,Salón Multifuncional Santa Fé,1007627,1,72,51,12,3,66,51,66
 1,Oropeza,1,Sucre,3821,Alto Khora Khora,1,U.E. Qhora Qhora Alta,1000067,1,240,87,81,16,184,87,184
@@ -579,3 +610,5 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,3821,Alto Khora Khora,1,U.E. Qhora Qhora Alta,1000097,4,240,100,80,18,198,100,198
 1,Oropeza,1,Sucre,3821,Alto Khora Khora,1,U.E. Qhora Qhora Alta,1000107,5,240,111,80,20,211,111,211
 1,Oropeza,1,Sucre,3821,Alto Khora Khora,1,U.E. Qhora Qhora Alta,1000117,6,150,64,44,7,115,64,115
+3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011317,2,240,137,52,13,202,137,202
+6,Yamparáez,2,Yamparáez,1363,Yamparaez,1,Escuela Eduardo Sempertegui,1014217,3,240,131,59,8,198,131,198

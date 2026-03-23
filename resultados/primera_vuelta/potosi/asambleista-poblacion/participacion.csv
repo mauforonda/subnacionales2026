@@ -34,6 +34,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002261,7,240,125,75,12,212,125,212
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002271,8,240,147,59,12,218,147,218
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002281,9,240,143,60,5,208,143,208
+1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002291,10,240,119,77,13,209,119,209
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002301,11,257,147,62,12,221,147,221
 1,Tomás Frías,1,Potosí,1494,Potosí,13,Esc. Copacabana,5004241,1,240,136,74,14,224,136,224
 1,Tomás Frías,1,Potosí,1494,Potosí,13,Esc. Copacabana,5004251,2,240,131,68,23,222,131,222
@@ -64,6 +65,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,17,Coleg. Luis Espinal,5001571,13,240,97,86,14,197,97,197
 1,Tomás Frías,1,Potosí,1494,Potosí,17,Coleg. Luis Espinal,5001581,14,253,121,81,2,204,121,204
 1,Tomás Frías,1,Potosí,1494,Potosí,18,Esc. Jose A.Zampa,5002311,1,240,120,43,6,169,120,169
+1,Tomás Frías,1,Potosí,1494,Potosí,18,Esc. Jose A.Zampa,5002321,2,240,100,71,16,187,100,187
 1,Tomás Frías,1,Potosí,1494,Potosí,18,Esc. Jose A.Zampa,5002331,3,240,118,85,5,208,118,208
 1,Tomás Frías,1,Potosí,1494,Potosí,18,Esc. Jose A.Zampa,5002341,4,240,98,94,11,203,98,203
 1,Tomás Frías,1,Potosí,1494,Potosí,18,Esc. Jose A.Zampa,5002351,5,240,104,109,10,223,104,223
@@ -427,6 +429,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006001,2,240,120,87,9,216,120,216
 1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006011,3,240,114,79,22,215,114,215
 1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006021,4,240,101,103,11,215,101,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006041,6,240,127,85,8,220,127,220
 1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006051,7,240,118,89,7,214,118,214
 1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006061,8,30,16,10,0,26,16,26
 1,Tomás Frías,1,Potosí,1494,Potosí,25036,(Cárcel) Penal de Cantumarca,5007351,1,240,66,114,10,190,66,190
@@ -583,6 +586,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000751,12,240,91,120,9,220,91,220
 1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000761,13,240,90,124,10,224,90,224
 1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000771,14,240,93,107,9,209,93,209
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000781,15,240,88,114,11,213,88,213
 1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000791,16,240,96,105,17,218,96,218
 1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000801,17,171,61,86,7,154,61,154
 1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000461,1,240,114,92,7,213,114,213
@@ -688,41 +692,72 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1508,Chullchucani,64,Esc. Martin Cruz,5000091,1,240,125,79,5,209,125,209
 1,Tomás Frías,1,Potosí,1508,Chullchucani,64,Esc. Martin Cruz,5000101,2,204,138,42,10,190,138,190
 1,Tomás Frías,1,Potosí,2741,Santiago de Ockoruro,65,Esc. Ockoruro,5000111,1,119,34,54,5,93,34,93
+1,Tomás Frías,1,Potosí,3030,Modragon,513,Esc. Tomas Frias,5000131,1,146,113,22,2,137,113,137
 1,Tomás Frías,1,Potosí,3134,Parantaca,535,Esc. Parantaca,5000141,1,165,83,59,1,143,83,143
 1,Tomás Frías,1,Potosí,4568,Pati Pati,32277,U.E. San José de Pati Pati,5000151,1,240,85,130,6,221,85,221
 1,Tomás Frías,1,Potosí,4568,Pati Pati,32277,U.E. San José de Pati Pati,5000161,2,133,51,72,1,124,51,124
+1,Tomás Frías,4,Urmiri,1512,Urmiri,69,Esc. Juan Jose Perez,5008121,1,240,77,114,14,205,77,205
+1,Tomás Frías,4,Urmiri,1512,Urmiri,69,Esc. Juan Jose Perez,5008131,2,30,15,8,3,26,15,26
+2,Bustillo,3,Llallagua,1530,Llallagua,88,Esc. Jaime Mendoza,5009441,1,240,128,76,16,220,128,220
+2,Bustillo,3,Llallagua,1530,Llallagua,88,Esc. Jaime Mendoza,5009451,2,240,129,68,18,215,129,215
 2,Bustillo,3,Llallagua,1530,Llallagua,88,Esc. Jaime Mendoza,5009461,3,240,104,84,24,212,104,212
+2,Bustillo,3,Llallagua,1530,Llallagua,88,Esc. Jaime Mendoza,5009471,4,240,117,87,19,223,117,223
 2,Bustillo,3,Llallagua,1530,Llallagua,88,Esc. Jaime Mendoza,5009481,5,240,121,71,28,220,121,220
 2,Bustillo,3,Llallagua,1530,Llallagua,88,Esc. Jaime Mendoza,5009511,8,240,103,92,21,216,103,216
 2,Bustillo,3,Llallagua,1530,Llallagua,88,Esc. Jaime Mendoza,5009541,11,240,118,76,17,211,118,211
+2,Bustillo,3,Llallagua,1530,Llallagua,88,Esc. Jaime Mendoza,5009551,12,240,113,70,27,210,113,210
 2,Bustillo,3,Llallagua,1530,Llallagua,88,Esc. Jaime Mendoza,5009561,13,218,112,57,19,188,112,188
+2,Bustillo,3,Llallagua,1530,Llallagua,89,Martin Cardenas,5010011,3,240,100,95,14,209,100,209
+2,Bustillo,3,Llallagua,1530,Llallagua,90,U.E. 1ro. de Mayo  B,5009571,1,240,98,94,20,212,98,212
+2,Bustillo,3,Llallagua,1530,Llallagua,90,U.E. 1ro. de Mayo  B,5009601,4,240,82,90,35,207,82,207
+2,Bustillo,3,Llallagua,1530,Llallagua,90,U.E. 1ro. de Mayo  B,5009621,6,240,87,92,32,211,87,211
+2,Bustillo,3,Llallagua,1530,Llallagua,90,U.E. 1ro. de Mayo  B,5009631,7,240,115,80,17,212,115,212
+2,Bustillo,3,Llallagua,1530,Llallagua,90,U.E. 1ro. de Mayo  B,5009641,8,240,92,105,23,220,92,220
+2,Bustillo,3,Llallagua,1530,Llallagua,90,U.E. 1ro. de Mayo  B,5009651,9,240,103,74,32,209,103,209
 2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010191,1,240,125,70,18,213,125,213
 2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010201,2,240,111,84,21,216,111,216
 2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010211,3,240,100,87,22,209,100,209
 2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010221,4,240,89,87,27,203,89,203
+2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010231,5,240,100,72,26,198,100,198
 2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010241,6,240,99,94,22,215,99,215
+2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010251,7,240,108,85,15,208,108,208
+2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010261,8,240,114,76,22,212,114,212
+2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010271,9,240,107,80,30,217,107,217
+2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010281,10,240,126,72,14,212,126,212
 2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010301,12,240,101,88,16,205,101,205
+2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010321,14,240,115,73,20,208,115,208
 2,Bustillo,3,Llallagua,1530,Llallagua,92,Coleg. Siglo XX America,5010331,15,235,98,73,15,186,98,186
 2,Bustillo,3,Llallagua,1530,Llallagua,93,Esc. Carlos Medinaceli,5009691,3,240,112,89,21,222,112,222
 2,Bustillo,3,Llallagua,1530,Llallagua,94,Esc. 6 de Junio,5010341,1,240,98,87,14,199,98,199
 2,Bustillo,3,Llallagua,1530,Llallagua,94,Esc. 6 de Junio,5010351,2,240,90,81,23,194,90,194
 2,Bustillo,3,Llallagua,1530,Llallagua,94,Esc. 6 de Junio,5010361,3,240,84,92,23,199,84,199
 2,Bustillo,3,Llallagua,1530,Llallagua,94,Esc. 6 de Junio,5010371,4,240,87,94,22,203,87,203
+2,Bustillo,3,Llallagua,1530,Llallagua,94,Esc. 6 de Junio,5010391,6,240,86,86,21,193,86,193
+2,Bustillo,3,Llallagua,1530,Llallagua,94,Esc. 6 de Junio,5010401,7,240,104,72,22,198,104,198
 2,Bustillo,3,Llallagua,1530,Llallagua,94,Esc. 6 de Junio,5010411,8,53,26,14,3,43,26,43
 2,Bustillo,3,Llallagua,1530,Llallagua,95,Humanistico Llallagua,5009741,2,240,122,79,16,217,122,217
+2,Bustillo,3,Llallagua,1530,Llallagua,95,Humanistico Llallagua,5009761,4,240,107,81,19,207,107,207
 2,Bustillo,3,Llallagua,1530,Llallagua,31145,CEA   Catavi,5010421,1,240,147,32,28,207,147,207
+2,Bustillo,3,Llallagua,1530,Llallagua,31145,CEA   Catavi,5010431,2,240,96,76,34,206,96,206
 2,Bustillo,3,Llallagua,1530,Llallagua,31145,CEA   Catavi,5010441,3,257,110,91,22,223,110,223
+2,Bustillo,3,Llallagua,1530,Llallagua,31146,U. E. Monseñor Cleto Loayza,5010141,5,240,80,104,25,209,80,209
 2,Bustillo,3,Llallagua,1530,Llallagua,31147,U. E. Tomás Frías,5009891,1,240,76,100,24,200,76,200
 2,Bustillo,3,Llallagua,1530,Llallagua,31147,U. E. Tomás Frías,5009901,2,240,101,82,22,205,101,205
+2,Bustillo,3,Llallagua,1530,Llallagua,31147,U. E. Tomás Frías,5009911,3,240,92,83,19,194,92,194
 2,Bustillo,3,Llallagua,1530,Llallagua,31147,U. E. Tomás Frías,5009921,4,240,82,94,33,209,82,209
 2,Bustillo,3,Llallagua,1530,Llallagua,31147,U. E. Tomás Frías,5009931,5,240,99,92,17,208,99,208
+2,Bustillo,3,Llallagua,1530,Llallagua,31147,U. E. Tomás Frías,5009941,6,218,93,78,20,191,93,191
 2,Bustillo,3,Llallagua,1530,Llallagua,32273,U.E. Libertad,5009381,1,240,98,98,19,215,98,215
 2,Bustillo,3,Llallagua,1530,Llallagua,32273,U.E. Libertad,5009391,2,240,69,113,35,217,69,217
+2,Bustillo,3,Llallagua,1530,Llallagua,32273,U.E. Libertad,5009401,3,240,70,119,27,216,70,216
 2,Bustillo,3,Llallagua,1530,Llallagua,32273,U.E. Libertad,5009411,4,240,86,112,25,223,86,223
+2,Bustillo,3,Llallagua,1530,Llallagua,32273,U.E. Libertad,5009421,5,240,77,132,17,226,77,226
 2,Bustillo,3,Llallagua,1530,Llallagua,32273,U.E. Libertad,5009431,6,66,19,27,10,56,19,56
+4,Chayanta,2,Ravelo,1583,Huaycoma,152,Esc. Huaycoma,5012551,1,187,37,82,8,127,37,127
 4,Chayanta,2,Ravelo,3284,Lamphasuni,1,Esc. Lamphasuni,5012301,1,130,24,83,8,115,24,115
 4,Chayanta,2,Ravelo,3326,Teja Molino,1,Esc. Secc. Teja Molino,5012311,1,246,36,143,2,181,36,181
 4,Chayanta,5,San Pedro de Macha,1569,Uluchi,139,U. E. Elizardo Perez,5013711,1,240,62,138,6,206,62,206
+4,Chayanta,5,San Pedro de Macha,1569,Uluchi,139,U. E. Elizardo Perez,5013721,2,240,24,148,13,185,24,185
 4,Chayanta,5,San Pedro de Macha,1569,Uluchi,139,U. E. Elizardo Perez,5013731,3,240,62,124,10,196,62,196
 4,Chayanta,5,San Pedro de Macha,1569,Uluchi,139,U. E. Elizardo Perez,5013741,4,29,8,16,0,24,8,24
 4,Chayanta,5,San Pedro de Macha,1573,Ayoma,141,U. E. Franz Tamayo De Ayoma,5013761,2,240,52,120,12,184,52,184
