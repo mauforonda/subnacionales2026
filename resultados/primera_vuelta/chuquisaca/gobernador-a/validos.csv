@@ -1,7 +1,35 @@
 CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,AGN,LIBRE,NGP,PATRIA-UNIDOS,MTS,FRI,XS-CH,A-UPP
 1,Oropeza,1,Sucre,2794,Sucre,103,Esc. Mariscal De Ayacucho,1000631,1,83,23,8,46,1,3,5,6
 1,Oropeza,1,Sucre,2794,Sucre,103,Esc. Mariscal De Ayacucho,1000641,2,107,16,6,47,2,3,4,1
-1,Oropeza,1,Sucre,2794,Sucre,522,Col. Bernardo Monteagudo,1000691,5,79,33,5,47,4,4,4,6
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004731,2,87,17,10,57,3,3,3,2
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004771,6,98,13,6,49,2,3,3,2
+1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004791,8,74,16,4,75,7,0,6,2
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005271,1,67,14,7,60,4,11,9,3
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005321,6,52,15,4,54,4,11,6,8
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005341,8,72,14,8,70,4,7,7,3
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005361,10,50,12,6,73,2,8,3,9
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005371,11,76,14,1,52,4,3,7,5
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005381,12,54,18,6,64,5,7,10,8
+1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005391,13,70,15,5,58,3,6,12,5
+1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003191,1,86,11,1,72,5,2,4,3
+1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003211,3,110,16,12,54,2,4,1,6
+1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003221,4,84,17,9,60,6,4,1,6
+1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003231,5,103,15,4,62,5,7,2,4
+1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003241,6,31,5,2,36,1,2,2,0
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1000961,1,87,7,1,77,11,5,4,5
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1000971,2,76,12,3,73,3,4,5,1
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1000991,4,95,12,3,67,1,1,6,4
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001001,5,99,6,5,51,2,6,14,1
+1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001011,6,86,6,8,65,5,10,8,2
+1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004391,7,86,16,10,68,2,5,2,3
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003831,9,74,10,9,68,2,6,10,5
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003871,13,76,11,4,80,5,7,9,5
+1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003931,19,70,8,3,71,10,5,10,3
+1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001141,1,82,16,4,68,6,2,4,3
+1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001151,2,79,15,13,52,1,5,3,9
+1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001161,3,90,18,6,67,3,4,3,5
+1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001171,4,99,13,7,60,0,2,3,4
+1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001181,5,33,9,7,25,2,2,2,1
 1,Oropeza,1,Sucre,2794,Sucre,202,Col. Don Bosco,1000701,1,88,34,6,54,0,1,0,3
 1,Oropeza,1,Sucre,2794,Sucre,202,Col. Don Bosco,1000711,2,85,34,5,48,5,5,6,3
 1,Oropeza,1,Sucre,2794,Sucre,202,Col. Don Bosco,1000731,4,96,24,13,43,6,5,3,4
@@ -11,19 +39,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,204,Col. Sagrado Corazon,1000791,3,82,19,4,57,5,5,3,5
 1,Oropeza,1,Sucre,2794,Sucre,204,Col. Sagrado Corazon,1000801,4,89,14,6,50,0,2,2,8
 1,Oropeza,1,Sucre,2794,Sucre,204,Col. Sagrado Corazon,1000811,5,27,7,3,16,1,3,2,2
-1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000891,1,88,21,7,67,3,3,3,3
-1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000901,2,100,21,5,47,4,1,1,2
-1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000911,3,90,24,4,63,6,1,2,2
-1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1000961,1,87,7,1,77,11,5,4,5
-1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1000971,2,76,12,3,73,3,4,5,1
-1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1000991,4,95,12,3,67,1,1,6,4
-1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001001,5,99,6,5,51,2,6,14,1
-1,Oropeza,1,Sucre,2794,Sucre,115,Esc. La Recoleta,1001011,6,86,6,8,65,5,10,8,2
-1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001141,1,82,16,4,68,6,2,4,3
-1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001151,2,79,15,13,52,1,5,3,9
-1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001161,3,90,18,6,67,3,4,3,5
-1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001171,4,99,13,7,60,0,2,3,4
-1,Oropeza,1,Sucre,2794,Sucre,124,Kinder Echeverria,1001181,5,33,9,7,25,2,2,2,1
+1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1009491,9,67,1,2,56,5,4,1,5
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008051,2,56,9,5,79,5,5,6,4
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008061,3,63,14,4,59,4,9,4,7
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008081,5,50,11,4,66,8,5,5,5
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008101,7,48,13,2,67,8,0,3,4
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008121,9,41,7,2,72,4,6,5,3
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008131,10,53,10,4,67,3,3,9,7
+1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008151,12,36,10,5,90,6,6,7,3
 1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001191,1,82,12,4,67,4,12,5,3
 1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001201,2,101,18,2,46,3,4,3,4
 1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001211,3,73,16,7,65,4,8,4,4
@@ -33,27 +56,6 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001251,7,92,19,7,63,5,5,2,1
 1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001261,8,91,21,3,53,2,11,1,3
 1,Oropeza,1,Sucre,2794,Sucre,222,Col. Cardenal Maurer,1001271,9,75,14,5,39,0,2,2,6
-1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001601,14,62,8,3,67,12,3,12,4
-1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001621,16,69,8,1,70,4,5,3,4
-1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001631,17,63,12,4,67,11,7,4,2
-1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001641,18,65,10,2,66,4,4,6,6
-1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001651,19,41,12,7,79,7,5,10,7
-1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001691,23,53,9,8,66,11,2,8,6
-1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001701,24,65,14,6,63,6,8,8,9
-1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001711,25,34,7,1,54,5,1,4,2
-1,Oropeza,1,Sucre,2794,Sucre,504,U.E. Cristina Aitken de Gutierrez,1001741,3,81,18,9,70,5,8,3,2
-1,Oropeza,1,Sucre,2794,Sucre,504,U.E. Cristina Aitken de Gutierrez,1001761,5,102,11,3,59,7,5,5,4
-1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001801,1,68,21,13,55,2,6,3,7
-1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001821,3,83,17,8,70,2,3,6,3
-1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001831,4,62,16,3,74,3,5,5,8
-1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001841,5,78,16,12,61,6,6,7,3
-1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001851,6,74,14,5,61,5,4,8,6
-1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001861,7,12,2,2,4,0,0,1,1
-1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002001,14,75,6,2,51,3,6,8,6
-1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002021,16,85,18,4,68,3,6,5,1
-1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002031,17,84,13,2,65,3,3,3,3
-1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002041,18,65,20,3,65,7,3,7,3
-1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002051,19,33,3,2,31,1,1,0,0
 1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002181,9,43,7,3,66,7,6,8,5
 1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002191,10,46,5,10,68,2,8,6,4
 1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002211,12,37,8,9,56,4,9,17,6
@@ -66,13 +68,20 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002291,20,46,10,9,63,6,6,10,7
 1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002301,21,49,8,2,71,8,8,8,5
 1,Oropeza,1,Sucre,2794,Sucre,227,Col. Emilio Hoschman,1002311,22,30,6,1,35,5,3,8,0
-1,Oropeza,1,Sucre,2794,Sucre,25577,U.E. Cristo Rey,1002351,1,72,19,7,76,4,11,0,8
-1,Oropeza,1,Sucre,2794,Sucre,25577,U.E. Cristo Rey,1002361,2,22,3,0,19,4,3,3,1
-1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002381,2,70,29,1,52,6,6,3,2
-1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002391,3,79,23,5,62,2,8,4,6
-1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002411,5,71,23,6,61,10,3,7,6
-1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002421,6,66,28,7,58,2,2,2,4
-1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002491,13,85,17,9,50,3,4,11,6
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001801,1,68,21,13,55,2,6,3,7
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001821,3,83,17,8,70,2,3,6,3
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001831,4,62,16,3,74,3,5,5,8
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001841,5,78,16,12,61,6,6,7,3
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001851,6,74,14,5,61,5,4,8,6
+1,Oropeza,1,Sucre,2794,Sucre,231,E.S.F.M. Mariscal Sucre,1001861,7,12,2,2,4,0,0,1,1
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001601,14,62,8,3,67,12,3,12,4
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001621,16,69,8,1,70,4,5,3,4
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001631,17,63,12,4,67,11,7,4,2
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001641,18,65,10,2,66,4,4,6,6
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001651,19,41,12,7,79,7,5,10,7
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001691,23,53,9,8,66,11,2,8,6
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001701,24,65,14,6,63,6,8,8,9
+1,Oropeza,1,Sucre,2794,Sucre,403,Esc. Sagrada Familia,1001711,25,34,7,1,54,5,1,4,2
 1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002541,1,71,15,4,68,4,5,10,4
 1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002551,2,88,21,3,67,4,4,7,3
 1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002571,4,55,21,3,65,5,14,6,6
@@ -89,18 +98,17 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002691,16,74,12,8,81,4,5,2,5
 1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002701,17,85,24,8,55,11,5,8,3
 1,Oropeza,1,Sucre,2794,Sucre,407,Estadium Patria,1002711,18,42,9,3,23,1,4,0,0
-1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003191,1,86,11,1,72,5,2,4,3
-1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003211,3,110,16,12,54,2,4,1,6
-1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003221,4,84,17,9,60,6,4,1,6
-1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003231,5,103,15,4,62,5,7,2,4
-1,Oropeza,1,Sucre,2794,Sucre,113,Esc. Benjamin Guzman,1003241,6,31,5,2,36,1,2,2,0
-1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003831,9,74,10,9,68,2,6,10,5
-1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003871,13,76,11,4,80,5,7,9,5
-1,Oropeza,1,Sucre,2794,Sucre,123,Esc. San Juanillo,1003931,19,70,8,3,71,10,5,10,3
 1,Oropeza,1,Sucre,2794,Sucre,502,Seminario Teologico Del Sur,1003971,1,60,18,12,68,12,5,9,11
-1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004151,6,41,19,2,74,10,7,7,12
-1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004161,7,47,12,5,61,9,4,14,7
-1,Oropeza,1,Sucre,2794,Sucre,32387,Facultad de Ciencias de Enfermeria y Obstetricia,1004191,1,37,12,4,35,1,3,8,0
+1,Oropeza,1,Sucre,2794,Sucre,504,U.E. Cristina Aitken de Gutierrez,1001741,3,81,18,9,70,5,8,3,2
+1,Oropeza,1,Sucre,2794,Sucre,504,U.E. Cristina Aitken de Gutierrez,1001761,5,102,11,3,59,7,5,5,4
+1,Oropeza,1,Sucre,2794,Sucre,506,Fundacion Pachamama,1007201,1,84,20,2,56,6,7,4,1
+1,Oropeza,1,Sucre,2794,Sucre,506,Fundacion Pachamama,1007221,3,96,14,2,59,3,4,1,2
+1,Oropeza,1,Sucre,2794,Sucre,506,Fundacion Pachamama,1007231,4,88,18,7,72,3,4,5,3
+1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009211,1,85,14,3,65,14,4,4,2
+1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009221,2,82,13,5,58,5,7,6,6
+1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009231,3,97,12,3,61,5,4,5,2
+1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009241,4,106,6,6,52,5,3,4,6
+1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009251,5,32,10,2,22,1,0,8,3
 1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004201,1,85,18,4,62,4,4,4,2
 1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004211,2,77,15,4,65,8,6,6,10
 1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004221,3,62,8,9,78,5,8,6,9
@@ -114,10 +122,34 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004301,11,92,6,4,68,3,5,4,4
 1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004311,12,85,19,2,52,3,3,3,8
 1,Oropeza,1,Sucre,2794,Sucre,508,IPTK N Aguirre 560 CERPI,1004321,13,32,8,1,28,3,1,2,3
-1,Oropeza,1,Sucre,2794,Sucre,117,Esc. San Javier,1004391,7,86,16,10,68,2,5,2,3
-1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004731,2,87,17,10,57,3,3,3,2
-1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004771,6,98,13,6,49,2,3,3,2
-1,Oropeza,1,Sucre,2794,Sucre,108,Col. Mariano Serrano,1004791,8,74,16,4,75,7,0,6,2
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002381,2,70,29,1,52,6,6,3,2
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002391,3,79,23,5,62,2,8,4,6
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002411,5,71,23,6,61,10,3,7,6
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002421,6,66,28,7,58,2,2,2,4
+1,Oropeza,1,Sucre,2794,Sucre,512,Facultad de Tecnología,1002491,13,85,17,9,50,3,4,11,6
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002001,14,75,6,2,51,3,6,8,6
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002021,16,85,18,4,68,3,6,5,1
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002031,17,84,13,2,65,3,3,3,3
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002041,18,65,20,3,65,7,3,7,3
+1,Oropeza,1,Sucre,2794,Sucre,516,Terminal De Buses,1002051,19,33,3,2,31,1,1,0,0
+1,Oropeza,1,Sucre,2794,Sucre,522,Col. Bernardo Monteagudo,1000691,5,79,33,5,47,4,4,4,6
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008911,13,61,13,4,74,7,3,6,7
+1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008921,14,22,3,1,20,0,0,2,2
+1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005811,17,77,10,6,67,5,11,5,7
+1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008751,14,74,6,4,61,12,2,7,1
+1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,1006491,6,76,12,8,77,3,4,2,8
+1,Oropeza,1,Sucre,2794,Sucre,25028,Salon Multifuncional La Hoyada,1007861,1,67,9,7,54,2,8,8,6
+1,Oropeza,1,Sucre,2794,Sucre,25028,Salon Multifuncional La Hoyada,1007871,2,85,9,7,61,7,11,7,4
+1,Oropeza,1,Sucre,2794,Sucre,25028,Salon Multifuncional La Hoyada,1007881,3,71,11,6,49,3,10,9,3
+1,Oropeza,1,Sucre,2794,Sucre,25029,(Cárcel) Cárcel Pública,1009351,2,42,12,11,39,9,11,8,5
+1,Oropeza,1,Sucre,2794,Sucre,25029,(Cárcel) Cárcel Pública,1009361,3,47,18,8,44,7,4,8,8
+1,Oropeza,1,Sucre,2794,Sucre,25029,(Cárcel) Cárcel Pública,1009371,4,16,5,5,21,3,1,5,3
+1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1009961,2,42,9,7,68,4,4,7,4
+1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1009981,4,44,8,4,53,10,9,13,9
+1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1010001,6,50,8,5,58,11,4,6,7
+1,Oropeza,1,Sucre,2794,Sucre,25568,U.E. San Roque Nivel Inicial,1008001,4,84,11,17,51,3,6,4,6
+1,Oropeza,1,Sucre,2794,Sucre,25569,Salón Multifuncional Satélite,1007071,1,73,9,6,61,11,6,9,5
+1,Oropeza,1,Sucre,2794,Sucre,25569,Salón Multifuncional Satélite,1007081,2,55,5,7,79,5,2,5,5
 1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1004971,1,59,24,5,53,6,8,9,9
 1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1004981,2,58,20,5,58,4,4,9,4
 1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1004991,3,71,18,6,51,1,7,7,7
@@ -125,47 +157,13 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1005031,7,66,23,6,65,4,5,3,7
 1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1005041,8,62,24,4,60,5,2,8,7
 1,Oropeza,1,Sucre,2794,Sucre,25570,Campo Deportivo San Juanillo Bajo,1005051,9,5,2,0,8,1,1,0,1
-1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005221,1,58,17,3,51,8,8,13,7
-1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005231,2,76,13,3,55,10,6,6,5
-1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005241,3,71,13,2,68,5,5,10,5
-1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005251,4,59,10,4,72,4,4,6,8
-1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005261,5,35,9,1,41,4,3,4,1
-1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005271,1,67,14,7,60,4,11,9,3
-1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005321,6,52,15,4,54,4,11,6,8
-1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005341,8,72,14,8,70,4,7,7,3
-1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005361,10,50,12,6,73,2,8,3,9
-1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005371,11,76,14,1,52,4,3,7,5
-1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005381,12,54,18,6,64,5,7,10,8
-1,Oropeza,1,Sucre,2794,Sucre,111,Esc. Roberto Alvarado,1005391,13,70,15,5,58,3,6,12,5
-1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,1005811,17,77,10,6,67,5,11,5,7
-1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,1006491,6,76,12,8,77,3,4,2,8
-1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006511,1,73,19,5,62,4,13,7,5
-1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006521,2,77,18,6,72,8,4,1,4
-1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006531,3,82,21,9,60,5,5,7,5
-1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006541,4,75,14,12,66,5,13,11,3
-1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006551,5,41,11,6,39,0,5,5,6
-1,Oropeza,1,Sucre,2794,Sucre,25569,Salón Multifuncional Satélite,1007071,1,73,9,6,61,11,6,9,5
-1,Oropeza,1,Sucre,2794,Sucre,25569,Salón Multifuncional Satélite,1007081,2,55,5,7,79,5,2,5,5
-1,Oropeza,1,Sucre,2794,Sucre,506,Fundacion Pachamama,1007201,1,84,20,2,56,6,7,4,1
-1,Oropeza,1,Sucre,2794,Sucre,506,Fundacion Pachamama,1007221,3,96,14,2,59,3,4,1,2
-1,Oropeza,1,Sucre,2794,Sucre,506,Fundacion Pachamama,1007231,4,88,18,7,72,3,4,5,3
-1,Oropeza,1,Sucre,2794,Sucre,32439,Salón Multifuncional Santa Fé,1007621,1,29,2,2,19,2,2,2,1
-1,Oropeza,1,Sucre,2794,Sucre,25028,Salon Multifuncional La Hoyada,1007861,1,67,9,7,54,2,8,8,6
-1,Oropeza,1,Sucre,2794,Sucre,25028,Salon Multifuncional La Hoyada,1007871,2,85,9,7,61,7,11,7,4
-1,Oropeza,1,Sucre,2794,Sucre,25028,Salon Multifuncional La Hoyada,1007881,3,71,11,6,49,3,10,9,3
-1,Oropeza,1,Sucre,2794,Sucre,25568,U.E. San Roque Nivel Inicial,1008001,4,84,11,17,51,3,6,4,6
-1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008051,2,56,9,5,79,5,5,6,4
-1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008061,3,63,14,4,59,4,9,4,7
-1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008081,5,50,11,4,66,8,5,5,5
-1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008101,7,48,13,2,67,8,0,3,4
-1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008121,9,41,7,2,72,4,6,5,3
-1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008131,10,53,10,4,67,3,3,9,7
-1,Oropeza,1,Sucre,2794,Sucre,211,Esc. Aniceto Arce,1008151,12,36,10,5,90,6,6,7,3
-1,Oropeza,1,Sucre,2794,Sucre,535,Unid. Ed. Hugo Poppe Entrambasaguas,1008751,14,74,6,4,61,12,2,7,1
-1,Oropeza,1,Sucre,2794,Sucre,32389,U.E. Bicentenario,1008771,1,84,11,6,67,9,6,6,4
-1,Oropeza,1,Sucre,2794,Sucre,32389,U.E. Bicentenario,1008781,2,29,1,2,30,1,0,1,4
-1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008911,13,61,13,4,74,7,3,6,7
-1,Oropeza,1,Sucre,2794,Sucre,533,U.E. Nuevos Horizontes,1008921,14,22,3,1,20,0,0,2,2
+1,Oropeza,1,Sucre,2794,Sucre,25577,U.E. Cristo Rey,1002351,1,72,19,7,76,4,11,0,8
+1,Oropeza,1,Sucre,2794,Sucre,25577,U.E. Cristo Rey,1002361,2,22,3,0,19,4,3,3,1
+1,Oropeza,1,Sucre,2794,Sucre,26371,U.E. Lechuguillas,1010121,1,27,15,6,87,9,4,11,4
+1,Oropeza,1,Sucre,2794,Sucre,26371,U.E. Lechuguillas,1010131,2,11,0,0,18,5,1,1,1
+1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1009381,1,87,13,2,57,13,3,6,5
+1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1009391,2,75,10,7,60,6,3,1,3
+1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1009401,3,22,0,1,10,0,2,1,2
 1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009131,1,83,20,6,73,6,4,5,1
 1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009141,2,74,16,5,58,4,6,4,6
 1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009151,3,89,22,10,58,4,1,3,7
@@ -174,27 +172,29 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009181,6,76,16,8,78,2,2,5,1
 1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009191,7,94,17,5,50,4,6,2,6
 1,Oropeza,1,Sucre,2794,Sucre,30002,Campo Deportivo zona San Francisco,1009201,8,20,5,2,14,2,0,1,1
-1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009211,1,85,14,3,65,14,4,4,2
-1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009221,2,82,13,5,58,5,7,6,6
-1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009231,3,97,12,3,61,5,4,5,2
-1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009241,4,106,6,6,52,5,3,4,6
-1,Oropeza,1,Sucre,2794,Sucre,507,Jardín De Niños San Lázaro,1009251,5,32,10,2,22,1,0,8,3
 1,Oropeza,1,Sucre,2794,Sucre,30009,Coliseo San José,1009271,2,74,28,3,67,5,5,5,3
 1,Oropeza,1,Sucre,2794,Sucre,30009,Coliseo San José,1009281,3,92,11,8,56,1,4,3,2
 1,Oropeza,1,Sucre,2794,Sucre,30009,Coliseo San José,1009291,4,86,12,6,65,7,4,7,2
 1,Oropeza,1,Sucre,2794,Sucre,30009,Coliseo San José,1009301,5,90,15,7,65,1,8,4,3
 1,Oropeza,1,Sucre,2794,Sucre,30009,Coliseo San José,1009311,6,88,20,5,65,10,3,4,3
-1,Oropeza,1,Sucre,2794,Sucre,25029,(Cárcel) Cárcel Pública,1009351,2,42,12,11,39,9,11,8,5
-1,Oropeza,1,Sucre,2794,Sucre,25029,(Cárcel) Cárcel Pública,1009361,3,47,18,8,44,7,4,8,8
-1,Oropeza,1,Sucre,2794,Sucre,25029,(Cárcel) Cárcel Pública,1009371,4,16,5,5,21,3,1,5,3
-1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1009381,1,87,13,2,57,13,3,6,5
-1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1009391,2,75,10,7,60,6,3,1,3
-1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1009401,3,22,0,1,10,0,2,1,2
-1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1009491,9,67,1,2,56,5,4,1,5
+1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005221,1,58,17,3,51,8,8,13,7
+1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005231,2,76,13,3,55,10,6,6,5
+1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005241,3,71,13,2,68,5,5,10,5
+1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005251,4,59,10,4,72,4,4,6,8
+1,Oropeza,1,Sucre,2794,Sucre,32161,Salón Multifuncional Luis Espinal,1005261,5,35,9,1,41,4,3,4,1
+1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006511,1,73,19,5,62,4,13,7,5
+1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006521,2,77,18,6,72,8,4,1,4
+1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006531,3,82,21,9,60,5,5,7,5
+1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006541,4,75,14,12,66,5,13,11,3
+1,Oropeza,1,Sucre,2794,Sucre,32162,Centro Recreacional La Esperanza,1006551,5,41,11,6,39,0,5,5,6
+1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004151,6,41,19,2,74,10,7,7,12
+1,Oropeza,1,Sucre,2794,Sucre,32163,U.E. Ernesto Che Guevara,1004161,7,47,12,5,61,9,4,14,7
+1,Oropeza,1,Sucre,2794,Sucre,32387,Facultad de Ciencias de Enfermeria y Obstetricia,1004191,1,37,12,4,35,1,3,8,0
 1,Oropeza,1,Sucre,2794,Sucre,32388,U.E. Tambo Aranjuez,1009831,1,4,1,2,12,0,2,2,1
-1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1009961,2,42,9,7,68,4,4,7,4
-1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1009981,4,44,8,4,53,10,9,13,9
-1,Oropeza,1,Sucre,2794,Sucre,25531,U.E. Thako Pampa,1010001,6,50,8,5,58,11,4,6,7
+1,Oropeza,1,Sucre,2794,Sucre,32389,U.E. Bicentenario,1008771,1,84,11,6,67,9,6,6,4
+1,Oropeza,1,Sucre,2794,Sucre,32389,U.E. Bicentenario,1008781,2,29,1,2,30,1,0,1,4
+1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000891,1,88,21,7,67,3,3,3,3
+1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000901,2,100,21,5,47,4,1,1,2
+1,Oropeza,1,Sucre,2794,Sucre,32390,U.E. Teresa Bustos de Lemoine,1000911,3,90,24,4,63,6,1,2,2
 1,Oropeza,1,Sucre,2794,Sucre,32438,Salón Multifuncional Barrio Icla,1010011,1,5,2,3,13,3,0,6,0
-1,Oropeza,1,Sucre,2794,Sucre,26371,U.E. Lechuguillas,1010121,1,27,15,6,87,9,4,11,4
-1,Oropeza,1,Sucre,2794,Sucre,26371,U.E. Lechuguillas,1010131,2,11,0,0,18,5,1,1,1
+1,Oropeza,1,Sucre,2794,Sucre,32439,Salón Multifuncional Santa Fé,1007621,1,29,2,2,19,2,2,2,1

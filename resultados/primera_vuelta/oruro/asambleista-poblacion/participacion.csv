@@ -1,16 +1,27 @@
 CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,InscritosHabilitados,VotoValido,VotoBlanco,VotoNulo,VotoEmitido,VotoValidoReal,VotoEmitidoReal
-1,Cercado,1,Oruro,2059,Oruro,108,Col. Nal. Antonio Jose De Sainz,4000011,1,240,144,53,16,213,144,213
-1,Cercado,1,Oruro,2059,Oruro,108,Col. Nal. Antonio Jose De Sainz,4000031,3,240,146,45,22,213,146,213
-1,Cercado,1,Oruro,2059,Oruro,108,Col. Nal. Antonio Jose De Sainz,4000041,4,240,140,48,22,210,140,210
-1,Cercado,1,Oruro,2059,Oruro,108,Col. Nal. Antonio Jose De Sainz,4000051,5,240,137,58,14,209,137,209
-1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000411,1,240,150,51,20,221,150,221
-1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000421,2,240,142,50,19,211,142,211
-1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000431,3,240,145,48,23,216,145,216
-1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000441,4,240,128,70,21,219,128,219
-1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000451,5,240,147,46,16,209,147,209
-1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000461,6,240,139,38,33,210,139,210
-1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000471,7,240,139,50,31,220,139,220
-1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000481,8,65,33,15,5,53,33,53
+1,Cercado,1,Oruro,2059,Oruro,79,Esc. Jacinto Rodriguez (La Aurora),4003261,2,240,119,70,24,213,119,213
+1,Cercado,1,Oruro,2059,Oruro,79,Esc. Jacinto Rodriguez (La Aurora),4003271,3,240,95,80,44,219,95,219
+1,Cercado,1,Oruro,2059,Oruro,79,Esc. Jacinto Rodriguez (La Aurora),4003291,5,240,93,80,38,211,93,211
+1,Cercado,1,Oruro,2059,Oruro,79,Esc. Jacinto Rodriguez (La Aurora),4003301,6,240,125,75,19,219,125,219
+1,Cercado,1,Oruro,2059,Oruro,79,Esc. Jacinto Rodriguez (La Aurora),4003321,8,23,13,5,3,21,13,21
+1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003441,1,240,118,71,20,209,118,209
+1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003481,5,240,117,81,25,223,117,223
+1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003491,6,240,94,84,29,207,94,207
+1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003501,7,240,117,73,20,210,117,210
+1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003511,8,240,117,71,15,203,117,203
+1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003521,9,240,110,86,17,213,110,213
+1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003531,10,173,91,51,7,149,91,149
+1,Cercado,1,Oruro,2059,Oruro,81,U. E. Oscar Unzaga De La Vega,4002291,12,240,134,56,21,211,134,211
+1,Cercado,1,Oruro,2059,Oruro,81,U. E. Oscar Unzaga De La Vega,4002301,13,240,115,60,40,215,115,215
+1,Cercado,1,Oruro,2059,Oruro,81,U. E. Oscar Unzaga De La Vega,4002321,15,240,102,83,32,217,102,217
+1,Cercado,1,Oruro,2059,Oruro,81,U. E. Oscar Unzaga De La Vega,4002341,17,233,112,74,26,212,112,212
+1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004561,8,240,113,79,27,219,113,219
+1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004571,9,240,130,58,25,213,130,213
+1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004581,10,240,113,74,26,213,113,213
+1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004591,11,240,115,66,31,212,115,212
+1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004601,12,240,110,77,30,217,110,217
+1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004611,13,240,126,67,27,220,126,220
+1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004621,14,240,124,57,40,221,124,221
 1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,4000531,1,240,134,58,23,215,134,215
 1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,4000541,2,240,106,64,49,219,106,219
 1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,4000551,3,240,120,63,33,216,120,216
@@ -23,246 +34,6 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,4000681,5,240,135,55,25,215,135,215
 1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,4000691,6,240,143,38,15,196,143,196
 1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,4000701,7,64,30,12,7,49,30,49
-1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000711,1,240,130,68,20,218,130,218
-1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000721,2,240,150,40,21,211,150,211
-1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000731,3,240,120,73,24,217,120,217
-1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000741,4,240,134,64,23,221,134,221
-1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000751,5,240,123,75,17,215,123,215
-1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000761,6,240,140,61,21,222,140,222
-1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000771,7,240,130,68,22,220,130,220
-1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000781,8,240,130,58,28,216,130,216
-1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000791,9,240,134,68,16,218,134,218
-1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000801,10,240,138,67,17,222,138,222
-1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000811,11,240,152,42,17,211,152,211
-1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000821,12,123,81,27,8,116,81,116
-1,Cercado,1,Oruro,2059,Oruro,104,Col. Mixto San Jose,4000831,1,240,146,49,15,210,146,210
-1,Cercado,1,Oruro,2059,Oruro,104,Col. Mixto San Jose,4000841,2,240,138,53,22,213,138,213
-1,Cercado,1,Oruro,2059,Oruro,104,Col. Mixto San Jose,4000851,3,240,111,60,35,206,111,206
-1,Cercado,1,Oruro,2059,Oruro,104,Col. Mixto San Jose,4000861,4,240,140,46,24,210,140,210
-1,Cercado,1,Oruro,2059,Oruro,104,Col. Mixto San Jose,4000871,5,87,37,18,23,78,37,78
-1,Cercado,1,Oruro,2059,Oruro,117,U. Esc. Luis Llosa   España,4000881,1,240,144,50,25,219,144,219
-1,Cercado,1,Oruro,2059,Oruro,117,U. Esc. Luis Llosa   España,4000891,2,240,134,58,32,224,134,224
-1,Cercado,1,Oruro,2059,Oruro,117,U. Esc. Luis Llosa   España,4000901,3,240,146,50,22,218,146,218
-1,Cercado,1,Oruro,2059,Oruro,117,U. Esc. Luis Llosa   España,4000911,4,240,128,56,33,217,128,217
-1,Cercado,1,Oruro,2059,Oruro,117,U. Esc. Luis Llosa   España,4000921,5,76,46,15,6,67,46,67
-1,Cercado,1,Oruro,2059,Oruro,120,U. E. Eduardo Avaroa,4001051,1,240,141,52,23,216,141,216
-1,Cercado,1,Oruro,2059,Oruro,120,U. E. Eduardo Avaroa,4001061,2,240,134,63,22,219,134,219
-1,Cercado,1,Oruro,2059,Oruro,120,U. E. Eduardo Avaroa,4001071,3,240,125,56,33,214,125,214
-1,Cercado,1,Oruro,2059,Oruro,120,U. E. Eduardo Avaroa,4001081,4,240,133,60,18,211,133,211
-1,Cercado,1,Oruro,2059,Oruro,120,U. E. Eduardo Avaroa,4001091,5,60,33,15,8,56,33,56
-1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,4001101,1,240,123,59,24,206,123,206
-1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,4001111,2,173,100,36,15,151,100,151
-1,Cercado,1,Oruro,2059,Oruro,31007,U.E. Pantaleon Dalence 1,4001171,2,240,140,59,23,222,140,222
-1,Cercado,1,Oruro,2059,Oruro,31007,U.E. Pantaleon Dalence 1,4001191,4,240,146,57,20,223,146,223
-1,Cercado,1,Oruro,2059,Oruro,31007,U.E. Pantaleon Dalence 1,4001201,5,240,139,55,25,219,139,219
-1,Cercado,1,Oruro,2059,Oruro,31007,U.E. Pantaleon Dalence 1,4001211,6,240,128,65,35,228,128,228
-1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001341,1,240,137,45,27,209,137,209
-1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001351,2,240,112,66,39,217,112,217
-1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001361,3,240,143,54,15,212,143,212
-1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001371,4,240,123,63,30,216,123,216
-1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001391,6,240,141,46,23,210,141,210
-1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001401,7,240,135,50,32,217,135,217
-1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001411,8,197,118,43,18,179,118,179
-1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001421,1,240,115,61,21,197,115,197
-1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001431,2,240,136,63,19,218,136,218
-1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001441,3,240,119,67,24,210,119,210
-1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001451,4,240,130,61,24,215,130,215
-1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001461,5,240,128,64,17,209,128,209
-1,Cercado,1,Oruro,2059,Oruro,116,U. E. Anglo Americano,4001611,1,240,132,63,26,221,132,221
-1,Cercado,1,Oruro,2059,Oruro,116,U. E. Anglo Americano,4001621,2,240,126,60,19,205,126,205
-1,Cercado,1,Oruro,2059,Oruro,116,U. E. Anglo Americano,4001631,3,240,126,57,21,204,126,204
-1,Cercado,1,Oruro,2059,Oruro,116,U. E. Anglo Americano,4001641,4,240,144,56,18,218,144,218
-1,Cercado,1,Oruro,2059,Oruro,116,U. E. Anglo Americano,4001651,5,203,114,39,22,175,114,175
-1,Cercado,1,Oruro,2059,Oruro,31005,U.E. Nuestra Señora del Socavón 1,4001731,1,240,145,49,14,208,145,208
-1,Cercado,1,Oruro,2059,Oruro,31005,U.E. Nuestra Señora del Socavón 1,4001751,3,240,135,52,24,211,135,211
-1,Cercado,1,Oruro,2059,Oruro,31005,U.E. Nuestra Señora del Socavón 1,4001761,4,240,153,48,20,221,153,221
-1,Cercado,1,Oruro,2059,Oruro,31005,U.E. Nuestra Señora del Socavón 1,4001771,5,240,120,67,31,218,120,218
-1,Cercado,1,Oruro,2059,Oruro,31005,U.E. Nuestra Señora del Socavón 1,4001781,6,230,128,56,23,207,128,207
-1,Cercado,1,Oruro,2059,Oruro,32407,U.E. Rodolfo Soria Galvarro,4001791,1,240,138,59,30,227,138,227
-1,Cercado,1,Oruro,2059,Oruro,32407,U.E. Rodolfo Soria Galvarro,4001801,2,240,145,45,28,218,145,218
-1,Cercado,1,Oruro,2059,Oruro,32407,U.E. Rodolfo Soria Galvarro,4001811,3,240,135,57,20,212,135,212
-1,Cercado,1,Oruro,2059,Oruro,32407,U.E. Rodolfo Soria Galvarro,4001821,4,67,41,10,8,59,41,59
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001891,1,240,133,60,18,211,133,211
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001901,2,240,118,64,30,212,118,212
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001911,3,240,126,56,21,203,126,203
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001921,4,240,118,69,22,209,118,209
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001931,5,240,102,83,25,210,102,210
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001941,6,240,113,77,23,213,113,213
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001961,8,240,127,48,24,199,127,199
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001971,9,240,118,65,23,206,118,206
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001981,10,240,100,66,29,195,100,195
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001991,11,240,116,66,24,206,116,206
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4002001,12,240,113,72,27,212,113,212
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4002011,13,240,115,64,23,202,115,202
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4002021,14,240,124,61,16,201,124,201
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4002031,15,240,129,60,18,207,129,207
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4002041,16,240,121,69,17,207,121,207
-1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4002051,17,240,125,64,18,207,125,207
-1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002071,1,240,119,72,24,215,119,215
-1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002091,3,240,116,70,28,214,116,214
-1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002101,4,240,104,87,20,211,104,211
-1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002111,5,240,111,72,36,219,111,219
-1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002121,6,240,122,67,18,207,122,207
-1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002131,7,240,117,76,26,219,117,219
-1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002141,8,240,130,59,27,216,130,216
-1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002151,9,240,127,73,15,215,127,215
-1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002161,10,240,120,74,17,211,120,211
-1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002171,11,68,39,23,2,64,39,64
-1,Cercado,1,Oruro,2059,Oruro,81,U. E. Oscar Unzaga De La Vega,4002291,12,240,134,56,21,211,134,211
-1,Cercado,1,Oruro,2059,Oruro,81,U. E. Oscar Unzaga De La Vega,4002301,13,240,115,60,40,215,115,215
-1,Cercado,1,Oruro,2059,Oruro,81,U. E. Oscar Unzaga De La Vega,4002321,15,240,102,83,32,217,102,217
-1,Cercado,1,Oruro,2059,Oruro,81,U. E. Oscar Unzaga De La Vega,4002341,17,233,112,74,26,212,112,212
-1,Cercado,1,Oruro,2059,Oruro,25032,U. E. Oscar Unzaga De La Vega 2,4002481,1,240,134,62,20,216,134,216
-1,Cercado,1,Oruro,2059,Oruro,25032,U. E. Oscar Unzaga De La Vega 2,4002491,2,240,116,71,21,208,116,208
-1,Cercado,1,Oruro,2059,Oruro,25032,U. E. Oscar Unzaga De La Vega 2,4002501,3,240,129,57,16,202,129,202
-1,Cercado,1,Oruro,2059,Oruro,25032,U. E. Oscar Unzaga De La Vega 2,4002511,4,240,137,65,14,216,137,216
-1,Cercado,1,Oruro,2059,Oruro,25032,U. E. Oscar Unzaga De La Vega 2,4002521,5,240,143,48,27,218,143,218
-1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,4002711,1,240,79,95,19,193,79,193
-1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,4002731,3,240,75,102,11,188,75,188
-1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,4002741,4,102,29,30,15,74,29,74
-1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002801,6,240,122,70,25,217,122,217
-1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002811,7,240,136,58,24,218,136,218
-1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002821,8,240,130,51,26,207,130,207
-1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002831,9,240,135,65,24,224,135,224
-1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002841,10,240,102,91,30,223,102,223
-1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002851,11,240,134,52,31,217,134,217
-1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002861,12,240,120,79,22,221,120,221
-1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002881,14,240,117,60,42,219,117,219
-1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002891,15,240,127,62,29,218,127,218
-1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002901,16,240,133,66,22,221,133,221
-1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002911,17,68,38,15,6,59,38,59
-1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4002921,1,240,130,49,24,203,130,203
-1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4002931,2,240,127,50,30,207,127,207
-1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4002941,3,240,122,53,29,204,122,204
-1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4002971,6,240,131,60,26,217,131,217
-1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003051,1,240,140,56,17,213,140,213
-1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003061,2,240,121,67,29,217,121,217
-1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003071,3,240,109,80,23,212,109,212
-1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003081,4,240,130,57,25,212,130,212
-1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003101,6,240,119,72,27,218,119,218
-1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003111,7,240,116,65,41,222,116,222
-1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003121,8,240,139,52,25,216,139,216
-1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003131,9,68,41,13,10,64,41,64
-1,Cercado,1,Oruro,2059,Oruro,79,Esc. Jacinto Rodriguez (La Aurora),4003261,2,240,119,70,24,213,119,213
-1,Cercado,1,Oruro,2059,Oruro,79,Esc. Jacinto Rodriguez (La Aurora),4003271,3,240,95,80,44,219,95,219
-1,Cercado,1,Oruro,2059,Oruro,79,Esc. Jacinto Rodriguez (La Aurora),4003291,5,240,93,80,38,211,93,211
-1,Cercado,1,Oruro,2059,Oruro,79,Esc. Jacinto Rodriguez (La Aurora),4003301,6,240,125,75,19,219,125,219
-1,Cercado,1,Oruro,2059,Oruro,79,Esc. Jacinto Rodriguez (La Aurora),4003321,8,23,13,5,3,21,13,21
-1,Cercado,1,Oruro,2059,Oruro,99,U. E. Guido Villagomez,4003331,1,240,137,68,11,216,137,216
-1,Cercado,1,Oruro,2059,Oruro,99,U. E. Guido Villagomez,4003341,2,240,133,63,20,216,133,216
-1,Cercado,1,Oruro,2059,Oruro,99,U. E. Guido Villagomez,4003351,3,240,121,86,15,222,121,222
-1,Cercado,1,Oruro,2059,Oruro,99,U. E. Guido Villagomez,4003361,4,240,131,75,12,218,131,218
-1,Cercado,1,Oruro,2059,Oruro,99,U. E. Guido Villagomez,4003371,5,240,120,75,21,216,120,216
-1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003441,1,240,118,71,20,209,118,209
-1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003481,5,240,117,81,25,223,117,223
-1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003491,6,240,94,84,29,207,94,207
-1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003501,7,240,117,73,20,210,117,210
-1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003511,8,240,117,71,15,203,117,203
-1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003521,9,240,110,86,17,213,110,213
-1,Cercado,1,Oruro,2059,Oruro,80,Esc. Franz Tamayo (Los Pinos),4003531,10,173,91,51,7,149,91,149
-1,Cercado,1,Oruro,2059,Oruro,32366,U.E. Carlos Villegas Quiroga,4003551,2,61,34,21,1,56,34,56
-1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003601,1,240,126,67,25,218,126,218
-1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003611,2,240,118,74,30,222,118,222
-1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003621,3,240,126,78,20,224,126,224
-1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003631,4,240,139,63,19,221,139,221
-1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003641,5,240,122,63,30,215,122,215
-1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003651,6,240,120,57,38,215,120,215
-1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003661,7,240,125,69,20,214,125,214
-1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003671,8,240,142,54,26,222,142,222
-1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003681,9,240,134,63,23,220,134,220
-1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003691,10,240,115,82,28,225,115,225
-1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003701,11,156,87,42,17,146,87,146
-1,Cercado,1,Oruro,2059,Oruro,32409,U.E. 27 de Julio Huanuni,4003711,1,240,136,64,24,224,136,224
-1,Cercado,1,Oruro,2059,Oruro,32409,U.E. 27 de Julio Huanuni,4003721,2,216,121,57,11,189,121,189
-1,Cercado,1,Oruro,2059,Oruro,145,U.E. Los Angeles De Nazaria Ignacia,4003831,6,240,113,69,33,215,113,215
-1,Cercado,1,Oruro,2059,Oruro,145,U.E. Los Angeles De Nazaria Ignacia,4003841,7,240,106,76,30,212,106,212
-1,Cercado,1,Oruro,2059,Oruro,145,U.E. Los Angeles De Nazaria Ignacia,4003851,8,240,105,81,30,216,105,216
-1,Cercado,1,Oruro,2059,Oruro,145,U.E. Los Angeles De Nazaria Ignacia,4003861,9,240,86,104,17,207,86,207
-1,Cercado,1,Oruro,2059,Oruro,145,U.E. Los Angeles De Nazaria Ignacia,4003871,10,200,83,76,21,180,83,180
-1,Cercado,1,Oruro,2059,Oruro,32180,U. E. Abya Yala,4003961,1,240,111,82,17,210,111,210
-1,Cercado,1,Oruro,2059,Oruro,32180,U. E. Abya Yala,4003971,2,240,102,86,29,217,102,217
-1,Cercado,1,Oruro,2059,Oruro,32180,U. E. Abya Yala,4003981,3,38,16,15,4,35,16,35
-1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4003991,1,240,118,79,19,216,118,216
-1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004001,2,240,111,85,27,223,111,223
-1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004011,3,240,106,81,28,215,106,215
-1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004021,4,240,132,62,23,217,132,217
-1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004041,6,240,124,70,24,218,124,218
-1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004051,7,240,123,66,34,223,123,223
-1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004061,8,240,123,80,23,226,123,226
-1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004071,9,240,108,79,24,211,108,211
-1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004081,10,240,106,84,29,219,106,219
-1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004091,11,240,121,66,24,211,121,211
-1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004221,1,240,131,50,23,204,131,204
-1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004231,2,240,117,68,30,215,117,215
-1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004241,3,240,123,64,28,215,123,215
-1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004251,4,240,131,57,28,216,131,216
-1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004261,5,240,128,67,21,216,128,216
-1,Cercado,1,Oruro,2059,Oruro,149,(Cárcel) Centro Penitenciario La Merced,4004421,1,156,36,70,7,113,36,113
-1,Cercado,1,Oruro,2059,Oruro,25049,U.E. San Luis,4004441,2,240,98,90,22,210,98,210
-1,Cercado,1,Oruro,2059,Oruro,25049,U.E. San Luis,4004451,3,240,83,97,26,206,83,206
-1,Cercado,1,Oruro,2059,Oruro,25049,U.E. San Luis,4004461,4,240,95,84,31,210,95,210
-1,Cercado,1,Oruro,2059,Oruro,25049,U.E. San Luis,4004471,5,240,92,96,27,215,92,215
-1,Cercado,1,Oruro,2059,Oruro,25049,U.E. San Luis,4004481,6,234,107,84,24,215,107,215
-1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004561,8,240,113,79,27,219,113,219
-1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004571,9,240,130,58,25,213,130,213
-1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004581,10,240,113,74,26,213,113,213
-1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004591,11,240,115,66,31,212,115,212
-1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004601,12,240,110,77,30,217,110,217
-1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004611,13,240,126,67,27,220,126,220
-1,Cercado,1,Oruro,2059,Oruro,84,U.E. Huajara,4004621,14,240,124,57,40,221,124,221
-1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004701,1,240,143,65,8,216,143,216
-1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004721,3,240,126,68,19,213,126,213
-1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004731,4,240,123,80,13,216,123,216
-1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004741,5,240,126,59,24,209,126,209
-1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004751,6,240,121,72,16,209,121,209
-1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004761,7,240,103,91,21,215,103,215
-1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004771,8,240,115,73,23,211,115,211
-1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004781,9,240,117,65,33,215,117,215
-1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004791,10,240,126,57,35,218,126,218
-1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004801,11,240,113,79,18,210,113,210
-1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004811,12,240,122,75,14,211,122,211
-1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004821,13,44,19,14,2,35,19,35
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004841,2,240,120,71,21,212,120,212
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004861,4,240,108,75,21,204,108,204
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004871,5,240,98,78,24,200,98,200
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004881,6,240,107,85,18,210,107,210
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004901,8,240,96,80,43,219,96,219
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004911,9,240,111,89,14,214,111,214
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004971,15,240,95,84,20,199,95,199
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004981,16,240,105,67,30,202,105,202
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005011,19,240,116,75,14,205,116,205
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005031,21,240,100,95,23,218,100,218
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005051,23,240,109,80,23,212,109,212
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005081,26,240,101,85,29,215,101,215
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005091,27,240,101,77,29,207,101,207
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005101,28,240,131,61,23,215,131,215
-1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005111,29,84,44,23,6,73,44,73
-1,Cercado,1,Oruro,2059,Oruro,25039,U. Esc. El Kasso   El Progreso,4005121,1,240,119,81,16,216,119,216
-1,Cercado,1,Oruro,2059,Oruro,32494,U. E. Adolfo Ballivian 1,4005441,1,158,104,25,17,146,104,146
-1,Cercado,1,Oruro,2059,Oruro,100,U. Esc. Sebastian Pagador(Primario),4005531,5,240,125,67,14,206,125,206
-1,Cercado,1,Oruro,2059,Oruro,100,U. Esc. Sebastian Pagador(Primario),4005541,6,240,140,53,19,212,140,212
-1,Cercado,1,Oruro,2059,Oruro,100,U. Esc. Sebastian Pagador(Primario),4005551,7,240,148,46,26,220,148,220
-1,Cercado,1,Oruro,2059,Oruro,100,U. Esc. Sebastian Pagador(Primario),4005561,8,209,117,47,21,185,117,185
-1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,4005571,1,240,114,72,36,222,114,222
-1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,4005641,8,240,147,48,17,212,147,212
-1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,4005651,9,240,138,64,19,221,138,221
-1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,4005671,11,240,141,53,32,226,141,226
-1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,4005691,13,240,134,55,32,221,134,221
-1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,4005701,14,105,59,26,10,95,59,95
-1,Cercado,1,Oruro,2059,Oruro,25036,U. E. Misael Pacheco Loma,4006021,1,240,143,69,15,227,143,227
-1,Cercado,1,Oruro,2059,Oruro,25036,U. E. Misael Pacheco Loma,4006031,2,240,125,60,28,213,125,213
-1,Cercado,1,Oruro,2059,Oruro,25036,U. E. Misael Pacheco Loma,4006041,3,240,136,54,21,211,136,211
-1,Cercado,1,Oruro,2059,Oruro,25036,U. E. Misael Pacheco Loma,4006051,4,240,130,71,12,213,130,213
-1,Cercado,1,Oruro,2059,Oruro,25036,U. E. Misael Pacheco Loma,4006061,5,240,142,58,17,217,142,217
-1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4006301,1,240,124,68,25,217,124,217
-1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4006311,2,240,123,83,12,218,123,218
-1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4006321,3,240,96,85,26,207,96,207
-1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4006331,4,240,121,66,24,211,121,211
-1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4006341,5,108,49,34,11,94,49,94
-1,Cercado,1,Oruro,2059,Oruro,25050,U.E. Magdalena Postel II,4006391,5,240,135,66,21,222,135,222
-1,Cercado,1,Oruro,2059,Oruro,25050,U.E. Magdalena Postel II,4006401,6,240,123,78,18,219,123,219
-1,Cercado,1,Oruro,2059,Oruro,25050,U.E. Magdalena Postel II,4006411,7,240,144,59,20,223,144,223
-1,Cercado,1,Oruro,2059,Oruro,25050,U.E. Magdalena Postel II,4006421,8,29,18,6,2,26,18,26
 1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,4006441,2,240,133,59,21,213,133,213
 1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,4006451,3,240,132,59,22,213,132,213
 1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,4006461,4,240,155,35,31,221,155,221
@@ -290,36 +61,128 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,4006761,6,240,136,60,25,221,136,221
 1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,4006771,7,240,124,66,26,216,124,216
 1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,4006781,8,120,61,32,13,106,61,106
-1,Cercado,1,Oruro,2059,Oruro,32187,U.E. Emilio Vasquez,4006791,1,240,110,96,17,223,110,223
-1,Cercado,1,Oruro,2059,Oruro,32187,U.E. Emilio Vasquez,4006801,2,240,93,97,27,217,93,217
-1,Cercado,1,Oruro,2059,Oruro,32187,U.E. Emilio Vasquez,4006811,3,146,71,50,9,130,71,130
-1,Cercado,1,Oruro,2059,Oruro,32135,U.E.  Jaime Escalante,4006821,1,240,104,93,21,218,104,218
-1,Cercado,1,Oruro,2059,Oruro,32135,U.E.  Jaime Escalante,4006841,3,240,131,59,30,220,131,220
-1,Cercado,1,Oruro,2059,Oruro,32135,U.E.  Jaime Escalante,4006851,4,240,127,70,23,220,127,220
-1,Cercado,1,Oruro,2059,Oruro,32135,U.E.  Jaime Escalante,4006861,5,240,108,81,24,213,108,213
-1,Cercado,1,Oruro,2059,Oruro,32135,U.E.  Jaime Escalante,4006871,6,240,112,70,27,209,112,209
-1,Cercado,1,Oruro,2059,Oruro,32135,U.E.  Jaime Escalante,4006881,7,192,95,53,22,170,95,170
-1,Cercado,1,Oruro,2059,Oruro,32495,U. E. Apoyo Educativo Oruro,4006891,1,50,22,14,10,46,22,46
-1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006901,1,240,136,69,13,218,136,218
-1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006911,2,240,148,42,23,213,148,213
-1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006921,3,240,163,30,27,220,163,220
-1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006931,4,240,123,57,19,199,123,199
-1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006951,6,240,123,72,14,209,123,209
-1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006961,7,240,117,69,20,206,117,206
-1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006971,8,240,132,54,19,205,132,205
-1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006981,9,223,110,72,18,200,110,200
-1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4006991,1,240,99,92,25,216,99,216
-1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007001,2,240,97,91,27,215,97,215
-1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007011,3,240,99,90,25,214,99,214
-1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007031,5,240,108,70,27,205,108,205
-1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007041,6,240,94,93,24,211,94,211
-1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007051,7,240,104,89,18,211,104,211
-1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007061,8,240,113,78,17,208,113,208
-1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007081,10,240,86,95,21,202,86,202
-1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007091,11,121,61,35,14,110,61,110
+1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,4002711,1,240,79,95,19,193,79,193
+1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,4002731,3,240,75,102,11,188,75,188
+1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,4002741,4,102,29,30,15,74,29,74
+1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002801,6,240,122,70,25,217,122,217
+1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002811,7,240,136,58,24,218,136,218
+1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002821,8,240,130,51,26,207,130,207
+1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002831,9,240,135,65,24,224,135,224
+1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002841,10,240,102,91,30,223,102,223
+1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002851,11,240,134,52,31,217,134,217
+1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002861,12,240,120,79,22,221,120,221
+1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002881,14,240,117,60,42,219,117,219
+1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002891,15,240,127,62,29,218,127,218
+1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002901,16,240,133,66,22,221,133,221
+1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,4002911,17,68,38,15,6,59,38,59
+1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4002921,1,240,130,49,24,203,130,203
+1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4002931,2,240,127,50,30,207,127,207
+1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4002941,3,240,122,53,29,204,122,204
+1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4002971,6,240,131,60,26,217,131,217
+1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000711,1,240,130,68,20,218,130,218
+1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000721,2,240,150,40,21,211,150,211
+1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000731,3,240,120,73,24,217,120,217
+1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000741,4,240,134,64,23,221,134,221
+1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000751,5,240,123,75,17,215,123,215
+1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000761,6,240,140,61,21,222,140,222
+1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000771,7,240,130,68,22,220,130,220
+1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000781,8,240,130,58,28,216,130,216
+1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000791,9,240,134,68,16,218,134,218
+1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000801,10,240,138,67,17,222,138,222
+1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000811,11,240,152,42,17,211,152,211
+1,Cercado,1,Oruro,2059,Oruro,97,U. E. Mcal. Andres De Santa Cruz,4000821,12,123,81,27,8,116,81,116
+1,Cercado,1,Oruro,2059,Oruro,99,U. E. Guido Villagomez,4003331,1,240,137,68,11,216,137,216
+1,Cercado,1,Oruro,2059,Oruro,99,U. E. Guido Villagomez,4003341,2,240,133,63,20,216,133,216
+1,Cercado,1,Oruro,2059,Oruro,99,U. E. Guido Villagomez,4003351,3,240,121,86,15,222,121,222
+1,Cercado,1,Oruro,2059,Oruro,99,U. E. Guido Villagomez,4003361,4,240,131,75,12,218,131,218
+1,Cercado,1,Oruro,2059,Oruro,99,U. E. Guido Villagomez,4003371,5,240,120,75,21,216,120,216
+1,Cercado,1,Oruro,2059,Oruro,100,U. Esc. Sebastian Pagador(Primario),4005531,5,240,125,67,14,206,125,206
+1,Cercado,1,Oruro,2059,Oruro,100,U. Esc. Sebastian Pagador(Primario),4005541,6,240,140,53,19,212,140,212
+1,Cercado,1,Oruro,2059,Oruro,100,U. Esc. Sebastian Pagador(Primario),4005551,7,240,148,46,26,220,148,220
+1,Cercado,1,Oruro,2059,Oruro,100,U. Esc. Sebastian Pagador(Primario),4005561,8,209,117,47,21,185,117,185
+1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,4005571,1,240,114,72,36,222,114,222
+1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,4005641,8,240,147,48,17,212,147,212
+1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,4005651,9,240,138,64,19,221,138,221
+1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,4005671,11,240,141,53,32,226,141,226
+1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,4005691,13,240,134,55,32,221,134,221
+1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,4005701,14,105,59,26,10,95,59,95
+1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003601,1,240,126,67,25,218,126,218
+1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003611,2,240,118,74,30,222,118,222
+1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003621,3,240,126,78,20,224,126,224
+1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003631,4,240,139,63,19,221,139,221
+1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003641,5,240,122,63,30,215,122,215
+1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003651,6,240,120,57,38,215,120,215
+1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003661,7,240,125,69,20,214,125,214
+1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003671,8,240,142,54,26,222,142,222
+1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003681,9,240,134,63,23,220,134,220
+1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003691,10,240,115,82,28,225,115,225
+1,Cercado,1,Oruro,2059,Oruro,102,U. E. Virgen Del Mar II,4003701,11,156,87,42,17,146,87,146
+1,Cercado,1,Oruro,2059,Oruro,104,Col. Mixto San Jose,4000831,1,240,146,49,15,210,146,210
+1,Cercado,1,Oruro,2059,Oruro,104,Col. Mixto San Jose,4000841,2,240,138,53,22,213,138,213
+1,Cercado,1,Oruro,2059,Oruro,104,Col. Mixto San Jose,4000851,3,240,111,60,35,206,111,206
+1,Cercado,1,Oruro,2059,Oruro,104,Col. Mixto San Jose,4000861,4,240,140,46,24,210,140,210
+1,Cercado,1,Oruro,2059,Oruro,104,Col. Mixto San Jose,4000871,5,87,37,18,23,78,37,78
 1,Cercado,1,Oruro,2059,Oruro,106,Col. Nal. Mixto Bolivia,4007351,1,240,163,39,8,210,163,210
 1,Cercado,1,Oruro,2059,Oruro,106,Col. Nal. Mixto Bolivia,4007361,2,240,139,60,13,212,139,212
 1,Cercado,1,Oruro,2059,Oruro,106,Col. Nal. Mixto Bolivia,4007371,3,76,44,12,9,65,44,65
+1,Cercado,1,Oruro,2059,Oruro,108,Col. Nal. Antonio Jose De Sainz,4000011,1,240,144,53,16,213,144,213
+1,Cercado,1,Oruro,2059,Oruro,108,Col. Nal. Antonio Jose De Sainz,4000031,3,240,146,45,22,213,146,213
+1,Cercado,1,Oruro,2059,Oruro,108,Col. Nal. Antonio Jose De Sainz,4000041,4,240,140,48,22,210,140,210
+1,Cercado,1,Oruro,2059,Oruro,108,Col. Nal. Antonio Jose De Sainz,4000051,5,240,137,58,14,209,137,209
+1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000411,1,240,150,51,20,221,150,221
+1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000421,2,240,142,50,19,211,142,211
+1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000431,3,240,145,48,23,216,145,216
+1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000441,4,240,128,70,21,219,128,219
+1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000451,5,240,147,46,16,209,147,209
+1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000461,6,240,139,38,33,210,139,210
+1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000471,7,240,139,50,31,220,139,220
+1,Cercado,1,Oruro,2059,Oruro,113,Col. Donato Vasquez,4000481,8,65,33,15,5,53,33,53
+1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001421,1,240,115,61,21,197,115,197
+1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001431,2,240,136,63,19,218,136,218
+1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001441,3,240,119,67,24,210,119,210
+1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001451,4,240,130,61,24,215,130,215
+1,Cercado,1,Oruro,2059,Oruro,114,U. E. Mcal. Antonio Jose De Sucre,4001461,5,240,128,64,17,209,128,209
+1,Cercado,1,Oruro,2059,Oruro,116,U. E. Anglo Americano,4001611,1,240,132,63,26,221,132,221
+1,Cercado,1,Oruro,2059,Oruro,116,U. E. Anglo Americano,4001621,2,240,126,60,19,205,126,205
+1,Cercado,1,Oruro,2059,Oruro,116,U. E. Anglo Americano,4001631,3,240,126,57,21,204,126,204
+1,Cercado,1,Oruro,2059,Oruro,116,U. E. Anglo Americano,4001641,4,240,144,56,18,218,144,218
+1,Cercado,1,Oruro,2059,Oruro,116,U. E. Anglo Americano,4001651,5,203,114,39,22,175,114,175
+1,Cercado,1,Oruro,2059,Oruro,117,U. Esc. Luis Llosa   España,4000881,1,240,144,50,25,219,144,219
+1,Cercado,1,Oruro,2059,Oruro,117,U. Esc. Luis Llosa   España,4000891,2,240,134,58,32,224,134,224
+1,Cercado,1,Oruro,2059,Oruro,117,U. Esc. Luis Llosa   España,4000901,3,240,146,50,22,218,146,218
+1,Cercado,1,Oruro,2059,Oruro,117,U. Esc. Luis Llosa   España,4000911,4,240,128,56,33,217,128,217
+1,Cercado,1,Oruro,2059,Oruro,117,U. Esc. Luis Llosa   España,4000921,5,76,46,15,6,67,46,67
+1,Cercado,1,Oruro,2059,Oruro,120,U. E. Eduardo Avaroa,4001051,1,240,141,52,23,216,141,216
+1,Cercado,1,Oruro,2059,Oruro,120,U. E. Eduardo Avaroa,4001061,2,240,134,63,22,219,134,219
+1,Cercado,1,Oruro,2059,Oruro,120,U. E. Eduardo Avaroa,4001071,3,240,125,56,33,214,125,214
+1,Cercado,1,Oruro,2059,Oruro,120,U. E. Eduardo Avaroa,4001081,4,240,133,60,18,211,133,211
+1,Cercado,1,Oruro,2059,Oruro,120,U. E. Eduardo Avaroa,4001091,5,60,33,15,8,56,33,56
+1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009761,1,240,130,67,21,218,130,218
+1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009771,2,240,141,64,10,215,141,215
+1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009781,3,240,134,58,30,222,134,222
+1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009791,4,240,134,50,23,207,134,207
+1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009801,5,240,126,65,27,218,126,218
+1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009821,7,240,127,52,31,210,127,210
+1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4009851,1,240,123,52,30,205,123,205
+1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4009861,2,240,129,57,18,204,129,204
+1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4009871,3,240,120,69,17,206,120,206
+1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4009881,4,240,130,61,24,215,130,215
+1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4009891,5,107,58,27,10,95,58,95
+1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009491,1,240,123,64,16,203,123,203
+1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009501,2,240,126,64,13,203,126,203
+1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009511,3,240,131,56,26,213,131,213
+1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009521,4,240,132,60,21,213,132,213
+1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009531,5,240,123,69,22,214,123,214
+1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009541,6,240,122,71,23,216,122,216
+1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009611,1,240,142,53,21,216,142,216
+1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009621,2,240,130,57,18,205,130,205
+1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009641,4,240,123,69,24,216,123,216
+1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009651,5,240,140,58,20,218,140,218
+1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009661,6,240,127,62,36,225,127,225
+1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009671,7,240,129,58,26,213,129,213
+1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009681,8,240,138,51,22,211,138,211
+1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009691,9,240,113,71,26,210,113,210
+1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009701,10,240,127,59,28,214,127,214
 1,Cercado,1,Oruro,2059,Oruro,129,Col. Marcos Beltran Avila,4007521,1,240,135,51,23,209,135,209
 1,Cercado,1,Oruro,2059,Oruro,129,Col. Marcos Beltran Avila,4007531,2,240,132,49,17,198,132,198
 1,Cercado,1,Oruro,2059,Oruro,129,Col. Marcos Beltran Avila,4007541,3,240,149,53,6,208,149,208
@@ -330,6 +193,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,129,Col. Marcos Beltran Avila,4007591,8,240,134,59,21,214,134,214
 1,Cercado,1,Oruro,2059,Oruro,129,Col. Marcos Beltran Avila,4007601,9,240,140,56,18,214,140,214
 1,Cercado,1,Oruro,2059,Oruro,129,Col. Marcos Beltran Avila,4007611,10,225,127,51,18,196,127,196
+1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006901,1,240,136,69,13,218,136,218
+1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006911,2,240,148,42,23,213,148,213
+1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006921,3,240,163,30,27,220,163,220
+1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006931,4,240,123,57,19,199,123,199
+1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006951,6,240,123,72,14,209,123,209
+1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006961,7,240,117,69,20,206,117,206
+1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006971,8,240,132,54,19,205,132,205
+1,Cercado,1,Oruro,2059,Oruro,130,U. Esc. Benemeritos De La Patria,4006981,9,223,110,72,18,200,110,200
 1,Cercado,1,Oruro,2059,Oruro,131,U. E. Luis Mario Careaga,4007681,7,240,106,76,27,209,106,209
 1,Cercado,1,Oruro,2059,Oruro,131,U. E. Luis Mario Careaga,4007691,8,240,114,65,25,204,114,204
 1,Cercado,1,Oruro,2059,Oruro,131,U. E. Luis Mario Careaga,4007701,9,240,128,66,17,211,128,211
@@ -368,8 +239,26 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,137,U. E. Oruro Otawa (Secundaria),4008591,2,240,115,70,18,203,115,203
 1,Cercado,1,Oruro,2059,Oruro,137,U. E. Oruro Otawa (Secundaria),4008601,3,240,128,73,14,215,128,215
 1,Cercado,1,Oruro,2059,Oruro,137,U. E. Oruro Otawa (Secundaria),4008611,4,240,131,66,14,211,131,211
-1,Cercado,1,Oruro,2059,Oruro,32311,U.E. Fred Nuñez Gonzales,4008671,1,240,74,119,26,219,74,219
-1,Cercado,1,Oruro,2059,Oruro,32311,U.E. Fred Nuñez Gonzales,4008691,3,155,55,64,24,143,55,143
+1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004221,1,240,131,50,23,204,131,204
+1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004231,2,240,117,68,30,215,117,215
+1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004241,3,240,123,64,28,215,123,215
+1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004251,4,240,131,57,28,216,131,216
+1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,4004261,5,240,128,67,21,216,128,216
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004841,2,240,120,71,21,212,120,212
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004861,4,240,108,75,21,204,108,204
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004871,5,240,98,78,24,200,98,200
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004881,6,240,107,85,18,210,107,210
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004901,8,240,96,80,43,219,96,219
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004911,9,240,111,89,14,214,111,214
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004971,15,240,95,84,20,199,95,199
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004981,16,240,105,67,30,202,105,202
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005011,19,240,116,75,14,205,116,205
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005031,21,240,100,95,23,218,100,218
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005051,23,240,109,80,23,212,109,212
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005081,26,240,101,85,29,215,101,215
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005091,27,240,101,77,29,207,101,207
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005101,28,240,131,61,23,215,131,215
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005111,29,84,44,23,6,73,44,73
 1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,4008711,2,240,84,93,30,207,84,207
 1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,4008721,3,240,100,90,25,215,100,215
 1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,4008731,4,240,85,90,35,210,85,210
@@ -386,36 +275,21 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,144,U.E. Niño Quirquincho Feliz,4009331,10,240,125,62,21,208,125,208
 1,Cercado,1,Oruro,2059,Oruro,144,U.E. Niño Quirquincho Feliz,4009341,11,240,124,72,26,222,124,222
 1,Cercado,1,Oruro,2059,Oruro,144,U.E. Niño Quirquincho Feliz,4009351,12,96,35,43,5,83,35,83
-1,Cercado,1,Oruro,2059,Oruro,25944,U.E. Valle Hermoso   Vinto II,4009401,2,240,79,98,30,207,79,207
-1,Cercado,1,Oruro,2059,Oruro,25944,U.E. Valle Hermoso   Vinto II,4009411,3,240,82,106,20,208,82,208
-1,Cercado,1,Oruro,2059,Oruro,25944,U.E. Valle Hermoso   Vinto II,4009421,4,240,69,103,26,198,69,198
-1,Cercado,1,Oruro,2059,Oruro,25944,U.E. Valle Hermoso   Vinto II,4009441,6,220,80,94,20,194,80,194
-1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009491,1,240,123,64,16,203,123,203
-1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009501,2,240,126,64,13,203,126,203
-1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009511,3,240,131,56,26,213,131,213
-1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009521,4,240,132,60,21,213,132,213
-1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009531,5,240,123,69,22,214,123,214
-1,Cercado,1,Oruro,2059,Oruro,125,Centro Educativo Alcira Cardona,4009541,6,240,122,71,23,216,122,216
-1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009611,1,240,142,53,21,216,142,216
-1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009621,2,240,130,57,18,205,130,205
-1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009641,4,240,123,69,24,216,123,216
-1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009651,5,240,140,58,20,218,140,218
-1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009661,6,240,127,62,36,225,127,225
-1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009671,7,240,129,58,26,213,129,213
-1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009681,8,240,138,51,22,211,138,211
-1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009691,9,240,113,71,26,210,113,210
-1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,4009701,10,240,127,59,28,214,127,214
-1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009761,1,240,130,67,21,218,130,218
-1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009771,2,240,141,64,10,215,141,215
-1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009781,3,240,134,58,30,222,134,222
-1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009791,4,240,134,50,23,207,134,207
-1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009801,5,240,126,65,27,218,126,218
-1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,4009821,7,240,127,52,31,210,127,210
-1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4009851,1,240,123,52,30,205,123,205
-1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4009861,2,240,129,57,18,204,129,204
-1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4009871,3,240,120,69,17,206,120,206
-1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4009881,4,240,130,61,24,215,130,215
-1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4009891,5,107,58,27,10,95,58,95
+1,Cercado,1,Oruro,2059,Oruro,145,U.E. Los Angeles De Nazaria Ignacia,4003831,6,240,113,69,33,215,113,215
+1,Cercado,1,Oruro,2059,Oruro,145,U.E. Los Angeles De Nazaria Ignacia,4003841,7,240,106,76,30,212,106,212
+1,Cercado,1,Oruro,2059,Oruro,145,U.E. Los Angeles De Nazaria Ignacia,4003851,8,240,105,81,30,216,105,216
+1,Cercado,1,Oruro,2059,Oruro,145,U.E. Los Angeles De Nazaria Ignacia,4003861,9,240,86,104,17,207,86,207
+1,Cercado,1,Oruro,2059,Oruro,145,U.E. Los Angeles De Nazaria Ignacia,4003871,10,200,83,76,21,180,83,180
+1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4006991,1,240,99,92,25,216,99,216
+1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007001,2,240,97,91,27,215,97,215
+1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007011,3,240,99,90,25,214,99,214
+1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007031,5,240,108,70,27,205,108,205
+1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007041,6,240,94,93,24,211,94,211
+1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007051,7,240,104,89,18,211,104,211
+1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007061,8,240,113,78,17,208,113,208
+1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007081,10,240,86,95,21,202,86,202
+1,Cercado,1,Oruro,2059,Oruro,147,U.E. Maria  De Nazareth,4007091,11,121,61,35,14,110,61,110
+1,Cercado,1,Oruro,2059,Oruro,149,(Cárcel) Centro Penitenciario La Merced,4004421,1,156,36,70,7,113,36,113
 1,Cercado,1,Oruro,2059,Oruro,25028,Kinder Chiripujio,4010051,1,240,116,66,19,201,116,201
 1,Cercado,1,Oruro,2059,Oruro,25028,Kinder Chiripujio,4010061,2,212,128,40,13,181,128,181
 1,Cercado,1,Oruro,2059,Oruro,25030,U. E. Hijos Del Sol II,4010071,1,240,129,60,26,215,129,215
@@ -426,10 +300,136 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,25031,Facultad de Agronomia,4010201,4,240,124,62,23,209,124,209
 1,Cercado,1,Oruro,2059,Oruro,25031,Facultad de Agronomia,4010211,5,240,124,70,12,206,124,206
 1,Cercado,1,Oruro,2059,Oruro,25031,Facultad de Agronomia,4010221,6,47,25,12,2,39,25,39
+1,Cercado,1,Oruro,2059,Oruro,25032,U. E. Oscar Unzaga De La Vega 2,4002481,1,240,134,62,20,216,134,216
+1,Cercado,1,Oruro,2059,Oruro,25032,U. E. Oscar Unzaga De La Vega 2,4002491,2,240,116,71,21,208,116,208
+1,Cercado,1,Oruro,2059,Oruro,25032,U. E. Oscar Unzaga De La Vega 2,4002501,3,240,129,57,16,202,129,202
+1,Cercado,1,Oruro,2059,Oruro,25032,U. E. Oscar Unzaga De La Vega 2,4002511,4,240,137,65,14,216,137,216
+1,Cercado,1,Oruro,2059,Oruro,25032,U. E. Oscar Unzaga De La Vega 2,4002521,5,240,143,48,27,218,143,218
+1,Cercado,1,Oruro,2059,Oruro,25036,U. E. Misael Pacheco Loma,4006021,1,240,143,69,15,227,143,227
+1,Cercado,1,Oruro,2059,Oruro,25036,U. E. Misael Pacheco Loma,4006031,2,240,125,60,28,213,125,213
+1,Cercado,1,Oruro,2059,Oruro,25036,U. E. Misael Pacheco Loma,4006041,3,240,136,54,21,211,136,211
+1,Cercado,1,Oruro,2059,Oruro,25036,U. E. Misael Pacheco Loma,4006051,4,240,130,71,12,213,130,213
+1,Cercado,1,Oruro,2059,Oruro,25036,U. E. Misael Pacheco Loma,4006061,5,240,142,58,17,217,142,217
+1,Cercado,1,Oruro,2059,Oruro,25039,U. Esc. El Kasso   El Progreso,4005121,1,240,119,81,16,216,119,216
+1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4006301,1,240,124,68,25,217,124,217
+1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4006311,2,240,123,83,12,218,123,218
+1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4006321,3,240,96,85,26,207,96,207
+1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4006331,4,240,121,66,24,211,121,211
+1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4006341,5,108,49,34,11,94,49,94
+1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,4001101,1,240,123,59,24,206,123,206
+1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,4001111,2,173,100,36,15,151,100,151
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001891,1,240,133,60,18,211,133,211
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001901,2,240,118,64,30,212,118,212
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001911,3,240,126,56,21,203,126,203
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001921,4,240,118,69,22,209,118,209
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001931,5,240,102,83,25,210,102,210
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001941,6,240,113,77,23,213,113,213
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001961,8,240,127,48,24,199,127,199
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001971,9,240,118,65,23,206,118,206
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001981,10,240,100,66,29,195,100,195
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001991,11,240,116,66,24,206,116,206
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4002001,12,240,113,72,27,212,113,212
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4002011,13,240,115,64,23,202,115,202
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4002021,14,240,124,61,16,201,124,201
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4002031,15,240,129,60,18,207,129,207
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4002041,16,240,121,69,17,207,121,207
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4002051,17,240,125,64,18,207,125,207
+1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004701,1,240,143,65,8,216,143,216
+1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004721,3,240,126,68,19,213,126,213
+1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004731,4,240,123,80,13,216,123,216
+1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004741,5,240,126,59,24,209,126,209
+1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004751,6,240,121,72,16,209,121,209
+1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004761,7,240,103,91,21,215,103,215
+1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004771,8,240,115,73,23,211,115,211
+1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004781,9,240,117,65,33,215,117,215
+1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004791,10,240,126,57,35,218,126,218
+1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004801,11,240,113,79,18,210,113,210
+1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004811,12,240,122,75,14,211,122,211
+1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,4004821,13,44,19,14,2,35,19,35
+1,Cercado,1,Oruro,2059,Oruro,25049,U.E. San Luis,4004441,2,240,98,90,22,210,98,210
+1,Cercado,1,Oruro,2059,Oruro,25049,U.E. San Luis,4004451,3,240,83,97,26,206,83,206
+1,Cercado,1,Oruro,2059,Oruro,25049,U.E. San Luis,4004461,4,240,95,84,31,210,95,210
+1,Cercado,1,Oruro,2059,Oruro,25049,U.E. San Luis,4004471,5,240,92,96,27,215,92,215
+1,Cercado,1,Oruro,2059,Oruro,25049,U.E. San Luis,4004481,6,234,107,84,24,215,107,215
+1,Cercado,1,Oruro,2059,Oruro,25050,U.E. Magdalena Postel II,4006391,5,240,135,66,21,222,135,222
+1,Cercado,1,Oruro,2059,Oruro,25050,U.E. Magdalena Postel II,4006401,6,240,123,78,18,219,123,219
+1,Cercado,1,Oruro,2059,Oruro,25050,U.E. Magdalena Postel II,4006411,7,240,144,59,20,223,144,223
+1,Cercado,1,Oruro,2059,Oruro,25050,U.E. Magdalena Postel II,4006421,8,29,18,6,2,26,18,26
 1,Cercado,1,Oruro,2059,Oruro,25051,U.E. Mejillones II (Secundario),4010231,1,240,132,54,20,206,132,206
 1,Cercado,1,Oruro,2059,Oruro,25051,U.E. Mejillones II (Secundario),4010241,2,240,119,62,19,200,119,200
 1,Cercado,1,Oruro,2059,Oruro,25051,U.E. Mejillones II (Secundario),4010251,3,240,120,68,17,205,120,205
 1,Cercado,1,Oruro,2059,Oruro,25051,U.E. Mejillones II (Secundario),4010261,4,240,106,72,20,198,106,198
 1,Cercado,1,Oruro,2059,Oruro,25051,U.E. Mejillones II (Secundario),4010271,5,146,79,31,11,121,79,121
+1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4003991,1,240,118,79,19,216,118,216
+1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004001,2,240,111,85,27,223,111,223
+1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004011,3,240,106,81,28,215,106,215
+1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004021,4,240,132,62,23,217,132,217
+1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004041,6,240,124,70,24,218,124,218
+1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004051,7,240,123,66,34,223,123,223
+1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004061,8,240,123,80,23,226,123,226
+1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004071,9,240,108,79,24,211,108,211
+1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004081,10,240,106,84,29,219,106,219
+1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004091,11,240,121,66,24,211,121,211
+1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002071,1,240,119,72,24,215,119,215
+1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002091,3,240,116,70,28,214,116,214
+1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002101,4,240,104,87,20,211,104,211
+1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002111,5,240,111,72,36,219,111,219
+1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002121,6,240,122,67,18,207,122,207
+1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002131,7,240,117,76,26,219,117,219
+1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002141,8,240,130,59,27,216,130,216
+1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002151,9,240,127,73,15,215,127,215
+1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002161,10,240,120,74,17,211,120,211
+1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002171,11,68,39,23,2,64,39,64
+1,Cercado,1,Oruro,2059,Oruro,25944,U.E. Valle Hermoso   Vinto II,4009401,2,240,79,98,30,207,79,207
+1,Cercado,1,Oruro,2059,Oruro,25944,U.E. Valle Hermoso   Vinto II,4009411,3,240,82,106,20,208,82,208
+1,Cercado,1,Oruro,2059,Oruro,25944,U.E. Valle Hermoso   Vinto II,4009421,4,240,69,103,26,198,69,198
+1,Cercado,1,Oruro,2059,Oruro,25944,U.E. Valle Hermoso   Vinto II,4009441,6,220,80,94,20,194,80,194
+1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001341,1,240,137,45,27,209,137,209
+1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001351,2,240,112,66,39,217,112,217
+1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001361,3,240,143,54,15,212,143,212
+1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001371,4,240,123,63,30,216,123,216
+1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001391,6,240,141,46,23,210,141,210
+1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001401,7,240,135,50,32,217,135,217
+1,Cercado,1,Oruro,2059,Oruro,31001,U.E.  Ildefonso Murguia,4001411,8,197,118,43,18,179,118,179
+1,Cercado,1,Oruro,2059,Oruro,31005,U.E. Nuestra Señora del Socavón 1,4001731,1,240,145,49,14,208,145,208
+1,Cercado,1,Oruro,2059,Oruro,31005,U.E. Nuestra Señora del Socavón 1,4001751,3,240,135,52,24,211,135,211
+1,Cercado,1,Oruro,2059,Oruro,31005,U.E. Nuestra Señora del Socavón 1,4001761,4,240,153,48,20,221,153,221
+1,Cercado,1,Oruro,2059,Oruro,31005,U.E. Nuestra Señora del Socavón 1,4001771,5,240,120,67,31,218,120,218
+1,Cercado,1,Oruro,2059,Oruro,31005,U.E. Nuestra Señora del Socavón 1,4001781,6,230,128,56,23,207,128,207
+1,Cercado,1,Oruro,2059,Oruro,31007,U.E. Pantaleon Dalence 1,4001171,2,240,140,59,23,222,140,222
+1,Cercado,1,Oruro,2059,Oruro,31007,U.E. Pantaleon Dalence 1,4001191,4,240,146,57,20,223,146,223
+1,Cercado,1,Oruro,2059,Oruro,31007,U.E. Pantaleon Dalence 1,4001201,5,240,139,55,25,219,139,219
+1,Cercado,1,Oruro,2059,Oruro,31007,U.E. Pantaleon Dalence 1,4001211,6,240,128,65,35,228,128,228
+1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003051,1,240,140,56,17,213,140,213
+1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003061,2,240,121,67,29,217,121,217
+1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003071,3,240,109,80,23,212,109,212
+1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003081,4,240,130,57,25,212,130,212
+1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003101,6,240,119,72,27,218,119,218
+1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003111,7,240,116,65,41,222,116,222
+1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003121,8,240,139,52,25,216,139,216
+1,Cercado,1,Oruro,2059,Oruro,31032,U.E. John Fitzgerald Kennedy 2,4003131,9,68,41,13,10,64,41,64
+1,Cercado,1,Oruro,2059,Oruro,32135,U.E.  Jaime Escalante,4006821,1,240,104,93,21,218,104,218
+1,Cercado,1,Oruro,2059,Oruro,32135,U.E.  Jaime Escalante,4006841,3,240,131,59,30,220,131,220
+1,Cercado,1,Oruro,2059,Oruro,32135,U.E.  Jaime Escalante,4006851,4,240,127,70,23,220,127,220
+1,Cercado,1,Oruro,2059,Oruro,32135,U.E.  Jaime Escalante,4006861,5,240,108,81,24,213,108,213
+1,Cercado,1,Oruro,2059,Oruro,32135,U.E.  Jaime Escalante,4006871,6,240,112,70,27,209,112,209
+1,Cercado,1,Oruro,2059,Oruro,32135,U.E.  Jaime Escalante,4006881,7,192,95,53,22,170,95,170
+1,Cercado,1,Oruro,2059,Oruro,32180,U. E. Abya Yala,4003961,1,240,111,82,17,210,111,210
+1,Cercado,1,Oruro,2059,Oruro,32180,U. E. Abya Yala,4003971,2,240,102,86,29,217,102,217
+1,Cercado,1,Oruro,2059,Oruro,32180,U. E. Abya Yala,4003981,3,38,16,15,4,35,16,35
+1,Cercado,1,Oruro,2059,Oruro,32187,U.E. Emilio Vasquez,4006791,1,240,110,96,17,223,110,223
+1,Cercado,1,Oruro,2059,Oruro,32187,U.E. Emilio Vasquez,4006801,2,240,93,97,27,217,93,217
+1,Cercado,1,Oruro,2059,Oruro,32187,U.E. Emilio Vasquez,4006811,3,146,71,50,9,130,71,130
+1,Cercado,1,Oruro,2059,Oruro,32311,U.E. Fred Nuñez Gonzales,4008671,1,240,74,119,26,219,74,219
+1,Cercado,1,Oruro,2059,Oruro,32311,U.E. Fred Nuñez Gonzales,4008691,3,155,55,64,24,143,55,143
+1,Cercado,1,Oruro,2059,Oruro,32366,U.E. Carlos Villegas Quiroga,4003551,2,61,34,21,1,56,34,56
+1,Cercado,1,Oruro,2059,Oruro,32407,U.E. Rodolfo Soria Galvarro,4001791,1,240,138,59,30,227,138,227
+1,Cercado,1,Oruro,2059,Oruro,32407,U.E. Rodolfo Soria Galvarro,4001801,2,240,145,45,28,218,145,218
+1,Cercado,1,Oruro,2059,Oruro,32407,U.E. Rodolfo Soria Galvarro,4001811,3,240,135,57,20,212,135,212
+1,Cercado,1,Oruro,2059,Oruro,32407,U.E. Rodolfo Soria Galvarro,4001821,4,67,41,10,8,59,41,59
 1,Cercado,1,Oruro,2059,Oruro,32408,U.E. Juan Pablo Secundaria,4010461,1,240,145,41,22,208,145,208
 1,Cercado,1,Oruro,2059,Oruro,32408,U.E. Juan Pablo Secundaria,4010471,2,36,21,6,3,30,21,30
+1,Cercado,1,Oruro,2059,Oruro,32409,U.E. 27 de Julio Huanuni,4003711,1,240,136,64,24,224,136,224
+1,Cercado,1,Oruro,2059,Oruro,32409,U.E. 27 de Julio Huanuni,4003721,2,216,121,57,11,189,121,189
+1,Cercado,1,Oruro,2059,Oruro,32494,U. E. Adolfo Ballivian 1,4005441,1,158,104,25,17,146,104,146
+1,Cercado,1,Oruro,2059,Oruro,32495,U. E. Apoyo Educativo Oruro,4006891,1,50,22,14,10,46,22,46

@@ -1,105 +1,29 @@
 CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,InscritosHabilitados,VotoValido,VotoBlanco,VotoNulo,VotoEmitido,VotoValidoReal,VotoEmitidoReal
-1,Tomás Frías,1,Potosí,1494,Potosí,36,Kinder Ismael Montes,5000171,1,240,156,53,15,224,156,224
-1,Tomás Frías,1,Potosí,1494,Potosí,36,Kinder Ismael Montes,5000181,2,240,140,57,22,219,140,219
-1,Tomás Frías,1,Potosí,1494,Potosí,36,Kinder Ismael Montes,5000191,3,240,152,46,19,217,152,217
-1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000271,1,240,127,73,20,220,127,220
-1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000281,2,240,145,58,12,215,145,215
-1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000291,3,240,142,54,19,215,142,215
-1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000301,4,240,131,62,17,210,131,210
-1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000311,5,240,118,77,21,216,118,216
-1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000321,6,240,134,54,15,203,134,203
-1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000391,13,240,143,64,12,219,143,219
-1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000401,14,240,133,70,21,224,133,224
-1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000411,15,240,127,69,14,210,127,210
-1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000431,17,240,142,50,10,202,142,202
-1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000441,18,240,142,54,9,205,142,205
-1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000451,19,62,24,14,3,41,24,41
-1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000461,1,240,139,62,12,213,139,213
-1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000471,2,240,147,55,16,218,147,218
-1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000481,3,240,137,70,14,221,137,221
-1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000491,4,240,136,71,19,226,136,226
-1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000501,5,240,114,59,41,214,114,214
-1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000521,7,250,141,58,24,223,141,223
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000651,2,240,119,76,16,211,119,211
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000661,3,240,132,59,22,213,132,213
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000671,4,240,109,87,13,209,109,209
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000681,5,240,130,69,13,212,130,212
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000691,6,240,144,70,10,224,144,224
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000711,8,240,119,75,25,219,119,219
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000721,9,240,136,70,12,218,136,218
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000731,10,240,113,94,12,219,113,219
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000741,11,240,134,65,10,209,134,209
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000751,12,240,140,64,16,220,140,220
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000771,14,240,124,71,14,209,124,209
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000791,16,240,120,69,29,218,120,218
-1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000801,17,171,86,56,12,154,86,154
-1,Tomás Frías,1,Potosí,1494,Potosí,25052,U.E. 1ro. de Mayo San Idelfonso,5000811,1,144,80,37,9,126,80,126
-1,Tomás Frías,1,Potosí,1494,Potosí,25037,Esc. Jose Maria Linares,5000821,1,240,160,35,12,207,160,207
-1,Tomás Frías,1,Potosí,1494,Potosí,25037,Esc. Jose Maria Linares,5000831,2,240,142,43,22,207,142,207
-1,Tomás Frías,1,Potosí,1494,Potosí,25037,Esc. Jose Maria Linares,5000841,3,240,148,41,23,212,148,212
-1,Tomás Frías,1,Potosí,1494,Potosí,25037,Esc. Jose Maria Linares,5000861,5,240,151,51,15,217,151,217
-1,Tomás Frías,1,Potosí,1494,Potosí,25037,Esc. Jose Maria Linares,5000871,6,240,165,40,14,219,165,219
-1,Tomás Frías,1,Potosí,1494,Potosí,25037,Esc. Jose Maria Linares,5000881,7,240,151,55,20,226,151,226
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5000941,1,240,135,53,29,217,135,217
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5000951,2,240,134,59,18,211,134,211
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5000961,3,240,136,64,17,217,136,217
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5000981,5,240,137,66,18,221,137,221
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5000991,6,240,126,84,15,225,126,225
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001001,7,240,135,54,19,208,135,208
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001011,8,240,144,51,17,212,144,212
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001031,10,240,129,53,36,218,129,218
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001041,11,240,159,39,15,213,159,213
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001051,12,240,135,54,11,200,135,200
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001061,13,240,135,64,15,214,135,214
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001071,14,240,130,54,27,211,130,211
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001081,15,240,130,61,16,207,130,207
-1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001091,16,76,35,16,15,66,35,66
-1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001101,1,240,154,32,24,210,154,210
-1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001111,2,240,159,41,17,217,159,217
-1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001121,3,240,169,36,12,217,169,217
-1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001141,5,240,160,48,15,223,160,223
-1,Tomás Frías,1,Potosí,1494,Potosí,15,Esc. Benicio Montero Mallo,5001171,2,240,140,58,23,221,140,221
-1,Tomás Frías,1,Potosí,1494,Potosí,15,Esc. Benicio Montero Mallo,5001181,3,240,147,51,24,222,147,222
-1,Tomás Frías,1,Potosí,1494,Potosí,15,Esc. Benicio Montero Mallo,5001231,8,214,152,27,16,195,152,195
-1,Tomás Frías,1,Potosí,1494,Potosí,31107,U. E. Manuel Belgrano,5001241,1,240,145,52,16,213,145,213
-1,Tomás Frías,1,Potosí,1494,Potosí,31107,U. E. Manuel Belgrano,5001261,3,240,146,62,20,228,146,228
-1,Tomás Frías,1,Potosí,1494,Potosí,31107,U. E. Manuel Belgrano,5001281,5,240,104,109,10,223,104,223
-1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001301,1,240,155,51,12,218,155,218
-1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001311,2,240,143,60,10,213,143,213
-1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001321,3,240,138,67,12,217,138,217
-1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001341,5,240,146,57,13,216,146,216
-1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001351,6,240,137,52,20,209,137,209
-1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001361,7,169,114,24,11,149,114,149
-1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001401,4,240,139,50,16,205,139,205
-1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001411,5,240,125,65,10,200,125,200
-1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001421,6,240,138,55,14,207,138,207
-1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001591,1,240,153,50,10,213,153,213
-1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001601,2,240,125,75,15,215,125,215
-1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001611,3,240,143,64,13,220,143,220
-1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001621,4,240,126,73,13,212,126,212
-1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001631,5,240,130,68,15,213,130,213
-1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001641,6,240,132,61,17,210,132,210
-1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001651,7,240,136,55,21,212,136,212
-1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001661,8,240,116,82,13,211,116,211
-1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001681,10,233,122,76,11,209,122,209
-1,Tomás Frías,1,Potosí,1494,Potosí,573,U.E. Antonio José De Sucre,5001691,1,240,125,69,22,216,125,216
-1,Tomás Frías,1,Potosí,1494,Potosí,573,U.E. Antonio José De Sucre,5001721,4,240,133,64,26,223,133,223
-1,Tomás Frías,1,Potosí,1494,Potosí,573,U.E. Antonio José De Sucre,5001771,9,240,121,72,25,218,121,218
-1,Tomás Frías,1,Potosí,1494,Potosí,573,U.E. Antonio José De Sucre,5001781,10,240,133,75,11,219,133,219
-1,Tomás Frías,1,Potosí,1494,Potosí,573,U.E. Antonio José De Sucre,5001791,11,84,43,28,6,77,43,77
-1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001801,1,240,144,52,18,214,144,214
-1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001811,2,240,148,57,16,221,148,221
-1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001831,4,240,140,56,16,212,140,212
-1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001841,5,240,147,50,19,216,147,216
-1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002061,1,240,142,46,15,203,142,203
-1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002071,2,240,132,51,15,198,132,198
-1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002081,3,240,119,64,22,205,119,205
-1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002091,4,240,119,51,22,192,119,192
-1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002101,5,240,137,53,18,208,137,208
-1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002111,6,240,140,53,22,215,140,215
-1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002121,7,240,131,49,14,194,131,194
-1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002181,13,240,144,51,20,215,144,215
-1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002191,14,157,86,33,12,131,86,131
+1,Tomás Frías,1,Potosí,1494,Potosí,1,U. E. Simón Rodríguez,5003511,2,240,148,52,11,211,148,211
+1,Tomás Frías,1,Potosí,1494,Potosí,1,U. E. Simón Rodríguez,5003521,3,240,148,42,23,213,148,213
+1,Tomás Frías,1,Potosí,1494,Potosí,1,U. E. Simón Rodríguez,5003531,4,240,163,40,12,215,163,215
+1,Tomás Frías,1,Potosí,1494,Potosí,1,U. E. Simón Rodríguez,5003541,5,240,157,52,12,221,157,221
+1,Tomás Frías,1,Potosí,1494,Potosí,1,U. E. Simón Rodríguez,5003551,6,99,70,12,5,87,70,87
+1,Tomás Frías,1,Potosí,1494,Potosí,2,Col. Carlos Medinaceli,5003561,1,240,152,41,17,210,152,210
+1,Tomás Frías,1,Potosí,1494,Potosí,2,Col. Carlos Medinaceli,5003571,2,240,179,28,9,216,179,216
+1,Tomás Frías,1,Potosí,1494,Potosí,2,Col. Carlos Medinaceli,5003581,3,240,158,41,13,212,158,212
+1,Tomás Frías,1,Potosí,1494,Potosí,2,Col. Carlos Medinaceli,5003591,4,160,100,33,10,143,100,143
+1,Tomás Frías,1,Potosí,1494,Potosí,4,Esc. Modesto Omiste,5003101,1,240,162,49,16,227,162,227
+1,Tomás Frías,1,Potosí,1494,Potosí,5,Esc. 1ro de Abril,5003391,1,240,166,41,11,218,166,218
+1,Tomás Frías,1,Potosí,1494,Potosí,5,Esc. 1ro de Abril,5003401,2,240,149,48,23,220,149,220
+1,Tomás Frías,1,Potosí,1494,Potosí,5,Esc. 1ro de Abril,5003411,3,90,57,15,9,81,57,81
+1,Tomás Frías,1,Potosí,1494,Potosí,7,U. E. Antonio Quijarro  A,5003121,1,240,146,49,25,220,146,220
+1,Tomás Frías,1,Potosí,1494,Potosí,7,U. E. Antonio Quijarro  A,5003131,2,240,162,48,16,226,162,226
+1,Tomás Frías,1,Potosí,1494,Potosí,7,U. E. Antonio Quijarro  A,5003141,3,29,22,3,2,27,22,27
+1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,5002761,1,240,148,54,14,216,148,216
+1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,5002771,2,240,163,43,10,216,163,216
+1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,5002781,3,240,155,43,13,211,155,211
+1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,5002791,4,231,158,39,13,210,158,210
+1,Tomás Frías,1,Potosí,1494,Potosí,11,U. E. San José  A,5003601,1,240,180,36,12,228,180,228
+1,Tomás Frías,1,Potosí,1494,Potosí,11,U. E. San José  A,5003611,2,240,170,37,13,220,170,220
+1,Tomás Frías,1,Potosí,1494,Potosí,11,U. E. San José  A,5003621,3,240,154,54,11,219,154,219
+1,Tomás Frías,1,Potosí,1494,Potosí,11,U. E. San José  A,5003631,4,240,157,49,18,224,157,224
+1,Tomás Frías,1,Potosí,1494,Potosí,11,U. E. San José  A,5003641,5,150,105,26,6,137,105,137
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002201,1,240,159,31,17,207,159,207
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002211,2,240,154,35,17,206,154,206
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002221,3,240,162,47,9,218,162,218
@@ -108,6 +32,15 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002271,8,240,171,34,13,218,171,218
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002281,9,240,162,41,5,208,162,208
 1,Tomás Frías,1,Potosí,1494,Potosí,12,Esc. Litoral,5002301,11,257,167,41,13,221,167,221
+1,Tomás Frías,1,Potosí,1494,Potosí,15,Esc. Benicio Montero Mallo,5001171,2,240,140,58,23,221,140,221
+1,Tomás Frías,1,Potosí,1494,Potosí,15,Esc. Benicio Montero Mallo,5001181,3,240,147,51,24,222,147,222
+1,Tomás Frías,1,Potosí,1494,Potosí,15,Esc. Benicio Montero Mallo,5001231,8,214,152,27,16,195,152,195
+1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001301,1,240,155,51,12,218,155,218
+1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001311,2,240,143,60,10,213,143,213
+1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001321,3,240,138,67,12,217,138,217
+1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001341,5,240,146,57,13,216,146,216
+1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001351,6,240,137,52,20,209,137,209
+1,Tomás Frías,1,Potosí,1494,Potosí,16,Kinder Concepcion,5001361,7,169,114,24,11,149,114,149
 1,Tomás Frías,1,Potosí,1494,Potosí,18,Esc. Jose A.Zampa,5002311,1,240,133,28,8,169,133,169
 1,Tomás Frías,1,Potosí,1494,Potosí,18,Esc. Jose A.Zampa,5002331,3,240,142,50,16,208,142,208
 1,Tomás Frías,1,Potosí,1494,Potosí,18,Esc. Jose A.Zampa,5002341,4,240,121,66,16,203,121,203
@@ -120,6 +53,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,19,Coleg. Cristo Maestro,5002411,3,240,165,38,12,215,165,215
 1,Tomás Frías,1,Potosí,1494,Potosí,19,Coleg. Cristo Maestro,5002431,5,240,165,47,9,221,165,221
 1,Tomás Frías,1,Potosí,1494,Potosí,19,Coleg. Cristo Maestro,5002441,6,141,94,23,11,128,94,128
+1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001401,4,240,139,50,16,205,139,205
+1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001411,5,240,125,65,10,200,125,200
+1,Tomás Frías,1,Potosí,1494,Potosí,20,Esc. Jaime Mendoza,5001421,6,240,138,55,14,207,138,207
 1,Tomás Frías,1,Potosí,1494,Potosí,21,Esc. Daniel Campos,5002491,1,240,139,55,11,205,139,205
 1,Tomás Frías,1,Potosí,1494,Potosí,21,Esc. Daniel Campos,5002511,3,240,143,52,17,212,143,212
 1,Tomás Frías,1,Potosí,1494,Potosí,21,Esc. Daniel Campos,5002531,5,240,147,54,9,210,147,210
@@ -133,177 +69,20 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,21,Esc. Daniel Campos,5002631,15,240,140,50,14,204,140,204
 1,Tomás Frías,1,Potosí,1494,Potosí,21,Esc. Daniel Campos,5002641,16,240,155,35,5,195,155,195
 1,Tomás Frías,1,Potosí,1494,Potosí,21,Esc. Daniel Campos,5002651,17,240,137,38,25,200,137,200
-1,Tomás Frías,1,Potosí,1494,Potosí,31101,U.E. San Roque (Inicial),5002671,1,240,140,61,14,215,140,215
-1,Tomás Frías,1,Potosí,1494,Potosí,31101,U.E. San Roque (Inicial),5002681,2,240,136,57,17,210,136,210
-1,Tomás Frías,1,Potosí,1494,Potosí,31101,U.E. San Roque (Inicial),5002691,3,240,137,52,24,213,137,213
-1,Tomás Frías,1,Potosí,1494,Potosí,31101,U.E. San Roque (Inicial),5002701,4,21,17,1,0,18,17,18
-1,Tomás Frías,1,Potosí,1494,Potosí,31125,Instituto Tecnológico Superior Nuevo Amanecer,5002731,3,240,134,69,14,217,134,217
-1,Tomás Frías,1,Potosí,1494,Potosí,31125,Instituto Tecnológico Superior Nuevo Amanecer,5002751,5,160,89,56,7,152,89,152
-1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,5002761,1,240,148,54,14,216,148,216
-1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,5002771,2,240,163,43,10,216,163,216
-1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,5002781,3,240,155,43,13,211,155,211
-1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,5002791,4,231,158,39,13,210,158,210
+1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001591,1,240,153,50,10,213,153,213
+1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001601,2,240,125,75,15,215,125,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001611,3,240,143,64,13,220,143,220
+1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001621,4,240,126,73,13,212,126,212
+1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001631,5,240,130,68,15,213,130,213
+1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001641,6,240,132,61,17,210,132,210
+1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001651,7,240,136,55,21,212,136,212
+1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001661,8,240,116,82,13,211,116,211
+1,Tomás Frías,1,Potosí,1494,Potosí,25,Esc. L. Subieta Sagarnaga,5001681,10,233,122,76,11,209,122,209
 1,Tomás Frías,1,Potosí,1494,Potosí,27,Coleg. Don Bosco,5002801,1,240,152,48,14,214,152,214
 1,Tomás Frías,1,Potosí,1494,Potosí,27,Coleg. Don Bosco,5002821,3,240,167,35,15,217,167,217
 1,Tomás Frías,1,Potosí,1494,Potosí,27,Coleg. Don Bosco,5002831,4,240,161,47,15,223,161,223
 1,Tomás Frías,1,Potosí,1494,Potosí,28,Esc. Gregorio Barriga,5002851,1,240,159,44,15,218,159,218
 1,Tomás Frías,1,Potosí,1494,Potosí,28,Esc. Gregorio Barriga,5002861,2,34,21,6,2,29,21,29
-1,Tomás Frías,1,Potosí,1494,Potosí,572,Esc. Salvador Revilla,5002871,1,240,167,36,18,221,167,221
-1,Tomás Frías,1,Potosí,1494,Potosí,572,Esc. Salvador Revilla,5002881,2,240,179,31,13,223,179,223
-1,Tomás Frías,1,Potosí,1494,Potosí,572,Esc. Salvador Revilla,5002911,5,111,76,10,10,96,76,96
-1,Tomás Frías,1,Potosí,1494,Potosí,25027,Escuela José Alonso De Ibáñez,5002931,2,240,160,54,14,228,160,228
-1,Tomás Frías,1,Potosí,1494,Potosí,25027,Escuela José Alonso De Ibáñez,5002961,5,227,163,35,13,211,163,211
-1,Tomás Frías,1,Potosí,1494,Potosí,4,Esc. Modesto Omiste,5003101,1,240,162,49,16,227,162,227
-1,Tomás Frías,1,Potosí,1494,Potosí,7,U. E. Antonio Quijarro  A,5003121,1,240,146,49,25,220,146,220
-1,Tomás Frías,1,Potosí,1494,Potosí,7,U. E. Antonio Quijarro  A,5003131,2,240,162,48,16,226,162,226
-1,Tomás Frías,1,Potosí,1494,Potosí,7,U. E. Antonio Quijarro  A,5003141,3,29,22,3,2,27,22,27
-1,Tomás Frías,1,Potosí,1494,Potosí,32,Colegio Franciscano,5003151,1,240,157,38,21,216,157,216
-1,Tomás Frías,1,Potosí,1494,Potosí,32,Colegio Franciscano,5003171,3,240,172,31,17,220,172,220
-1,Tomás Frías,1,Potosí,1494,Potosí,32,Colegio Franciscano,5003181,4,240,169,40,12,221,169,221
-1,Tomás Frías,1,Potosí,1494,Potosí,32,Colegio Franciscano,5003191,5,240,166,33,16,215,166,215
-1,Tomás Frías,1,Potosí,1494,Potosí,32,Colegio Franciscano,5003201,6,41,27,4,3,34,27,34
-1,Tomás Frías,1,Potosí,1494,Potosí,48,Lic. Sucre,5003211,1,240,155,29,21,205,155,205
-1,Tomás Frías,1,Potosí,1494,Potosí,48,Lic. Sucre,5003221,2,240,161,53,11,225,161,225
-1,Tomás Frías,1,Potosí,1494,Potosí,48,Lic. Sucre,5003231,3,240,144,61,16,221,144,221
-1,Tomás Frías,1,Potosí,1494,Potosí,48,Lic. Sucre,5003241,4,240,145,52,19,216,145,216
-1,Tomás Frías,1,Potosí,1494,Potosí,48,Lic. Sucre,5003251,5,126,79,21,5,105,79,105
-1,Tomás Frías,1,Potosí,1494,Potosí,31111,U. E. Otto Felipe Braun,5003301,5,167,117,23,16,156,117,156
-1,Tomás Frías,1,Potosí,1494,Potosí,5,Esc. 1ro de Abril,5003391,1,240,166,41,11,218,166,218
-1,Tomás Frías,1,Potosí,1494,Potosí,5,Esc. 1ro de Abril,5003401,2,240,149,48,23,220,149,220
-1,Tomás Frías,1,Potosí,1494,Potosí,5,Esc. 1ro de Abril,5003411,3,90,57,15,9,81,57,81
-1,Tomás Frías,1,Potosí,1494,Potosí,1,U. E. Simón Rodríguez,5003511,2,240,148,52,11,211,148,211
-1,Tomás Frías,1,Potosí,1494,Potosí,1,U. E. Simón Rodríguez,5003521,3,240,148,42,23,213,148,213
-1,Tomás Frías,1,Potosí,1494,Potosí,1,U. E. Simón Rodríguez,5003531,4,240,163,40,12,215,163,215
-1,Tomás Frías,1,Potosí,1494,Potosí,1,U. E. Simón Rodríguez,5003541,5,240,157,52,12,221,157,221
-1,Tomás Frías,1,Potosí,1494,Potosí,1,U. E. Simón Rodríguez,5003551,6,99,70,12,5,87,70,87
-1,Tomás Frías,1,Potosí,1494,Potosí,2,Col. Carlos Medinaceli,5003561,1,240,152,41,17,210,152,210
-1,Tomás Frías,1,Potosí,1494,Potosí,2,Col. Carlos Medinaceli,5003571,2,240,179,28,9,216,179,216
-1,Tomás Frías,1,Potosí,1494,Potosí,2,Col. Carlos Medinaceli,5003581,3,240,158,41,13,212,158,212
-1,Tomás Frías,1,Potosí,1494,Potosí,2,Col. Carlos Medinaceli,5003591,4,160,100,33,10,143,100,143
-1,Tomás Frías,1,Potosí,1494,Potosí,11,U. E. San José  A,5003601,1,240,180,36,12,228,180,228
-1,Tomás Frías,1,Potosí,1494,Potosí,11,U. E. San José  A,5003611,2,240,170,37,13,220,170,220
-1,Tomás Frías,1,Potosí,1494,Potosí,11,U. E. San José  A,5003621,3,240,154,54,11,219,154,219
-1,Tomás Frías,1,Potosí,1494,Potosí,11,U. E. San José  A,5003631,4,240,157,49,18,224,157,224
-1,Tomás Frías,1,Potosí,1494,Potosí,11,U. E. San José  A,5003641,5,150,105,26,6,137,105,137
-1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003651,1,240,163,42,13,218,163,218
-1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003661,2,240,158,40,19,217,158,217
-1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003671,3,240,170,30,19,219,170,219
-1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003681,4,240,167,40,11,218,167,218
-1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003691,5,240,162,45,13,220,162,220
-1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003701,6,240,163,38,16,217,163,217
-1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003711,7,240,149,39,20,208,149,208
-1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003721,8,240,164,25,20,209,164,209
-1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003731,9,21,13,2,0,15,13,15
-1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003741,1,240,157,52,10,219,157,219
-1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003751,2,240,162,42,19,223,162,223
-1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003761,3,240,141,53,20,214,141,214
-1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003771,4,240,156,41,20,217,156,217
-1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003781,5,240,145,53,25,223,145,223
-1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003791,6,240,146,53,18,217,146,217
-1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003801,7,240,165,48,10,223,165,223
-1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003811,8,240,154,57,7,218,154,218
-1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003821,9,240,164,52,7,223,164,223
-1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003831,10,240,169,44,7,220,169,220
-1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003841,11,58,41,12,2,55,41,55
-1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,5003851,1,240,159,42,15,216,159,216
-1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,5003861,2,240,150,47,20,217,150,217
-1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,5003871,3,240,150,43,16,209,150,209
-1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,5003881,4,120,78,21,8,107,78,107
-1,Tomás Frías,1,Potosí,1494,Potosí,31108,U. E. 31 de Octubre  A  (Inicial),5003891,1,240,157,40,27,224,157,224
-1,Tomás Frías,1,Potosí,1494,Potosí,31108,U. E. 31 de Octubre  A  (Inicial),5003901,2,240,170,38,11,219,170,219
-1,Tomás Frías,1,Potosí,1494,Potosí,31108,U. E. 31 de Octubre  A  (Inicial),5003911,3,229,137,54,21,212,137,212
-1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003921,1,240,143,56,18,217,143,217
-1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003931,2,240,140,64,19,223,140,223
-1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003951,4,240,141,55,15,211,141,211
-1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003961,5,240,148,52,16,216,148,216
-1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003971,6,240,132,58,13,203,132,203
-1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003981,7,233,144,42,9,195,144,195
-1,Tomás Frías,1,Potosí,1494,Potosí,31110,Instituto Tecnológico Superior Potosí   ETA   Potosí,5004001,2,240,137,69,13,219,137,219
-1,Tomás Frías,1,Potosí,1494,Potosí,31110,Instituto Tecnológico Superior Potosí   ETA   Potosí,5004011,3,240,160,37,22,219,160,219
-1,Tomás Frías,1,Potosí,1494,Potosí,31110,Instituto Tecnológico Superior Potosí   ETA   Potosí,5004021,4,240,143,60,12,215,143,215
-1,Tomás Frías,1,Potosí,1494,Potosí,31110,Instituto Tecnológico Superior Potosí   ETA   Potosí,5004031,5,126,72,34,6,112,72,112
-1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004051,2,240,158,46,16,220,158,220
-1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004061,3,240,158,37,13,208,158,208
-1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004071,4,240,154,47,14,215,154,215
-1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004081,5,240,157,50,10,217,157,217
-1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004091,6,240,155,52,16,223,155,223
-1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004101,7,240,154,56,14,224,154,224
-1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004111,8,240,148,36,9,193,148,193
-1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004121,9,240,155,30,15,200,155,200
-1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004131,10,34,25,6,0,31,25,31
-1,Tomás Frías,1,Potosí,1494,Potosí,31109,U. E. El Minero (Inicial),5004211,1,240,152,43,18,213,152,213
-1,Tomás Frías,1,Potosí,1494,Potosí,31109,U. E. El Minero (Inicial),5004221,2,240,160,48,12,220,160,220
-1,Tomás Frías,1,Potosí,1494,Potosí,31109,U. E. El Minero (Inicial),5004231,3,42,28,8,4,40,28,40
-1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004311,1,240,164,40,11,215,164,215
-1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004321,2,240,160,46,9,215,160,215
-1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004331,3,240,146,48,11,205,146,205
-1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004341,4,240,161,49,7,217,161,217
-1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004351,5,240,163,44,8,215,163,215
-1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004361,6,240,151,49,9,209,151,209
-1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004371,7,240,161,36,12,209,161,209
-1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004381,8,240,143,61,16,220,143,220
-1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004391,9,240,137,55,22,214,137,214
-1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004401,10,245,163,38,23,224,163,224
-1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004411,1,240,153,53,14,220,153,220
-1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004421,2,240,149,50,14,213,149,213
-1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004431,3,240,145,61,10,216,145,216
-1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004441,4,240,145,65,12,222,145,222
-1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004451,5,240,156,53,18,227,156,227
-1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004461,6,240,163,41,16,220,163,220
-1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004471,7,240,155,43,13,211,155,211
-1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004501,10,240,126,64,23,213,126,213
-1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004511,11,240,167,40,11,218,167,218
-1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004521,12,190,121,24,8,153,121,153
-1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,5004541,2,240,164,42,14,220,164,220
-1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,5004551,3,240,164,42,16,222,164,222
-1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,5004561,4,224,144,46,16,206,144,206
-1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004571,1,240,145,62,12,219,145,219
-1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004581,2,240,149,52,16,217,149,217
-1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004611,5,240,137,69,15,221,137,221
-1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004621,6,240,143,50,14,207,143,207
-1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004631,7,240,135,66,19,220,135,220
-1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004641,8,240,157,50,12,219,157,219
-1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004671,11,240,132,52,22,206,132,206
-1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004701,14,103,71,7,11,89,71,89
-1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004711,1,240,144,53,28,225,144,225
-1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004721,2,240,158,43,17,218,158,218
-1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004731,3,240,147,47,12,206,147,206
-1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004741,4,240,156,44,10,210,156,210
-1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004751,5,240,153,43,19,215,153,215
-1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004761,6,240,175,44,9,228,175,228
-1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004771,7,240,153,47,14,214,153,214
-1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004781,8,240,151,44,17,212,151,212
-1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004791,9,240,157,35,14,206,157,206
-1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004801,10,56,36,7,4,47,36,47
-1,Tomás Frías,1,Potosí,1494,Potosí,31122,U. E. Niño Jesús (Inicial),5004961,1,240,156,45,18,219,156,219
-1,Tomás Frías,1,Potosí,1494,Potosí,31122,U. E. Niño Jesús (Inicial),5004971,2,240,147,53,16,216,147,216
-1,Tomás Frías,1,Potosí,1494,Potosí,31122,U. E. Niño Jesús (Inicial),5004981,3,240,159,53,7,219,159,219
-1,Tomás Frías,1,Potosí,1494,Potosí,31122,U. E. Niño Jesús (Inicial),5004991,4,26,20,3,1,24,20,24
-1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005001,1,240,138,60,8,206,138,206
-1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005011,2,240,142,51,21,214,142,214
-1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005021,3,240,163,41,15,219,163,219
-1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005031,4,240,144,60,15,219,144,219
-1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005041,5,240,162,42,12,216,162,216
-1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005051,6,240,143,54,14,211,143,211
-1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005061,7,240,150,48,23,221,150,221
-1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005071,8,240,153,41,8,202,153,202
-1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005081,9,240,144,36,19,199,144,199
-1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005091,10,240,143,41,16,200,143,200
-1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005101,11,240,149,40,22,211,149,211
-1,Tomás Frías,1,Potosí,1494,Potosí,25050,U.E. Cecilio Guzman Rojas,5005111,1,240,160,39,16,215,160,215
-1,Tomás Frías,1,Potosí,1494,Potosí,25050,U.E. Cecilio Guzman Rojas,5005121,2,240,153,40,13,206,153,206
-1,Tomás Frías,1,Potosí,1494,Potosí,25050,U.E. Cecilio Guzman Rojas,5005141,4,240,157,35,14,206,157,206
-1,Tomás Frías,1,Potosí,1494,Potosí,25050,U.E. Cecilio Guzman Rojas,5005161,6,240,146,48,17,211,146,211
-1,Tomás Frías,1,Potosí,1494,Potosí,25050,U.E. Cecilio Guzman Rojas,5005171,7,144,87,31,11,129,87,129
-1,Tomás Frías,1,Potosí,1494,Potosí,31115,U. E. Andrés de Santa Cruz  A  (Inicial),5005181,1,240,152,50,18,220,152,220
-1,Tomás Frías,1,Potosí,1494,Potosí,31115,U. E. Andrés de Santa Cruz  A  (Inicial),5005191,2,240,157,48,13,218,157,218
-1,Tomás Frías,1,Potosí,1494,Potosí,31115,U. E. Andrés de Santa Cruz  A  (Inicial),5005201,3,149,96,21,24,141,96,141
-1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005211,1,240,161,32,16,209,161,209
-1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005221,2,240,144,42,27,213,144,213
-1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005231,3,240,146,52,14,212,146,212
-1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005241,4,240,157,46,15,218,157,218
-1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005261,6,240,160,41,15,216,160,216
-1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005271,7,222,142,41,17,200,142,200
 1,Tomás Frías,1,Potosí,1494,Potosí,29,Fe y Alegría y San Clemente,5005281,1,240,153,50,15,218,153,218
 1,Tomás Frías,1,Potosí,1494,Potosí,29,Fe y Alegría y San Clemente,5005311,4,240,165,39,12,216,165,216
 1,Tomás Frías,1,Potosí,1494,Potosí,29,Fe y Alegría y San Clemente,5005321,5,240,153,49,17,219,153,219
@@ -320,29 +99,72 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,29,Fe y Alegría y San Clemente,5005461,19,240,160,46,11,217,160,217
 1,Tomás Frías,1,Potosí,1494,Potosí,29,Fe y Alegría y San Clemente,5005471,20,240,174,27,17,218,174,218
 1,Tomás Frías,1,Potosí,1494,Potosí,29,Fe y Alegría y San Clemente,5005481,21,222,157,33,11,201,157,201
-1,Tomás Frías,1,Potosí,1494,Potosí,25028,Instituto I.T.E.C. Fe y Alegría,5005491,1,240,165,33,14,212,165,212
-1,Tomás Frías,1,Potosí,1494,Potosí,25028,Instituto I.T.E.C. Fe y Alegría,5005511,3,240,141,44,22,207,141,207
-1,Tomás Frías,1,Potosí,1494,Potosí,25028,Instituto I.T.E.C. Fe y Alegría,5005521,4,27,20,4,3,27,20,27
-1,Tomás Frías,1,Potosí,1494,Potosí,25504,U.E. Elizardo Perez,5005531,1,240,148,41,25,214,148,214
-1,Tomás Frías,1,Potosí,1494,Potosí,25504,U.E. Elizardo Perez,5005541,2,240,156,47,9,212,156,212
-1,Tomás Frías,1,Potosí,1494,Potosí,25504,U.E. Elizardo Perez,5005551,3,240,142,48,17,207,142,207
-1,Tomás Frías,1,Potosí,1494,Potosí,25504,U.E. Elizardo Perez,5005561,4,240,151,48,17,216,151,216
-1,Tomás Frías,1,Potosí,1494,Potosí,25504,U.E. Elizardo Perez,5005591,7,240,170,35,19,224,170,224
-1,Tomás Frías,1,Potosí,1494,Potosí,25504,U.E. Elizardo Perez,5005601,8,20,14,3,3,20,14,20
-1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005621,2,240,153,40,25,218,153,218
-1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005631,3,240,167,42,11,220,167,220
-1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005641,4,240,140,69,14,223,140,223
-1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005651,5,240,163,46,8,217,163,217
-1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005671,7,240,155,48,12,215,155,215
-1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005681,8,240,170,36,15,221,170,221
-1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005691,9,254,180,38,10,228,180,228
-1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005701,1,240,163,43,14,220,163,220
-1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005711,2,240,147,54,17,218,147,218
-1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005721,3,240,151,51,15,217,151,217
-1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005731,4,240,149,51,12,212,149,212
-1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005741,5,240,151,54,11,216,151,216
-1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005751,6,240,164,44,12,220,164,220
-1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005761,7,89,59,13,8,80,59,80
+1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001101,1,240,154,32,24,210,154,210
+1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001111,2,240,159,41,17,217,159,217
+1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001121,3,240,169,36,12,217,169,217
+1,Tomás Frías,1,Potosí,1494,Potosí,30,Unid. Educ. Oscar Alfaro,5001141,5,240,160,48,15,223,160,223
+1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003921,1,240,143,56,18,217,143,217
+1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003931,2,240,140,64,19,223,140,223
+1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003951,4,240,141,55,15,211,141,211
+1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003961,5,240,148,52,16,216,148,216
+1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003971,6,240,132,58,13,203,132,203
+1,Tomás Frías,1,Potosí,1494,Potosí,31,Esc. Gualberto Villarroel,5003981,7,233,144,42,9,195,144,195
+1,Tomás Frías,1,Potosí,1494,Potosí,32,Colegio Franciscano,5003151,1,240,157,38,21,216,157,216
+1,Tomás Frías,1,Potosí,1494,Potosí,32,Colegio Franciscano,5003171,3,240,172,31,17,220,172,220
+1,Tomás Frías,1,Potosí,1494,Potosí,32,Colegio Franciscano,5003181,4,240,169,40,12,221,169,221
+1,Tomás Frías,1,Potosí,1494,Potosí,32,Colegio Franciscano,5003191,5,240,166,33,16,215,166,215
+1,Tomás Frías,1,Potosí,1494,Potosí,32,Colegio Franciscano,5003201,6,41,27,4,3,34,27,34
+1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004051,2,240,158,46,16,220,158,220
+1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004061,3,240,158,37,13,208,158,208
+1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004071,4,240,154,47,14,215,154,215
+1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004081,5,240,157,50,10,217,157,217
+1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004091,6,240,155,52,16,223,155,223
+1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004101,7,240,154,56,14,224,154,224
+1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004111,8,240,148,36,9,193,148,193
+1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004121,9,240,155,30,15,200,155,200
+1,Tomás Frías,1,Potosí,1494,Potosí,33,Coleg. Antofagasta,5004131,10,34,25,6,0,31,25,31
+1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004411,1,240,153,53,14,220,153,220
+1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004421,2,240,149,50,14,213,149,213
+1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004431,3,240,145,61,10,216,145,216
+1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004441,4,240,145,65,12,222,145,222
+1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004451,5,240,156,53,18,227,156,227
+1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004461,6,240,163,41,16,220,163,220
+1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004471,7,240,155,43,13,211,155,211
+1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004501,10,240,126,64,23,213,126,213
+1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004511,11,240,167,40,11,218,167,218
+1,Tomás Frías,1,Potosí,1494,Potosí,35,Esc. Cleto Loayza,5004521,12,190,121,24,8,153,121,153
+1,Tomás Frías,1,Potosí,1494,Potosí,36,Kinder Ismael Montes,5000171,1,240,156,53,15,224,156,224
+1,Tomás Frías,1,Potosí,1494,Potosí,36,Kinder Ismael Montes,5000181,2,240,140,57,22,219,140,219
+1,Tomás Frías,1,Potosí,1494,Potosí,36,Kinder Ismael Montes,5000191,3,240,152,46,19,217,152,217
+1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003651,1,240,163,42,13,218,163,218
+1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003661,2,240,158,40,19,217,158,217
+1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003671,3,240,170,30,19,219,170,219
+1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003681,4,240,167,40,11,218,167,218
+1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003691,5,240,162,45,13,220,162,220
+1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003701,6,240,163,38,16,217,163,217
+1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003711,7,240,149,39,20,208,149,208
+1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003721,8,240,164,25,20,209,164,209
+1,Tomás Frías,1,Potosí,1494,Potosí,38,Col. 31 de Octubre,5003731,9,21,13,2,0,15,13,15
+1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006081,2,240,158,32,13,203,158,203
+1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006101,4,240,164,38,12,214,164,214
+1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006111,5,240,166,42,7,215,166,215
+1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006121,6,240,172,32,13,217,172,217
+1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006131,7,240,163,51,7,221,163,221
+1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006141,8,240,193,24,10,227,193,227
+1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006151,9,240,149,45,16,210,149,210
+1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006161,10,240,161,41,13,215,161,215
+1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006171,11,156,94,32,14,140,94,140
+1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003741,1,240,157,52,10,219,157,219
+1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003751,2,240,162,42,19,223,162,223
+1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003761,3,240,141,53,20,214,141,214
+1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003771,4,240,156,41,20,217,156,217
+1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003781,5,240,145,53,25,223,145,223
+1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003791,6,240,146,53,18,217,146,217
+1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003801,7,240,165,48,10,223,165,223
+1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003811,8,240,154,57,7,218,154,218
+1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003821,9,240,164,52,7,223,164,223
+1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003831,10,240,169,44,7,220,169,220
+1,Tomás Frías,1,Potosí,1494,Potosí,40,U.E. 31 de Octubre,5003841,11,58,41,12,2,55,41,55
 1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005771,1,240,170,32,15,217,170,217
 1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005781,2,240,150,44,29,223,150,223
 1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005791,3,240,156,44,16,216,156,216
@@ -359,23 +181,47 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005961,20,240,149,52,13,214,149,214
 1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005971,21,240,156,40,16,212,156,212
 1,Tomás Frías,1,Potosí,1494,Potosí,42,Esc. Topater,5005981,22,97,71,15,4,90,71,90
-1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006001,2,240,158,46,12,216,158,216
-1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006011,3,240,151,47,17,215,151,215
-1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006021,4,240,139,61,15,215,139,215
-1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006061,8,30,17,9,0,26,17,26
-1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006081,2,240,158,32,13,203,158,203
-1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006101,4,240,164,38,12,214,164,214
-1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006111,5,240,166,42,7,215,166,215
-1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006121,6,240,172,32,13,217,172,217
-1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006131,7,240,163,51,7,221,163,221
-1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006141,8,240,193,24,10,227,193,227
-1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006151,9,240,149,45,16,210,149,210
-1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006161,10,240,161,41,13,215,161,215
-1,Tomás Frías,1,Potosí,1494,Potosí,39,U. E. José David Berrios,5006171,11,156,94,32,14,140,94,140
-1,Tomás Frías,1,Potosí,1494,Potosí,32391,U. E. Técnico Humanístico Warisata,5006181,1,240,117,74,21,212,117,212
-1,Tomás Frías,1,Potosí,1494,Potosí,32391,U. E. Técnico Humanístico Warisata,5006191,2,240,112,91,15,218,112,218
-1,Tomás Frías,1,Potosí,1494,Potosí,32391,U. E. Técnico Humanístico Warisata,5006201,3,240,108,93,13,214,108,214
-1,Tomás Frías,1,Potosí,1494,Potosí,32391,U. E. Técnico Humanístico Warisata,5006211,4,239,107,90,19,216,107,216
+1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004711,1,240,144,53,28,225,144,225
+1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004721,2,240,158,43,17,218,158,218
+1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004731,3,240,147,47,12,206,147,206
+1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004741,4,240,156,44,10,210,156,210
+1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004751,5,240,153,43,19,215,153,215
+1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004761,6,240,175,44,9,228,175,228
+1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004771,7,240,153,47,14,214,153,214
+1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004781,8,240,151,44,17,212,151,212
+1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004791,9,240,157,35,14,206,157,206
+1,Tomás Frías,1,Potosí,1494,Potosí,43,Esc. Enrique Viana,5004801,10,56,36,7,4,47,36,47
+1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004571,1,240,145,62,12,219,145,219
+1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004581,2,240,149,52,16,217,149,217
+1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004611,5,240,137,69,15,221,137,221
+1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004621,6,240,143,50,14,207,143,207
+1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004631,7,240,135,66,19,220,135,220
+1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004641,8,240,157,50,12,219,157,219
+1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004671,11,240,132,52,22,206,132,206
+1,Tomás Frías,1,Potosí,1494,Potosí,44,U. E. Germán Busch  A,5004701,14,103,71,7,11,89,71,89
+1,Tomás Frías,1,Potosí,1494,Potosí,45,Esc. 6 de Junio,5007201,1,240,131,62,15,208,131,208
+1,Tomás Frías,1,Potosí,1494,Potosí,45,Esc. 6 de Junio,5007211,2,240,124,62,24,210,124,210
+1,Tomás Frías,1,Potosí,1494,Potosí,45,Esc. 6 de Junio,5007221,3,240,115,89,16,220,115,220
+1,Tomás Frías,1,Potosí,1494,Potosí,46,Esc. Karachipampa,5006661,1,240,114,86,20,220,114,220
+1,Tomás Frías,1,Potosí,1494,Potosí,46,Esc. Karachipampa,5006671,2,240,121,68,21,210,121,210
+1,Tomás Frías,1,Potosí,1494,Potosí,46,Esc. Karachipampa,5006681,3,240,102,94,14,210,102,210
+1,Tomás Frías,1,Potosí,1494,Potosí,46,Esc. Karachipampa,5006691,4,231,118,69,22,209,118,209
+1,Tomás Frías,1,Potosí,1494,Potosí,48,Lic. Sucre,5003211,1,240,155,29,21,205,155,205
+1,Tomás Frías,1,Potosí,1494,Potosí,48,Lic. Sucre,5003221,2,240,161,53,11,225,161,225
+1,Tomás Frías,1,Potosí,1494,Potosí,48,Lic. Sucre,5003231,3,240,144,61,16,221,144,221
+1,Tomás Frías,1,Potosí,1494,Potosí,48,Lic. Sucre,5003241,4,240,145,52,19,216,145,216
+1,Tomás Frías,1,Potosí,1494,Potosí,48,Lic. Sucre,5003251,5,126,79,21,5,105,79,105
+1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005001,1,240,138,60,8,206,138,206
+1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005011,2,240,142,51,21,214,142,214
+1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005021,3,240,163,41,15,219,163,219
+1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005031,4,240,144,60,15,219,144,219
+1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005041,5,240,162,42,12,216,162,216
+1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005051,6,240,143,54,14,211,143,211
+1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005061,7,240,150,48,23,221,150,221
+1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005071,8,240,153,41,8,202,153,202
+1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005081,9,240,144,36,19,199,144,199
+1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005091,10,240,143,41,16,200,143,200
+1,Tomás Frías,1,Potosí,1494,Potosí,483,Mariscal Santa Cruz,5005101,11,240,149,40,22,211,149,211
 1,Tomás Frías,1,Potosí,1494,Potosí,484,U. E. Juan Pablo II,5006221,1,240,133,70,19,222,133,222
 1,Tomás Frías,1,Potosí,1494,Potosí,484,U. E. Juan Pablo II,5006231,2,240,142,49,16,207,142,207
 1,Tomás Frías,1,Potosí,1494,Potosí,484,U. E. Juan Pablo II,5006241,3,240,164,41,17,222,164,222
@@ -390,17 +236,171 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,1,Potosí,1494,Potosí,484,U. E. Juan Pablo II,5006401,19,240,137,60,23,220,137,220
 1,Tomás Frías,1,Potosí,1494,Potosí,484,U. E. Juan Pablo II,5006411,20,240,144,56,20,220,144,220
 1,Tomás Frías,1,Potosí,1494,Potosí,484,U. E. Juan Pablo II,5006431,22,243,127,59,21,207,127,207
+1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005621,2,240,153,40,25,218,153,218
+1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005631,3,240,167,42,11,220,167,220
+1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005641,4,240,140,69,14,223,140,223
+1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005651,5,240,163,46,8,217,163,217
+1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005671,7,240,155,48,12,215,155,215
+1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005681,8,240,170,36,15,221,170,221
+1,Tomás Frías,1,Potosí,1494,Potosí,571,Col. Divino Maestro,5005691,9,254,180,38,10,228,180,228
+1,Tomás Frías,1,Potosí,1494,Potosí,572,Esc. Salvador Revilla,5002871,1,240,167,36,18,221,167,221
+1,Tomás Frías,1,Potosí,1494,Potosí,572,Esc. Salvador Revilla,5002881,2,240,179,31,13,223,179,223
+1,Tomás Frías,1,Potosí,1494,Potosí,572,Esc. Salvador Revilla,5002911,5,111,76,10,10,96,76,96
+1,Tomás Frías,1,Potosí,1494,Potosí,573,U.E. Antonio José De Sucre,5001691,1,240,125,69,22,216,125,216
+1,Tomás Frías,1,Potosí,1494,Potosí,573,U.E. Antonio José De Sucre,5001721,4,240,133,64,26,223,133,223
+1,Tomás Frías,1,Potosí,1494,Potosí,573,U.E. Antonio José De Sucre,5001771,9,240,121,72,25,218,121,218
+1,Tomás Frías,1,Potosí,1494,Potosí,573,U.E. Antonio José De Sucre,5001781,10,240,133,75,11,219,133,219
+1,Tomás Frías,1,Potosí,1494,Potosí,573,U.E. Antonio José De Sucre,5001791,11,84,43,28,6,77,43,77
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5000941,1,240,135,53,29,217,135,217
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5000951,2,240,134,59,18,211,134,211
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5000961,3,240,136,64,17,217,136,217
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5000981,5,240,137,66,18,221,137,221
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5000991,6,240,126,84,15,225,126,225
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001001,7,240,135,54,19,208,135,208
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001011,8,240,144,51,17,212,144,212
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001031,10,240,129,53,36,218,129,218
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001041,11,240,159,39,15,213,159,213
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001051,12,240,135,54,11,200,135,200
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001061,13,240,135,64,15,214,135,214
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001071,14,240,130,54,27,211,130,211
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001081,15,240,130,61,16,207,130,207
+1,Tomás Frías,1,Potosí,1494,Potosí,588,U. E. Villa Colón,5001091,16,76,35,16,15,66,35,66
+1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,5004541,2,240,164,42,14,220,164,220
+1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,5004551,3,240,164,42,16,222,164,222
+1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,5004561,4,224,144,46,16,206,144,206
+1,Tomás Frías,1,Potosí,1494,Potosí,25027,Escuela José Alonso De Ibáñez,5002931,2,240,160,54,14,228,160,228
+1,Tomás Frías,1,Potosí,1494,Potosí,25027,Escuela José Alonso De Ibáñez,5002961,5,227,163,35,13,211,163,211
+1,Tomás Frías,1,Potosí,1494,Potosí,25028,Instituto I.T.E.C. Fe y Alegría,5005491,1,240,165,33,14,212,165,212
+1,Tomás Frías,1,Potosí,1494,Potosí,25028,Instituto I.T.E.C. Fe y Alegría,5005511,3,240,141,44,22,207,141,207
+1,Tomás Frías,1,Potosí,1494,Potosí,25028,Instituto I.T.E.C. Fe y Alegría,5005521,4,27,20,4,3,27,20,27
+1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006001,2,240,158,46,12,216,158,216
+1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006011,3,240,151,47,17,215,151,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006021,4,240,139,61,15,215,139,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25033,Esc. Boliviano Alemán,5006061,8,30,17,9,0,26,17,26
+1,Tomás Frías,1,Potosí,1494,Potosí,25036,(Cárcel) Penal de Cantumarca,5007351,1,240,100,70,20,190,100,190
+1,Tomás Frías,1,Potosí,1494,Potosí,25036,(Cárcel) Penal de Cantumarca,5007361,2,222,86,67,25,178,86,178
+1,Tomás Frías,1,Potosí,1494,Potosí,25037,Esc. Jose Maria Linares,5000821,1,240,160,35,12,207,160,207
+1,Tomás Frías,1,Potosí,1494,Potosí,25037,Esc. Jose Maria Linares,5000831,2,240,142,43,22,207,142,207
+1,Tomás Frías,1,Potosí,1494,Potosí,25037,Esc. Jose Maria Linares,5000841,3,240,148,41,23,212,148,212
+1,Tomás Frías,1,Potosí,1494,Potosí,25037,Esc. Jose Maria Linares,5000861,5,240,151,51,15,217,151,217
+1,Tomás Frías,1,Potosí,1494,Potosí,25037,Esc. Jose Maria Linares,5000871,6,240,165,40,14,219,165,219
+1,Tomás Frías,1,Potosí,1494,Potosí,25037,Esc. Jose Maria Linares,5000881,7,240,151,55,20,226,151,226
+1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,5003851,1,240,159,42,15,216,159,216
+1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,5003861,2,240,150,47,20,217,150,217
+1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,5003871,3,240,150,43,16,209,150,209
+1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,5003881,4,120,78,21,8,107,78,107
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000271,1,240,127,73,20,220,127,220
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000281,2,240,145,58,12,215,145,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000291,3,240,142,54,19,215,142,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000301,4,240,131,62,17,210,131,210
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000311,5,240,118,77,21,216,118,216
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000321,6,240,134,54,15,203,134,203
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000391,13,240,143,64,12,219,143,219
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000401,14,240,133,70,21,224,133,224
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000411,15,240,127,69,14,210,127,210
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000431,17,240,142,50,10,202,142,202
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000441,18,240,142,54,9,205,142,205
+1,Tomás Frías,1,Potosí,1494,Potosí,25040,Unidad Educativa Mejillones,5000451,19,62,24,14,3,41,24,41
+1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004311,1,240,164,40,11,215,164,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004321,2,240,160,46,9,215,160,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004331,3,240,146,48,11,205,146,205
+1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004341,4,240,161,49,7,217,161,217
+1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004351,5,240,163,44,8,215,163,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004361,6,240,151,49,9,209,151,209
+1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004371,7,240,161,36,12,209,161,209
+1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004381,8,240,143,61,16,220,143,220
+1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004391,9,240,137,55,22,214,137,214
+1,Tomás Frías,1,Potosí,1494,Potosí,25048,U.E. Don Bosco B,5004401,10,245,163,38,23,224,163,224
+1,Tomás Frías,1,Potosí,1494,Potosí,25050,U.E. Cecilio Guzman Rojas,5005111,1,240,160,39,16,215,160,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25050,U.E. Cecilio Guzman Rojas,5005121,2,240,153,40,13,206,153,206
+1,Tomás Frías,1,Potosí,1494,Potosí,25050,U.E. Cecilio Guzman Rojas,5005141,4,240,157,35,14,206,157,206
+1,Tomás Frías,1,Potosí,1494,Potosí,25050,U.E. Cecilio Guzman Rojas,5005161,6,240,146,48,17,211,146,211
+1,Tomás Frías,1,Potosí,1494,Potosí,25050,U.E. Cecilio Guzman Rojas,5005171,7,144,87,31,11,129,87,129
+1,Tomás Frías,1,Potosí,1494,Potosí,25052,U.E. 1ro. de Mayo San Idelfonso,5000811,1,144,80,37,9,126,80,126
+1,Tomás Frías,1,Potosí,1494,Potosí,25504,U.E. Elizardo Perez,5005531,1,240,148,41,25,214,148,214
+1,Tomás Frías,1,Potosí,1494,Potosí,25504,U.E. Elizardo Perez,5005541,2,240,156,47,9,212,156,212
+1,Tomás Frías,1,Potosí,1494,Potosí,25504,U.E. Elizardo Perez,5005551,3,240,142,48,17,207,142,207
+1,Tomás Frías,1,Potosí,1494,Potosí,25504,U.E. Elizardo Perez,5005561,4,240,151,48,17,216,151,216
+1,Tomás Frías,1,Potosí,1494,Potosí,25504,U.E. Elizardo Perez,5005591,7,240,170,35,19,224,170,224
+1,Tomás Frías,1,Potosí,1494,Potosí,25504,U.E. Elizardo Perez,5005601,8,20,14,3,3,20,14,20
+1,Tomás Frías,1,Potosí,1494,Potosí,25505,U.E. Jesus Valle,5006871,1,240,140,49,15,204,140,204
+1,Tomás Frías,1,Potosí,1494,Potosí,25505,U.E. Jesus Valle,5006881,2,105,51,29,6,86,51,86
+1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002061,1,240,142,46,15,203,142,203
+1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002071,2,240,132,51,15,198,132,198
+1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002081,3,240,119,64,22,205,119,205
+1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002091,4,240,119,51,22,192,119,192
+1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002101,5,240,137,53,18,208,137,208
+1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002111,6,240,140,53,22,215,140,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002121,7,240,131,49,14,194,131,194
+1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002181,13,240,144,51,20,215,144,215
+1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. María Gutiérrez,5002191,14,157,86,33,12,131,86,131
+1,Tomás Frías,1,Potosí,1494,Potosí,31101,U.E. San Roque (Inicial),5002671,1,240,140,61,14,215,140,215
+1,Tomás Frías,1,Potosí,1494,Potosí,31101,U.E. San Roque (Inicial),5002681,2,240,136,57,17,210,136,210
+1,Tomás Frías,1,Potosí,1494,Potosí,31101,U.E. San Roque (Inicial),5002691,3,240,137,52,24,213,137,213
+1,Tomás Frías,1,Potosí,1494,Potosí,31101,U.E. San Roque (Inicial),5002701,4,21,17,1,0,18,17,18
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000651,2,240,119,76,16,211,119,211
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000661,3,240,132,59,22,213,132,213
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000671,4,240,109,87,13,209,109,209
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000681,5,240,130,69,13,212,130,212
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000691,6,240,144,70,10,224,144,224
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000711,8,240,119,75,25,219,119,219
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000721,9,240,136,70,12,218,136,218
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000731,10,240,113,94,12,219,113,219
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000741,11,240,134,65,10,209,134,209
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000751,12,240,140,64,16,220,140,220
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000771,14,240,124,71,14,209,124,209
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000791,16,240,120,69,29,218,120,218
+1,Tomás Frías,1,Potosí,1494,Potosí,31103,U. E. Elizardo Pérez de Villa Victoria,5000801,17,171,86,56,12,154,86,154
+1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000461,1,240,139,62,12,213,139,213
+1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000471,2,240,147,55,16,218,147,218
+1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000481,3,240,137,70,14,221,137,221
+1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000491,4,240,136,71,19,226,136,226
+1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000501,5,240,114,59,41,214,114,214
+1,Tomás Frías,1,Potosí,1494,Potosí,31104,U. E. Ismael Montes  B,5000521,7,250,141,58,24,223,141,223
+1,Tomás Frías,1,Potosí,1494,Potosí,31107,U. E. Manuel Belgrano,5001241,1,240,145,52,16,213,145,213
+1,Tomás Frías,1,Potosí,1494,Potosí,31107,U. E. Manuel Belgrano,5001261,3,240,146,62,20,228,146,228
+1,Tomás Frías,1,Potosí,1494,Potosí,31107,U. E. Manuel Belgrano,5001281,5,240,104,109,10,223,104,223
+1,Tomás Frías,1,Potosí,1494,Potosí,31108,U. E. 31 de Octubre  A  (Inicial),5003891,1,240,157,40,27,224,157,224
+1,Tomás Frías,1,Potosí,1494,Potosí,31108,U. E. 31 de Octubre  A  (Inicial),5003901,2,240,170,38,11,219,170,219
+1,Tomás Frías,1,Potosí,1494,Potosí,31108,U. E. 31 de Octubre  A  (Inicial),5003911,3,229,137,54,21,212,137,212
+1,Tomás Frías,1,Potosí,1494,Potosí,31109,U. E. El Minero (Inicial),5004211,1,240,152,43,18,213,152,213
+1,Tomás Frías,1,Potosí,1494,Potosí,31109,U. E. El Minero (Inicial),5004221,2,240,160,48,12,220,160,220
+1,Tomás Frías,1,Potosí,1494,Potosí,31109,U. E. El Minero (Inicial),5004231,3,42,28,8,4,40,28,40
+1,Tomás Frías,1,Potosí,1494,Potosí,31110,Instituto Tecnológico Superior Potosí   ETA   Potosí,5004001,2,240,137,69,13,219,137,219
+1,Tomás Frías,1,Potosí,1494,Potosí,31110,Instituto Tecnológico Superior Potosí   ETA   Potosí,5004011,3,240,160,37,22,219,160,219
+1,Tomás Frías,1,Potosí,1494,Potosí,31110,Instituto Tecnológico Superior Potosí   ETA   Potosí,5004021,4,240,143,60,12,215,143,215
+1,Tomás Frías,1,Potosí,1494,Potosí,31110,Instituto Tecnológico Superior Potosí   ETA   Potosí,5004031,5,126,72,34,6,112,72,112
+1,Tomás Frías,1,Potosí,1494,Potosí,31111,U. E. Otto Felipe Braun,5003301,5,167,117,23,16,156,117,156
+1,Tomás Frías,1,Potosí,1494,Potosí,31115,U. E. Andrés de Santa Cruz  A  (Inicial),5005181,1,240,152,50,18,220,152,220
+1,Tomás Frías,1,Potosí,1494,Potosí,31115,U. E. Andrés de Santa Cruz  A  (Inicial),5005191,2,240,157,48,13,218,157,218
+1,Tomás Frías,1,Potosí,1494,Potosí,31115,U. E. Andrés de Santa Cruz  A  (Inicial),5005201,3,149,96,21,24,141,96,141
+1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001801,1,240,144,52,18,214,144,214
+1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001811,2,240,148,57,16,221,148,221
+1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001831,4,240,140,56,16,212,140,212
+1,Tomás Frías,1,Potosí,1494,Potosí,31116,Escuela Superior de Formación de Maestros  Eduardo Avaroa,5001841,5,240,147,50,19,216,147,216
 1,Tomás Frías,1,Potosí,1494,Potosí,31118,U. E. Juan Pablo II  B  (Inicial),5006441,1,240,145,55,13,213,145,213
 1,Tomás Frías,1,Potosí,1494,Potosí,31118,U. E. Juan Pablo II  B  (Inicial),5006451,2,240,152,47,17,216,152,216
 1,Tomás Frías,1,Potosí,1494,Potosí,31118,U. E. Juan Pablo II  B  (Inicial),5006471,4,91,53,21,8,82,53,82
-1,Tomás Frías,1,Potosí,1494,Potosí,46,Esc. Karachipampa,5006661,1,240,114,86,20,220,114,220
-1,Tomás Frías,1,Potosí,1494,Potosí,46,Esc. Karachipampa,5006671,2,240,121,68,21,210,121,210
-1,Tomás Frías,1,Potosí,1494,Potosí,46,Esc. Karachipampa,5006681,3,240,102,94,14,210,102,210
-1,Tomás Frías,1,Potosí,1494,Potosí,46,Esc. Karachipampa,5006691,4,231,118,69,22,209,118,209
-1,Tomás Frías,1,Potosí,1494,Potosí,25505,U.E. Jesus Valle,5006871,1,240,140,49,15,204,140,204
-1,Tomás Frías,1,Potosí,1494,Potosí,25505,U.E. Jesus Valle,5006881,2,105,51,29,6,86,51,86
-1,Tomás Frías,1,Potosí,1494,Potosí,45,Esc. 6 de Junio,5007201,1,240,131,62,15,208,131,208
-1,Tomás Frías,1,Potosí,1494,Potosí,45,Esc. 6 de Junio,5007211,2,240,124,62,24,210,124,210
-1,Tomás Frías,1,Potosí,1494,Potosí,45,Esc. 6 de Junio,5007221,3,240,115,89,16,220,115,220
-1,Tomás Frías,1,Potosí,1494,Potosí,25036,(Cárcel) Penal de Cantumarca,5007351,1,240,100,70,20,190,100,190
-1,Tomás Frías,1,Potosí,1494,Potosí,25036,(Cárcel) Penal de Cantumarca,5007361,2,222,86,67,25,178,86,178
+1,Tomás Frías,1,Potosí,1494,Potosí,31122,U. E. Niño Jesús (Inicial),5004961,1,240,156,45,18,219,156,219
+1,Tomás Frías,1,Potosí,1494,Potosí,31122,U. E. Niño Jesús (Inicial),5004971,2,240,147,53,16,216,147,216
+1,Tomás Frías,1,Potosí,1494,Potosí,31122,U. E. Niño Jesús (Inicial),5004981,3,240,159,53,7,219,159,219
+1,Tomás Frías,1,Potosí,1494,Potosí,31122,U. E. Niño Jesús (Inicial),5004991,4,26,20,3,1,24,20,24
+1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005211,1,240,161,32,16,209,161,209
+1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005221,2,240,144,42,27,213,144,213
+1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005231,3,240,146,52,14,212,146,212
+1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005241,4,240,157,46,15,218,157,218
+1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005261,6,240,160,41,15,216,160,216
+1,Tomás Frías,1,Potosí,1494,Potosí,31123,U.A.T.F. Carrera Economía,5005271,7,222,142,41,17,200,142,200
+1,Tomás Frías,1,Potosí,1494,Potosí,31125,Instituto Tecnológico Superior Nuevo Amanecer,5002731,3,240,134,69,14,217,134,217
+1,Tomás Frías,1,Potosí,1494,Potosí,31125,Instituto Tecnológico Superior Nuevo Amanecer,5002751,5,160,89,56,7,152,89,152
+1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005701,1,240,163,43,14,220,163,220
+1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005711,2,240,147,54,17,218,147,218
+1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005721,3,240,151,51,15,217,151,217
+1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005731,4,240,149,51,12,212,149,212
+1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005741,5,240,151,54,11,216,151,216
+1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005751,6,240,164,44,12,220,164,220
+1,Tomás Frías,1,Potosí,1494,Potosí,31127,U. E. Divino Maestro  C,5005761,7,89,59,13,8,80,59,80
+1,Tomás Frías,1,Potosí,1494,Potosí,32391,U. E. Técnico Humanístico Warisata,5006181,1,240,117,74,21,212,117,212
+1,Tomás Frías,1,Potosí,1494,Potosí,32391,U. E. Técnico Humanístico Warisata,5006191,2,240,112,91,15,218,112,218
+1,Tomás Frías,1,Potosí,1494,Potosí,32391,U. E. Técnico Humanístico Warisata,5006201,3,240,108,93,13,214,108,214
+1,Tomás Frías,1,Potosí,1494,Potosí,32391,U. E. Técnico Humanístico Warisata,5006211,4,239,107,90,19,216,107,216

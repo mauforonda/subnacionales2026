@@ -96,7 +96,9 @@ def actualizar():
             "CodigoPais",
             "NombrePais",
         ]
-        validos = [col for col in data.columns if col not in participacion + indice + discard]
+        validos = [
+            col for col in data.columns if col not in participacion + indice + discard
+        ]
 
         folder_depto = base / slugify(departamento)
         folder = folder_depto / slugify(eleccion)
@@ -107,7 +109,7 @@ def actualizar():
             [participacion, validos],
         ):
             data_recorte = data.set_index(indice)[recorte].copy()
-            data_recorte.to_csv(folder / f"{nombre}.csv")
+            data_recorte.sort_values(indice).to_csv(folder / f"{nombre}.csv")
 
         with open(os.path.join(folder_depto, "timestamp"), "w") as f:
             f.write(date)
@@ -116,7 +118,6 @@ def actualizar():
         print(departamento)
         date, excel = descargar(i + 1)
         for sheet in excel.sheet_names:
-            print(sheet)
             data = parsear_sheet(excel, sheet)
             formar_eleccion(date, data, sheet, departamento)
 

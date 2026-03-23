@@ -7,7 +7,19 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000881,7,240,152,40,12,204,152,204
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000891,8,240,156,44,7,207,156,207
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000901,9,153,103,22,7,132,103,132
-1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000921,2,240,167,37,9,213,167,213
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001201,1,240,160,44,9,213,160,213
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001211,2,240,139,43,15,197,139,197
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001221,3,240,162,37,11,210,162,210
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001231,4,240,164,37,6,207,164,207
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001251,6,240,163,39,11,213,163,213
+1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001261,7,240,154,42,10,206,154,206
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001351,1,240,158,41,6,205,158,205
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001361,2,240,149,48,16,213,149,213
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001371,3,240,140,51,12,203,140,203
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001381,4,240,157,47,6,210,157,210
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001391,5,240,158,46,11,215,158,215
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001401,6,240,160,42,10,212,160,212
+1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001421,8,240,160,45,5,210,160,210
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000951,1,240,170,38,3,211,170,211
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000961,2,240,158,36,11,205,158,205
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000971,3,240,149,38,10,197,149,197
@@ -21,25 +33,68 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001051,11,240,162,44,6,212,162,212
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001061,12,240,168,45,6,219,168,219
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001081,14,38,27,6,1,34,27,34
-1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001091,1,240,138,56,15,209,138,209
-1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001101,2,240,152,50,9,211,152,211
-1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001161,8,240,143,62,10,215,143,215
-1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001191,11,81,50,24,0,74,50,74
-1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001201,1,240,160,44,9,213,160,213
-1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001211,2,240,139,43,15,197,139,197
-1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001221,3,240,162,37,11,210,162,210
-1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001231,4,240,164,37,6,207,164,207
-1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001251,6,240,163,39,11,213,163,213
-1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001261,7,240,154,42,10,206,154,206
-1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001331,5,240,160,36,10,206,160,206
-1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001351,1,240,158,41,6,205,158,205
-1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001361,2,240,149,48,16,213,149,213
-1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001371,3,240,140,51,12,203,140,203
-1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001381,4,240,157,47,6,210,157,210
-1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001391,5,240,158,46,11,215,158,215
-1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001401,6,240,160,42,10,212,160,212
-1,Cercado,1,Tarija,2680,Tarija,4,U.E. Rosa Arce,6001421,8,240,160,45,5,210,160,210
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002091,3,240,140,56,8,204,140,204
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002101,4,240,144,54,7,205,144,205
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002111,5,240,175,33,10,218,175,218
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002121,6,240,142,67,8,217,142,217
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002131,7,240,153,51,7,211,153,211
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002141,8,240,147,46,16,209,147,209
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002151,9,240,154,48,6,208,154,208
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002161,10,240,134,59,18,211,134,211
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002171,11,240,141,61,9,211,141,211
+1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002181,12,152,87,36,15,138,87,138
 1,Cercado,1,Tarija,2680,Tarija,8,U.E. Carmen Echazu,6001481,4,240,155,49,10,214,155,214
+1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000921,2,240,167,37,9,213,167,213
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002841,1,240,108,91,12,211,108,211
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002851,2,240,89,86,16,191,89,191
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002871,4,240,126,55,16,197,126,197
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002881,5,240,112,81,14,207,112,207
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002891,6,240,110,83,14,207,110,207
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002901,7,240,108,83,21,212,108,212
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002911,8,240,111,80,13,204,111,204
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002921,9,240,110,84,12,206,110,206
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002931,10,240,100,91,10,201,100,201
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002941,11,240,109,85,12,206,109,206
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002951,12,240,98,86,17,201,98,201
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002961,13,240,120,77,15,212,120,212
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002971,14,240,106,89,10,205,106,205
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002991,16,240,122,64,17,203,122,203
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6003001,17,240,111,88,9,208,111,208
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6003011,18,240,110,75,12,197,110,197
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6003021,19,106,50,30,8,88,50,88
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002401,9,240,131,68,9,208,131,208
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002411,10,240,111,77,12,200,111,200
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002421,11,240,135,69,11,215,135,215
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002431,12,240,117,68,19,204,117,204
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002461,15,240,116,65,36,217,116,217
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002471,16,240,116,76,17,209,116,209
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002481,17,240,140,61,10,211,140,211
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002491,18,242,125,62,15,202,125,202
+1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001331,5,240,160,36,10,206,160,206
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005261,2,240,168,35,6,209,168,209
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005271,3,240,134,63,15,212,134,212
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005281,4,240,143,55,16,214,143,214
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005311,7,240,136,54,19,209,136,209
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005341,10,240,151,45,12,208,151,208
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005371,13,240,158,45,6,209,158,209
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005381,14,207,138,40,10,188,138,188
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004091,1,240,155,53,9,217,155,217
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004101,2,240,142,53,17,212,142,212
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004111,3,240,156,41,14,211,156,211
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004121,4,240,161,45,10,216,161,216
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004131,5,240,126,70,18,214,126,214
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004141,6,240,145,48,13,206,145,206
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004161,8,240,149,54,8,211,149,211
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004171,9,240,160,51,8,219,160,219
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004181,10,240,143,42,17,202,143,202
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004191,11,240,159,47,11,217,159,217
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004201,12,240,153,54,3,210,153,210
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004221,14,240,153,49,9,211,153,211
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004231,15,240,132,62,10,204,132,204
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004241,16,240,152,45,15,212,152,212
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004251,17,240,148,48,11,207,148,207
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004261,18,240,161,44,9,214,161,214
+1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004271,19,126,90,24,0,114,90,114
 1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001521,1,240,163,47,8,218,163,218
 1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001561,5,240,171,24,11,206,171,206
 1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001571,6,240,143,55,20,218,143,218
@@ -60,40 +115,62 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001741,23,240,158,47,7,212,158,212
 1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001751,24,240,160,41,9,210,160,210
 1,Cercado,1,Tarija,2680,Tarija,75,U.E. Belgrano,6001771,26,189,134,35,3,172,134,172
-1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001781,1,240,128,61,6,195,128,195
-1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001791,2,240,136,58,18,212,136,212
-1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001801,3,240,118,68,6,192,118,192
-1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001811,4,240,102,85,10,197,102,197
-1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001821,5,240,128,70,11,209,128,209
-1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001831,6,240,118,67,15,200,118,200
-1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001841,7,240,121,72,17,210,121,210
-1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001851,8,240,130,75,12,217,130,217
-1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001861,9,240,111,69,12,192,111,192
-1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001871,10,41,21,9,3,33,21,33
-1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001931,1,240,145,57,10,212,145,212
-1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001941,2,240,114,77,14,205,114,205
-1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001951,3,240,124,70,10,204,124,204
-1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001961,4,240,135,64,10,209,135,209
-1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001971,5,106,67,23,4,94,67,94
-1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002091,3,240,140,56,8,204,140,204
-1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002101,4,240,144,54,7,205,144,205
-1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002111,5,240,175,33,10,218,175,218
-1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002121,6,240,142,67,8,217,142,217
-1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002131,7,240,153,51,7,211,153,211
-1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002141,8,240,147,46,16,209,147,209
-1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002151,9,240,154,48,6,208,154,208
-1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002161,10,240,134,59,18,211,134,211
-1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002171,11,240,141,61,9,211,141,211
-1,Cercado,1,Tarija,2680,Tarija,6,U.E. Avelina Raña,6002181,12,152,87,36,15,138,87,138
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005751,10,240,145,58,18,221,145,221
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005761,11,240,136,52,17,205,136,205
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005771,12,240,141,63,13,217,141,217
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005791,14,240,139,57,9,205,139,205
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005801,15,240,136,62,12,210,136,210
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005811,16,240,145,68,9,222,145,222
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005821,17,240,154,46,7,207,154,207
+1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005831,18,239,149,47,12,208,149,208
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007841,1,240,92,96,8,196,92,196
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007861,3,240,110,85,14,209,110,209
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007871,4,240,107,85,17,209,107,209
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007881,5,240,106,76,25,207,106,207
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007891,6,240,101,86,14,201,101,201
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007901,7,240,118,74,17,209,118,209
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007911,8,240,109,98,9,216,109,216
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007921,9,240,113,91,10,214,113,214
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007931,10,240,98,93,15,206,98,206
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007941,11,59,27,13,7,47,27,47
+1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006331,1,240,126,69,16,211,126,211
+1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006341,2,240,145,56,11,212,145,212
+1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006351,3,240,160,49,5,214,160,214
+1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006361,4,240,156,35,21,212,156,212
+1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006371,5,240,172,34,18,224,172,224
+1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006381,6,42,26,11,0,37,26,37
 1,Cercado,1,Tarija,2680,Tarija,85,U.E. Fe y Alegria,6002311,13,83,58,12,3,73,58,73
-1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002401,9,240,131,68,9,208,131,208
-1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002411,10,240,111,77,12,200,111,200
-1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002421,11,240,135,69,11,215,135,215
-1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002431,12,240,117,68,19,204,117,204
-1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002461,15,240,116,65,36,217,116,217
-1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002471,16,240,116,76,17,209,116,209
-1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002481,17,240,140,61,10,211,140,211
-1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002491,18,242,125,62,15,202,125,202
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007001,1,240,129,59,21,209,129,209
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007011,2,240,148,51,11,210,148,210
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007021,3,240,147,53,12,212,147,212
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007031,4,240,159,40,9,208,159,208
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007041,5,240,140,62,11,213,140,213
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007071,8,240,144,56,10,210,144,210
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007081,9,240,139,53,18,210,139,210
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007091,10,240,128,59,16,203,128,203
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007101,11,240,157,48,10,215,157,215
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007111,12,240,119,60,27,206,119,206
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007121,13,240,150,45,16,211,150,211
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007131,14,240,149,52,10,211,149,211
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007141,15,240,124,61,18,203,124,203
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007151,16,240,150,50,11,211,150,211
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007161,17,240,151,45,10,206,151,206
+1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007171,18,77,50,13,3,66,50,66
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006801,1,240,161,45,6,212,161,212
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006811,2,240,155,40,14,209,155,209
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006821,3,240,141,52,15,208,141,208
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006831,4,240,159,45,12,216,159,216
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006841,5,240,138,55,14,207,138,207
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006851,6,240,181,27,9,217,181,217
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006861,7,240,141,66,8,215,141,215
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006871,8,240,150,44,14,208,150,208
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006881,9,240,159,44,11,214,159,214
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006891,10,240,123,66,21,210,123,210
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006901,11,240,154,55,5,214,154,214
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006911,12,240,162,40,10,212,162,212
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006921,13,240,140,49,16,205,140,205
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006931,14,240,162,35,8,205,162,205
+1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006941,15,45,31,4,3,38,31,38
 1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002511,2,240,126,62,11,199,126,199
 1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002521,3,240,113,63,19,195,113,195
 1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002531,4,240,144,60,9,213,144,213
@@ -112,6 +189,29 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002671,18,240,119,70,14,203,119,203
 1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002681,19,240,115,68,14,197,115,197
 1,Cercado,1,Tarija,2680,Tarija,94,U.E. Eulogio Ruiz,6002691,20,176,95,42,9,146,95,146
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007461,1,240,113,66,24,203,113,203
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007471,2,240,132,58,19,209,132,209
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007481,3,240,123,73,8,204,123,204
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007491,4,240,124,82,7,213,124,213
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007501,5,240,133,70,13,216,133,216
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007511,6,240,125,80,15,220,125,220
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007521,7,240,126,79,9,214,126,214
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007531,8,240,117,76,19,212,117,212
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007541,9,240,103,89,14,206,103,206
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007551,10,240,126,74,9,209,126,209
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007561,11,240,132,68,10,210,132,210
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007571,12,240,139,70,13,222,139,222
+1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007581,13,189,97,62,6,165,97,165
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007301,8,240,144,64,7,215,144,215
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007311,9,240,123,62,16,201,123,201
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007321,10,240,141,58,5,204,141,204
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007331,11,240,127,63,17,207,127,207
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007341,12,240,140,64,8,212,140,212
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007351,13,240,140,58,13,211,140,211
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007361,14,240,132,62,10,204,132,204
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007371,15,240,139,65,6,210,139,210
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007381,16,240,132,64,20,216,132,216
+1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007391,17,240,110,75,21,206,110,206
 1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002711,2,240,144,48,7,199,144,199
 1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002731,4,240,119,66,15,200,119,200
 1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002741,5,240,122,66,12,200,122,200
@@ -123,23 +223,34 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002811,12,240,125,59,10,194,125,194
 1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002821,13,240,118,65,9,192,118,192
 1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002831,14,88,46,24,6,76,46,76
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002841,1,240,108,91,12,211,108,211
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002851,2,240,89,86,16,191,89,191
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002871,4,240,126,55,16,197,126,197
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002881,5,240,112,81,14,207,112,207
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002891,6,240,110,83,14,207,110,207
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002901,7,240,108,83,21,212,108,212
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002911,8,240,111,80,13,204,111,204
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002921,9,240,110,84,12,206,110,206
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002931,10,240,100,91,10,201,100,201
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002941,11,240,109,85,12,206,109,206
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002951,12,240,98,86,17,201,98,201
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002961,13,240,120,77,15,212,120,212
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002971,14,240,106,89,10,205,106,205
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002991,16,240,122,64,17,203,122,203
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6003001,17,240,111,88,9,208,111,208
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6003011,18,240,110,75,12,197,110,197
-1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6003021,19,106,50,30,8,88,50,88
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001781,1,240,128,61,6,195,128,195
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001791,2,240,136,58,18,212,136,212
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001801,3,240,118,68,6,192,118,192
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001811,4,240,102,85,10,197,102,197
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001821,5,240,128,70,11,209,128,209
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001831,6,240,118,67,15,200,118,200
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001841,7,240,121,72,17,210,121,210
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001851,8,240,130,75,12,217,130,217
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001861,9,240,111,69,12,192,111,192
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001871,10,41,21,9,3,33,21,33
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003801,1,240,141,57,10,208,141,208
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003811,2,240,138,60,8,206,138,206
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003821,3,240,140,58,11,209,140,209
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003831,4,240,151,39,23,213,151,213
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003841,5,240,123,71,8,202,123,202
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003851,6,240,174,35,9,218,174,218
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003861,7,240,136,50,25,211,136,211
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003871,8,240,147,65,7,219,147,219
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003881,9,240,154,50,14,218,154,218
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003901,11,240,141,53,10,204,141,204
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003911,12,240,144,48,13,205,144,205
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003921,13,240,147,58,10,215,147,215
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003931,14,240,144,56,12,212,144,212
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003941,15,240,139,68,12,219,139,219
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003951,16,240,129,70,14,213,129,213
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003961,17,240,144,51,17,212,144,212
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003971,18,240,137,61,17,215,137,215
+1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003981,19,240,155,39,10,204,155,204
 1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003091,2,240,122,63,16,201,122,201
 1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003101,3,240,119,75,10,204,119,204
 1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003111,4,240,115,73,6,194,115,194
@@ -154,6 +265,34 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003251,18,240,125,64,9,198,125,198
 1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003261,19,240,122,85,9,216,122,216
 1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003281,21,196,92,62,8,162,92,162
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006681,2,240,148,53,14,215,148,215
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006691,3,240,139,52,21,212,139,212
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006701,4,240,130,76,16,222,130,222
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006711,5,240,143,51,13,207,143,207
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006721,6,240,136,55,19,210,136,210
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006731,7,240,132,51,21,204,132,204
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006741,8,240,153,48,12,213,153,213
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006751,9,240,144,60,20,224,144,224
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006761,10,240,129,68,12,209,129,209
+1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006771,11,39,17,9,4,30,17,30
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004471,1,240,127,64,20,211,127,211
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004491,3,240,119,77,17,213,119,213
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004501,4,240,158,41,10,209,158,209
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004511,5,240,135,65,12,212,135,212
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004521,6,240,138,69,11,218,138,218
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004551,9,240,113,91,9,213,113,213
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004561,10,240,131,61,14,206,131,206
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004571,11,240,131,71,7,209,131,209
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004581,12,240,135,73,7,215,135,215
+1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004591,13,240,133,75,15,223,133,223
+1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006561,1,240,136,55,10,201,136,201
+1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006571,2,240,157,56,3,216,157,216
+1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006581,3,240,138,58,9,205,138,205
+1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006591,4,240,142,56,9,207,142,207
+1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006601,5,194,123,48,7,178,123,178
+1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006521,5,240,142,65,9,216,142,216
+1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006541,7,240,145,43,12,200,145,200
+1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006551,8,105,60,30,1,91,60,91
 1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003591,1,240,135,60,14,209,135,209
 1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003601,2,240,99,64,35,198,99,198
 1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003611,3,240,121,71,17,209,121,209
@@ -174,46 +313,6 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003771,19,240,112,75,16,203,112,203
 1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003781,20,240,131,67,8,206,131,206
 1,Cercado,1,Tarija,2680,Tarija,25711,U.E. Lourdes,6003791,21,24,15,6,0,21,15,21
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003801,1,240,141,57,10,208,141,208
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003811,2,240,138,60,8,206,138,206
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003821,3,240,140,58,11,209,140,209
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003831,4,240,151,39,23,213,151,213
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003841,5,240,123,71,8,202,123,202
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003851,6,240,174,35,9,218,174,218
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003861,7,240,136,50,25,211,136,211
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003871,8,240,147,65,7,219,147,219
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003881,9,240,154,50,14,218,154,218
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003901,11,240,141,53,10,204,141,204
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003911,12,240,144,48,13,205,144,205
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003921,13,240,147,58,10,215,147,215
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003931,14,240,144,56,12,212,144,212
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003941,15,240,139,68,12,219,139,219
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003951,16,240,129,70,14,213,129,213
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003961,17,240,144,51,17,212,144,212
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003971,18,240,137,61,17,215,137,215
-1,Cercado,1,Tarija,2680,Tarija,110,U.E. Jose Manuel Avila,6003981,19,240,155,39,10,204,155,204
-1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004031,1,240,109,71,18,198,109,198
-1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004041,2,240,115,62,21,198,115,198
-1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004061,4,240,123,58,15,196,123,196
-1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004071,5,240,128,64,12,204,128,204
-1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004081,6,43,25,8,3,36,25,36
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004091,1,240,155,53,9,217,155,217
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004101,2,240,142,53,17,212,142,212
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004111,3,240,156,41,14,211,156,211
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004121,4,240,161,45,10,216,161,216
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004131,5,240,126,70,18,214,126,214
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004141,6,240,145,48,13,206,145,206
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004161,8,240,149,54,8,211,149,211
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004171,9,240,160,51,8,219,160,219
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004181,10,240,143,42,17,202,143,202
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004191,11,240,159,47,11,217,159,217
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004201,12,240,153,54,3,210,153,210
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004221,14,240,153,49,9,211,153,211
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004231,15,240,132,62,10,204,132,204
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004241,16,240,152,45,15,212,152,212
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004251,17,240,148,48,11,207,148,207
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004261,18,240,161,44,9,214,161,214
-1,Cercado,1,Tarija,2680,Tarija,72,U.E. Juan XXIII,6004271,19,126,90,24,0,114,90,114
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004281,1,240,149,55,10,214,149,214
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004291,2,240,155,39,12,206,155,206
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004301,3,240,125,59,15,199,125,199
@@ -224,137 +323,38 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004361,9,240,142,57,8,207,142,207
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004441,17,240,147,57,9,213,147,213
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004461,19,174,97,49,9,155,97,155
-1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004471,1,240,127,64,20,211,127,211
-1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004491,3,240,119,77,17,213,119,213
-1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004501,4,240,158,41,10,209,158,209
-1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004511,5,240,135,65,12,212,135,212
-1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004521,6,240,138,69,11,218,138,218
-1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004551,9,240,113,91,9,213,113,213
-1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004561,10,240,131,61,14,206,131,206
-1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004571,11,240,131,71,7,209,131,209
-1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004581,12,240,135,73,7,215,135,215
-1,Cercado,1,Tarija,2680,Tarija,113,U.E. Pampa Galana,6004591,13,240,133,75,15,223,133,223
-1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005261,2,240,168,35,6,209,168,209
-1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005271,3,240,134,63,15,212,134,212
-1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005281,4,240,143,55,16,214,143,214
-1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005311,7,240,136,54,19,209,136,209
-1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005341,10,240,151,45,12,208,151,208
-1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005371,13,240,158,45,6,209,158,209
-1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005381,14,207,138,40,10,188,138,188
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005391,1,240,134,53,18,205,134,205
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005401,2,240,150,59,12,221,150,221
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005421,4,240,153,53,8,214,153,214
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005431,5,240,145,56,12,213,145,213
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005471,9,240,145,67,8,220,145,220
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005481,10,210,126,55,10,191,126,191
-1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005751,10,240,145,58,18,221,145,221
-1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005761,11,240,136,52,17,205,136,205
-1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005771,12,240,141,63,13,217,141,217
-1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005791,14,240,139,57,9,205,139,205
-1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005801,15,240,136,62,12,210,136,210
-1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005811,16,240,145,68,9,222,145,222
-1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005821,17,240,154,46,7,207,154,207
-1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005831,18,239,149,47,12,208,149,208
-1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005871,1,240,141,55,7,203,141,203
-1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005891,3,240,130,67,14,211,130,211
-1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005901,4,240,148,62,7,217,148,217
-1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005911,5,201,111,54,12,177,111,177
-1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006331,1,240,126,69,16,211,126,211
-1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006341,2,240,145,56,11,212,145,212
-1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006351,3,240,160,49,5,214,160,214
-1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006361,4,240,156,35,21,212,156,212
-1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006371,5,240,172,34,18,224,172,224
-1,Cercado,1,Tarija,2680,Tarija,82,U.E. Los Callejones,6006381,6,42,26,11,0,37,26,37
-1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006521,5,240,142,65,9,216,142,216
-1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006541,7,240,145,43,12,200,145,200
-1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006551,8,105,60,30,1,91,60,91
-1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006561,1,240,136,55,10,201,136,201
-1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006571,2,240,157,56,3,216,157,216
-1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006581,3,240,138,58,9,205,138,205
-1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006591,4,240,142,56,9,207,142,207
-1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,6006601,5,194,123,48,7,178,123,178
-1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006681,2,240,148,53,14,215,148,215
-1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006691,3,240,139,52,21,212,139,212
-1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006701,4,240,130,76,16,222,130,222
-1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006711,5,240,143,51,13,207,143,207
-1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006721,6,240,136,55,19,210,136,210
-1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006731,7,240,132,51,21,204,132,204
-1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006741,8,240,153,48,12,213,153,213
-1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006751,9,240,144,60,20,224,144,224
-1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006761,10,240,129,68,12,209,129,209
-1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006771,11,39,17,9,4,30,17,30
-1,Cercado,1,Tarija,2680,Tarija,32414,U.E. San Antonio 2,6006781,1,240,157,54,7,218,157,218
-1,Cercado,1,Tarija,2680,Tarija,32414,U.E. San Antonio 2,6006791,2,136,83,31,15,129,83,129
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006801,1,240,161,45,6,212,161,212
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006811,2,240,155,40,14,209,155,209
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006821,3,240,141,52,15,208,141,208
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006831,4,240,159,45,12,216,159,216
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006841,5,240,138,55,14,207,138,207
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006851,6,240,181,27,9,217,181,217
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006861,7,240,141,66,8,215,141,215
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006871,8,240,150,44,14,208,150,208
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006881,9,240,159,44,11,214,159,214
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006891,10,240,123,66,21,210,123,210
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006901,11,240,154,55,5,214,154,214
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006911,12,240,162,40,10,212,162,212
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006921,13,240,140,49,16,205,140,205
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006931,14,240,162,35,8,205,162,205
-1,Cercado,1,Tarija,2680,Tarija,87,U.E. Bolivia,6006941,15,45,31,4,3,38,31,38
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007001,1,240,129,59,21,209,129,209
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007011,2,240,148,51,11,210,148,210
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007021,3,240,147,53,12,212,147,212
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007031,4,240,159,40,9,208,159,208
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007041,5,240,140,62,11,213,140,213
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007071,8,240,144,56,10,210,144,210
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007081,9,240,139,53,18,210,139,210
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007091,10,240,128,59,16,203,128,203
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007101,11,240,157,48,10,215,157,215
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007111,12,240,119,60,27,206,119,206
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007121,13,240,150,45,16,211,150,211
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007131,14,240,149,52,10,211,149,211
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007141,15,240,124,61,18,203,124,203
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007151,16,240,150,50,11,211,150,211
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007161,17,240,151,45,10,206,151,206
-1,Cercado,1,Tarija,2680,Tarija,86,U.E. Juan Pablo II,6007171,18,77,50,13,3,66,50,66
-1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007301,8,240,144,64,7,215,144,215
-1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007311,9,240,123,62,16,201,123,201
-1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007321,10,240,141,58,5,204,141,204
-1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007331,11,240,127,63,17,207,127,207
-1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007341,12,240,140,64,8,212,140,212
-1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007351,13,240,140,58,13,211,140,211
-1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007361,14,240,132,62,10,204,132,204
-1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007371,15,240,139,65,6,210,139,210
-1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007381,16,240,132,64,20,216,132,216
-1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007391,17,240,110,75,21,206,110,206
+1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004031,1,240,109,71,18,198,109,198
+1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004041,2,240,115,62,21,198,115,198
+1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004061,4,240,123,58,15,196,123,196
+1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004071,5,240,128,64,12,204,128,204
+1,Cercado,1,Tarija,2680,Tarija,25715,U.E. Alberto Baldivieso,6004081,6,43,25,8,3,36,25,36
 1,Cercado,1,Tarija,2680,Tarija,26474,U.E. Santa Rosa,6007411,1,240,123,67,7,197,123,197
 1,Cercado,1,Tarija,2680,Tarija,26474,U.E. Santa Rosa,6007421,2,240,118,79,12,209,118,209
 1,Cercado,1,Tarija,2680,Tarija,26474,U.E. Santa Rosa,6007441,4,240,140,66,6,212,140,212
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007461,1,240,113,66,24,203,113,203
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007471,2,240,132,58,19,209,132,209
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007481,3,240,123,73,8,204,123,204
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007491,4,240,124,82,7,213,124,213
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007501,5,240,133,70,13,216,133,216
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007511,6,240,125,80,15,220,125,220
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007521,7,240,126,79,9,214,126,214
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007531,8,240,117,76,19,212,117,212
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007541,9,240,103,89,14,206,103,206
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007551,10,240,126,74,9,209,126,209
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007561,11,240,132,68,10,210,132,210
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007571,12,240,139,70,13,222,139,222
-1,Cercado,1,Tarija,2680,Tarija,95,U.E. Eduardo Orozco Alfaro,6007581,13,189,97,62,6,165,97,165
 1,Cercado,1,Tarija,2680,Tarija,26475,U.E. Valle Hermoso,6007591,1,240,120,81,16,217,120,217
 1,Cercado,1,Tarija,2680,Tarija,26475,U.E. Valle Hermoso,6007601,2,240,108,87,17,212,108,212
 1,Cercado,1,Tarija,2680,Tarija,26475,U.E. Valle Hermoso,6007611,3,240,124,76,14,214,124,214
 1,Cercado,1,Tarija,2680,Tarija,26475,U.E. Valle Hermoso,6007621,4,240,114,76,25,215,114,215
 1,Cercado,1,Tarija,2680,Tarija,26475,U.E. Valle Hermoso,6007631,5,240,103,88,13,204,103,204
 1,Cercado,1,Tarija,2680,Tarija,26475,U.E. Valle Hermoso,6007641,6,255,111,97,14,222,111,222
-1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007841,1,240,92,96,8,196,92,196
-1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007861,3,240,110,85,14,209,110,209
-1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007871,4,240,107,85,17,209,107,209
-1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007881,5,240,106,76,25,207,106,207
-1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007891,6,240,101,86,14,201,101,201
-1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007901,7,240,118,74,17,209,118,209
-1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007911,8,240,109,98,9,216,109,216
-1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007921,9,240,113,91,10,214,113,214
-1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007931,10,240,98,93,15,206,98,206
-1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007941,11,59,27,13,7,47,27,47
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001091,1,240,138,56,15,209,138,209
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001101,2,240,152,50,9,211,152,211
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001161,8,240,143,62,10,215,143,215
+1,Cercado,1,Tarija,2680,Tarija,31055,Coliseo San Roque,6001191,11,81,50,24,0,74,50,74
+1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005871,1,240,141,55,7,203,141,203
+1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005891,3,240,130,67,14,211,130,211
+1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005901,4,240,148,62,7,217,148,217
+1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder),6005911,5,201,111,54,12,177,111,177
+1,Cercado,1,Tarija,2680,Tarija,32414,U.E. San Antonio 2,6006781,1,240,157,54,7,218,157,218
+1,Cercado,1,Tarija,2680,Tarija,32414,U.E. San Antonio 2,6006791,2,136,83,31,15,129,83,129
+1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001931,1,240,145,57,10,212,145,212
+1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001941,2,240,114,77,14,205,114,205
+1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001951,3,240,124,70,10,204,124,204
+1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001961,4,240,135,64,10,209,135,209
+1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001971,5,106,67,23,4,94,67,94

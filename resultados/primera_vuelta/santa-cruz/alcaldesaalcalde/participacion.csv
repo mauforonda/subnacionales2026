@@ -1,13 +1,50 @@
 CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,InscritosHabilitados,VotoValido,VotoBlanco,VotoNulo,VotoEmitido,VotoValidoReal,VotoEmitidoReal
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4032,Clara Serrano,25363,U.E. Clara Serrano,7000847,1,240,194,5,11,210,194,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4034,Villa Viana,25365,U.E. Thevenet De Viana,7001077,8,240,194,4,18,216,194,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10017,Col. Escuela Sara Porras De Pinto,7001297,9,240,191,5,11,207,191,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10017,Col. Escuela Sara Porras De Pinto,7001307,10,240,201,1,8,210,201,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10017,Col. Escuela Sara Porras De Pinto,7001327,12,240,207,2,6,215,207,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10016,Col. Escuela Ambrocio Villarroel,7001407,7,240,172,6,22,200,172,200
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10016,Col. Escuela Ambrocio Villarroel,7001437,10,256,194,2,18,214,194,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26417,U.E. John Fitzgerald Kennedy III,7001697,1,240,197,1,11,209,197,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26418,U.E. Lucas Casaert,7001747,2,233,179,1,18,198,179,198
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5,Col. Esc. Unzaga De La Vega,7038577,11,240,194,3,8,205,194,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5,Col. Esc. Unzaga De La Vega,7038637,17,240,200,2,10,212,200,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5,Col. Esc. Unzaga De La Vega,7038677,21,240,179,0,20,199,179,199
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5,Col. Esc. Unzaga De La Vega,7038687,22,240,188,1,15,204,188,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8,Col. Mateo Kuljis Secundario,7039467,1,240,201,1,9,211,201,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8,Col. Mateo Kuljis Secundario,7039477,2,240,205,4,6,215,205,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8,Col. Mateo Kuljis Secundario,7039487,3,240,188,1,10,199,188,199
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9,Col. Esc. Tierras Nuevas El Carmen,7039047,3,240,194,3,14,211,194,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9,Col. Esc. Tierras Nuevas El Carmen,7039057,4,240,201,2,14,217,201,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9,Col. Esc. Tierras Nuevas El Carmen,7039067,5,240,198,1,16,215,198,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9,Col. Esc. Tierras Nuevas El Carmen,7039077,6,240,174,3,30,207,174,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9,Col. Esc. Tierras Nuevas El Carmen,7039087,7,240,204,5,13,222,204,222
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9,Col. Esc. Tierras Nuevas El Carmen,7039287,27,240,205,2,11,218,205,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10,Col. Oscar Arnulfo,7039827,10,240,190,2,13,205,190,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10,Col. Oscar Arnulfo,7039837,11,240,205,1,5,211,205,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10,Col. Oscar Arnulfo,7039867,14,240,182,3,10,195,182,195
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,19,Colegio Marcelino Champagnat,7035287,9,240,206,2,13,221,206,221
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,19,Colegio Marcelino Champagnat,7035297,10,240,201,1,9,211,201,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,19,Colegio Marcelino Champagnat,7035327,13,240,208,1,6,215,208,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,19,Colegio Marcelino Champagnat,7035337,14,240,204,4,9,217,204,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,19,Colegio Marcelino Champagnat,7035347,15,163,143,1,10,154,143,154
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033797,9,240,210,1,6,217,210,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033857,15,240,201,1,8,210,201,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033867,16,240,206,4,5,215,206,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033877,17,240,192,1,14,207,192,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033897,19,240,201,0,10,211,201,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033907,20,240,201,1,13,215,201,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033917,21,240,202,2,10,214,202,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1000,Col. La Madre,7002847,1,240,196,5,12,213,196,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1000,Col. La Madre,7002857,2,240,195,2,7,204,195,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1000,Col. La Madre,7002907,7,240,200,2,4,206,200,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1001,Campus Universitario,7040677,4,240,175,2,7,184,175,184
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1001,Campus Universitario,7040687,5,240,195,0,3,198,195,198
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1002,Esc. Rene Barrientos,7002317,9,240,185,1,13,199,185,199
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1002,Esc. Rene Barrientos,7002337,11,240,183,2,5,190,183,190
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1002,Esc. Rene Barrientos,7002347,12,240,191,0,14,205,191,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1002,Esc. Rene Barrientos,7002357,13,240,193,0,8,201,193,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1002,Esc. Rene Barrientos,7002367,14,240,196,0,8,204,196,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1003,Modulo Educativo Jose Miguel De Velasco,7003387,2,240,208,1,9,218,208,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1003,Modulo Educativo Jose Miguel De Velasco,7003417,5,240,191,4,10,205,191,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1003,Modulo Educativo Jose Miguel De Velasco,7003497,13,240,209,1,5,215,209,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1003,Modulo Educativo Jose Miguel De Velasco,7003517,15,240,201,3,8,212,201,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1003,Modulo Educativo Jose Miguel De Velasco,7003537,17,240,204,0,7,211,204,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1003,Modulo Educativo Jose Miguel De Velasco,7003547,18,142,109,0,12,121,109,121
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1005,Col. Gabriel Rene Moreno,7041887,1,240,180,0,6,186,180,186
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1005,Col. Gabriel Rene Moreno,7041917,4,240,164,0,8,172,164,172
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1006,Col. San Martin De Porres,7001957,2,240,202,4,4,210,202,210
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1006,Col. San Martin De Porres,7002007,7,240,192,2,18,212,192,212
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1006,Col. San Martin De Porres,7002037,10,240,201,1,5,207,201,207
@@ -19,19 +56,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1006,Col. San Martin De Porres,7002137,20,240,203,2,8,213,203,213
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1006,Col. San Martin De Porres,7002147,21,240,188,1,15,204,188,204
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1006,Col. San Martin De Porres,7002157,22,240,204,2,6,212,204,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1002,Esc. Rene Barrientos,7002317,9,240,185,1,13,199,185,199
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1002,Esc. Rene Barrientos,7002337,11,240,183,2,5,190,183,190
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1002,Esc. Rene Barrientos,7002347,12,240,191,0,14,205,191,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1002,Esc. Rene Barrientos,7002357,13,240,193,0,8,201,193,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1002,Esc. Rene Barrientos,7002367,14,240,196,0,8,204,196,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1015,Esc. Aponte Tineo (Esc. Gregorio Moreno),7002517,2,240,203,1,4,208,203,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1015,Esc. Aponte Tineo (Esc. Gregorio Moreno),7002527,3,240,187,3,2,192,187,192
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1015,Esc. Aponte Tineo (Esc. Gregorio Moreno),7002547,5,240,184,1,10,195,184,195
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26419,U.E. El Porvenir,7002607,1,240,175,0,9,184,175,184
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26419,U.E. El Porvenir,7002617,2,208,147,0,10,157,147,157
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1000,Col. La Madre,7002847,1,240,196,5,12,213,196,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1000,Col. La Madre,7002857,2,240,195,2,7,204,195,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1000,Col. La Madre,7002907,7,240,200,2,4,206,200,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1008,Esc. Normal Enriquet  Finot,7004087,24,250,197,1,3,201,197,201
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1010,Gladys Rivero De Jimenez,7003067,2,240,196,1,9,206,196,206
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1010,Gladys Rivero De Jimenez,7003077,3,240,196,1,19,216,196,216
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1010,Gladys Rivero De Jimenez,7003147,10,240,202,1,16,219,202,219
@@ -39,480 +64,15 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1010,Gladys Rivero De Jimenez,7003177,13,240,206,1,5,212,206,212
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1010,Gladys Rivero De Jimenez,7003187,14,240,208,0,7,215,208,215
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1010,Gladys Rivero De Jimenez,7003207,16,141,122,1,1,124,122,124
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25416,Kinder Guarderia El Carmen,7003227,2,240,178,1,5,184,178,184
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25416,Kinder Guarderia El Carmen,7003247,4,240,187,2,6,195,187,195
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1003,Modulo Educativo Jose Miguel De Velasco,7003387,2,240,208,1,9,218,208,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1003,Modulo Educativo Jose Miguel De Velasco,7003417,5,240,191,4,10,205,191,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1003,Modulo Educativo Jose Miguel De Velasco,7003497,13,240,209,1,5,215,209,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1003,Modulo Educativo Jose Miguel De Velasco,7003517,15,240,201,3,8,212,201,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1003,Modulo Educativo Jose Miguel De Velasco,7003537,17,240,204,0,7,211,204,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1003,Modulo Educativo Jose Miguel De Velasco,7003547,18,142,109,0,12,121,109,121
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1008,Esc. Normal Enriquet  Finot,7004087,24,250,197,1,3,201,197,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5004,Col. Ovidio Santistevan,7004177,9,240,202,1,4,207,202,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5004,Col. Ovidio Santistevan,7004207,12,240,206,1,6,213,206,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5004,Col. Ovidio Santistevan,7004227,14,240,213,0,3,216,213,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5005,Col. Villa Bolivia,7004357,7,240,200,1,10,211,200,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5005,Col. Villa Bolivia,7004367,8,240,206,0,4,210,206,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5005,Col. Villa Bolivia,7004377,9,240,205,0,8,213,205,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5005,Col. Villa Bolivia,7004387,10,240,204,2,5,211,204,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7004917,16,240,192,3,13,208,192,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7004967,21,240,189,5,10,204,189,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7004977,22,240,190,5,18,213,190,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7004987,23,240,186,9,8,203,186,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7004997,24,240,191,5,8,204,191,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7005007,25,240,194,3,11,208,194,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7005017,26,240,191,4,12,207,191,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7005027,27,240,203,0,8,211,203,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2020,Col. La Santa Cruz,7005127,1,240,201,1,6,208,201,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2020,Col. La Santa Cruz,7005147,3,240,179,1,8,188,179,188
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2020,Col. La Santa Cruz,7005157,4,240,204,0,5,209,204,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2020,Col. La Santa Cruz,7005167,5,240,205,1,4,210,205,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2020,Col. La Santa Cruz,7005197,8,240,192,1,3,196,192,196
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2022,Col. Britanico,7005267,5,240,202,0,2,204,202,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2022,Col. Britanico,7005287,7,240,198,2,5,205,198,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2018,Col. Liceo Maria Vacadiez,7005427,6,240,199,3,3,205,199,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2018,Col. Liceo Maria Vacadiez,7005437,7,240,201,2,3,206,201,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2013,Col. Domingo Leigue (Boliviano Canadiense),7005587,2,240,206,2,2,210,206,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2013,Col. Domingo Leigue (Boliviano Canadiense),7005597,3,240,196,1,9,206,196,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2013,Col. Domingo Leigue (Boliviano Canadiense),7005607,4,240,220,0,1,221,220,221
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2013,Col. Domingo Leigue (Boliviano Canadiense),7005617,5,240,200,0,6,206,200,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2012,Col. Gualberto Villarroel,7005777,5,240,192,4,5,201,192,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2012,Col. Gualberto Villarroel,7005827,10,240,192,0,8,200,192,200
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3015,U.E. Domingo Faustino,7006047,1,164,140,1,7,148,140,148
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2021,Col. Carmen Ortiz De Peredo,7006057,1,240,202,0,12,214,202,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2021,Col. Carmen Ortiz De Peredo,7006067,2,240,212,0,3,215,212,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2021,Col. Carmen Ortiz De Peredo,7006077,3,240,200,0,3,203,200,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2021,Col. Carmen Ortiz De Peredo,7006097,5,240,214,0,4,218,214,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2021,Col. Carmen Ortiz De Peredo,7006107,6,240,193,1,4,198,193,198
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2021,Col. Carmen Ortiz De Peredo,7006167,12,240,209,0,3,212,209,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2023,Col. Pedro Gutierrez,7006337,10,240,180,2,19,201,180,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2017,Col. 24 de Septiembre,7006747,10,240,207,7,10,224,207,224
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2017,Col. 24 de Septiembre,7006767,12,240,202,3,4,209,202,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2017,Col. 24 de Septiembre,7006777,13,41,34,0,2,36,34,36
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2009,Col. Wenseslao Montero,7006927,1,240,207,1,8,216,207,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2009,Col. Wenseslao Montero,7006937,2,240,205,1,6,212,205,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2010,Col. Tecnologico Santa Cruz,7007197,7,240,211,0,1,212,211,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2010,Col. Tecnologico Santa Cruz,7007217,9,240,209,0,4,213,209,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2010,Col. Tecnologico Santa Cruz,7007237,11,185,156,1,6,163,156,163
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3009,Col. San Carlos,7007667,6,240,206,2,5,213,206,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3009,Col. San Carlos,7007677,7,240,206,1,4,211,206,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3009,Col. San Carlos,7007687,8,240,198,1,11,210,198,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3009,Col. San Carlos,7007697,9,187,161,0,6,167,161,167
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3007,Col. Fe y Alegria   Aniceto Arze,7007867,17,240,214,0,4,218,214,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3007,Col. Fe y Alegria   Aniceto Arze,7007907,21,240,210,1,9,220,210,220
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3007,Col. Fe y Alegria   Aniceto Arze,7007927,23,121,104,3,2,109,104,109
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26401,U.E. Dennys Antelo Jordan,7007937,1,240,198,4,2,204,198,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26401,U.E. Dennys Antelo Jordan,7007947,2,42,31,1,0,32,31,32
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3010,Col. El Pajonal,7008057,7,259,220,3,7,230,220,230
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7005,Col. Heroes Del Chaco,7008397,16,240,199,4,9,212,199,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7005,Col. Heroes Del Chaco,7008447,21,240,208,0,7,215,208,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009057,2,240,195,2,4,201,195,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009207,17,240,197,1,5,203,197,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009227,19,240,199,0,6,205,199,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009267,23,240,182,1,14,197,182,197
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009277,24,173,130,1,4,135,130,135
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4013,U.E. Julia Ribera Aguilera,7009297,2,240,201,3,9,213,201,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4015,Col. Complejo Educativo Japon,7009387,3,240,208,3,6,217,208,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4015,Col. Complejo Educativo Japon,7009457,10,240,203,5,8,216,203,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4015,Col. Complejo Educativo Japon,7009477,12,240,196,5,9,210,196,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4020,Col. Antonio Vicente Seoane,7009637,1,240,214,0,6,220,214,220
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4020,Col. Antonio Vicente Seoane,7009667,4,240,205,2,6,213,205,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4020,Col. Antonio Vicente Seoane,7009707,8,240,204,0,9,213,204,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26353,U.E. Japón V Nivel Inicial,7009787,7,240,208,0,10,218,208,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26353,U.E. Japón V Nivel Inicial,7009807,9,245,189,1,14,204,189,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25666,U.E. Melvin Jones,7009937,1,240,193,0,9,202,193,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25666,U.E. Melvin Jones,7009947,2,240,182,1,7,190,182,190
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25666,U.E. Melvin Jones,7009957,3,240,200,1,2,203,200,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3013,Col. Sagrado Corazon,7010147,1,240,204,0,5,209,204,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3013,Col. Sagrado Corazon,7010157,2,240,209,0,7,216,209,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3013,Col. Sagrado Corazon,7010167,3,240,207,1,5,213,207,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3013,Col. Sagrado Corazon,7010177,4,240,202,1,12,215,202,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3013,Col. Sagrado Corazon,7010187,5,240,202,3,5,210,202,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3013,Col. Sagrado Corazon,7010197,6,65,56,1,1,58,56,58
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3012,Col. Magdalena Postel,7010267,5,240,207,0,9,216,207,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4011,Col. Victor Paz Estensoro,7010437,5,240,185,3,22,210,185,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4011,Col. Victor Paz Estensoro,7010447,6,240,187,0,12,199,187,199
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4011,Col. Victor Paz Estensoro,7010457,7,240,200,3,6,209,200,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4011,Col. Victor Paz Estensoro,7010537,15,240,211,1,1,213,211,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4010,U.E. Villa Warnes A.,7010647,5,240,197,3,16,216,197,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4010,U.E. Villa Warnes A.,7010667,7,240,202,2,10,214,202,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4010,U.E. Villa Warnes A.,7010677,8,240,192,1,11,204,192,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4007,Col. Henrry Prince,7010877,4,240,201,5,10,216,201,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4009,U.E. Virgen de Fatima,7011027,11,240,185,3,13,201,185,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4006,Col. American School Coop.,7011307,9,240,195,2,5,202,195,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5023,Escuela 23 de Marzo,7011637,22,240,201,2,7,210,201,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25417,Facultad de Ciencias Agricolas U.A.G.R.M.,7012007,21,240,210,0,5,215,210,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25417,Facultad de Ciencias Agricolas U.A.G.R.M.,7012037,24,240,208,1,3,212,208,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25417,Facultad de Ciencias Agricolas U.A.G.R.M.,7012057,26,240,206,4,5,215,206,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5018,Escuela Km 9,7012157,8,240,191,1,5,197,191,197
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5018,Escuela Km 9,7012177,10,240,194,2,2,198,194,198
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5018,Escuela Km 9,7012187,11,240,190,0,9,199,190,199
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5018,Escuela Km 9,7012197,12,240,202,3,6,211,202,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5018,Escuela Km 9,7012207,13,240,196,0,5,201,196,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012717,3,240,211,0,5,216,211,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012777,9,240,207,1,13,221,207,221
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012787,10,240,199,2,7,208,199,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012797,11,240,200,2,6,208,200,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012807,12,240,200,1,5,206,200,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012817,13,240,213,0,3,216,213,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012827,14,240,199,2,6,207,199,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5020,Col. U.E. La Resureccion   Esc. Convif,7012897,1,72,42,0,1,43,42,43
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25472,U.E. Josefina Balsamo Cordecruz,7013137,6,240,210,0,4,214,210,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25472,U.E. Josefina Balsamo Cordecruz,7013157,8,240,202,1,8,211,202,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25472,U.E. Josefina Balsamo Cordecruz,7013167,9,68,60,0,1,61,60,61
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5002,Esc. German Busch,7013197,3,240,203,0,4,207,203,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25418,Modulo Educativo German Busch,7013327,1,240,203,1,2,206,203,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25418,Modulo Educativo German Busch,7013337,2,240,187,0,3,190,187,190
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25418,Modulo Educativo German Busch,7013347,3,240,197,1,2,200,197,200
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25418,Modulo Educativo German Busch,7013357,4,240,187,0,9,196,187,196
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25418,Modulo Educativo German Busch,7013367,5,240,207,2,5,214,207,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26403,U.E. Hilarión Tomelicht Ardaya I,7013417,1,240,180,1,16,197,180,197
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26403,U.E. Hilarión Tomelicht Ardaya I,7013427,2,115,94,0,4,98,94,98
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5001,Colegio Josefina Balsamo( Los Tusequis),7013467,4,240,202,2,4,208,202,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5001,Colegio Josefina Balsamo( Los Tusequis),7013567,14,130,114,1,5,120,114,120
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5014,Esc. Claracuta,7013907,1,240,214,0,6,220,214,220
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5014,Esc. Claracuta,7013937,4,240,197,1,5,203,197,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5014,Esc. Claracuta,7013947,5,240,208,0,5,213,208,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5014,Esc. Claracuta,7013957,6,240,206,1,8,215,206,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5019,Col. Luz Y Saber II,7014057,2,240,203,2,8,213,203,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5019,Col. Luz Y Saber II,7014077,4,240,198,1,9,208,198,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5013,Col. San Martin Norte,7014527,18,240,197,3,12,212,197,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5013,Col. San Martin Norte,7014537,19,240,201,1,8,210,201,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25470,U.E. Santa Cruz de la Sierra,7014697,11,240,208,0,3,211,208,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25470,U.E. Santa Cruz de la Sierra,7014737,15,240,207,3,6,216,207,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25470,U.E. Santa Cruz de la Sierra,7014747,16,240,206,0,7,213,206,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25470,U.E. Santa Cruz de la Sierra,7014757,17,240,198,0,2,200,198,200
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25470,U.E. Santa Cruz de la Sierra,7014777,19,240,206,1,8,215,206,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25470,U.E. Santa Cruz de la Sierra,7014797,21,240,213,0,2,215,213,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5008,Naciones Unidas,7014887,1,240,190,3,11,204,190,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5008,Naciones Unidas,7014927,5,240,196,1,8,205,196,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6022,Escuela 1ro. de Mayo,7015027,2,240,192,5,5,202,192,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5010,Esc. Jose Mariano Serrano,7015497,8,240,211,1,4,216,211,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5010,Esc. Jose Mariano Serrano,7015517,10,240,188,2,6,196,188,196
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5010,Esc. Jose Mariano Serrano,7015527,11,240,205,4,1,210,205,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6000,Col. Sor Maria Cristina Perez,7015977,29,240,202,2,15,219,202,219
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6000,Col. Sor Maria Cristina Perez,7015987,30,240,210,0,4,214,210,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6000,Col. Sor Maria Cristina Perez,7016027,34,240,217,3,3,223,217,223
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6000,Col. Sor Maria Cristina Perez,7016037,35,40,32,0,1,33,32,33
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32192,U.E. Ferroviario,7016077,1,191,164,2,6,172,164,172
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6004,Col.  Pedro Añez,7016667,3,240,205,1,10,216,205,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25423,U.E. El Arenal C,7016897,3,240,204,3,9,216,204,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11082,Modulo Rancho Nuevo,7016967,5,240,192,2,7,201,192,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11082,Modulo Rancho Nuevo,7017027,11,240,188,3,12,203,188,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11082,Modulo Rancho Nuevo,7017077,16,240,198,4,5,207,198,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26340,U. E. 10 de Octubre,7017207,6,240,197,2,12,211,197,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26340,U. E. 10 de Octubre,7017367,22,240,188,3,18,209,188,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017447,1,240,204,1,10,215,204,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017467,3,240,192,2,10,204,192,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017477,4,240,193,1,19,213,193,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017587,15,240,194,4,15,213,194,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017597,16,240,191,1,17,209,191,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017607,17,240,182,3,11,196,182,196
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017617,18,240,206,5,6,217,206,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017627,19,240,200,2,11,213,200,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017637,20,253,191,4,17,212,191,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7025,U.E. Alfredo Barbery Chavez A,7017877,24,240,205,0,9,214,205,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7025,U.E. Alfredo Barbery Chavez A,7017907,27,240,212,3,9,224,212,224
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7025,U.E. Alfredo Barbery Chavez A,7017937,30,123,99,2,4,105,99,105
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11068,16 de Julio,7018197,6,240,192,2,7,201,192,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11068,16 de Julio,7018227,9,72,54,2,2,58,54,58
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6010,Col. Unidad Educativa España,7018277,1,240,193,2,16,211,193,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6010,Col. Unidad Educativa España,7018297,3,240,189,2,20,211,189,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6010,Col. Unidad Educativa España,7018317,5,240,203,4,11,218,203,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6010,Col. Unidad Educativa España,7018327,6,240,198,4,9,211,198,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6005,U.E. 23 de Diciembre J. Carlos Truji,7018507,10,240,198,6,12,216,198,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6015,Col. Esc. Gral. Ismael Montes Gamboa,7018977,16,240,208,3,8,219,208,219
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26346,U. E. Módulo Urbanización Cotoca (Prof. Jaime Escalante),7019277,17,240,196,1,11,208,196,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26346,U. E. Módulo Urbanización Cotoca (Prof. Jaime Escalante),7019287,18,240,208,2,3,213,208,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26346,U. E. Módulo Urbanización Cotoca (Prof. Jaime Escalante),7019367,26,240,198,2,4,204,198,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11094,U.E. 18 de Julio,7019647,10,240,202,3,1,206,202,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11094,U.E. 18 de Julio,7019657,11,240,192,7,9,208,192,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11094,U.E. 18 de Julio,7019687,14,240,188,4,8,200,188,200
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11094,U.E. 18 de Julio,7019707,16,177,152,1,4,157,152,157
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7022,U.E. Nuevo Horizonte,7020147,8,240,203,3,9,215,203,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7022,U.E. Nuevo Horizonte,7020167,10,240,203,2,7,212,203,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7022,U.E. Nuevo Horizonte,7020177,11,240,138,55,10,203,138,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7022,U.E. Nuevo Horizonte,7020207,14,240,194,2,7,203,194,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7027,U.E. 26 De Septiembre,7020687,20,240,191,2,12,205,191,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7027,U.E. 26 De Septiembre,7020717,23,240,180,5,24,209,180,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11059,Virgen De Guadalupe,7020977,15,240,197,2,8,207,197,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11059,Virgen De Guadalupe,7020987,16,240,199,2,9,210,199,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11059,Virgen De Guadalupe,7021007,18,240,200,3,8,211,200,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11059,Virgen De Guadalupe,7021017,19,240,190,3,15,208,190,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11059,Virgen De Guadalupe,7021027,20,240,197,3,4,204,197,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26345,U. E. Módulo El Trapiche,7021177,9,77,69,2,1,72,69,72
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25661,U.E. Libertad,7021207,3,240,189,3,14,206,189,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25661,U.E. Libertad,7021227,5,240,200,1,6,207,200,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11063,U.E. San Cayetano,7021417,14,240,196,2,9,207,196,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11063,U.E. San Cayetano,7021437,16,240,185,1,22,208,185,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11063,U.E. San Cayetano,7021447,17,85,65,1,2,68,65,68
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11066,U.E. Zaragoza,7021507,6,240,203,3,9,215,203,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11066,U.E. Zaragoza,7021617,17,240,192,4,13,209,192,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11066,U.E. Zaragoza,7021637,19,240,195,3,13,211,195,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11064,U.E. Los Cusis,7021657,1,240,196,2,4,202,196,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11064,U.E. Los Cusis,7021677,3,240,191,2,9,202,191,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11064,U.E. Los Cusis,7021687,4,240,191,0,12,203,191,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11064,U.E. Los Cusis,7021707,6,240,181,5,10,196,181,196
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11064,U.E. Los Cusis,7021797,15,240,184,1,7,192,184,192
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11064,U.E. Los Cusis,7021817,17,61,43,0,1,44,43,44
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7024,U. E. El Retoño,7021837,2,240,193,4,8,205,193,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7024,U. E. El Retoño,7021847,3,240,188,3,18,209,188,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7024,U. E. El Retoño,7021917,10,240,193,3,18,214,193,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7024,U. E. El Retoño,7021927,11,240,189,2,11,202,189,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11061,Fred Nuñez Gonzales,7022167,18,87,72,1,6,79,72,79
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6016,Colegio  23 de Abril,7022267,10,240,203,3,12,218,203,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5000,Unidad Educativa Pompeya Santisimo Redentor,7022327,4,240,208,3,10,221,208,221
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5000,Unidad Educativa Pompeya Santisimo Redentor,7022357,7,111,97,2,1,100,97,100
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25653,U.E. Santa Cecilia,7022537,7,240,193,1,12,206,193,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25653,U.E. Santa Cecilia,7022567,10,240,191,0,12,203,191,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7006,Col. San Silvestre,7022727,9,240,194,3,18,215,194,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7006,Col. San Silvestre,7022767,13,240,192,7,11,210,192,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7006,Col. San Silvestre,7022777,14,240,181,2,19,202,181,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7006,Col. San Silvestre,7022787,15,240,194,2,17,213,194,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7023,Col. Central Obrera Departamental,7023037,14,240,193,2,9,204,193,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7023,Col. Central Obrera Departamental,7023057,16,240,201,5,6,212,201,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7023,Col. Central Obrera Departamental,7023077,18,240,203,3,10,216,203,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8017,Col. Primavera,7023167,1,240,191,3,4,198,191,198
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8017,Col. Primavera,7023217,6,240,187,5,14,206,187,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8017,Col. Primavera,7023377,22,240,196,2,7,205,196,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8017,Col. Primavera,7023387,23,240,189,5,8,202,189,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8017,Col. Primavera,7023397,24,240,192,4,12,208,192,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11072,U.E. Florida Barba Chávez,7023427,1,240,188,2,7,197,188,197
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11072,U.E. Florida Barba Chávez,7023447,3,240,162,4,26,192,162,192
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11072,U.E. Florida Barba Chávez,7023477,6,240,194,2,17,213,194,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11073,U.E. 25 de Octubre,7023757,1,240,179,1,16,196,179,196
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11073,U.E. 25 de Octubre,7023767,2,240,182,5,22,209,182,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11073,U.E. 25 de Octubre,7023777,3,240,195,3,5,203,195,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11073,U.E. 25 de Octubre,7023787,4,240,187,2,10,199,187,199
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11073,U.E. 25 de Octubre,7023797,5,240,186,3,16,205,186,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11073,U.E. 25 de Octubre,7023817,7,240,191,6,13,210,191,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26406,U.E. 4 de Febrero,7023877,3,240,189,3,12,204,189,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26406,U.E. 4 de Febrero,7023897,5,240,200,2,11,213,200,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7018,Col. Guapilo Junin,7023917,1,240,198,4,10,212,198,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7018,Col. Guapilo Junin,7023997,9,240,199,7,9,215,199,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7018,Col. Guapilo Junin,7024007,10,240,195,4,7,206,195,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7018,Col. Guapilo Junin,7024057,15,240,190,2,24,216,190,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7018,Col. Guapilo Junin,7024077,17,189,166,3,3,172,166,172
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25654,U.E. Pedro Rivero Mercado,7024097,2,240,199,1,6,206,199,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024397,1,240,202,1,12,215,202,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024407,2,240,214,1,4,219,214,219
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024417,3,240,197,2,17,216,197,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024427,4,240,192,6,17,215,192,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024437,5,240,208,2,6,216,208,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024447,6,240,196,5,14,215,196,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024457,7,240,200,2,12,214,200,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024507,12,240,197,3,14,214,197,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024517,13,240,189,6,11,206,189,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8026,Col. El Buen Samaritano,7024687,3,240,200,5,15,220,200,220
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8026,Col. El Buen Samaritano,7024707,5,240,196,3,18,217,196,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8026,Col. El Buen Samaritano,7024727,7,240,203,2,12,217,203,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11086,U.E. San Juan Bautista,7024937,7,240,194,0,13,207,194,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11086,U.E. San Juan Bautista,7024947,8,240,197,0,11,208,197,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25434,U.E. Hacia La Cumbre,7025317,2,240,197,1,2,200,197,200
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25434,U.E. Hacia La Cumbre,7025347,5,240,192,1,9,202,192,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26405,Módulo Educativo Boris Banzer de Porvenir,7025367,1,240,206,2,4,212,206,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26405,Módulo Educativo Boris Banzer de Porvenir,7025377,2,240,206,1,8,215,206,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26405,Módulo Educativo Boris Banzer de Porvenir,7025387,3,240,201,1,7,209,201,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7013,Col. 18 de Marzo,7025637,24,240,188,1,15,204,188,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7014,Col. Fausto Medrano,7025687,1,240,199,8,10,217,199,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7014,Col. Fausto Medrano,7025737,6,240,196,2,18,216,196,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7014,Col. Fausto Medrano,7025757,8,240,202,4,8,214,202,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7014,Col. Fausto Medrano,7025767,9,240,185,4,12,201,185,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7014,Col. Fausto Medrano,7025797,12,240,202,2,11,215,202,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7012,Col. Pampa De La Cruz,7026117,3,240,209,2,3,214,209,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7012,Col. Pampa De La Cruz,7026127,4,240,188,1,16,205,188,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7012,Col. Pampa De La Cruz,7026137,5,240,199,1,10,210,199,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7012,Col. Pampa De La Cruz,7026157,7,240,191,2,16,209,191,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7012,Col. Pampa De La Cruz,7026167,8,240,197,1,5,203,197,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7012,Col. Pampa De La Cruz,7026177,9,240,203,0,18,221,203,221
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25664,U.E. 1ro. De Mayo,7026237,3,240,174,2,15,191,174,191
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25664,U.E. 1ro. De Mayo,7026257,5,240,178,3,9,190,178,190
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7020,Col. Humberto Eguez,7026587,1,240,198,2,11,211,198,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7020,Col. Humberto Eguez,7026637,6,240,189,6,15,210,189,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7020,Col. Humberto Eguez,7026647,7,240,195,5,11,211,195,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7009,Col. Gilberto Menacho,7026777,1,240,202,5,5,212,202,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7009,Col. Gilberto Menacho,7026787,2,240,211,1,9,221,211,221
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7009,Col. Gilberto Menacho,7026797,3,240,206,3,8,217,206,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25433,Kinder Libertad,7026947,2,240,189,3,6,198,189,198
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25433,Kinder Libertad,7026967,4,240,184,2,7,193,184,193
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7008,U.E. 27 de mayo,7027057,8,240,189,7,8,204,189,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7008,U.E. 27 de mayo,7027067,9,240,197,6,5,208,197,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7008,U.E. 27 de mayo,7027097,12,240,189,2,14,205,189,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7008,U.E. 27 de mayo,7027107,13,76,64,0,6,70,64,70
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7010,U.E.  Kinder 27 de Mayo,7027207,10,240,197,3,8,208,197,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7007,Col. Angela Pinckert,7027317,8,240,200,1,4,205,200,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7017,Col. Nimia Centella,7027947,16,240,193,1,12,206,193,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8018,Col. Rafael Bustillos,7028087,9,240,201,4,9,214,201,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8018,Col. Rafael Bustillos,7028117,12,240,205,3,8,216,205,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8004,Col. Cañada Pailitas,7028267,2,240,201,1,11,213,201,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8004,Col. Cañada Pailitas,7028277,3,240,192,4,11,207,192,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8004,Col. Cañada Pailitas,7028297,5,240,194,2,8,204,194,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8004,Col. Cañada Pailitas,7028307,6,240,197,2,16,215,197,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8004,Col. Cañada Pailitas,7028357,11,240,204,4,10,218,204,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8004,Col. Cañada Pailitas,7028367,12,186,140,0,17,157,140,157
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028427,6,240,194,0,14,208,194,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028437,7,240,210,3,6,219,210,219
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028447,8,240,193,2,11,206,193,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028457,9,240,211,4,3,218,211,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028467,10,259,217,1,10,228,217,228
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8006,Col. 12 de Diciembre,7029047,1,240,179,4,30,213,179,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8006,Col. 12 de Diciembre,7029287,25,240,199,2,7,208,199,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8006,Col. 12 de Diciembre,7029297,26,240,201,1,5,207,201,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8006,Col. 12 de Diciembre,7029307,27,240,202,3,5,210,202,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8006,Col. 12 de Diciembre,7029337,30,240,196,0,9,205,196,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8006,Col. 12 de Diciembre,7029347,31,79,59,3,5,67,59,67
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11085,U.E. 3 de Mayo,7029597,3,240,193,1,4,198,193,198
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8011,Col. Fe y Alegria Nueva America,7029857,17,240,189,2,14,205,189,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8011,Col. Fe y Alegria Nueva America,7029867,18,240,196,4,6,206,196,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8011,Col. Fe y Alegria Nueva America,7029897,21,240,192,7,14,213,192,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8005,Col. Buenas Nuevas,7030037,1,240,153,1,48,202,153,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8005,Col. Buenas Nuevas,7030057,3,240,196,1,12,209,196,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8005,Col. Buenas Nuevas,7030077,5,240,204,0,12,216,204,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8005,Col. Buenas Nuevas,7030087,6,240,208,3,11,222,208,222
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8005,Col. Buenas Nuevas,7030097,7,240,178,5,25,208,178,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8005,Col. Buenas Nuevas,7030177,15,240,194,4,8,206,194,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3028,Colegio Cupeso De Los Reyes,7030457,12,240,188,6,20,214,188,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030667,8,240,193,4,10,207,193,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030677,9,240,192,5,18,215,192,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030697,11,240,184,2,22,208,184,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030717,13,240,179,6,19,204,179,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8016,Col. Esc. Virgen De Urkupina,7031207,9,240,193,2,18,213,193,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8016,Col. Esc. Virgen De Urkupina,7031227,11,240,184,4,16,204,184,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8016,Col. Esc. Virgen De Urkupina,7031337,22,240,188,4,18,210,188,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8016,Col. Esc. Virgen De Urkupina,7031357,24,240,201,4,7,212,201,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25426,U.E. 26 de Junio,7031477,5,240,194,1,5,200,194,200
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25426,U.E. 26 de Junio,7031497,7,240,189,3,12,204,189,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25426,U.E. 26 de Junio,7031507,8,240,194,1,6,201,194,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25659,U.E. Andres Ibañez  A,7031597,2,240,191,2,8,201,191,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25659,U.E. Andres Ibañez  A,7031637,6,240,178,2,8,188,178,188
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11047,U.E. Juana Azurduy de Padilla,7032177,10,240,183,5,16,204,183,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11047,U.E. Juana Azurduy de Padilla,7032227,15,240,202,1,12,215,202,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25665,U.E. Francisco Hurtado Pedraza,7032277,2,240,189,6,12,207,189,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25665,U.E. Francisco Hurtado Pedraza,7032307,5,240,178,2,20,200,178,200
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25665,U.E. Francisco Hurtado Pedraza,7032477,22,240,189,4,9,202,189,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25667,U.E. Juancito Pinto,7032597,2,240,190,2,7,199,190,199
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25667,U.E. Juancito Pinto,7032627,5,240,199,1,11,211,199,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25667,U.E. Juancito Pinto,7032637,6,240,177,1,19,197,177,197
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3024,U.E. Arroyito,7033237,7,240,197,6,8,211,197,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25677,U.E. Bautista Vida Nueva,7033447,8,240,204,2,9,215,204,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25677,U.E. Bautista Vida Nueva,7033467,10,240,205,2,4,211,205,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25677,U.E. Bautista Vida Nueva,7033477,11,240,201,2,15,218,201,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033797,9,240,210,1,6,217,210,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033857,15,240,201,1,8,210,201,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033867,16,240,206,4,5,215,206,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033877,17,240,192,1,14,207,192,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033897,19,240,201,0,10,211,201,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033907,20,240,201,1,13,215,201,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26,Colegio Adela Zamudio,7033917,21,240,202,2,10,214,202,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9003,Col. Esc. Naun Fernandez,7034377,9,240,185,1,26,212,185,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9003,Col. Esc. Naun Fernandez,7034387,10,240,202,3,12,217,202,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9003,Col. Esc. Naun Fernandez,7034407,12,240,200,4,11,215,200,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9003,Col. Esc. Naun Fernandez,7034417,13,240,196,2,16,214,196,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9000,Col. San Pablo,7034467,4,243,190,2,4,196,190,196
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9007,Col. Centro Educativo Caritas,7034477,1,240,203,0,12,215,203,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9007,Col. Centro Educativo Caritas,7034487,2,240,208,0,7,215,208,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9007,Col. Centro Educativo Caritas,7034497,3,240,219,2,2,223,219,223
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9007,Col. Centro Educativo Caritas,7034517,5,240,214,1,6,221,214,221
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9007,Col. Centro Educativo Caritas,7034537,7,240,202,1,4,207,202,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9007,Col. Centro Educativo Caritas,7034657,19,240,209,2,7,218,209,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26338,U. E. Libertador Simón Bolívar,7034747,3,240,207,1,6,214,207,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9008,Colegio Domingo Savio   Don Bosco,7034787,1,240,199,6,13,218,199,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9008,Colegio Domingo Savio   Don Bosco,7034797,2,240,202,2,7,211,202,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9008,Colegio Domingo Savio   Don Bosco,7034807,3,240,210,2,13,225,210,225
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9008,Colegio Domingo Savio   Don Bosco,7034817,4,240,203,0,14,217,203,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9008,Colegio Domingo Savio   Don Bosco,7034837,6,240,195,2,16,213,195,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25438,Modulo Educativo Maria De Mattias,7035067,4,240,223,0,2,225,223,225
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25438,Modulo Educativo Maria De Mattias,7035077,5,240,212,2,3,217,212,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25438,Modulo Educativo Maria De Mattias,7035087,6,240,209,2,4,215,209,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25438,Modulo Educativo Maria De Mattias,7035097,7,37,34,0,1,35,34,35
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11077,Universitario Sur,7035187,9,240,208,3,9,220,208,220
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11077,Universitario Sur,7035197,10,73,59,1,6,66,59,66
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,19,Colegio Marcelino Champagnat,7035287,9,240,206,2,13,221,206,221
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,19,Colegio Marcelino Champagnat,7035297,10,240,201,1,9,211,201,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,19,Colegio Marcelino Champagnat,7035327,13,240,208,1,6,215,208,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,19,Colegio Marcelino Champagnat,7035337,14,240,204,4,9,217,204,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,19,Colegio Marcelino Champagnat,7035347,15,163,143,1,10,154,143,154
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9006,UE. El Paraíso,7035627,18,240,192,2,14,208,192,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9006,UE. El Paraíso,7035657,21,78,68,1,1,70,68,70
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11076,Sahara Guardia,7035907,6,240,199,2,7,208,199,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25440,U.E. Victoria Diez,7036017,7,240,192,2,20,214,192,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25439,Modulo Educativo Republica De Colombia,7036107,7,240,193,1,12,206,193,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25439,Modulo Educativo Republica De Colombia,7036117,8,240,190,1,10,201,190,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25439,Modulo Educativo Republica De Colombia,7036147,11,240,198,2,14,214,198,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9004,Colegio San Jorge,7036167,1,240,187,3,17,207,187,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9004,Colegio San Jorge,7036187,3,240,190,1,17,208,190,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9004,Colegio San Jorge,7036197,4,240,193,1,15,209,193,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9004,Colegio San Jorge,7036217,6,240,203,1,13,217,203,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9004,Colegio San Jorge,7036227,7,240,194,3,16,213,194,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10039,Col. Esc. Honorato Mejia,7036367,9,240,202,2,11,215,202,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11075,Pedro Diez,7036607,2,240,193,4,6,203,193,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11075,Pedro Diez,7036627,4,240,180,1,20,201,180,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10002,Col. Unidad Educativa La Colina,7036647,1,240,201,3,16,220,201,220
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10002,Col. Unidad Educativa La Colina,7036657,2,240,206,4,10,220,206,220
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10002,Col. Unidad Educativa La Colina,7036667,3,240,206,1,14,221,206,221
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10002,Col. Unidad Educativa La Colina,7036697,6,240,207,3,7,217,207,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10003,Col. Esc. 29 De Diciembre,7036877,1,240,187,0,12,199,187,199
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10003,Col. Esc. 29 De Diciembre,7036897,3,240,195,4,7,206,195,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10003,Col. Esc. 29 De Diciembre,7036907,4,240,186,1,21,208,186,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10003,Col. Esc. 29 De Diciembre,7036917,5,240,195,2,7,204,195,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10004,Col. Esc. Hilanderia,7037087,13,240,197,6,5,208,197,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10004,Col. Esc. Hilanderia,7037097,14,240,195,3,10,208,195,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10004,Col. Esc. Hilanderia,7037117,16,117,104,0,3,107,104,107
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10015,Col. Esc. La Base,7037207,9,240,191,2,10,203,191,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10015,Col. Esc. La Base,7037237,12,240,206,1,11,218,206,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10001,U.E. Union y Progreso,7037427,18,240,191,6,13,210,191,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10001,U.E. Union y Progreso,7037447,20,240,157,36,10,203,157,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10001,U.E. Union y Progreso,7037477,23,82,62,3,4,69,62,69
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10012,Col. Hermanos Cavanis,7037837,7,240,189,2,2,193,189,193
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25658,U.E. San Marcos,7038067,1,240,188,1,9,198,188,198
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25658,U.E. San Marcos,7038077,2,240,199,4,10,213,199,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25658,U.E. San Marcos,7038127,7,206,170,1,6,177,170,177
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5,Col. Esc. Unzaga De La Vega,7038577,11,240,194,3,8,205,194,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5,Col. Esc. Unzaga De La Vega,7038637,17,240,200,2,10,212,200,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5,Col. Esc. Unzaga De La Vega,7038677,21,240,179,0,20,199,179,199
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5,Col. Esc. Unzaga De La Vega,7038687,22,240,188,1,15,204,188,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25442,U.E. Santa Ana C,7038797,1,240,195,4,5,204,195,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25442,U.E. Santa Ana C,7038817,3,240,195,0,4,199,195,199
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25442,U.E. Santa Ana C,7038837,5,240,179,3,11,193,179,193
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038917,7,240,215,2,8,225,215,225
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038927,8,240,204,1,10,215,204,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038947,10,240,202,3,6,211,202,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038957,11,240,208,2,6,216,208,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038967,12,240,210,0,1,211,210,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038977,13,240,203,0,5,208,203,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038997,15,240,200,0,15,215,200,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7039007,16,240,206,0,7,213,206,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7039017,17,63,57,1,0,58,57,58
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9,Col. Esc. Tierras Nuevas El Carmen,7039047,3,240,194,3,14,211,194,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9,Col. Esc. Tierras Nuevas El Carmen,7039057,4,240,201,2,14,217,201,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9,Col. Esc. Tierras Nuevas El Carmen,7039067,5,240,198,1,16,215,198,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9,Col. Esc. Tierras Nuevas El Carmen,7039077,6,240,174,3,30,207,174,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9,Col. Esc. Tierras Nuevas El Carmen,7039087,7,240,204,5,13,222,204,222
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9,Col. Esc. Tierras Nuevas El Carmen,7039287,27,240,205,2,11,218,205,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8,Col. Mateo Kuljis Secundario,7039467,1,240,201,1,9,211,201,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8,Col. Mateo Kuljis Secundario,7039477,2,240,205,4,6,215,205,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8,Col. Mateo Kuljis Secundario,7039487,3,240,188,1,10,199,188,199
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25437,U.E. Mateo Kuljis Llic II,7039707,2,240,190,3,6,199,190,199
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10,Col. Oscar Arnulfo,7039827,10,240,190,2,13,205,190,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10,Col. Oscar Arnulfo,7039837,11,240,205,1,5,211,205,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10,Col. Oscar Arnulfo,7039867,14,240,182,3,10,195,182,195
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32024,U.E. Hermann Gmeiner,7039887,1,240,201,0,10,211,201,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32024,U.E. Hermann Gmeiner,7039897,2,240,194,1,17,212,194,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32024,U.E. Hermann Gmeiner,7039917,4,240,199,6,7,212,199,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32024,U.E. Hermann Gmeiner,7039947,7,240,191,9,17,217,191,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11053,Col. Covipal,7039967,1,240,191,4,14,209,191,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11053,Col. Covipal,7039977,2,240,186,5,20,211,186,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11053,Col. Covipal,7039987,3,240,201,2,10,213,201,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11053,Col. Covipal,7039997,4,240,173,5,25,203,173,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10011,Col.  Anita Suarez De Leygue,7040057,1,240,207,4,6,217,207,217
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2006,U.E. Latinoamericano,7040197,1,240,208,1,4,213,208,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2006,U.E. Latinoamericano,7040217,3,240,195,0,5,200,195,200
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2006,U.E. Latinoamericano,7040227,4,240,196,1,7,204,196,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4005,Col.  Placido Molilna,7040327,5,240,193,0,9,202,193,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26415,U.E. República Argentina A,7040557,1,240,192,1,11,204,192,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26415,U.E. República Argentina A,7040567,2,125,106,0,3,109,106,109
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1001,Campus Universitario,7040677,4,240,175,2,7,184,175,184
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1001,Campus Universitario,7040687,5,240,195,0,3,198,195,198
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1011,Kinder Luisa Saucedo,7041977,1,240,190,1,7,198,190,198
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1011,Kinder Luisa Saucedo,7041997,3,240,197,0,5,202,197,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1011,Kinder Luisa Saucedo,7042007,4,172,137,0,5,142,137,142
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1015,Esc. Aponte Tineo (Esc. Gregorio Moreno),7002517,2,240,203,1,4,208,203,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1015,Esc. Aponte Tineo (Esc. Gregorio Moreno),7002527,3,240,187,3,2,192,187,192
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1015,Esc. Aponte Tineo (Esc. Gregorio Moreno),7002547,5,240,184,1,10,195,184,195
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2001,Col. Seccional Monseñor Santiestevan,7042027,1,240,190,0,8,198,190,198
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2001,Col. Seccional Monseñor Santiestevan,7042037,2,240,178,3,10,191,178,191
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2001,Col. Seccional Monseñor Santiestevan,7042047,3,240,192,0,7,199,192,199
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2004,Col. Republica del Uruguay,7040897,1,240,219,0,3,222,219,222
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2004,Col. Republica del Uruguay,7040917,3,240,205,2,5,212,205,212
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2004,Col. Republica del Uruguay,7040927,4,240,204,2,4,210,204,210
@@ -520,38 +80,43 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2004,Col. Republica del Uruguay,7040977,9,240,211,1,5,217,211,217
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2004,Col. Republica del Uruguay,7041007,12,240,201,5,6,212,201,212
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2004,Col. Republica del Uruguay,7041017,13,71,57,0,2,59,57,59
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2006,U.E. Latinoamericano,7040197,1,240,208,1,4,213,208,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2006,U.E. Latinoamericano,7040217,3,240,195,0,5,200,195,200
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2006,U.E. Latinoamericano,7040227,4,240,196,1,7,204,196,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2009,Col. Wenseslao Montero,7006927,1,240,207,1,8,216,207,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2009,Col. Wenseslao Montero,7006937,2,240,205,1,6,212,205,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2010,Col. Tecnologico Santa Cruz,7007197,7,240,211,0,1,212,211,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2010,Col. Tecnologico Santa Cruz,7007217,9,240,209,0,4,213,209,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2010,Col. Tecnologico Santa Cruz,7007237,11,185,156,1,6,163,156,163
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2012,Col. Gualberto Villarroel,7005777,5,240,192,4,5,201,192,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2012,Col. Gualberto Villarroel,7005827,10,240,192,0,8,200,192,200
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2013,Col. Domingo Leigue (Boliviano Canadiense),7005587,2,240,206,2,2,210,206,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2013,Col. Domingo Leigue (Boliviano Canadiense),7005597,3,240,196,1,9,206,196,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2013,Col. Domingo Leigue (Boliviano Canadiense),7005607,4,240,220,0,1,221,220,221
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2013,Col. Domingo Leigue (Boliviano Canadiense),7005617,5,240,200,0,6,206,200,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2017,Col. 24 de Septiembre,7006747,10,240,207,7,10,224,207,224
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2017,Col. 24 de Septiembre,7006767,12,240,202,3,4,209,202,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2017,Col. 24 de Septiembre,7006777,13,41,34,0,2,36,34,36
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2018,Col. Liceo Maria Vacadiez,7005427,6,240,199,3,3,205,199,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2018,Col. Liceo Maria Vacadiez,7005437,7,240,201,2,3,206,201,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2020,Col. La Santa Cruz,7005127,1,240,201,1,6,208,201,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2020,Col. La Santa Cruz,7005147,3,240,179,1,8,188,179,188
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2020,Col. La Santa Cruz,7005157,4,240,204,0,5,209,204,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2020,Col. La Santa Cruz,7005167,5,240,205,1,4,210,205,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2020,Col. La Santa Cruz,7005197,8,240,192,1,3,196,192,196
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2021,Col. Carmen Ortiz De Peredo,7006057,1,240,202,0,12,214,202,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2021,Col. Carmen Ortiz De Peredo,7006067,2,240,212,0,3,215,212,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2021,Col. Carmen Ortiz De Peredo,7006077,3,240,200,0,3,203,200,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2021,Col. Carmen Ortiz De Peredo,7006097,5,240,214,0,4,218,214,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2021,Col. Carmen Ortiz De Peredo,7006107,6,240,193,1,4,198,193,198
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2021,Col. Carmen Ortiz De Peredo,7006167,12,240,209,0,3,212,209,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2022,Col. Britanico,7005267,5,240,202,0,2,204,202,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2022,Col. Britanico,7005287,7,240,198,2,5,205,198,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2023,Col. Pedro Gutierrez,7006337,10,240,180,2,19,201,180,201
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2026,Col. Instituto Americano Juan Wesley,7041247,7,240,200,1,5,206,200,206
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2026,Col. Instituto Americano Juan Wesley,7041257,8,240,214,0,4,218,214,218
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2026,Col. Instituto Americano Juan Wesley,7041267,9,240,203,2,6,211,203,211
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2026,Col. Instituto Americano Juan Wesley,7041287,11,179,156,1,3,160,156,160
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3017,Col. Nacional Salesiano,7041367,1,240,203,3,4,210,203,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3017,Col. Nacional Salesiano,7041387,3,240,203,2,8,213,203,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3017,Col. Nacional Salesiano,7041397,4,240,197,5,3,205,197,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3017,Col. Nacional Salesiano,7041407,5,240,203,3,3,209,203,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3017,Col. Nacional Salesiano,7041437,8,240,198,1,4,203,198,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3017,Col. Nacional Salesiano,7041447,9,44,34,1,1,36,34,36
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041457,1,240,205,1,6,212,205,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041467,2,240,198,5,4,207,198,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041477,3,240,203,3,4,210,203,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041487,4,240,202,0,6,208,202,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041497,5,240,199,0,7,206,199,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041507,6,240,202,1,7,210,202,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041527,8,64,60,0,0,60,60,60
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3001,Colegio Don Bosco,7041657,7,240,187,3,6,196,187,196
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3001,Colegio Don Bosco,7041677,9,240,193,1,6,200,193,200
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3001,Colegio Don Bosco,7041687,10,240,195,1,5,201,195,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4019,Col. Unidad Educativa Lorenzo Caballero,7041817,1,240,198,2,19,219,198,219
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4019,Col. Unidad Educativa Lorenzo Caballero,7041827,2,240,199,0,8,207,199,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4019,Col. Unidad Educativa Lorenzo Caballero,7041867,6,240,208,2,9,219,208,219
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4019,Col. Unidad Educativa Lorenzo Caballero,7041877,7,36,30,0,1,31,30,31
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1005,Col. Gabriel Rene Moreno,7041887,1,240,180,0,6,186,180,186
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1005,Col. Gabriel Rene Moreno,7041917,4,240,164,0,8,172,164,172
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1011,Kinder Luisa Saucedo,7041977,1,240,190,1,7,198,190,198
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1011,Kinder Luisa Saucedo,7041997,3,240,197,0,5,202,197,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,1011,Kinder Luisa Saucedo,7042007,4,172,137,0,5,142,137,142
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2001,Col. Seccional Monseñor Santiestevan,7042027,1,240,190,0,8,198,190,198
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2001,Col. Seccional Monseñor Santiestevan,7042037,2,240,178,3,10,191,178,191
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2001,Col. Seccional Monseñor Santiestevan,7042047,3,240,192,0,7,199,192,199
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2027,Col. Romulo Herrera,7042157,7,240,192,2,7,201,192,201
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2027,Col. Romulo Herrera,7042167,8,240,198,1,8,207,198,207
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,2027,Col. Romulo Herrera,7042177,9,248,189,7,13,209,189,209
@@ -563,42 +128,246 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3000,Colegio Marista,7042287,7,240,187,0,10,197,187,197
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3000,Colegio Marista,7042297,8,240,207,1,5,213,207,213
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3000,Colegio Marista,7042307,9,110,97,0,2,99,97,99
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3001,Colegio Don Bosco,7041657,7,240,187,3,6,196,187,196
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3001,Colegio Don Bosco,7041677,9,240,193,1,6,200,193,200
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3001,Colegio Don Bosco,7041687,10,240,195,1,5,201,195,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3007,Col. Fe y Alegria   Aniceto Arze,7007867,17,240,214,0,4,218,214,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3007,Col. Fe y Alegria   Aniceto Arze,7007907,21,240,210,1,9,220,210,220
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3007,Col. Fe y Alegria   Aniceto Arze,7007927,23,121,104,3,2,109,104,109
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3009,Col. San Carlos,7007667,6,240,206,2,5,213,206,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3009,Col. San Carlos,7007677,7,240,206,1,4,211,206,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3009,Col. San Carlos,7007687,8,240,198,1,11,210,198,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3009,Col. San Carlos,7007697,9,187,161,0,6,167,161,167
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3010,Col. El Pajonal,7008057,7,259,220,3,7,230,220,230
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3012,Col. Magdalena Postel,7010267,5,240,207,0,9,216,207,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3013,Col. Sagrado Corazon,7010147,1,240,204,0,5,209,204,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3013,Col. Sagrado Corazon,7010157,2,240,209,0,7,216,209,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3013,Col. Sagrado Corazon,7010167,3,240,207,1,5,213,207,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3013,Col. Sagrado Corazon,7010177,4,240,202,1,12,215,202,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3013,Col. Sagrado Corazon,7010187,5,240,202,3,5,210,202,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3013,Col. Sagrado Corazon,7010197,6,65,56,1,1,58,56,58
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3015,U.E. Domingo Faustino,7006047,1,164,140,1,7,148,140,148
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3017,Col. Nacional Salesiano,7041367,1,240,203,3,4,210,203,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3017,Col. Nacional Salesiano,7041387,3,240,203,2,8,213,203,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3017,Col. Nacional Salesiano,7041397,4,240,197,5,3,205,197,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3017,Col. Nacional Salesiano,7041407,5,240,203,3,3,209,203,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3017,Col. Nacional Salesiano,7041437,8,240,198,1,4,203,198,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3017,Col. Nacional Salesiano,7041447,9,44,34,1,1,36,34,36
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3020,Col. Basilio De Cuellar,7042327,2,240,193,0,7,200,193,200
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3020,Col. Basilio De Cuellar,7042347,4,240,197,1,5,203,197,203
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3023,Col. Nacional Florida,7042427,3,240,201,0,5,206,201,206
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3023,Col. Nacional Florida,7042457,6,240,205,0,1,206,205,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3024,U.E. Arroyito,7033237,7,240,197,6,8,211,197,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,3028,Colegio Cupeso De Los Reyes,7030457,12,240,188,6,20,214,188,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4005,Col.  Placido Molilna,7040327,5,240,193,0,9,202,193,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4006,Col. American School Coop.,7011307,9,240,195,2,5,202,195,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4007,Col. Henrry Prince,7010877,4,240,201,5,10,216,201,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4009,U.E. Virgen de Fatima,7011027,11,240,185,3,13,201,185,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4010,U.E. Villa Warnes A.,7010647,5,240,197,3,16,216,197,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4010,U.E. Villa Warnes A.,7010667,7,240,202,2,10,214,202,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4010,U.E. Villa Warnes A.,7010677,8,240,192,1,11,204,192,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4011,Col. Victor Paz Estensoro,7010437,5,240,185,3,22,210,185,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4011,Col. Victor Paz Estensoro,7010447,6,240,187,0,12,199,187,199
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4011,Col. Victor Paz Estensoro,7010457,7,240,200,3,6,209,200,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4011,Col. Victor Paz Estensoro,7010537,15,240,211,1,1,213,211,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009057,2,240,195,2,4,201,195,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009207,17,240,197,1,5,203,197,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009227,19,240,199,0,6,205,199,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009267,23,240,182,1,14,197,182,197
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009277,24,173,130,1,4,135,130,135
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4013,U.E. Julia Ribera Aguilera,7009297,2,240,201,3,9,213,201,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4015,Col. Complejo Educativo Japon,7009387,3,240,208,3,6,217,208,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4015,Col. Complejo Educativo Japon,7009457,10,240,203,5,8,216,203,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4015,Col. Complejo Educativo Japon,7009477,12,240,196,5,9,210,196,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4019,Col. Unidad Educativa Lorenzo Caballero,7041817,1,240,198,2,19,219,198,219
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4019,Col. Unidad Educativa Lorenzo Caballero,7041827,2,240,199,0,8,207,199,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4019,Col. Unidad Educativa Lorenzo Caballero,7041867,6,240,208,2,9,219,208,219
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4019,Col. Unidad Educativa Lorenzo Caballero,7041877,7,36,30,0,1,31,30,31
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4020,Col. Antonio Vicente Seoane,7009637,1,240,214,0,6,220,214,220
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4020,Col. Antonio Vicente Seoane,7009667,4,240,205,2,6,213,205,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4020,Col. Antonio Vicente Seoane,7009707,8,240,204,0,9,213,204,213
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4022,Col. Esc. Coronel Ignacio Warnes,7042547,1,240,187,2,7,196,187,196
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4022,Col. Esc. Coronel Ignacio Warnes,7042557,2,240,194,2,4,200,194,200
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4022,Col. Esc. Coronel Ignacio Warnes,7042567,3,84,71,0,0,71,71,71
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26420,U.E. Rómulo Gomez I,7042587,1,198,153,1,12,166,153,166
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7042827,1,240,190,8,9,207,190,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7042837,2,240,187,4,9,200,187,200
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7042847,3,240,207,2,9,218,207,218
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7042907,9,240,199,1,15,215,199,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7043077,26,240,188,3,18,209,188,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7043107,29,240,197,1,11,209,197,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7043117,30,240,183,2,22,207,183,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7043127,31,240,179,2,18,199,179,199
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7043157,34,64,53,1,0,54,53,54
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043287,1,240,195,2,8,205,195,205
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043307,3,240,196,2,13,211,196,211
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043327,5,240,197,4,5,206,197,206
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043337,6,240,208,3,5,216,208,216
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043357,8,240,194,3,10,207,194,207
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043367,9,240,190,1,19,210,190,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043377,10,240,198,2,13,213,198,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26409,U.E. Amsterdam I Primaria,7043397,1,240,183,3,17,203,183,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10029,Col. San Francisco Sur,7044047,17,240,193,1,9,203,193,203
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10023,Colegio Ignacio Warnes,7044227,9,240,189,7,19,215,189,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10023,Colegio Ignacio Warnes,7044237,10,240,196,1,13,210,196,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10023,Colegio Ignacio Warnes,7044257,12,240,191,0,10,201,191,201
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11078,Angelina Rivera,7044437,8,240,197,4,7,208,197,208
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11078,Angelina Rivera,7044447,9,240,198,2,13,213,198,213
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11078,Angelina Rivera,7044457,10,240,195,2,12,209,195,209
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11078,Angelina Rivera,7044467,11,240,199,6,9,214,199,214
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11078,Angelina Rivera,7044477,12,240,189,1,14,204,189,204
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11078,Angelina Rivera,7044487,13,232,193,1,8,202,193,202
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10040,Col. Luis Espinal Campos,7044957,26,240,189,3,14,206,189,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5000,Unidad Educativa Pompeya Santisimo Redentor,7022327,4,240,208,3,10,221,208,221
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5000,Unidad Educativa Pompeya Santisimo Redentor,7022357,7,111,97,2,1,100,97,100
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5001,Colegio Josefina Balsamo( Los Tusequis),7013467,4,240,202,2,4,208,202,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5001,Colegio Josefina Balsamo( Los Tusequis),7013567,14,130,114,1,5,120,114,120
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5002,Esc. German Busch,7013197,3,240,203,0,4,207,203,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5004,Col. Ovidio Santistevan,7004177,9,240,202,1,4,207,202,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5004,Col. Ovidio Santistevan,7004207,12,240,206,1,6,213,206,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5004,Col. Ovidio Santistevan,7004227,14,240,213,0,3,216,213,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5005,Col. Villa Bolivia,7004357,7,240,200,1,10,211,200,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5005,Col. Villa Bolivia,7004367,8,240,206,0,4,210,206,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5005,Col. Villa Bolivia,7004377,9,240,205,0,8,213,205,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5005,Col. Villa Bolivia,7004387,10,240,204,2,5,211,204,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5008,Naciones Unidas,7014887,1,240,190,3,11,204,190,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5008,Naciones Unidas,7014927,5,240,196,1,8,205,196,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5010,Esc. Jose Mariano Serrano,7015497,8,240,211,1,4,216,211,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5010,Esc. Jose Mariano Serrano,7015517,10,240,188,2,6,196,188,196
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5010,Esc. Jose Mariano Serrano,7015527,11,240,205,4,1,210,205,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5013,Col. San Martin Norte,7014527,18,240,197,3,12,212,197,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5013,Col. San Martin Norte,7014537,19,240,201,1,8,210,201,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5014,Esc. Claracuta,7013907,1,240,214,0,6,220,214,220
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5014,Esc. Claracuta,7013937,4,240,197,1,5,203,197,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5014,Esc. Claracuta,7013947,5,240,208,0,5,213,208,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5014,Esc. Claracuta,7013957,6,240,206,1,8,215,206,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5018,Escuela Km 9,7012157,8,240,191,1,5,197,191,197
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5018,Escuela Km 9,7012177,10,240,194,2,2,198,194,198
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5018,Escuela Km 9,7012187,11,240,190,0,9,199,190,199
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5018,Escuela Km 9,7012197,12,240,202,3,6,211,202,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5018,Escuela Km 9,7012207,13,240,196,0,5,201,196,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5019,Col. Luz Y Saber II,7014057,2,240,203,2,8,213,203,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5019,Col. Luz Y Saber II,7014077,4,240,198,1,9,208,198,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5020,Col. U.E. La Resureccion   Esc. Convif,7012897,1,72,42,0,1,43,42,43
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,5023,Escuela 23 de Marzo,7011637,22,240,201,2,7,210,201,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6000,Col. Sor Maria Cristina Perez,7015977,29,240,202,2,15,219,202,219
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6000,Col. Sor Maria Cristina Perez,7015987,30,240,210,0,4,214,210,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6000,Col. Sor Maria Cristina Perez,7016027,34,240,217,3,3,223,217,223
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6000,Col. Sor Maria Cristina Perez,7016037,35,40,32,0,1,33,32,33
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6004,Col.  Pedro Añez,7016667,3,240,205,1,10,216,205,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6005,U.E. 23 de Diciembre J. Carlos Truji,7018507,10,240,198,6,12,216,198,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017447,1,240,204,1,10,215,204,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017467,3,240,192,2,10,204,192,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017477,4,240,193,1,19,213,193,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017587,15,240,194,4,15,213,194,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017597,16,240,191,1,17,209,191,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017607,17,240,182,3,11,196,182,196
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017617,18,240,206,5,6,217,206,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017627,19,240,200,2,11,213,200,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6008,Col. Educativo Cotoca,7017637,20,253,191,4,17,212,191,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6010,Col. Unidad Educativa España,7018277,1,240,193,2,16,211,193,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6010,Col. Unidad Educativa España,7018297,3,240,189,2,20,211,189,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6010,Col. Unidad Educativa España,7018317,5,240,203,4,11,218,203,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6010,Col. Unidad Educativa España,7018327,6,240,198,4,9,211,198,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6015,Col. Esc. Gral. Ismael Montes Gamboa,7018977,16,240,208,3,8,219,208,219
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6016,Colegio  23 de Abril,7022267,10,240,203,3,12,218,203,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6022,Escuela 1ro. de Mayo,7015027,2,240,192,5,5,202,192,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7005,Col. Heroes Del Chaco,7008397,16,240,199,4,9,212,199,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7005,Col. Heroes Del Chaco,7008447,21,240,208,0,7,215,208,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7006,Col. San Silvestre,7022727,9,240,194,3,18,215,194,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7006,Col. San Silvestre,7022767,13,240,192,7,11,210,192,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7006,Col. San Silvestre,7022777,14,240,181,2,19,202,181,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7006,Col. San Silvestre,7022787,15,240,194,2,17,213,194,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7007,Col. Angela Pinckert,7027317,8,240,200,1,4,205,200,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7008,U.E. 27 de mayo,7027057,8,240,189,7,8,204,189,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7008,U.E. 27 de mayo,7027067,9,240,197,6,5,208,197,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7008,U.E. 27 de mayo,7027097,12,240,189,2,14,205,189,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7008,U.E. 27 de mayo,7027107,13,76,64,0,6,70,64,70
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7009,Col. Gilberto Menacho,7026777,1,240,202,5,5,212,202,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7009,Col. Gilberto Menacho,7026787,2,240,211,1,9,221,211,221
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7009,Col. Gilberto Menacho,7026797,3,240,206,3,8,217,206,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7010,U.E.  Kinder 27 de Mayo,7027207,10,240,197,3,8,208,197,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7012,Col. Pampa De La Cruz,7026117,3,240,209,2,3,214,209,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7012,Col. Pampa De La Cruz,7026127,4,240,188,1,16,205,188,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7012,Col. Pampa De La Cruz,7026137,5,240,199,1,10,210,199,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7012,Col. Pampa De La Cruz,7026157,7,240,191,2,16,209,191,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7012,Col. Pampa De La Cruz,7026167,8,240,197,1,5,203,197,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7012,Col. Pampa De La Cruz,7026177,9,240,203,0,18,221,203,221
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7013,Col. 18 de Marzo,7025637,24,240,188,1,15,204,188,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7014,Col. Fausto Medrano,7025687,1,240,199,8,10,217,199,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7014,Col. Fausto Medrano,7025737,6,240,196,2,18,216,196,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7014,Col. Fausto Medrano,7025757,8,240,202,4,8,214,202,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7014,Col. Fausto Medrano,7025767,9,240,185,4,12,201,185,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7014,Col. Fausto Medrano,7025797,12,240,202,2,11,215,202,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7017,Col. Nimia Centella,7027947,16,240,193,1,12,206,193,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7018,Col. Guapilo Junin,7023917,1,240,198,4,10,212,198,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7018,Col. Guapilo Junin,7023997,9,240,199,7,9,215,199,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7018,Col. Guapilo Junin,7024007,10,240,195,4,7,206,195,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7018,Col. Guapilo Junin,7024057,15,240,190,2,24,216,190,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7018,Col. Guapilo Junin,7024077,17,189,166,3,3,172,166,172
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7020,Col. Humberto Eguez,7026587,1,240,198,2,11,211,198,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7020,Col. Humberto Eguez,7026637,6,240,189,6,15,210,189,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7020,Col. Humberto Eguez,7026647,7,240,195,5,11,211,195,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024397,1,240,202,1,12,215,202,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024407,2,240,214,1,4,219,214,219
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024417,3,240,197,2,17,216,197,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024427,4,240,192,6,17,215,192,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024437,5,240,208,2,6,216,208,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024447,6,240,196,5,14,215,196,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024457,7,240,200,2,12,214,200,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024507,12,240,197,3,14,214,197,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7021,Col. Alan Farah,7024517,13,240,189,6,11,206,189,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7022,U.E. Nuevo Horizonte,7020147,8,240,203,3,9,215,203,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7022,U.E. Nuevo Horizonte,7020167,10,240,203,2,7,212,203,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7022,U.E. Nuevo Horizonte,7020177,11,240,138,55,10,203,138,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7022,U.E. Nuevo Horizonte,7020207,14,240,194,2,7,203,194,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7023,Col. Central Obrera Departamental,7023037,14,240,193,2,9,204,193,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7023,Col. Central Obrera Departamental,7023057,16,240,201,5,6,212,201,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7023,Col. Central Obrera Departamental,7023077,18,240,203,3,10,216,203,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7024,U. E. El Retoño,7021837,2,240,193,4,8,205,193,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7024,U. E. El Retoño,7021847,3,240,188,3,18,209,188,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7024,U. E. El Retoño,7021917,10,240,193,3,18,214,193,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7024,U. E. El Retoño,7021927,11,240,189,2,11,202,189,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7025,U.E. Alfredo Barbery Chavez A,7017877,24,240,205,0,9,214,205,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7025,U.E. Alfredo Barbery Chavez A,7017907,27,240,212,3,9,224,212,224
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7025,U.E. Alfredo Barbery Chavez A,7017937,30,123,99,2,4,105,99,105
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7027,U.E. 26 De Septiembre,7020687,20,240,191,2,12,205,191,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,7027,U.E. 26 De Septiembre,7020717,23,240,180,5,24,209,180,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8004,Col. Cañada Pailitas,7028267,2,240,201,1,11,213,201,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8004,Col. Cañada Pailitas,7028277,3,240,192,4,11,207,192,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8004,Col. Cañada Pailitas,7028297,5,240,194,2,8,204,194,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8004,Col. Cañada Pailitas,7028307,6,240,197,2,16,215,197,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8004,Col. Cañada Pailitas,7028357,11,240,204,4,10,218,204,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8004,Col. Cañada Pailitas,7028367,12,186,140,0,17,157,140,157
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8005,Col. Buenas Nuevas,7030037,1,240,153,1,48,202,153,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8005,Col. Buenas Nuevas,7030057,3,240,196,1,12,209,196,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8005,Col. Buenas Nuevas,7030077,5,240,204,0,12,216,204,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8005,Col. Buenas Nuevas,7030087,6,240,208,3,11,222,208,222
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8005,Col. Buenas Nuevas,7030097,7,240,178,5,25,208,178,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8005,Col. Buenas Nuevas,7030177,15,240,194,4,8,206,194,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8006,Col. 12 de Diciembre,7029047,1,240,179,4,30,213,179,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8006,Col. 12 de Diciembre,7029287,25,240,199,2,7,208,199,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8006,Col. 12 de Diciembre,7029297,26,240,201,1,5,207,201,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8006,Col. 12 de Diciembre,7029307,27,240,202,3,5,210,202,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8006,Col. 12 de Diciembre,7029337,30,240,196,0,9,205,196,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8006,Col. 12 de Diciembre,7029347,31,79,59,3,5,67,59,67
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028427,6,240,194,0,14,208,194,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028437,7,240,210,3,6,219,210,219
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028447,8,240,193,2,11,206,193,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028457,9,240,211,4,3,218,211,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028467,10,259,217,1,10,228,217,228
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8011,Col. Fe y Alegria Nueva America,7029857,17,240,189,2,14,205,189,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8011,Col. Fe y Alegria Nueva America,7029867,18,240,196,4,6,206,196,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8011,Col. Fe y Alegria Nueva America,7029897,21,240,192,7,14,213,192,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8016,Col. Esc. Virgen De Urkupina,7031207,9,240,193,2,18,213,193,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8016,Col. Esc. Virgen De Urkupina,7031227,11,240,184,4,16,204,184,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8016,Col. Esc. Virgen De Urkupina,7031337,22,240,188,4,18,210,188,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8016,Col. Esc. Virgen De Urkupina,7031357,24,240,201,4,7,212,201,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8017,Col. Primavera,7023167,1,240,191,3,4,198,191,198
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8017,Col. Primavera,7023217,6,240,187,5,14,206,187,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8017,Col. Primavera,7023377,22,240,196,2,7,205,196,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8017,Col. Primavera,7023387,23,240,189,5,8,202,189,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8017,Col. Primavera,7023397,24,240,192,4,12,208,192,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8018,Col. Rafael Bustillos,7028087,9,240,201,4,9,214,201,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8018,Col. Rafael Bustillos,7028117,12,240,205,3,8,216,205,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8026,Col. El Buen Samaritano,7024687,3,240,200,5,15,220,200,220
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8026,Col. El Buen Samaritano,7024707,5,240,196,3,18,217,196,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8026,Col. El Buen Samaritano,7024727,7,240,203,2,12,217,203,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9000,Col. San Pablo,7034467,4,243,190,2,4,196,190,196
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9001,Cárcel Pública,7047287,6,240,159,5,16,180,159,180
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9003,Col. Esc. Naun Fernandez,7034377,9,240,185,1,26,212,185,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9003,Col. Esc. Naun Fernandez,7034387,10,240,202,3,12,217,202,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9003,Col. Esc. Naun Fernandez,7034407,12,240,200,4,11,215,200,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9003,Col. Esc. Naun Fernandez,7034417,13,240,196,2,16,214,196,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9004,Colegio San Jorge,7036167,1,240,187,3,17,207,187,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9004,Colegio San Jorge,7036187,3,240,190,1,17,208,190,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9004,Colegio San Jorge,7036197,4,240,193,1,15,209,193,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9004,Colegio San Jorge,7036217,6,240,203,1,13,217,203,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9004,Colegio San Jorge,7036227,7,240,194,3,16,213,194,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9006,UE. El Paraíso,7035627,18,240,192,2,14,208,192,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9006,UE. El Paraíso,7035657,21,78,68,1,1,70,68,70
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9007,Col. Centro Educativo Caritas,7034477,1,240,203,0,12,215,203,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9007,Col. Centro Educativo Caritas,7034487,2,240,208,0,7,215,208,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9007,Col. Centro Educativo Caritas,7034497,3,240,219,2,2,223,219,223
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9007,Col. Centro Educativo Caritas,7034517,5,240,214,1,6,221,214,221
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9007,Col. Centro Educativo Caritas,7034537,7,240,202,1,4,207,202,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9007,Col. Centro Educativo Caritas,7034657,19,240,209,2,7,218,209,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9008,Colegio Domingo Savio   Don Bosco,7034787,1,240,199,6,13,218,199,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9008,Colegio Domingo Savio   Don Bosco,7034797,2,240,202,2,7,211,202,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9008,Colegio Domingo Savio   Don Bosco,7034807,3,240,210,2,13,225,210,225
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9008,Colegio Domingo Savio   Don Bosco,7034817,4,240,203,0,14,217,203,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9008,Colegio Domingo Savio   Don Bosco,7034837,6,240,195,2,16,213,195,213
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9009,Col. Hernando Siles,7045117,10,240,187,3,11,201,187,201
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9009,Col. Hernando Siles,7045167,15,240,184,4,23,211,184,211
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9009,Col. Hernando Siles,7045197,18,240,189,3,15,207,189,207
@@ -608,18 +377,123 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9009,Col. Hernando Siles,7045407,39,240,170,6,29,205,170,205
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9009,Col. Hernando Siles,7045427,41,120,98,2,9,109,98,109
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9010,Col. Esc. Peregrina Davalos,7045567,14,240,205,3,11,219,205,219
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10001,U.E. Union y Progreso,7037427,18,240,191,6,13,210,191,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10001,U.E. Union y Progreso,7037447,20,240,157,36,10,203,157,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10001,U.E. Union y Progreso,7037477,23,82,62,3,4,69,62,69
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10002,Col. Unidad Educativa La Colina,7036647,1,240,201,3,16,220,201,220
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10002,Col. Unidad Educativa La Colina,7036657,2,240,206,4,10,220,206,220
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10002,Col. Unidad Educativa La Colina,7036667,3,240,206,1,14,221,206,221
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10002,Col. Unidad Educativa La Colina,7036697,6,240,207,3,7,217,207,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10003,Col. Esc. 29 De Diciembre,7036877,1,240,187,0,12,199,187,199
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10003,Col. Esc. 29 De Diciembre,7036897,3,240,195,4,7,206,195,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10003,Col. Esc. 29 De Diciembre,7036907,4,240,186,1,21,208,186,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10003,Col. Esc. 29 De Diciembre,7036917,5,240,195,2,7,204,195,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10004,Col. Esc. Hilanderia,7037087,13,240,197,6,5,208,197,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10004,Col. Esc. Hilanderia,7037097,14,240,195,3,10,208,195,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10004,Col. Esc. Hilanderia,7037117,16,117,104,0,3,107,104,107
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038917,7,240,215,2,8,225,215,225
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038927,8,240,204,1,10,215,204,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038947,10,240,202,3,6,211,202,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038957,11,240,208,2,6,216,208,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038967,12,240,210,0,1,211,210,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038977,13,240,203,0,5,208,203,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7038997,15,240,200,0,15,215,200,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7039007,16,240,206,0,7,213,206,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10007,Col. Escuela Jorge Urenda Trigo,7039017,17,63,57,1,0,58,57,58
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10011,Col.  Anita Suarez De Leygue,7040057,1,240,207,4,6,217,207,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10012,Col. Hermanos Cavanis,7037837,7,240,189,2,2,193,189,193
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10015,Col. Esc. La Base,7037207,9,240,191,2,10,203,191,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10015,Col. Esc. La Base,7037237,12,240,206,1,11,218,206,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10016,Col. Escuela Ambrocio Villarroel,7001407,7,240,172,6,22,200,172,200
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10016,Col. Escuela Ambrocio Villarroel,7001437,10,256,194,2,18,214,194,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10017,Col. Escuela Sara Porras De Pinto,7001297,9,240,191,5,11,207,191,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10017,Col. Escuela Sara Porras De Pinto,7001307,10,240,201,1,8,210,201,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10017,Col. Escuela Sara Porras De Pinto,7001327,12,240,207,2,6,215,207,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7042827,1,240,190,8,9,207,190,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7042837,2,240,187,4,9,200,187,200
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7042847,3,240,207,2,9,218,207,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7042907,9,240,199,1,15,215,199,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7043077,26,240,188,3,18,209,188,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7043107,29,240,197,1,11,209,197,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7043117,30,240,183,2,22,207,183,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7043127,31,240,179,2,18,199,179,199
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10020,Col. Escuela El Fuerte,7043157,34,64,53,1,0,54,53,54
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10023,Colegio Ignacio Warnes,7044227,9,240,189,7,19,215,189,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10023,Colegio Ignacio Warnes,7044237,10,240,196,1,13,210,196,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10023,Colegio Ignacio Warnes,7044257,12,240,191,0,10,201,191,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10027,Col. Escuela Poly Villarroel,7046207,11,240,200,4,7,211,200,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10029,Col. San Francisco Sur,7044047,17,240,193,1,9,203,193,203
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10031,Col. Esc. Max Fernandez Rojas B,7045787,4,240,195,6,16,217,195,217
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10031,Col. Esc. Max Fernandez Rojas B,7045797,5,240,195,2,19,216,195,216
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10031,Col. Esc. Max Fernandez Rojas B,7045887,14,128,94,2,15,111,94,111
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11081,U.E. Rep. del Paraguay,7045897,1,240,201,3,8,212,201,212
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11081,U.E. Rep. del Paraguay,7045917,3,240,199,0,11,210,199,210
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10032,U.E.  Magisterio Sur 120 II,7046017,7,240,200,2,9,211,200,211
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10032,U.E.  Magisterio Sur 120 II,7046027,8,240,192,2,15,209,192,209
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10032,U.E.  Magisterio Sur 120 II,7046037,9,240,197,2,11,210,197,210
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10027,Col. Escuela Poly Villarroel,7046207,11,240,200,4,7,211,200,211
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10033,Colegio Plan 4000,7046587,5,240,167,7,27,201,167,201
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10033,Colegio Plan 4000,7046597,6,240,197,3,15,215,197,215
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,9001,Cárcel Pública,7047287,6,240,159,5,16,180,159,180
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10039,Col. Esc. Honorato Mejia,7036367,9,240,202,2,11,215,202,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,10040,Col. Luis Espinal Campos,7044957,26,240,189,3,14,206,189,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11047,U.E. Juana Azurduy de Padilla,7032177,10,240,183,5,16,204,183,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11047,U.E. Juana Azurduy de Padilla,7032227,15,240,202,1,12,215,202,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041457,1,240,205,1,6,212,205,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041467,2,240,198,5,4,207,198,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041477,3,240,203,3,4,210,203,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041487,4,240,202,0,6,208,202,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041497,5,240,199,0,7,206,199,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041507,6,240,202,1,7,210,202,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11048,Col. Club De Leones,7041527,8,64,60,0,0,60,60,60
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11053,Col. Covipal,7039967,1,240,191,4,14,209,191,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11053,Col. Covipal,7039977,2,240,186,5,20,211,186,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11053,Col. Covipal,7039987,3,240,201,2,10,213,201,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11053,Col. Covipal,7039997,4,240,173,5,25,203,173,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11059,Virgen De Guadalupe,7020977,15,240,197,2,8,207,197,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11059,Virgen De Guadalupe,7020987,16,240,199,2,9,210,199,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11059,Virgen De Guadalupe,7021007,18,240,200,3,8,211,200,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11059,Virgen De Guadalupe,7021017,19,240,190,3,15,208,190,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11059,Virgen De Guadalupe,7021027,20,240,197,3,4,204,197,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11061,Fred Nuñez Gonzales,7022167,18,87,72,1,6,79,72,79
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11063,U.E. San Cayetano,7021417,14,240,196,2,9,207,196,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11063,U.E. San Cayetano,7021437,16,240,185,1,22,208,185,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11063,U.E. San Cayetano,7021447,17,85,65,1,2,68,65,68
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11064,U.E. Los Cusis,7021657,1,240,196,2,4,202,196,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11064,U.E. Los Cusis,7021677,3,240,191,2,9,202,191,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11064,U.E. Los Cusis,7021687,4,240,191,0,12,203,191,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11064,U.E. Los Cusis,7021707,6,240,181,5,10,196,181,196
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11064,U.E. Los Cusis,7021797,15,240,184,1,7,192,184,192
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11064,U.E. Los Cusis,7021817,17,61,43,0,1,44,43,44
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11066,U.E. Zaragoza,7021507,6,240,203,3,9,215,203,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11066,U.E. Zaragoza,7021617,17,240,192,4,13,209,192,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11066,U.E. Zaragoza,7021637,19,240,195,3,13,211,195,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11068,16 de Julio,7018197,6,240,192,2,7,201,192,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11068,16 de Julio,7018227,9,72,54,2,2,58,54,58
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11072,U.E. Florida Barba Chávez,7023427,1,240,188,2,7,197,188,197
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11072,U.E. Florida Barba Chávez,7023447,3,240,162,4,26,192,162,192
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11072,U.E. Florida Barba Chávez,7023477,6,240,194,2,17,213,194,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11073,U.E. 25 de Octubre,7023757,1,240,179,1,16,196,179,196
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11073,U.E. 25 de Octubre,7023767,2,240,182,5,22,209,182,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11073,U.E. 25 de Octubre,7023777,3,240,195,3,5,203,195,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11073,U.E. 25 de Octubre,7023787,4,240,187,2,10,199,187,199
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11073,U.E. 25 de Octubre,7023797,5,240,186,3,16,205,186,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11073,U.E. 25 de Octubre,7023817,7,240,191,6,13,210,191,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11075,Pedro Diez,7036607,2,240,193,4,6,203,193,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11075,Pedro Diez,7036627,4,240,180,1,20,201,180,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11076,Sahara Guardia,7035907,6,240,199,2,7,208,199,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11077,Universitario Sur,7035187,9,240,208,3,9,220,208,220
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11077,Universitario Sur,7035197,10,73,59,1,6,66,59,66
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11078,Angelina Rivera,7044437,8,240,197,4,7,208,197,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11078,Angelina Rivera,7044447,9,240,198,2,13,213,198,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11078,Angelina Rivera,7044457,10,240,195,2,12,209,195,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11078,Angelina Rivera,7044467,11,240,199,6,9,214,199,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11078,Angelina Rivera,7044477,12,240,189,1,14,204,189,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11078,Angelina Rivera,7044487,13,232,193,1,8,202,193,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11081,U.E. Rep. del Paraguay,7045897,1,240,201,3,8,212,201,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11081,U.E. Rep. del Paraguay,7045917,3,240,199,0,11,210,199,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11082,Modulo Rancho Nuevo,7016967,5,240,192,2,7,201,192,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11082,Modulo Rancho Nuevo,7017027,11,240,188,3,12,203,188,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11082,Modulo Rancho Nuevo,7017077,16,240,198,4,5,207,198,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11085,U.E. 3 de Mayo,7029597,3,240,193,1,4,198,193,198
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11086,U.E. San Juan Bautista,7024937,7,240,194,0,13,207,194,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11086,U.E. San Juan Bautista,7024947,8,240,197,0,11,208,197,208
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11087,U.E. San Juan del Este,7047627,2,240,190,5,14,209,190,209
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11087,U.E. San Juan del Este,7047757,15,240,179,1,14,194,179,194
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11087,U.E. San Juan del Este,7047777,17,116,90,1,4,95,90,95
@@ -631,6 +505,132 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11088,U.E. 19 de Marzo,7047847,7,240,184,4,13,201,184,201
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11088,U.E. 19 de Marzo,7047857,8,240,181,3,14,198,181,198
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11088,U.E. 19 de Marzo,7047867,9,240,201,5,7,213,201,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043287,1,240,195,2,8,205,195,205
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043307,3,240,196,2,13,211,196,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043327,5,240,197,4,5,206,197,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043337,6,240,208,3,5,216,208,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043357,8,240,194,3,10,207,194,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043367,9,240,190,1,19,210,190,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11093,Colegio San Francisco de Asis,7043377,10,240,198,2,13,213,198,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11094,U.E. 18 de Julio,7019647,10,240,202,3,1,206,202,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11094,U.E. 18 de Julio,7019657,11,240,192,7,9,208,192,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11094,U.E. 18 de Julio,7019687,14,240,188,4,8,200,188,200
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,11094,U.E. 18 de Julio,7019707,16,177,152,1,4,157,152,157
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25416,Kinder Guarderia El Carmen,7003227,2,240,178,1,5,184,178,184
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25416,Kinder Guarderia El Carmen,7003247,4,240,187,2,6,195,187,195
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25417,Facultad de Ciencias Agricolas U.A.G.R.M.,7012007,21,240,210,0,5,215,210,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25417,Facultad de Ciencias Agricolas U.A.G.R.M.,7012037,24,240,208,1,3,212,208,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25417,Facultad de Ciencias Agricolas U.A.G.R.M.,7012057,26,240,206,4,5,215,206,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25418,Modulo Educativo German Busch,7013327,1,240,203,1,2,206,203,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25418,Modulo Educativo German Busch,7013337,2,240,187,0,3,190,187,190
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25418,Modulo Educativo German Busch,7013347,3,240,197,1,2,200,197,200
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25418,Modulo Educativo German Busch,7013357,4,240,187,0,9,196,187,196
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25418,Modulo Educativo German Busch,7013367,5,240,207,2,5,214,207,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25423,U.E. El Arenal C,7016897,3,240,204,3,9,216,204,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25426,U.E. 26 de Junio,7031477,5,240,194,1,5,200,194,200
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25426,U.E. 26 de Junio,7031497,7,240,189,3,12,204,189,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25426,U.E. 26 de Junio,7031507,8,240,194,1,6,201,194,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25433,Kinder Libertad,7026947,2,240,189,3,6,198,189,198
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25433,Kinder Libertad,7026967,4,240,184,2,7,193,184,193
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25434,U.E. Hacia La Cumbre,7025317,2,240,197,1,2,200,197,200
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25434,U.E. Hacia La Cumbre,7025347,5,240,192,1,9,202,192,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25437,U.E. Mateo Kuljis Llic II,7039707,2,240,190,3,6,199,190,199
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25438,Modulo Educativo Maria De Mattias,7035067,4,240,223,0,2,225,223,225
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25438,Modulo Educativo Maria De Mattias,7035077,5,240,212,2,3,217,212,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25438,Modulo Educativo Maria De Mattias,7035087,6,240,209,2,4,215,209,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25438,Modulo Educativo Maria De Mattias,7035097,7,37,34,0,1,35,34,35
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25439,Modulo Educativo Republica De Colombia,7036107,7,240,193,1,12,206,193,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25439,Modulo Educativo Republica De Colombia,7036117,8,240,190,1,10,201,190,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25439,Modulo Educativo Republica De Colombia,7036147,11,240,198,2,14,214,198,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25440,U.E. Victoria Diez,7036017,7,240,192,2,20,214,192,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25442,U.E. Santa Ana C,7038797,1,240,195,4,5,204,195,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25442,U.E. Santa Ana C,7038817,3,240,195,0,4,199,195,199
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25442,U.E. Santa Ana C,7038837,5,240,179,3,11,193,179,193
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25470,U.E. Santa Cruz de la Sierra,7014697,11,240,208,0,3,211,208,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25470,U.E. Santa Cruz de la Sierra,7014737,15,240,207,3,6,216,207,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25470,U.E. Santa Cruz de la Sierra,7014747,16,240,206,0,7,213,206,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25470,U.E. Santa Cruz de la Sierra,7014757,17,240,198,0,2,200,198,200
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25470,U.E. Santa Cruz de la Sierra,7014777,19,240,206,1,8,215,206,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25470,U.E. Santa Cruz de la Sierra,7014797,21,240,213,0,2,215,213,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25472,U.E. Josefina Balsamo Cordecruz,7013137,6,240,210,0,4,214,210,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25472,U.E. Josefina Balsamo Cordecruz,7013157,8,240,202,1,8,211,202,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25472,U.E. Josefina Balsamo Cordecruz,7013167,9,68,60,0,1,61,60,61
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25653,U.E. Santa Cecilia,7022537,7,240,193,1,12,206,193,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25653,U.E. Santa Cecilia,7022567,10,240,191,0,12,203,191,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25654,U.E. Pedro Rivero Mercado,7024097,2,240,199,1,6,206,199,206
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25656,U.E. Paraíso de los Infantes,7048257,7,240,192,5,20,217,192,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25658,U.E. San Marcos,7038067,1,240,188,1,9,198,188,198
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25658,U.E. San Marcos,7038077,2,240,199,4,10,213,199,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25658,U.E. San Marcos,7038127,7,206,170,1,6,177,170,177
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25659,U.E. Andres Ibañez  A,7031597,2,240,191,2,8,201,191,201
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25659,U.E. Andres Ibañez  A,7031637,6,240,178,2,8,188,178,188
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25661,U.E. Libertad,7021207,3,240,189,3,14,206,189,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25661,U.E. Libertad,7021227,5,240,200,1,6,207,200,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030667,8,240,193,4,10,207,193,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030677,9,240,192,5,18,215,192,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030697,11,240,184,2,22,208,184,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030717,13,240,179,6,19,204,179,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25664,U.E. 1ro. De Mayo,7026237,3,240,174,2,15,191,174,191
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25664,U.E. 1ro. De Mayo,7026257,5,240,178,3,9,190,178,190
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25665,U.E. Francisco Hurtado Pedraza,7032277,2,240,189,6,12,207,189,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25665,U.E. Francisco Hurtado Pedraza,7032307,5,240,178,2,20,200,178,200
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25665,U.E. Francisco Hurtado Pedraza,7032477,22,240,189,4,9,202,189,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25666,U.E. Melvin Jones,7009937,1,240,193,0,9,202,193,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25666,U.E. Melvin Jones,7009947,2,240,182,1,7,190,182,190
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25666,U.E. Melvin Jones,7009957,3,240,200,1,2,203,200,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25667,U.E. Juancito Pinto,7032597,2,240,190,2,7,199,190,199
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25667,U.E. Juancito Pinto,7032627,5,240,199,1,11,211,199,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25667,U.E. Juancito Pinto,7032637,6,240,177,1,19,197,177,197
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25677,U.E. Bautista Vida Nueva,7033447,8,240,204,2,9,215,204,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25677,U.E. Bautista Vida Nueva,7033467,10,240,205,2,4,211,205,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25677,U.E. Bautista Vida Nueva,7033477,11,240,201,2,15,218,201,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26338,U. E. Libertador Simón Bolívar,7034747,3,240,207,1,6,214,207,214
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26340,U. E. 10 de Octubre,7017207,6,240,197,2,12,211,197,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26340,U. E. 10 de Octubre,7017367,22,240,188,3,18,209,188,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26345,U. E. Módulo El Trapiche,7021177,9,77,69,2,1,72,69,72
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26346,U. E. Módulo Urbanización Cotoca (Prof. Jaime Escalante),7019277,17,240,196,1,11,208,196,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26346,U. E. Módulo Urbanización Cotoca (Prof. Jaime Escalante),7019287,18,240,208,2,3,213,208,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26346,U. E. Módulo Urbanización Cotoca (Prof. Jaime Escalante),7019367,26,240,198,2,4,204,198,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26353,U.E. Japón V Nivel Inicial,7009787,7,240,208,0,10,218,208,218
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26353,U.E. Japón V Nivel Inicial,7009807,9,245,189,1,14,204,189,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26401,U.E. Dennys Antelo Jordan,7007937,1,240,198,4,2,204,198,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26401,U.E. Dennys Antelo Jordan,7007947,2,42,31,1,0,32,31,32
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26403,U.E. Hilarión Tomelicht Ardaya I,7013417,1,240,180,1,16,197,180,197
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26403,U.E. Hilarión Tomelicht Ardaya I,7013427,2,115,94,0,4,98,94,98
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26405,Módulo Educativo Boris Banzer de Porvenir,7025367,1,240,206,2,4,212,206,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26405,Módulo Educativo Boris Banzer de Porvenir,7025377,2,240,206,1,8,215,206,215
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26405,Módulo Educativo Boris Banzer de Porvenir,7025387,3,240,201,1,7,209,201,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26406,U.E. 4 de Febrero,7023877,3,240,189,3,12,204,189,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26406,U.E. 4 de Febrero,7023897,5,240,200,2,11,213,200,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26409,U.E. Amsterdam I Primaria,7043397,1,240,183,3,17,203,183,203
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26412,U.E. Hector Saucedo Montaño,7048387,1,240,188,2,11,201,188,201
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26412,U.E. Hector Saucedo Montaño,7048397,2,64,53,1,3,57,53,57
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26415,U.E. República Argentina A,7040557,1,240,192,1,11,204,192,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26415,U.E. República Argentina A,7040567,2,125,106,0,3,109,106,109
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26417,U.E. John Fitzgerald Kennedy III,7001697,1,240,197,1,11,209,197,209
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26418,U.E. Lucas Casaert,7001747,2,233,179,1,18,198,179,198
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26419,U.E. El Porvenir,7002607,1,240,175,0,9,184,175,184
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26419,U.E. El Porvenir,7002617,2,208,147,0,10,157,147,157
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26420,U.E. Rómulo Gomez I,7042587,1,198,153,1,12,166,153,166
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012717,3,240,211,0,5,216,211,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012777,9,240,207,1,13,221,207,221
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012787,10,240,199,2,7,208,199,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012797,11,240,200,2,6,208,200,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012807,12,240,200,1,5,206,200,206
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012817,13,240,213,0,3,216,213,216
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,26421,Unidad Educativa Santa Ana D,7012827,14,240,199,2,6,207,199,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32024,U.E. Hermann Gmeiner,7039887,1,240,201,0,10,211,201,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32024,U.E. Hermann Gmeiner,7039897,2,240,194,1,17,212,194,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32024,U.E. Hermann Gmeiner,7039917,4,240,199,6,7,212,199,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32024,U.E. Hermann Gmeiner,7039947,7,240,191,9,17,217,191,217
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32192,U.E. Ferroviario,7016077,1,191,164,2,6,172,164,172
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7004917,16,240,192,3,13,208,192,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7004967,21,240,189,5,10,204,189,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7004977,22,240,190,5,18,213,190,213
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7004987,23,240,186,9,8,203,186,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7004997,24,240,191,5,8,204,191,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7005007,25,240,194,3,11,208,194,208
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7005017,26,240,191,4,12,207,191,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,3,Esc. Solidaridad 55,7005027,27,240,203,0,8,211,203,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4032,Clara Serrano,25363,U.E. Clara Serrano,7000847,1,240,194,5,11,210,194,210
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4034,Villa Viana,25365,U.E. Thevenet De Viana,7001077,8,240,194,4,18,216,194,216
