@@ -44,6 +44,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,4000681,5,4,9,9,28,2,5,13,18,29,2,4,10,2
 1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,4000691,6,3,6,5,35,3,2,10,20,43,2,4,7,3
 1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,4000701,7,2,0,1,8,1,0,3,3,10,0,0,0,2
+1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,4006431,1,5,9,7,30,1,4,8,18,29,1,7,8,5
 1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,4006441,2,4,8,5,35,3,3,9,16,24,4,1,11,10
 1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,4006451,3,3,8,4,36,3,7,16,14,29,0,5,6,1
 1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,4006461,4,2,18,8,31,2,6,11,23,39,3,3,6,3
@@ -257,12 +258,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,134,U. E. Jesus de Nazareth,4008261,4,4,11,5,35,1,6,25,6,11,2,0,7,3
 1,Cercado,1,Oruro,2059,Oruro,134,U. E. Jesus de Nazareth,4008271,5,6,6,3,19,3,5,9,7,10,7,2,8,6
 1,Cercado,1,Oruro,2059,Oruro,134,U. E. Jesus de Nazareth,4008281,6,2,9,3,36,3,8,30,13,16,1,4,4,6
+1,Cercado,1,Oruro,2059,Oruro,134,U. E. Jesus de Nazareth,4008291,7,1,10,0,25,2,16,28,13,13,1,2,3,7
 1,Cercado,1,Oruro,2059,Oruro,134,U. E. Jesus de Nazareth,4008301,8,5,8,6,29,5,7,12,7,13,3,3,6,7
 1,Cercado,1,Oruro,2059,Oruro,134,U. E. Jesus de Nazareth,4008311,9,4,8,4,28,6,14,14,10,20,1,2,5,5
 1,Cercado,1,Oruro,2059,Oruro,134,U. E. Jesus de Nazareth,4008321,10,4,13,0,26,5,6,17,9,22,0,6,7,8
 1,Cercado,1,Oruro,2059,Oruro,134,U. E. Jesus de Nazareth,4008331,11,7,12,6,36,3,12,19,16,11,1,6,5,4
 1,Cercado,1,Oruro,2059,Oruro,136,Centro Educativo Luis Espinal,4008541,1,1,12,6,26,3,7,11,16,9,6,1,4,6
 1,Cercado,1,Oruro,2059,Oruro,136,Centro Educativo Luis Espinal,4008551,2,6,16,7,38,5,4,5,12,19,1,3,6,5
+1,Cercado,1,Oruro,2059,Oruro,136,Centro Educativo Luis Espinal,4008561,3,5,9,7,30,1,4,9,11,18,1,0,11,5
 1,Cercado,1,Oruro,2059,Oruro,136,Centro Educativo Luis Espinal,4008571,4,1,5,5,9,1,3,6,5,13,1,5,4,5
 1,Cercado,1,Oruro,2059,Oruro,137,U. E. Oruro Otawa (Secundaria),4008581,1,2,13,3,34,4,9,22,8,28,9,4,8,5
 1,Cercado,1,Oruro,2059,Oruro,137,U. E. Oruro Otawa (Secundaria),4008591,2,6,12,5,27,2,5,13,10,19,3,3,6,4
@@ -281,6 +284,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004911,9,12,8,3,41,2,10,12,6,7,1,1,7,1
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004971,15,5,10,0,39,2,9,10,3,6,2,0,7,2
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4004981,16,7,4,0,42,2,9,12,8,12,2,2,2,3
+1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005001,18,8,8,2,38,2,7,12,5,8,0,0,8,5
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005011,19,7,5,0,57,4,6,10,4,11,0,0,8,4
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005031,21,8,9,4,36,0,4,6,11,8,1,5,4,4
 1,Cercado,1,Oruro,2059,Oruro,140,U.E. Bolivia Vinto,4005051,23,5,11,5,43,2,7,12,4,5,2,0,10,3
@@ -364,6 +368,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001921,4,10,17,2,21,3,17,15,12,11,2,0,6,2
 1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001931,5,8,8,3,27,2,7,11,7,14,0,4,4,7
 1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001941,6,6,13,1,31,2,5,17,11,16,2,2,4,3
+1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001951,7,12,14,3,25,3,11,12,11,16,0,5,5,0
 1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001961,8,5,13,0,36,3,5,22,10,22,1,2,2,6
 1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001971,9,8,16,4,26,3,8,12,7,16,1,2,11,4
 1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,4001981,10,9,11,2,24,2,5,13,8,15,2,0,6,3
@@ -411,6 +416,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004081,10,5,10,3,30,3,5,16,7,9,2,3,8,5
 1,Cercado,1,Oruro,2059,Oruro,25628,U.E. Avelino Siñani Magisterio,4004091,11,2,5,3,34,4,7,17,8,13,2,3,14,9
 1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002071,1,10,11,2,39,2,10,15,11,13,1,1,1,3
+1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002081,2,7,8,1,33,2,13,13,8,11,1,5,8,5
 1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002091,3,5,11,1,30,3,8,15,9,15,1,0,12,6
 1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002101,4,7,11,4,34,1,10,7,10,8,2,0,4,6
 1,Cercado,1,Oruro,2059,Oruro,25629,U.E. Cristo el Salvador,4002111,5,8,16,3,26,3,8,16,13,11,0,3,2,2
@@ -477,20 +483,46 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,32409,U.E. 27 de Julio Huanuni,4003721,2,6,16,7,26,5,4,10,29,8,0,5,2,3
 1,Cercado,1,Oruro,2059,Oruro,32494,U. E. Adolfo Ballivian 1,4005441,1,2,9,6,26,6,4,9,14,13,0,4,4,7
 1,Cercado,1,Oruro,2059,Oruro,32495,U. E. Apoyo Educativo Oruro,4006891,1,0,6,0,6,0,1,2,3,2,1,1,0,0
+1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010781,6,5,2,6,42,14,5,14,12,5,3,3,6,4
+1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010791,7,2,6,3,28,15,4,19,7,7,2,2,6,4
+1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010811,9,9,6,0,29,6,7,14,8,4,0,0,4,4
+1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010821,10,5,5,2,42,9,3,22,8,3,0,1,2,4
+1,Cercado,2,Caracollo,2060,Caracollo,4,U.E. Simon Bolivar Primario,4010901,1,7,10,1,41,11,11,12,10,4,2,0,2,5
+1,Cercado,2,Caracollo,2060,Caracollo,4,U.E. Simon Bolivar Primario,4010911,2,4,4,0,31,22,10,17,6,4,1,0,3,3
+1,Cercado,2,Caracollo,2060,Caracollo,4,U.E. Simon Bolivar Primario,4010921,3,2,8,1,32,18,9,12,8,4,0,0,1,0
+1,Cercado,2,Caracollo,2064,Janco Ñuño,2,Esc. Elizardo Perez,4010601,1,14,3,1,22,13,1,11,3,1,1,0,0,2
+1,Cercado,2,Caracollo,2064,Janco Ñuño,2,Esc. Elizardo Perez,4010611,2,3,2,0,9,3,0,3,3,2,0,0,0,0
+1,Cercado,2,Caracollo,2065,La Joya,25564,Casa Productiva,4011061,1,11,8,2,37,1,7,5,11,6,1,0,5,5
+1,Cercado,2,Caracollo,2065,La Joya,25564,Casa Productiva,4011071,2,14,9,4,49,2,12,4,11,14,3,0,2,2
+1,Cercado,2,Caracollo,2065,La Joya,25564,Casa Productiva,4011081,3,12,10,1,35,2,8,3,6,10,2,3,6,5
+1,Cercado,2,Caracollo,2065,La Joya,25564,Casa Productiva,4011091,4,12,9,3,41,0,10,3,10,14,2,2,3,5
+1,Cercado,2,Caracollo,2065,La Joya,25564,Casa Productiva,4011101,5,9,7,2,38,1,7,5,6,11,2,3,4,4
+1,Cercado,2,Caracollo,2083,Kemalla,2,U.E. Alemania,4010671,1,24,2,0,29,2,6,2,2,1,0,0,13,0
+1,Cercado,2,Caracollo,2807,Soledad,32181,Corregimiento de Soledad,4011161,1,13,0,0,5,3,4,0,0,0,0,2,3,0
+1,Cercado,2,Caracollo,2808,Central Huntuta,2,U.E. Sebastian Pagador,4010701,2,2,1,0,17,1,1,8,2,3,1,0,2,6
+1,Cercado,2,Caracollo,3485,Concha Marca,1,Esc. Tupac Katari,4010521,1,0,0,0,15,2,0,0,0,0,0,0,3,1
+1,Cercado,2,Caracollo,4625,Pasto Grande,32405,U.E. 24 de Julio,4011171,1,4,3,2,45,0,5,22,1,9,1,1,9,4
+1,Cercado,2,Caracollo,4625,Pasto Grande,32405,U.E. 24 de Julio,4011181,2,0,4,0,7,1,5,3,0,1,1,0,5,1
 1,Cercado,3,El Choro,2078,El Choro,144,Esc. Sebastian  Pagador,4011211,1,53,0,0,47,0,4,7,2,3,0,1,2,7
+1,Cercado,3,El Choro,2078,El Choro,144,Esc. Sebastian  Pagador,4011221,2,18,1,0,39,0,8,10,4,5,0,1,10,3
 1,Cercado,3,El Choro,2078,El Choro,144,Esc. Sebastian  Pagador,4011231,3,27,1,0,33,2,2,8,4,4,0,3,2,2
+1,Cercado,3,El Choro,2079,Crucero Belén,25621,U.E. Crucero Belén,4011301,1,15,2,1,14,1,6,43,16,2,1,0,4,11
 1,Cercado,3,El Choro,2079,Crucero Belén,25621,U.E. Crucero Belén,4011311,2,3,0,0,12,0,10,11,9,1,0,0,0,1
 1,Cercado,3,El Choro,2080,San Pedro de Challacollo,146,Esc. Jose Ballivian,4011261,3,3,0,2,14,0,22,3,1,0,0,0,3,0
 1,Cercado,3,El Choro,2081,San Felipe de Chaytavi,147,U. E. San Felipe de Chaitavi,4011271,1,4,0,2,65,1,3,22,9,3,0,1,5,6
 1,Cercado,3,El Choro,2082,Rancho Grande,148,U.E. Rancho Grande,4011281,1,9,1,1,40,1,6,28,2,3,0,0,23,3
 1,Cercado,3,El Choro,2082,Rancho Grande,148,U.E. Rancho Grande,4011291,2,0,0,0,3,0,2,2,1,2,0,0,7,1
+1,Cercado,4,Paria,3221,Jatita,148,U. E. Jatita,4011471,1,4,3,2,17,44,16,5,1,2,0,0,3,4
+1,Cercado,4,Paria,3642,K'asa Huasa,1,U. E. K'Asa Huasa,4011321,1,6,5,1,13,6,10,15,8,2,0,0,22,8
 1,Cercado,4,Paria,3642,K'asa Huasa,1,U. E. K'Asa Huasa,4011331,2,0,0,0,6,0,3,4,0,0,0,0,3,0
 2,Abaroa,1,Challapata,2084,Challapata,4,U.E. Mons. Ricardo Beni Moro,4012561,10,8,18,1,14,12,0,11,11,2,0,1,6,2
 2,Abaroa,1,Challapata,2084,Challapata,5,U.E. Antofagasta,4012631,6,7,8,0,22,12,6,13,7,6,0,0,9,4
 2,Abaroa,1,Challapata,2084,Challapata,5,U.E. Antofagasta,4012641,7,12,13,0,27,9,2,12,15,5,0,0,2,3
 2,Abaroa,1,Challapata,2084,Challapata,5,U.E. Antofagasta,4012651,8,10,11,1,24,4,3,8,12,1,1,0,10,3
+2,Abaroa,1,Challapata,2084,Challapata,5,U.E. Antofagasta,4012661,9,2,6,1,14,5,0,7,4,3,0,0,3,0
 2,Abaroa,1,Challapata,2085,Cacachaca,2,Col. Nemecio Barrientos,4012161,1,33,24,0,18,0,0,0,0,0,0,0,4,0
 2,Abaroa,1,Challapata,2085,Cacachaca,2,Col. Nemecio Barrientos,4012171,2,33,14,0,14,1,2,2,1,0,0,2,7,1
+2,Abaroa,1,Challapata,2085,Cacachaca,2,Col. Nemecio Barrientos,4012181,3,25,11,1,33,0,2,0,0,1,0,0,1,2
 2,Abaroa,1,Challapata,2085,Cacachaca,2,Col. Nemecio Barrientos,4012201,5,57,11,0,35,0,0,1,1,1,0,0,0,1
 2,Abaroa,1,Challapata,2085,Cacachaca,2,Col. Nemecio Barrientos,4012211,6,39,6,0,36,0,1,0,0,0,0,0,4,0
 2,Abaroa,1,Challapata,2085,Cacachaca,2,Col. Nemecio Barrientos,4012221,7,21,7,0,29,0,0,0,1,0,0,0,4,1
@@ -498,15 +530,23 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Abaroa,1,Challapata,2085,Cacachaca,2,Col. Nemecio Barrientos,4012241,9,30,4,1,13,1,0,0,0,0,0,0,2,1
 2,Abaroa,1,Challapata,2086,Culta,2,Esc. Gualberto Villarroel,4012251,1,45,3,1,15,1,5,6,1,2,1,0,3,3
 2,Abaroa,1,Challapata,2087,Cruce Culta,2,Col. Simon Bolivar,4012271,2,12,9,0,7,2,2,10,3,2,0,0,11,3
+2,Abaroa,1,Challapata,2087,Cruce Culta,2,Col. Simon Bolivar,4012281,3,19,3,0,6,1,8,8,1,0,1,1,5,5
 2,Abaroa,1,Challapata,2087,Cruce Culta,2,Col. Simon Bolivar,4012291,4,13,7,1,5,0,2,7,2,0,1,0,3,4
 2,Abaroa,1,Challapata,3021,Thola Palca,2,U.E. Tolapalca,4012341,1,1,14,0,3,0,1,0,6,2,1,0,29,8
 2,Abaroa,1,Challapata,3021,Thola Palca,2,U.E. Tolapalca,4012351,2,0,7,0,1,0,0,0,1,0,0,0,5,3
 2,Abaroa,1,Challapata,3708,Cochuyo (Ayllu Collana),1,U. E. Cochuyo,4012001,1,6,1,0,0,0,2,1,0,1,0,2,2,9
 2,Abaroa,1,Challapata,4624,Challapampa Grande,32404,U.E. Catavicollo,4012701,1,10,4,4,25,3,8,2,6,1,3,5,42,8
 2,Abaroa,1,Challapata,4624,Challapampa Grande,32404,U.E. Catavicollo,4012711,2,5,1,1,10,0,1,2,0,1,0,0,12,2
+3,Carangas,1,Corque,2094,Corque,2,Col.  Jose Trifiro,4012891,2,3,2,1,16,0,23,12,2,7,0,0,5,7
+3,Carangas,1,Corque,2094,Corque,2,Col.  Jose Trifiro,4012901,3,7,2,0,22,5,19,16,2,5,0,0,6,16
+3,Carangas,1,Corque,2094,Corque,2,Col.  Jose Trifiro,4012911,4,4,3,2,14,1,21,17,0,3,0,1,9,7
+3,Carangas,1,Corque,2094,Corque,2,Col.  Jose Trifiro,4012921,5,4,3,1,22,0,11,14,2,2,0,1,7,11
 3,Carangas,1,Corque,2098,Payoco,2,Esc. German Busch,4012991,1,1,1,2,6,31,10,3,4,1,1,0,2,1
 3,Carangas,1,Corque,2099,Caracota,2,U.E. Ismael Montes,4013001,1,4,0,1,11,0,35,15,2,0,0,0,5,6
 3,Carangas,1,Corque,2106,Co.Central V.Copacabana,2,U.E. Villa Copacabana,4013081,1,7,4,0,5,1,49,2,1,0,0,0,5,1
+3,Carangas,1,Corque,4665,Comunidad Centro Bolívar del Ayllu Mallcunaca,32511,U. E. Pichacani,4013101,1,3,0,0,11,0,9,3,1,68,2,0,7,57
+3,Carangas,1,Corque,4666,Comunidad Antacahua,32512,Casa Comunal Antacahua,4013111,1,6,1,0,10,1,12,6,4,3,0,7,14,6
+3,Carangas,1,Corque,4668,Comunidad Originaria de Playa Verde del Ayllu Huacalluma,32514,U. E. Playa Verde,4013131,1,2,1,0,4,0,7,2,1,12,2,0,6,26
 3,Carangas,2,Choquecota,2809,Andapata,2,U.E. Andapata,4013171,1,2,15,3,18,3,5,1,0,1,1,0,3,7
 4,Sajama,1,Curahuara de Carangas,2108,Curahuara de Carangas,32083,U. E. Elizardo Pérez,4013251,5,24,1,0,6,1,10,0,2,3,0,0,7,1
 4,Sajama,2,Turco,2112,Titiri,2,Nucleo Escolar Titiri,4013311,1,0,0,0,17,2,17,0,1,0,1,1,2,0
@@ -518,36 +558,115 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Sajama,2,Turco,2852,Turco,2,Esc. Central Turco,4013401,5,1,1,0,25,4,19,0,3,0,1,0,12,3
 4,Sajama,2,Turco,3023,Iruni,2,Esc. Gualberto Villarroel   Iruni,4013411,1,0,0,0,16,1,0,0,0,0,0,0,1,0
 4,Sajama,2,Turco,3222,Crucero,2,U.E. Nuevo Porvenir,4013421,1,0,0,0,2,0,17,0,1,1,0,0,0,0
+5,Litoral,2,Escara,2119,Payrumani del Litoral,32084,Casa Comunal de Payrumani,4013561,1,0,0,0,13,7,2,1,18,1,3,0,0,0
+5,Litoral,2,Escara,3744,Centro Berlin,1,Casa Comunal,4013511,1,0,0,0,7,8,2,1,6,2,1,0,1,1
+5,Litoral,3,Cruz de Machacamarca,2120,Cruz de Machacamarca,2,U. E. Simón Bolívar,4013581,1,1,2,6,11,76,5,0,30,3,0,5,5,0
+5,Litoral,3,Cruz de Machacamarca,3747,Avaroa,1,Casa Comunal,4013571,1,0,0,0,36,0,0,1,1,3,0,2,0,0
 6,Poopó,1,Poopó,2128,Tolapampa,2,Esc. Eduardo Avaroa,4013821,1,3,5,0,22,1,1,0,0,3,3,0,3,3
 6,Poopó,1,Poopó,2129,Venta y Media,2,U.E. Hernando Siles,4013831,1,4,11,0,58,3,3,1,7,1,7,0,2,6
+6,Poopó,1,Poopó,2129,Venta y Media,2,U.E. Hernando Siles,4013841,2,2,13,1,47,3,2,0,12,1,15,1,6,2
 6,Poopó,1,Poopó,2843,Coripata,2,Esc. Mariscal Sucre,4013861,1,0,13,0,31,4,1,0,0,0,2,0,1,6
 6,Poopó,1,Poopó,3492,Puñaca,1,Esc. Puñaca,4013671,1,5,11,0,21,1,5,0,5,1,2,1,3,4
+6,Poopó,1,Poopó,3851,Cayumalliri,1,U.E. Libertador Simon Bolivar,4013681,1,1,12,1,51,0,0,0,3,1,1,1,0,1
 6,Poopó,3,Antequera,4128,Iruma Vinto,25545,U.E. Franz Tamayo,4014091,1,5,1,0,14,1,2,10,1,8,2,1,1,0
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014131,2,6,7,5,41,20,0,1,18,10,12,1,8,3
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014151,4,5,4,1,59,11,1,0,13,3,7,0,12,2
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014161,5,6,2,2,27,15,0,2,18,13,8,2,17,0
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014171,6,7,7,2,33,16,5,3,14,5,11,0,16,5
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014191,8,11,8,5,43,16,3,1,12,4,14,0,8,1
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014201,9,5,7,1,37,10,1,1,24,0,7,0,12,0
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014211,10,5,9,3,27,13,2,1,25,3,6,4,23,0
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014221,11,8,6,1,47,10,3,1,18,10,7,1,21,4
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014231,12,5,9,0,59,14,2,4,17,11,8,2,11,1
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014251,14,4,5,4,33,16,3,5,16,6,7,0,12,2
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014261,15,3,5,3,36,16,4,0,21,1,9,3,8,3
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014281,17,5,6,1,48,14,2,2,14,5,11,1,7,4
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014291,18,1,4,0,12,6,1,0,10,5,6,1,10,0
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014311,1,3,2,1,43,11,3,2,17,4,10,0,9,3
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014321,2,6,2,0,37,18,3,3,14,8,4,0,24,1
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014331,3,10,5,1,47,18,5,1,16,5,5,1,11,3
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014351,5,5,9,3,38,13,5,2,15,7,9,0,13,0
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014361,6,4,6,1,52,13,7,3,13,6,8,1,20,0
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014371,7,5,10,2,43,13,2,1,12,3,8,1,15,1
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014381,8,11,7,1,35,15,4,1,16,3,6,2,11,2
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014391,9,2,8,2,51,15,1,3,19,7,10,2,19,1
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014401,10,8,6,1,46,17,0,1,13,5,6,1,14,3
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014411,11,3,9,4,43,18,2,1,12,1,3,0,13,1
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014421,12,6,6,2,46,13,1,1,21,9,10,0,17,1
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014431,13,3,5,4,35,14,2,2,13,2,5,2,15,1
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,2,Col. Ayacucho,4014441,14,5,6,2,20,12,4,0,7,1,3,0,7,1
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,3,Esc. Franz Tamayo,4014491,1,5,4,1,45,16,5,2,19,3,4,1,28,2
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,3,Esc. Franz Tamayo,4014501,2,8,4,3,53,19,3,2,12,6,4,0,14,0
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,3,Esc. Franz Tamayo,4014521,4,2,8,0,35,17,2,4,12,5,5,0,14,4
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,3,Esc. Franz Tamayo,4014531,5,9,6,3,32,18,6,2,18,9,5,1,9,4
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,3,Esc. Franz Tamayo,4014541,6,8,8,1,40,16,2,3,13,6,6,0,10,2
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,3,Esc. Franz Tamayo,4014551,7,7,11,3,50,9,2,2,6,5,4,23,0,1
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,3,Esc. Franz Tamayo,4014571,9,4,9,2,47,11,5,2,16,5,3,0,18,0
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,3,Esc. Franz Tamayo,4014591,11,6,8,0,40,17,4,2,6,10,7,0,12,4
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,3,Esc. Franz Tamayo,4014601,12,1,6,3,52,19,3,0,22,5,8,1,8,3
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,3,Esc. Franz Tamayo,4014611,13,7,8,1,37,9,4,0,14,4,2,0,16,2
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,4,U.E. Venezuela,4014621,1,9,8,1,46,14,5,8,11,12,6,1,8,3
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,4,U.E. Venezuela,4014641,3,4,9,1,37,14,3,5,12,2,6,0,8,2
+7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,5,U.E. 12 de Abril,4014651,1,5,11,0,47,20,2,4,10,7,5,1,10,2
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,5,U.E. 12 de Abril,4014661,2,14,9,1,50,20,3,4,11,5,12,0,9,3
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,5,U.E. 12 de Abril,4014671,3,8,9,1,40,16,4,1,16,2,6,1,9,1
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,5,U.E. 12 de Abril,4014691,5,3,2,1,14,7,4,2,4,3,5,0,3,3
+7,Pantaleón Dalence,1,Huanuni,2144,Bombo,25623,U.E. Bombo,4014741,1,7,2,1,19,18,2,0,1,4,3,1,5,1
 7,Pantaleón Dalence,2,Machacamarca,2145,Machacamarca,2,Col. P. D. Murillo,4014771,1,1,9,1,30,3,5,1,26,8,2,15,15,5
+7,Pantaleón Dalence,2,Machacamarca,2145,Machacamarca,2,Col. P. D. Murillo,4014791,3,3,14,0,49,2,2,1,27,12,2,8,8,3
 7,Pantaleón Dalence,2,Machacamarca,2145,Machacamarca,2,Col. P. D. Murillo,4014811,5,5,15,4,27,3,6,1,29,10,4,6,10,3
 7,Pantaleón Dalence,2,Machacamarca,2145,Machacamarca,2,Col. P. D. Murillo,4014821,6,0,9,2,37,4,3,1,19,9,4,6,14,3
 7,Pantaleón Dalence,2,Machacamarca,2145,Machacamarca,2,Col. P. D. Murillo,4014831,7,1,16,5,41,1,5,4,14,12,3,5,5,2
 7,Pantaleón Dalence,2,Machacamarca,2145,Machacamarca,2,Col. P. D. Murillo,4014841,8,0,8,4,48,7,6,2,20,12,1,12,14,4
+7,Pantaleón Dalence,2,Machacamarca,2145,Machacamarca,2,Col. P. D. Murillo,4014851,9,0,6,0,19,0,1,0,6,5,0,2,1,1
+7,Pantaleón Dalence,2,Machacamarca,2147,Sora Sora,2,U. E. Sora Sora,4014861,1,3,20,1,36,4,8,5,10,10,2,3,4,4
+7,Pantaleón Dalence,2,Machacamarca,2147,Sora Sora,2,U. E. Sora Sora,4014871,2,2,8,1,46,2,2,4,5,14,0,2,7,4
 7,Pantaleón Dalence,2,Machacamarca,3703,Comunidad Sora,1,Esc. Adolfo Mier,4014751,1,1,7,2,43,3,2,4,28,7,3,3,40,1
+8,Ladislao Cabrera,1,AIOC de Salinas,2148,Salinas de Garci Mendoza,2,U. E. Franz Tamayo,4014891,1,0,1,0,27,1,20,2,8,37,1,1,1,11
+8,Ladislao Cabrera,1,AIOC de Salinas,2148,Salinas de Garci Mendoza,2,U. E. Franz Tamayo,4014901,2,1,1,1,16,2,8,1,7,22,2,2,2,11
+8,Ladislao Cabrera,1,AIOC de Salinas,2148,Salinas de Garci Mendoza,2,U. E. Franz Tamayo,4014911,3,2,2,0,19,0,15,0,7,31,0,0,0,15
+8,Ladislao Cabrera,1,AIOC de Salinas,2148,Salinas de Garci Mendoza,2,U. E. Franz Tamayo,4014921,4,0,1,1,24,1,16,0,2,24,0,0,3,14
+8,Ladislao Cabrera,1,AIOC de Salinas,2154,Aroma,2,U.E. Aroma,4015011,3,0,2,0,14,1,1,0,0,2,0,0,1,1
+8,Ladislao Cabrera,1,AIOC de Salinas,2158,Villa Esperanza,2,Esc. Villa Esperanza,4015101,1,1,4,1,18,2,14,0,1,5,0,2,4,2
+8,Ladislao Cabrera,1,AIOC de Salinas,4433,Tambo   Tambillo,26328,U.E. Bautista Saavedra de Tambillo,4015141,1,1,8,1,11,0,5,2,2,1,0,1,2,8
+9,Sabaya,1,Sabaya,2163,Pacariza,2,Esc. Sebastian  Pagador,4015301,1,1,10,1,4,10,3,1,0,44,0,5,2,6
+9,Sabaya,1,Sabaya,2172,San Antonio de Pitacollo,2,Esc. Pitacollo,4015401,1,2,7,1,12,7,0,2,1,8,8,2,1,3
+9,Sabaya,1,Sabaya,2174,Tunapa,25626,Casa Comunal,4015471,1,1,15,1,7,4,1,0,6,1,0,3,0,21
+9,Sabaya,1,Sabaya,2178,Alaroco,2,U.E. Pedro Domingo Murillo,4015441,1,0,10,1,40,23,1,3,3,7,9,9,1,6
+9,Sabaya,1,Sabaya,3706,Chulumani,1,Casa Comunal de Chulumani,4015231,1,3,4,3,10,21,1,3,6,17,8,9,5,7
+9,Sabaya,1,Sabaya,3711,Japon,1,Casa Comunal,4015241,1,0,6,0,5,10,0,1,2,5,6,5,0,4
+9,Sabaya,1,Sabaya,3748,San José de Pacocahua,32093,Casa Comunal de Pacocahua,4015521,1,22,0,0,2,6,0,6,0,1,1,4,1,2
+9,Sabaya,3,AIOC Uru Chipaya,2181,Chipaya,2,U.E. Santa Ana,4015571,2,0,5,1,25,1,2,0,1,0,4,1,1,6
+9,Sabaya,3,AIOC Uru Chipaya,2181,Chipaya,2,U.E. Santa Ana,4015581,3,0,0,1,1,0,0,0,0,0,0,0,0,0
+9,Sabaya,3,AIOC Uru Chipaya,2182,Ayparavi,2,Esc. Puente Topater,4015591,1,1,4,0,8,0,1,0,0,1,1,0,0,1
+9,Sabaya,3,AIOC Uru Chipaya,2917,Vestrullani,32088,Casa Comunal de Vestrullani,4015601,1,0,1,0,29,2,0,0,3,2,0,0,2,0
 10,Saucarí,1,Toledo,2184,Alto Saucari,32089,Corregimiento Alto Saucari,4015841,1,4,0,0,15,1,1,1,10,0,0,0,2,1
 10,Saucarí,1,Toledo,2186,Challavito,2,Esc. Isac Porto Carrera,4015691,1,11,5,0,19,0,1,0,10,1,0,0,48,1
 10,Saucarí,1,Toledo,2191,Cari Cari,2,Esc. Elizardo Perez 1,4015741,1,13,2,1,9,0,0,1,1,1,0,0,17,5
 10,Saucarí,1,Toledo,2193,Collpa Huma,2,Esc. Eduardo Avaroa,4015761,1,12,0,0,18,3,2,0,4,1,0,0,6,4
+10,Saucarí,1,Toledo,3133,Kulluri,2,U.E. Franz Tamayo,4015781,1,0,0,1,9,0,1,0,2,1,0,0,4,1
 10,Saucarí,1,Toledo,3427,Toma Toma,25038,U. E. Gualberto Villarroel,4015801,1,16,26,0,3,1,1,1,5,1,1,0,12,12
 10,Saucarí,1,Toledo,3493,Tijllacahua,1,U.E. Leoncio Mier Ávila,4015611,1,3,2,1,4,2,1,0,1,1,1,0,19,0
 10,Saucarí,1,Toledo,3705,Villa Cruce,1,Casa Comunal,4015621,1,7,4,2,4,0,1,1,8,2,0,0,5,6
 10,Saucarí,1,Toledo,4437,Machacamarca,26332,Casa Comunal de Machacamarca,4015831,1,4,0,0,3,2,0,0,3,0,0,0,12,0
+11,Tomás Barrón,1,Eucaliptus,2194,Eucaliptus,2,U.E. Benedeto Vincenti,4015861,1,25,15,0,48,0,2,11,2,13,2,1,2,11
+11,Tomás Barrón,1,Eucaliptus,2194,Eucaliptus,2,U.E. Benedeto Vincenti,4015871,2,11,11,2,32,0,0,17,4,10,0,0,6,14
+11,Tomás Barrón,1,Eucaliptus,2194,Eucaliptus,2,U.E. Benedeto Vincenti,4015881,3,21,13,1,25,2,5,11,10,7,3,1,5,15
+11,Tomás Barrón,1,Eucaliptus,2194,Eucaliptus,2,U.E. Benedeto Vincenti,4015891,4,18,9,2,40,0,2,11,4,16,0,0,5,11
+11,Tomás Barrón,1,Eucaliptus,2194,Eucaliptus,2,U.E. Benedeto Vincenti,4015901,5,22,9,1,41,0,3,9,0,14,0,1,0,12
+11,Tomás Barrón,1,Eucaliptus,2194,Eucaliptus,2,U.E. Benedeto Vincenti,4015911,6,22,12,1,44,1,2,9,5,7,0,1,4,14
+11,Tomás Barrón,1,Eucaliptus,2194,Eucaliptus,2,U.E. Benedeto Vincenti,4015921,7,30,15,1,29,2,4,8,0,4,1,0,6,9
+11,Tomás Barrón,1,Eucaliptus,2194,Eucaliptus,32317,U.E. Metodista Calama (Tarucamarca),4015991,1,4,3,0,4,0,0,1,2,1,0,1,1,31
+11,Tomás Barrón,1,Eucaliptus,2195,Amachuma,2,U.E. Amachuma,4015931,1,2,15,0,13,0,1,1,1,2,0,0,2,11
+11,Tomás Barrón,1,Eucaliptus,2811,Alcamarca,2,U.E. Alcamarca,4015941,1,13,7,1,34,1,1,0,8,2,0,0,6,16
+11,Tomás Barrón,1,Eucaliptus,2812,Huancaroma,2,Esc. Huancaroma,4015951,1,19,0,0,4,0,0,1,6,2,0,0,3,11
+11,Tomás Barrón,1,Eucaliptus,2813,Quelcata,2,U.E. Quelcata,4015961,1,12,2,0,8,2,2,0,5,0,0,1,5,50
+11,Tomás Barrón,1,Eucaliptus,2813,Quelcata,2,U.E. Quelcata,4015971,2,15,1,0,6,0,0,1,0,0,0,0,5,15
 13,San Pedro de Totora,1,Totora,2204,Totora,2,U.E. Totora,4016161,1,19,1,0,29,0,19,0,1,1,0,0,6,1
 13,San Pedro de Totora,1,Totora,2204,Totora,2,U.E. Totora,4016181,3,6,1,1,46,0,13,2,3,2,0,0,8,10
 13,San Pedro de Totora,1,Totora,2204,Totora,2,U.E. Totora,4016191,4,12,0,1,42,0,15,1,2,0,1,1,10,2
 13,San Pedro de Totora,1,Totora,2207,Romerocota,2,U.E. Romerocota,4016221,1,0,0,0,9,0,5,1,0,1,0,0,0,1
+13,San Pedro de Totora,1,Totora,2208,Crucero,2,U.E. Sebastian Pagador,4016231,1,4,1,1,13,0,10,1,0,0,0,0,8,17
 13,San Pedro de Totora,1,Totora,2209,Calazaya,2,U. E. Nal. de Calazaya,4016241,1,5,0,1,38,0,4,0,0,0,1,1,1,16
 13,San Pedro de Totora,1,Totora,2209,Calazaya,2,U. E. Nal. de Calazaya,4016251,2,1,1,0,20,1,2,0,0,0,0,0,1,5
 13,San Pedro de Totora,1,Totora,3354,Villa Irpoco,2,U.E. Villa Irpoco,4016291,1,3,0,0,11,1,2,0,1,0,1,0,8,9
@@ -557,3 +676,4 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 14,Sebastián Pagador,1,Santiago de Huari,2815,Calacota,2,Esc. Calacota,4016541,1,5,1,0,4,1,1,0,2,0,0,1,7,0
 14,Sebastián Pagador,1,Santiago de Huari,3907,Villa nazacara,1,U.E. Nazacara,4016341,1,7,13,0,13,2,4,0,0,0,0,0,4,1
 14,Sebastián Pagador,1,Santiago de Huari,4175,Belén de Challamayo,25576,U.E. Challamayo,4016551,1,13,5,1,31,0,2,0,0,0,0,0,0,0
+16,Nor Carangas,1,Santiago de Huayllamarca,2228,Llanquera Marka,2,Col. Llanquera,4016701,2,43,0,1,15,2,10,16,3,3,2,0,3,8
