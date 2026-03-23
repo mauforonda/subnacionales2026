@@ -161,6 +161,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002332,4,240,135,58,4,197,135,197
 1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002342,5,240,139,54,14,207,139,207
 1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002352,6,240,137,55,4,196,137,196
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002362,7,240,140,52,5,197,140,197
 1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002372,8,240,126,55,4,185,126,185
 1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002382,9,240,138,51,2,191,138,191
 1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002392,10,178,115,25,2,142,115,142
@@ -387,6 +388,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Trinidad,3069,Casarabe,1,Escuela Casarabe,8000092,1,240,127,53,7,187,127,187
 1,Cercado,1,Trinidad,3069,Casarabe,1,Escuela Casarabe,8000102,2,240,107,68,6,181,107,181
 1,Cercado,1,Trinidad,3070,Ibiato,1,Escuela Iviato,8000122,1,240,110,69,0,179,110,179
+1,Cercado,1,Trinidad,3070,Ibiato,1,Escuela Iviato,8000132,2,108,55,30,0,85,55,85
 1,Cercado,1,Trinidad,3125,Puerto Barador,1,Esc. Puerto Varador,8000142,1,240,106,82,5,193,106,193
 1,Cercado,1,Trinidad,3125,Puerto Barador,1,Esc. Puerto Varador,8000152,2,240,93,93,9,195,93,195
 1,Cercado,1,Trinidad,3125,Puerto Barador,1,Esc. Puerto Varador,8000162,3,240,91,93,4,188,91,188
@@ -402,24 +404,32 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,2,San Javier,2539,Nueva Israel,2,Escuela Nueva Israel,8004092,3,240,116,76,1,193,116,193
 1,Cercado,2,San Javier,2539,Nueva Israel,2,Escuela Nueva Israel,8004102,4,186,90,65,3,158,90,158
 1,Cercado,2,San Javier,3126,Laguna Colorada,2,Escuela Laguna Colorada,8004112,1,96,55,29,0,84,55,84
+1,Cercado,2,San Javier,3340,Pedro Ignacio Muiba,1,Escuela Pedro Ignacio Muiba,8003962,1,240,113,54,5,172,113,172
 1,Cercado,2,San Javier,3340,Pedro Ignacio Muiba,1,Escuela Pedro Ignacio Muiba,8003972,2,159,94,28,2,124,94,124
 1,Cercado,2,San Javier,3867,La Curva,1,U.E. La Curva,8003982,1,240,60,32,2,94,60,94
 1,Cercado,2,San Javier,3867,La Curva,1,U.E. La Curva,8003992,2,240,64,43,0,107,64,107
 1,Cercado,2,San Javier,3867,La Curva,1,U.E. La Curva,8004002,3,71,6,1,0,7,6,7
 1,Cercado,2,San Javier,4172,Villa Rodeo,25567,U.E. Villa Rodeo,8004122,1,134,32,41,1,74,32,74
 6,Marbán,2,San Andrés,2635,Villa Banzer,1,Esc.Villa Banzer,8012112,1,124,61,44,2,107,61,107
+6,Marbán,2,San Andrés,2636,Santa Rosa Km.100,1,Esc. Santa Rosa,8012122,1,240,88,107,6,201,88,201
+6,Marbán,2,San Andrés,2636,Santa Rosa Km.100,1,Esc. Santa Rosa,8012132,2,240,85,99,3,187,85,187
 6,Marbán,2,San Andrés,2636,Santa Rosa Km.100,1,Esc. Santa Rosa,8012142,3,28,7,11,0,18,7,18
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012322,1,240,103,82,5,190,103,190
 6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012332,2,240,112,65,11,188,112,188
 6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012342,3,240,123,60,8,191,123,191
 6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012352,4,240,119,71,3,193,119,193
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012362,5,240,113,77,5,195,113,195
 6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012372,6,240,116,56,16,188,116,188
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012382,7,240,133,65,6,204,133,204
 6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012392,8,240,132,75,3,210,132,210
 6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012402,9,240,102,85,3,190,102,190
 6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012412,10,240,117,73,7,197,117,197
 6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012422,11,240,110,73,9,192,110,192
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012432,12,240,97,76,13,186,97,186
 6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012442,13,255,130,72,5,207,130,207
 6,Marbán,2,San Andrés,2638,Caimanes,1,Esc. Caimanes,8012152,1,239,91,92,5,188,91,188
 6,Marbán,2,San Andrés,2748,Buen Jesús,1,Esc. Buen Jesus,8012202,1,240,115,70,4,189,115,189
+6,Marbán,2,San Andrés,2748,Buen Jesús,1,Esc. Buen Jesus,8012212,2,183,88,61,5,154,88,154
 6,Marbán,2,San Andrés,3113,4 de Julio,1,Escuela 4 de Julio,8012242,1,240,104,83,5,192,104,192
 6,Marbán,2,San Andrés,3113,4 de Julio,1,Escuela 4 de Julio,8012252,2,42,16,17,0,33,16,33
 6,Marbán,2,San Andrés,3341,Nueva Magdalena,1,Escuela Nueva Magdalena,8012282,1,240,111,83,11,205,111,205
@@ -434,6 +444,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Iténez,1,Magdalena,2682,Buena Vista,1,Esc. Buena Vista,8013052,1,240,92,86,1,179,92,179
 8,Iténez,1,Magdalena,2682,Buena Vista,1,Esc. Buena Vista,8013062,2,39,19,7,0,26,19,26
 8,Iténez,1,Magdalena,4578,Nueva Brema,32289,U.E. Nueva Brema,8013182,1,111,43,51,2,96,43,96
+8,Iténez,2,Baures,2654,El Remanzo del Itenez,1,Esc. El Remanzo,8013272,1,240,128,46,4,178,128,178
 8,Iténez,2,Baures,2654,El Remanzo del Itenez,1,Esc. El Remanzo,8013282,2,186,90,55,6,151,90,151
 8,Iténez,2,Baures,2656,Cafetal,1,Esc. Seccional Cafetal,8013292,1,240,83,47,1,131,83,131
 8,Iténez,2,Baures,2656,Cafetal,1,Esc. Seccional Cafetal,8013302,2,64,20,19,1,40,20,40
