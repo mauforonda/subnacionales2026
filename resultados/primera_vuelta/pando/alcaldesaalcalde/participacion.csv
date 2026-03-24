@@ -197,6 +197,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,3,Bolpebra,1118,Nareuda,20,U.E.  Genoveva Rios,9002047,1,240,195,1,8,204,195,204
 1,Nicolás Suárez,3,Bolpebra,1118,Nareuda,20,U.E.  Genoveva Rios,9002057,2,79,50,0,3,53,50,53
 1,Nicolás Suárez,3,Bolpebra,1119,Mukden,19,U.E. De Mukden,9002027,1,240,191,1,12,204,191,204
+1,Nicolás Suárez,3,Bolpebra,1119,Mukden,19,U.E. De Mukden,9002037,2,185,132,2,12,146,132,146
 1,Nicolás Suárez,3,Bolpebra,3260,Bioceánica,1,U.E. Bioceanica,9001957,1,97,64,3,6,73,64,73
 1,Nicolás Suárez,3,Bolpebra,3261,3 Arroyos,1,U.E. Tres Estrellas,9001967,1,98,75,0,2,77,75,77
 1,Nicolás Suárez,3,Bolpebra,3407,Litoral,1,U.E.  Santa Lucia,9001977,1,173,108,3,7,118,108,118
@@ -206,6 +207,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,3,Bolpebra,4264,Vera Cruz,25950,U. E. Vera Cruz,9002067,1,149,119,2,11,132,119,132
 1,Nicolás Suárez,3,Bolpebra,4447,Comunidad Campesina Turística Ecológica  Arca de Noé,26367,U.E. Arca de Noé,9002077,1,111,81,3,9,93,81,93
 1,Nicolás Suárez,4,Bella Flor,1125,Villa el Carmen,23,U.E. Buena Vista,9002167,1,175,145,3,8,156,145,156
+1,Nicolás Suárez,4,Bella Flor,1126,Karamanu Km 35,25,U.E.  Km. 35 de Karamanu,9002187,1,240,181,5,8,194,181,194
+1,Nicolás Suárez,4,Bella Flor,1126,Karamanu Km 35,25,U.E.  Km. 35 de Karamanu,9002197,2,140,106,3,3,112,106,112
 1,Nicolás Suárez,4,Bella Flor,1127,San Antonio Km 60,24,U.E.  Km. 60 de San Antonio,9002177,1,198,148,5,17,170,148,170
 1,Nicolás Suárez,4,Bella Flor,1129,Mapajo (Samahuma),26,U.E. Mapajo,9002207,1,102,75,1,12,88,75,88
 1,Nicolás Suárez,4,Bella Flor,3262,Santa Lucía,1,U.E.  Hugo Antequera,9002087,1,240,187,5,12,204,187,204
@@ -222,8 +225,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002297,3,240,165,3,19,187,165,187
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002307,4,240,170,4,23,197,170,197
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002317,5,240,158,3,19,180,158,180
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002327,6,240,157,4,17,178,157,178
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002337,7,240,166,11,7,184,166,184
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002347,8,240,150,7,22,179,150,179
+2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002357,9,240,163,8,14,185,163,185
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002367,10,161,116,2,12,130,116,130
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,25572,U.E. Puerto Rico,9002437,1,240,105,4,15,124,105,124
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,25572,U.E. Puerto Rico,9002447,2,240,91,3,8,102,91,102
@@ -233,6 +238,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Manuripi,1,Puerto Rico,1134,Conquista,28,U.E.  German Busch,9002397,3,34,29,0,4,33,29,33
 2,Manuripi,1,Puerto Rico,1136,Batraja,29,U.E. Batraja,9002407,1,240,155,23,25,203,155,203
 2,Manuripi,1,Puerto Rico,1136,Batraja,29,U.E. Batraja,9002417,2,152,88,12,32,132,88,132
+2,Manuripi,1,Puerto Rico,2753,Manchester,40,U.E. Manchester,9002427,1,126,73,0,9,82,73,82
+2,Manuripi,1,Puerto Rico,3066,Palestina (Rio Orthon),1,U.E. De Palestina,9002237,1,118,76,13,11,100,76,100
+2,Manuripi,1,Puerto Rico,3256,San Antonio del Maty,1,U.E.  San Antonio,9002247,1,150,108,11,12,131,108,131
 2,Manuripi,1,Puerto Rico,3399,Puerto Madre de Dios,1,U.E.  Silverio Rojas Gonzales,9002257,1,183,91,18,49,158,91,158
 2,Manuripi,1,Puerto Rico,3528,Mandarino,1,U.E.  Los Mandarinos,9002267,1,96,67,6,6,79,67,79
 2,Manuripi,1,Puerto Rico,4273,Abaroa Km. 10,25959,U. E. Carmelo Mojica,9002467,1,85,68,3,8,79,68,79
@@ -240,8 +248,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Manuripi,2,San Pedro,1140,Loma Velarde,34,U.E.  12 de Abril,9002517,2,158,111,4,7,122,111,122
 2,Manuripi,2,San Pedro,3401,3 Estrellas (TCO),1,U.E.  Jorge Haensel,9002477,1,240,192,2,3,197,192,197
 2,Manuripi,2,San Pedro,3401,3 Estrellas (TCO),1,U.E.  Jorge Haensel,9002487,2,149,123,2,2,127,123,127
+2,Manuripi,2,San Pedro,3879,Fortaleza,1,U.E. Fortaleza,9002497,1,225,169,4,5,178,169,178
 2,Manuripi,3,Filadelfia,1143,Filadelfia,36,U.E. Filadelfia,9002637,1,240,187,4,20,211,187,211
 2,Manuripi,3,Filadelfia,1143,Filadelfia,36,U.E. Filadelfia,9002647,2,240,180,5,22,207,180,207
+2,Manuripi,3,Filadelfia,1143,Filadelfia,36,U.E. Filadelfia,9002657,3,240,177,5,0,182,177,182
 2,Manuripi,3,Filadelfia,1143,Filadelfia,36,U.E. Filadelfia,9002667,4,22,18,1,2,21,18,21
 2,Manuripi,3,Filadelfia,1145,Villa Bella (Purisima),37,U.E. Villa Bella,9002677,1,240,174,14,29,217,174,217
 2,Manuripi,3,Filadelfia,1145,Villa Bella (Purisima),37,U.E. Villa Bella,9002687,2,35,28,2,4,34,28,34
@@ -254,6 +264,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Manuripi,3,Filadelfia,2897,Luz de America,80,U.E. Luz De America,9002777,1,189,160,11,3,174,160,174
 2,Manuripi,3,Filadelfia,3257,Alta Gracia,1,U.E. Alta Gracia,9002527,1,102,77,10,0,87,77,87
 2,Manuripi,3,Filadelfia,3298,Holanda,1,U.E. De Holanda,9002537,1,240,203,6,15,224,203,224
+2,Manuripi,3,Filadelfia,3299,Soberania,1,U.E.  Juancito Pinto,9002557,1,240,165,12,15,192,165,192
 2,Manuripi,3,Filadelfia,3299,Soberania,1,U.E.  Juancito Pinto,9002567,2,236,170,10,11,191,170,191
 2,Manuripi,3,Filadelfia,3402,La Cruz,1,U.E. De La Cruz,9002577,1,49,33,3,5,41,33,41
 2,Manuripi,3,Filadelfia,3529,Florida (Chive),1,U.E.  Florida,9002587,1,147,126,2,3,131,126,131
@@ -266,11 +277,19 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Manuripi,3,Filadelfia,4270,11 de Septiembre,25956,U. E. Arnoldo Gonzales,9002807,1,176,121,14,17,152,121,152
 2,Manuripi,3,Filadelfia,4271,18 de Noviembre,25957,U. E. Bernardino Racua,9002817,1,150,111,10,13,134,111,134
 3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002837,1,240,179,6,7,192,179,192
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002847,2,240,179,3,10,192,179,192
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002857,3,240,191,7,5,203,191,203
 3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002877,5,219,168,8,7,183,168,183
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,51,U.E.  Portachuelo Dios Es Amor,9002947,1,240,194,2,13,209,194,209
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,51,U.E.  Portachuelo Dios Es Amor,9002957,2,65,58,2,1,61,58,61
 3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,26075,Sede Portachuelo Medio (Tacana),9002967,1,197,165,3,5,173,165,173
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1159,Agua Dulce,49,U.E. Agua Dulce,9002917,1,247,194,5,11,210,194,210
 3,Madre de Dios,1,Puerto Gonzalo Moreno,1160,Las Piedras,48,U.E. Pedro Herrera,9002887,1,240,176,10,16,202,176,202
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1160,Las Piedras,48,U.E. Pedro Herrera,9002897,2,240,166,10,10,186,166,186
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1160,Las Piedras,48,U.E. Pedro Herrera,9002907,3,221,168,7,9,184,168,184
 3,Madre de Dios,1,Puerto Gonzalo Moreno,1161,Miraflores,50,U.E. Miraflores,9002927,1,240,159,10,25,194,159,194
 3,Madre de Dios,1,Puerto Gonzalo Moreno,1161,Miraflores,50,U.E. Miraflores,9002937,2,56,39,2,5,46,39,46
+3,Madre de Dios,1,Puerto Gonzalo Moreno,3881,Contravaricia,1,U.E. 2 de Agosto,9002827,1,212,167,10,8,185,167,185
 3,Madre de Dios,2,San Lorenzo,1142,Loreto,35,U.E.  6 de Junio,9003057,1,121,70,7,25,102,70,102
 3,Madre de Dios,2,San Lorenzo,1164,Palestina (M.de Dios),55,U.E.  Genoveva Rios,9003137,1,93,70,2,6,78,70,78
 3,Madre de Dios,2,San Lorenzo,1166,Trinidacito,54,U.E. Gregoria Destre Maturana,9003117,1,240,170,20,17,207,170,207
@@ -283,26 +302,69 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Madre de Dios,2,San Lorenzo,2754,Vista Alegre,56,U.E. Vista Alegre,9003147,1,240,183,7,15,205,183,205
 3,Madre de Dios,2,San Lorenzo,2754,Vista Alegre,56,U.E. Vista Alegre,9003157,2,51,41,0,3,44,41,44
 3,Madre de Dios,2,San Lorenzo,2800,Galilea,57,U.E. Galilea,9003167,1,215,177,3,13,193,177,193
+3,Madre de Dios,2,San Lorenzo,3067,Sinaí,1,U.E.  Bruno Racua,9002977,1,80,59,2,7,68,59,68
 3,Madre de Dios,2,San Lorenzo,3068,Ibéria,1,U.E. De Iberia,9002987,1,56,44,0,3,47,44,47
 3,Madre de Dios,2,San Lorenzo,3253,Naranjal,1,U.E.  Soledad,9002997,1,240,200,6,10,216,200,216
+3,Madre de Dios,2,San Lorenzo,3253,Naranjal,1,U.E.  Soledad,9003007,2,26,21,2,1,24,21,24
 3,Madre de Dios,2,San Lorenzo,3428,San Salvador,25028,Escuela Eduardo Abaroa,9003177,1,120,86,4,17,107,86,107
 3,Madre de Dios,2,San Lorenzo,3882,Samaria,1,U.E. 21 de Septiembre,9003017,1,113,95,0,4,99,95,99
 3,Madre de Dios,2,San Lorenzo,3883,Genechiquia,1,U.E. 6 de Agosto,9003027,1,189,155,8,16,179,155,179
 3,Madre de Dios,2,San Lorenzo,3884,Exaltación,1,U.E. 27 de Mayo,9003037,1,191,135,16,14,165,135,165
+3,Madre de Dios,2,San Lorenzo,3885,Nuevo Horizonte,1,U.E. Nuevo Horizonte,9003047,1,105,57,6,12,75,57,75
+3,Madre de Dios,2,San Lorenzo,4173,Charal,25573,U.E. Charal,9003187,1,226,120,6,49,175,120,175
 3,Madre de Dios,2,San Lorenzo,4251,El Retorno,25934,U.E. Simón Bolivar,9003197,1,112,79,3,18,100,79,100
 3,Madre de Dios,2,San Lorenzo,4252,Brigida,25935,U.E. Samuel Guillen,9003207,1,73,54,2,7,63,54,63
 3,Madre de Dios,2,San Lorenzo,4254,Navidad,25937,U.E. 12 de Abril,9003217,1,80,71,3,1,75,71,75
 3,Madre de Dios,2,San Lorenzo,4275,Nueva Esperanza,25961,U. E. 21 de Septiembre,9003227,1,133,99,5,13,117,99,117
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003307,1,240,166,4,21,191,166,191
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003317,2,240,162,7,20,189,162,189
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003327,3,240,161,3,14,178,161,178
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003337,4,240,165,4,19,188,165,188
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003347,5,240,163,6,13,182,163,182
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003357,6,240,166,6,14,186,166,186
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003367,7,240,163,4,17,184,163,184
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003377,8,240,173,3,12,188,173,188
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003387,9,240,170,2,18,190,170,190
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003397,10,240,181,6,14,201,181,201
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003407,11,240,172,7,13,192,172,192
+3,Madre de Dios,3,Sena,1173,El Sena,62,U.E. El Sena,9003417,12,183,122,4,16,142,122,142
+3,Madre de Dios,3,Sena,1173,El Sena,32491,U.E. Mariano Justiniano Orbe,9003537,1,91,59,2,7,68,59,68
+3,Madre de Dios,3,Sena,1176,Santa Rosa del Manupare,65,U.E. Santa Rosa,9003437,1,138,89,5,13,107,89,107
+3,Madre de Dios,3,Sena,1177,Las Mercedes,64,U.E. Las Mercedes,9003427,1,95,72,5,11,88,72,88
+3,Madre de Dios,3,Sena,1179,Palma Real,66,U.E. Palma Real,9003447,1,240,151,9,21,181,151,181
+3,Madre de Dios,3,Sena,1179,Palma Real,66,U.E. Palma Real,9003457,2,240,164,8,8,180,164,180
+3,Madre de Dios,3,Sena,1179,Palma Real,66,U.E. Palma Real,9003467,3,203,125,6,27,158,125,158
+3,Madre de Dios,3,Sena,3252,Remanzo,1,U.E. Remanso,9003237,1,77,60,2,3,65,60,65
 3,Madre de Dios,3,Sena,3300,El Turi (Carretera),2,U.E.  2 de Agosto,9003287,1,109,86,2,8,96,86,96
+3,Madre de Dios,3,Sena,3317,Pekin,2,U.E. De Pekin,9003297,1,89,52,0,20,72,52,72
+3,Madre de Dios,3,Sena,3530,El Turi (Comunidad Indígena),1,U.E. El Turi (Rio Manurape),9003247,1,240,159,15,29,203,159,203
+3,Madre de Dios,3,Sena,3530,El Turi (Comunidad Indígena),1,U.E. El Turi (Rio Manurape),9003257,2,38,25,2,3,30,25,30
+3,Madre de Dios,3,Sena,3886,San Salvador,1,U.E. San Francisco,9003267,1,191,113,6,9,128,113,128
+3,Madre de Dios,3,Sena,3891,Santa Elena,1,U.E. Santa Elena,9003277,1,190,142,5,11,158,142,158
+3,Madre de Dios,3,Sena,4014,Copacabana,25330,U.E. 4 de Agosto,9003477,1,186,112,9,31,152,112,152
+3,Madre de Dios,3,Sena,4103,Villa Cotoca,25512,U.E. 1ro. de Mayo,9003487,1,109,89,2,4,95,89,95
+3,Madre de Dios,3,Sena,4104,Brígida II,25513,U.E. Mahanain,9003497,1,77,61,3,4,68,61,68
+3,Madre de Dios,3,Sena,4105,Monte Sinai,25514,U.E. Juana Azurduy De Padilla,9003507,1,156,123,1,12,136,123,136
+3,Madre de Dios,3,Sena,4106,San Antonio,25515,U.E. San Antonio,9003547,1,119,59,4,11,74,59,74
+3,Madre de Dios,3,Sena,4274,Girado,25960,U. E. Nuestra Señora del Carmen,9003517,1,240,159,7,25,191,159,191
+3,Madre de Dios,3,Sena,4274,Girado,25960,U. E. Nuestra Señora del Carmen,9003527,2,66,45,9,0,54,45,54
+4,Abuná,1,Santa Rosa,1181,Santa Rosa del Abuna,69,U.E. Abuna,9003607,1,254,151,4,17,172,151,172
 4,Abuná,1,Santa Rosa,3301,1 de Mayo,1,U.E.  Zacarias Moreno,9003557,1,240,182,4,19,205,182,205
 4,Abuná,1,Santa Rosa,3301,1 de Mayo,1,U.E.  Zacarias Moreno,9003567,2,217,162,3,13,178,162,178
 4,Abuná,1,Santa Rosa,3759,Nueva Esperanza(Urbanización Puerto Morales),1,U.E. Genoveva Ríos,9003587,1,233,164,9,37,210,164,210
+4,Abuná,1,Santa Rosa,3910,Mariscal Antonio José de Sucre Bernardino Racua,1,U.E. Pedro Domingo Murrillo,9003597,1,169,88,6,25,119,88,119
 4,Abuná,1,Santa Rosa,4253,Nacebe,25936,U.E. Benito Tirina Suarez,9003617,1,109,77,8,10,95,77,95
 4,Abuná,1,Santa Rosa,4443,Comunidad  Alto Bahia,26363,U.E. Walter Melgar Mejía,9003627,1,97,88,2,2,92,88,92
 4,Abuná,2,Ingavi,1185,Humaita,73,U.E. Humaita,9003647,1,240,167,3,12,182,167,182
 4,Abuná,2,Ingavi,1185,Humaita,73,U.E. Humaita,9003657,2,240,180,2,15,197,180,197
 4,Abuná,2,Ingavi,1185,Humaita,73,U.E. Humaita,9003667,3,106,74,0,2,76,74,76
+4,Abuná,2,Ingavi,1186,Ingavi,74,U.E. Ingavi,9003677,1,244,136,5,12,153,136,153
+4,Abuná,2,Ingavi,1187,Derrepente,75,U.E. Derrepente,9003687,1,60,43,1,6,50,43,50
+4,Abuná,2,Ingavi,3531,Las Amalias,1,U.E. Las Amalias,9003637,1,50,40,1,3,44,40,44
+4,Abuná,2,Ingavi,4265,Mapiri,25951,U. E. San Antonio,9003697,1,208,110,7,32,149,110,149
 4,Abuná,2,Ingavi,4266,Barro Alto,25952,U. E. 10 de Marzo,9003707,1,86,23,4,30,57,23,57
+4,Abuná,2,Ingavi,4662,Nuevo Milenio,32489,U.E. Nuevo Milenio,9003717,1,87,40,9,29,78,40,78
+5,Federico Román,1,Nueva Esperanza,2796,Nueva Esperanza,76,U.E.  Manuel Estremadoiro Martinez,9003767,1,240,117,3,55,175,117,175
 5,Federico Román,1,Nueva Esperanza,2796,Nueva Esperanza,76,U.E.  Manuel Estremadoiro Martinez,9003777,2,158,84,2,19,105,84,105
 5,Federico Román,1,Nueva Esperanza,3259,Arca de Israel,1,U.E.  Monte Sinai,9003727,1,246,127,9,67,203,127,203
 5,Federico Román,1,Nueva Esperanza,3302,Puerto Consuelo,1,U.E. Rufino Chao,9003737,1,75,50,2,7,59,50,59
@@ -310,6 +372,22 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Federico Román,1,Nueva Esperanza,3911,Gran Cruz,1,U.E. La Gran Cruz,9003757,1,98,38,7,22,67,38,67
 5,Federico Román,1,Nueva Esperanza,4107,Nueva Unión,25516,U.E. Bruno Racua,9003787,1,152,115,2,4,121,115,121
 5,Federico Román,1,Nueva Esperanza,4268,La Selva,25954,U. E. San Andrés,9003797,1,58,44,0,1,45,44,45
+5,Federico Román,2,Villa Nueva,1192,Loma Alta,77,U.E.  Andres Idagua,9003827,1,240,199,0,2,201,199,201
+5,Federico Román,2,Villa Nueva,1192,Loma Alta,77,U.E.  Andres Idagua,9003837,2,240,196,0,3,199,196,199
+5,Federico Román,2,Villa Nueva,1192,Loma Alta,77,U.E.  Andres Idagua,9003847,3,151,119,3,5,127,119,127
+5,Federico Román,2,Villa Nueva,1195,Enarevena,78,U.E. Enarevena,9003857,1,143,114,3,2,119,114,119
+5,Federico Román,2,Villa Nueva,3303,Santa Fé,1,U.E. Juana Azurduy De Padilla,9003807,1,108,75,3,3,81,75,81
+5,Federico Román,2,Villa Nueva,3405,Santa Crucito,1,U.E.  Roberto Gonzales,9003817,1,191,153,2,5,160,153,160
+5,Federico Román,2,Villa Nueva,4101,San Ignacio,25510,U.E. Mariscal Sucre,9003867,1,84,69,3,0,72,69,72
+5,Federico Román,2,Villa Nueva,4102,Perseverancia,25511,U.E. 24 de Junio,9003877,1,98,77,5,2,84,77,84
+5,Federico Román,2,Villa Nueva,4444,Comunidad Campesina  Bella Brisa,26364,U.E. Mario Cortez Vaca,9003887,1,85,66,3,7,76,66,76
+5,Federico Román,2,Villa Nueva,4445,Comunidad Campesina  Triunfo,26365,U.E. 24 de Septiembre,9003897,1,72,64,1,1,66,64,66
 5,Federico Román,3,Santos Mercado,3065,Reserva,1,19 de Octubre,9003907,1,240,175,5,7,187,175,187
+5,Federico Román,3,Santos Mercado,3065,Reserva,1,19 de Octubre,9003917,2,199,135,4,4,143,135,143
+5,Federico Román,3,Santos Mercado,3532,San Martin del Pacahuara,1,U.E.  23 de Marzo,9003927,1,240,145,9,17,171,145,171
+5,Federico Román,3,Santos Mercado,3532,San Martin del Pacahuara,1,U.E.  23 de Marzo,9003937,2,169,113,3,7,123,113,123
+5,Federico Román,3,Santos Mercado,3888,Villa Victoria,1,U.E. 11 de Septiembre,9003947,1,240,154,2,9,165,154,165
 5,Federico Román,3,Santos Mercado,3888,Villa Victoria,1,U.E. 11 de Septiembre,9003957,2,33,24,1,1,26,24,26
+5,Federico Román,3,Santos Mercado,4267,Chiripa,25953,U. E. 25 de Mayo,9003967,1,104,72,5,8,85,72,85
 5,Federico Román,3,Santos Mercado,4660,Comunidad San Martin de Pacahuara,32506,U.E. 1 de Abril,9003987,1,70,53,1,4,58,53,58
+5,Federico Román,3,Santos Mercado,4661,Puerto Bolívar,32488,U.E. 1 de Mayo,9003977,1,50,37,0,2,39,37,39
