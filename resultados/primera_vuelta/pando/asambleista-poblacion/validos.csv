@@ -151,9 +151,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001801,7,,33,17,0,6,12,0,0
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001811,1,,42,33,2,5,19,0,0
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001821,2,,42,19,5,9,13,0,0
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001831,3,,32,29,5,4,22,0,0
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001841,4,,32,23,1,2,18,0,0
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001851,5,,28,25,2,5,19,0,0
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001861,6,,40,13,0,4,27,0,0
+1,Nicolás Suárez,2,Porvenir,1115,Villa Bella (km 6),15,U.E. Villa Bella,9001871,1,,34,39,4,7,3,0,0
 1,Nicolás Suárez,2,Porvenir,1115,Villa Bella (km 6),15,U.E. Villa Bella,9001881,2,,26,29,2,2,15,0,0
 1,Nicolás Suárez,2,Porvenir,1115,Villa Bella (km 6),15,U.E. Villa Bella,9001891,3,,31,36,5,4,9,0,0
 1,Nicolás Suárez,2,Porvenir,1115,Villa Bella (km 6),15,U.E. Villa Bella,9001901,4,,38,25,0,5,19,0,0
@@ -180,6 +182,15 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,4,Bella Flor,3890,Santa Lourdes,1,U.E. Santa Lourdes,9002151,1,,25,26,3,17,2,0,0
 1,Nicolás Suárez,4,Bella Flor,4367,Castañera Campoana,26079,U. E. 24 de Septiembre,9002211,1,,10,8,1,7,0,0,0
 1,Nicolás Suárez,4,Bella Flor,4663,Comunidad Campesina El Fortín,32490,U.E. Fortín,9002221,1,,12,6,4,8,1,0,0
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002831,1,17,33,23,27,,,,
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002841,2,11,34,26,36,,,,
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,51,U.E.  Portachuelo Dios Es Amor,9002941,1,2,93,0,4,,,,
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,51,U.E.  Portachuelo Dios Es Amor,9002951,2,0,26,0,2,,,,
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,26075,Sede Portachuelo Medio (Tacana),9002961,1,5,63,9,29,,,,
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1160,Las Piedras,48,U.E. Pedro Herrera,9002891,2,7,23,74,7,,,,
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1160,Las Piedras,48,U.E. Pedro Herrera,9002901,3,16,29,61,7,,,,
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1161,Miraflores,50,U.E. Miraflores,9002921,1,22,57,19,4,,,,
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1161,Miraflores,50,U.E. Miraflores,9002931,2,8,15,6,0,,,,
 3,Madre de Dios,2,San Lorenzo,1142,Loreto,35,U.E.  6 de Junio,9003051,1,58,6,2,0,,,,
 3,Madre de Dios,2,San Lorenzo,1164,Palestina (M.de Dios),55,U.E.  Genoveva Rios,9003131,1,21,29,4,0,,,,
 3,Madre de Dios,2,San Lorenzo,1166,Trinidacito,54,U.E. Gregoria Destre Maturana,9003111,1,26,67,29,1,,,,
@@ -192,6 +203,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Madre de Dios,2,San Lorenzo,3068,Ibéria,1,U.E. De Iberia,9002981,1,2,1,18,0,,,,
 3,Madre de Dios,2,San Lorenzo,3253,Naranjal,1,U.E.  Soledad,9002991,1,46,73,10,0,,,,
 3,Madre de Dios,2,San Lorenzo,3253,Naranjal,1,U.E.  Soledad,9003001,2,5,9,1,0,,,,
+3,Madre de Dios,2,San Lorenzo,3882,Samaria,1,U.E. 21 de Septiembre,9003011,1,8,13,6,0,,,,
 3,Madre de Dios,2,San Lorenzo,3883,Genechiquia,1,U.E. 6 de Agosto,9003021,1,34,15,0,0,,,,
 3,Madre de Dios,2,San Lorenzo,4252,Brigida,25935,U.E. Samuel Guillen,9003201,1,5,16,14,0,,,,
 3,Madre de Dios,2,San Lorenzo,4254,Navidad,25937,U.E. 12 de Abril,9003211,1,28,2,5,1,,,,

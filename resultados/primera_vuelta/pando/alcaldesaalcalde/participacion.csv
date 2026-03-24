@@ -175,6 +175,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001747,1,240,186,1,12,199,186,199
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001757,2,240,176,6,17,199,176,199
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001767,3,240,192,5,14,211,192,211
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001777,4,240,182,4,12,198,182,198
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001787,5,240,196,2,19,217,196,217
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001797,6,240,184,1,17,202,184,202
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001807,7,180,146,2,12,160,146,160
@@ -264,6 +265,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Manuripi,3,Filadelfia,4269,Puerto Sucre,25955,U. E. Puerto Sucre,9002797,2,74,57,3,5,65,57,65
 2,Manuripi,3,Filadelfia,4270,11 de Septiembre,25956,U. E. Arnoldo Gonzales,9002807,1,176,121,14,17,152,121,152
 2,Manuripi,3,Filadelfia,4271,18 de Noviembre,25957,U. E. Bernardino Racua,9002817,1,150,111,10,13,134,111,134
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002837,1,240,179,6,7,192,179,192
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002877,5,219,168,8,7,183,168,183
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,26075,Sede Portachuelo Medio (Tacana),9002967,1,197,165,3,5,173,165,173
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1160,Las Piedras,48,U.E. Pedro Herrera,9002887,1,240,176,10,16,202,176,202
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1161,Miraflores,50,U.E. Miraflores,9002927,1,240,159,10,25,194,159,194
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1161,Miraflores,50,U.E. Miraflores,9002937,2,56,39,2,5,46,39,46
 3,Madre de Dios,2,San Lorenzo,1142,Loreto,35,U.E.  6 de Junio,9003057,1,121,70,7,25,102,70,102
 3,Madre de Dios,2,San Lorenzo,1164,Palestina (M.de Dios),55,U.E.  Genoveva Rios,9003137,1,93,70,2,6,78,70,78
 3,Madre de Dios,2,San Lorenzo,1166,Trinidacito,54,U.E. Gregoria Destre Maturana,9003117,1,240,170,20,17,207,170,207
@@ -279,6 +286,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Madre de Dios,2,San Lorenzo,3068,Ibéria,1,U.E. De Iberia,9002987,1,56,44,0,3,47,44,47
 3,Madre de Dios,2,San Lorenzo,3253,Naranjal,1,U.E.  Soledad,9002997,1,240,200,6,10,216,200,216
 3,Madre de Dios,2,San Lorenzo,3428,San Salvador,25028,Escuela Eduardo Abaroa,9003177,1,120,86,4,17,107,86,107
+3,Madre de Dios,2,San Lorenzo,3882,Samaria,1,U.E. 21 de Septiembre,9003017,1,113,95,0,4,99,95,99
 3,Madre de Dios,2,San Lorenzo,3883,Genechiquia,1,U.E. 6 de Agosto,9003027,1,189,155,8,16,179,155,179
 3,Madre de Dios,2,San Lorenzo,3884,Exaltación,1,U.E. 27 de Mayo,9003037,1,191,135,16,14,165,135,165
 3,Madre de Dios,2,San Lorenzo,4251,El Retorno,25934,U.E. Simón Bolivar,9003197,1,112,79,3,18,100,79,100
@@ -302,3 +310,6 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Federico Román,1,Nueva Esperanza,3911,Gran Cruz,1,U.E. La Gran Cruz,9003757,1,98,38,7,22,67,38,67
 5,Federico Román,1,Nueva Esperanza,4107,Nueva Unión,25516,U.E. Bruno Racua,9003787,1,152,115,2,4,121,115,121
 5,Federico Román,1,Nueva Esperanza,4268,La Selva,25954,U. E. San Andrés,9003797,1,58,44,0,1,45,44,45
+5,Federico Román,3,Santos Mercado,3065,Reserva,1,19 de Octubre,9003907,1,240,175,5,7,187,175,187
+5,Federico Román,3,Santos Mercado,3888,Villa Victoria,1,U.E. 11 de Septiembre,9003957,2,33,24,1,1,26,24,26
+5,Federico Román,3,Santos Mercado,4660,Comunidad San Martin de Pacahuara,32506,U.E. 1 de Abril,9003987,1,70,53,1,4,58,53,58

@@ -151,9 +151,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,14,U.E. Mons. Santisteban,9001801,7,180,129,19,12,160,129,160
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001811,1,240,157,39,19,215,157,215
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001821,2,240,174,26,11,211,174,211
+1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001831,3,240,165,35,18,218,165,218
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001841,4,240,159,29,16,204,159,204
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001851,5,240,150,48,12,210,150,210
 1,Nicolás Suárez,2,Porvenir,1113,Porvenir,15,U.E. Bruno Racua,9001861,6,199,143,23,10,176,143,176
+1,Nicolás Suárez,2,Porvenir,1115,Villa Bella (km 6),15,U.E. Villa Bella,9001871,1,240,161,35,15,211,161,211
 1,Nicolás Suárez,2,Porvenir,1115,Villa Bella (km 6),15,U.E. Villa Bella,9001881,2,240,131,43,45,219,131,219
 1,Nicolás Suárez,2,Porvenir,1115,Villa Bella (km 6),15,U.E. Villa Bella,9001891,3,240,159,36,22,217,159,217
 1,Nicolás Suárez,2,Porvenir,1115,Villa Bella (km 6),15,U.E. Villa Bella,9001901,4,233,147,38,24,209,147,209
@@ -230,6 +232,15 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Manuripi,3,Filadelfia,4269,Puerto Sucre,25955,U. E. Puerto Sucre,9002794,2,74,41,8,15,64,41,64
 2,Manuripi,3,Filadelfia,4270,11 de Septiembre,25956,U. E. Arnoldo Gonzales,9002804,1,176,111,30,11,152,111,152
 2,Manuripi,3,Filadelfia,4271,18 de Noviembre,25957,U. E. Bernardino Racua,9002814,1,150,96,23,15,134,96,134
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002831,1,240,155,24,14,193,155,193
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1155,Gonzalo Moreno,47,U.E. Luz En El Camino,9002841,2,240,150,31,11,192,150,192
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,51,U.E.  Portachuelo Dios Es Amor,9002941,1,240,122,82,5,209,122,209
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,51,U.E.  Portachuelo Dios Es Amor,9002951,2,65,29,29,3,61,29,61
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1157,Portachuelo Centro,26075,Sede Portachuelo Medio (Tacana),9002961,1,197,118,44,11,173,118,173
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1160,Las Piedras,48,U.E. Pedro Herrera,9002891,2,240,139,34,13,186,139,186
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1160,Las Piedras,48,U.E. Pedro Herrera,9002901,3,221,151,26,7,184,151,184
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1161,Miraflores,50,U.E. Miraflores,9002921,1,240,111,61,22,194,111,194
+3,Madre de Dios,1,Puerto Gonzalo Moreno,1161,Miraflores,50,U.E. Miraflores,9002931,2,56,32,11,3,46,32,46
 3,Madre de Dios,2,San Lorenzo,1142,Loreto,35,U.E.  6 de Junio,9003051,1,121,45,57,0,102,45,102
 3,Madre de Dios,2,San Lorenzo,1164,Palestina (M.de Dios),55,U.E.  Genoveva Rios,9003131,1,93,58,15,5,78,58,78
 3,Madre de Dios,2,San Lorenzo,1166,Trinidacito,54,U.E. Gregoria Destre Maturana,9003111,1,240,124,70,12,206,124,206
@@ -242,6 +253,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Madre de Dios,2,San Lorenzo,3068,Ibéria,1,U.E. De Iberia,9002981,1,56,24,21,2,47,24,47
 3,Madre de Dios,2,San Lorenzo,3253,Naranjal,1,U.E.  Soledad,9002991,1,240,162,44,10,216,162,216
 3,Madre de Dios,2,San Lorenzo,3253,Naranjal,1,U.E.  Soledad,9003001,2,26,20,1,3,24,20,24
+3,Madre de Dios,2,San Lorenzo,3882,Samaria,1,U.E. 21 de Septiembre,9003011,1,113,45,52,2,99,45,99
 3,Madre de Dios,2,San Lorenzo,3883,Genechiquia,1,U.E. 6 de Agosto,9003021,1,189,67,107,5,179,67,179
 3,Madre de Dios,2,San Lorenzo,4252,Brigida,25935,U.E. Samuel Guillen,9003201,1,73,39,18,6,63,39,63
 3,Madre de Dios,2,San Lorenzo,4254,Navidad,25937,U.E. 12 de Abril,9003211,1,80,53,19,3,75,53,75
@@ -262,3 +274,6 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Federico Román,1,Nueva Esperanza,3911,Gran Cruz,1,U.E. La Gran Cruz,9003754,1,98,48,14,5,67,48,67
 5,Federico Román,1,Nueva Esperanza,4107,Nueva Unión,25516,U.E. Bruno Racua,9003784,1,152,104,12,5,121,104,121
 5,Federico Román,1,Nueva Esperanza,4268,La Selva,25954,U. E. San Andrés,9003794,1,58,41,3,1,45,41,45
+5,Federico Román,3,Santos Mercado,3065,Reserva,1,19 de Octubre,9003904,1,240,165,12,10,187,165,187
+5,Federico Román,3,Santos Mercado,3888,Villa Victoria,1,U.E. 11 de Septiembre,9003954,2,33,17,6,3,26,17,26
+5,Federico Román,3,Santos Mercado,4660,Comunidad San Martin de Pacahuara,32506,U.E. 1 de Abril,9003984,1,70,36,12,10,58,36,58

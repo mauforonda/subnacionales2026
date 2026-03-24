@@ -278,6 +278,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,117,U. Esc. Luis Llosa   España,4000911,4,240,136,45,36,217,136,217
 1,Cercado,1,Oruro,2059,Oruro,117,U. Esc. Luis Llosa   España,4000921,5,76,49,11,7,67,49,67
 1,Cercado,1,Oruro,2059,Oruro,119,Col. Nal. Juan Misael Saracho,4000971,1,240,132,48,26,206,132,206
+1,Cercado,1,Oruro,2059,Oruro,119,Col. Nal. Juan Misael Saracho,4000981,2,240,145,45,20,210,145,210
 1,Cercado,1,Oruro,2059,Oruro,119,Col. Nal. Juan Misael Saracho,4000991,3,240,135,53,26,214,135,214
 1,Cercado,1,Oruro,2059,Oruro,119,Col. Nal. Juan Misael Saracho,4001001,4,240,163,35,17,215,163,215
 1,Cercado,1,Oruro,2059,Oruro,119,Col. Nal. Juan Misael Saracho,4001011,5,240,168,26,23,217,168,217
@@ -833,6 +834,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,4,Paria,2073,Huayña Pasto Grande,156,U.E. Huayño Pasto Grande,4011601,1,240,176,31,28,235,176,235
 1,Cercado,4,Paria,2073,Huayña Pasto Grande,156,U.E. Huayño Pasto Grande,4011611,2,240,166,31,34,231,166,231
 1,Cercado,4,Paria,2073,Huayña Pasto Grande,156,U.E. Huayño Pasto Grande,4011621,3,40,26,3,10,39,26,39
+1,Cercado,4,Paria,2076,Iruma,158,Col. Nal. Iruma,4011641,2,67,44,9,8,61,44,61
 1,Cercado,4,Paria,2805,Cachi Cachi,154,Esc. Cachi Cachi,4011561,1,240,161,37,25,223,161,223
 1,Cercado,4,Paria,2805,Cachi Cachi,154,Esc. Cachi Cachi,4011571,2,98,60,19,15,94,60,94
 1,Cercado,4,Paria,3131,San Juan Pampa,150,Esc. Seccional San Juan Pampa,4011511,1,240,136,71,21,228,136,228
@@ -845,6 +847,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,4,Paria,3356,Collpa,2,Esc. Litoral,4011401,1,238,146,70,9,225,146,225
 1,Cercado,4,Paria,3642,K'asa Huasa,1,U. E. K'Asa Huasa,4011321,1,240,135,52,34,221,135,221
 1,Cercado,4,Paria,3642,K'asa Huasa,1,U. E. K'Asa Huasa,4011331,2,47,21,11,10,42,21,42
+1,Cercado,4,Paria,3643,Condorchinoca,1,Esc. Seccional Condorchinoca,4011341,1,240,127,54,39,220,127,220
 1,Cercado,4,Paria,3707,Central Cullcupampa,1,Esc. Multigrado Cullcupampa,4011361,1,256,116,67,50,233,116,233
 1,Cercado,4,Paria,4458,Challapampita,26487,U.E. Nacional Mejillones,4011761,1,240,111,68,29,208,111,208
 1,Cercado,4,Paria,4664,Comunidad Amachuma Catuyo,32510,U. E. Amachuma Catuyo,4011791,1,164,106,38,14,158,106,158
@@ -908,6 +911,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Carangas,1,Corque,2094,Corque,2,Col.  Jose Trifiro,4012911,4,240,129,40,19,188,129,188
 3,Carangas,1,Corque,2094,Corque,2,Col.  Jose Trifiro,4012921,5,240,120,21,23,164,120,164
 3,Carangas,1,Corque,2094,Corque,2,Col.  Jose Trifiro,4012931,6,238,127,31,17,175,127,175
+3,Carangas,1,Corque,2095,San José de Cala,2,Esc. Rafael Pabon,4012941,1,240,181,38,10,229,181,229
+3,Carangas,1,Corque,2095,San José de Cala,2,Esc. Rafael Pabon,4012951,2,184,141,27,4,172,141,172
 3,Carangas,1,Corque,2096,Opoqueri,2,Proyecto Cristian Childrens,4012961,1,240,147,47,17,211,147,211
 3,Carangas,1,Corque,2096,Opoqueri,2,Proyecto Cristian Childrens,4012971,2,225,148,39,13,200,148,200
 3,Carangas,1,Corque,2097,San Antonio de Nor Cala,2,U. E. San Antonio,4012981,1,254,236,8,3,247,236,247
@@ -960,6 +965,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,Poopó,1,Poopó,2127,Villa Poopo,2,Esc. Ismael Montes,4013711,3,240,184,27,8,219,184,219
 6,Poopó,1,Poopó,2127,Villa Poopo,2,Esc. Ismael Montes,4013721,4,240,175,33,8,216,175,216
 6,Poopó,1,Poopó,2127,Villa Poopo,2,Esc. Ismael Montes,4013731,5,240,131,28,52,211,131,211
+6,Poopó,1,Poopó,2127,Villa Poopo,2,Esc. Ismael Montes,4013741,6,240,180,32,21,233,180,233
 6,Poopó,1,Poopó,2127,Villa Poopo,2,Esc. Ismael Montes,4013751,7,240,166,33,22,221,166,221
 6,Poopó,1,Poopó,2127,Villa Poopo,2,Esc. Ismael Montes,4013761,8,240,160,41,22,223,160,223
 6,Poopó,1,Poopó,2127,Villa Poopo,2,Esc. Ismael Montes,4013781,10,240,168,31,28,227,168,227
@@ -1094,6 +1100,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Ladislao Cabrera,2,Pampa Aullagas,2159,Pampa Aullagas,2,Esc. Maria Sanchez Fernandez,4015181,4,240,112,55,42,209,112,209
 8,Ladislao Cabrera,2,Pampa Aullagas,2159,Pampa Aullagas,2,Esc. Maria Sanchez Fernandez,4015191,5,207,107,62,12,181,107,181
 8,Ladislao Cabrera,2,Pampa Aullagas,2161,Ichalula,2,Esc. Franz Tamayo,4015221,1,124,73,25,12,110,73,110
+9,Sabaya,1,Sabaya,2162,Sabaya,2,Esc. Jose Maria Egues Cuellar,4015281,1,240,100,37,21,158,100,158
 9,Sabaya,1,Sabaya,2162,Sabaya,2,Esc. Jose Maria Egues Cuellar,4015291,2,203,97,50,10,157,97,157
 9,Sabaya,1,Sabaya,2163,Pacariza,2,Esc. Sebastian  Pagador,4015301,1,143,94,41,5,140,94,140
 9,Sabaya,1,Sabaya,2164,Pisiga Bolivar Sucre,2,U.E. Libertador Simon Bolivar,4015311,1,240,125,56,20,201,125,201
