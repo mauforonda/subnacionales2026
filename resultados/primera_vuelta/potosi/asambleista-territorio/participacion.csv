@@ -740,6 +740,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,4,Urmiri,1512,Urmiri,69,Esc. Juan Jose Perez,5008131,2,30,19,3,4,26,19,26
 1,Tomás Frías,4,Urmiri,1516,Cahuayo,73,U. E. Cahuayo,5008141,1,136,85,36,1,122,85,122
 1,Tomás Frías,4,Urmiri,2818,Vacuyo,467,Esc. Secc. Vacuyo,5008151,1,171,124,13,18,155,124,155
+2,Bustillo,1,Uncía,1517,Uncia,77,Esc. Juana Azurduy De Padilla,5008681,11,240,115,67,23,205,115,205
+2,Bustillo,1,Uncía,1517,Uncia,31156,U. E. Uncía,5008721,3,240,122,61,22,205,122,205
 2,Bustillo,3,Llallagua,1530,Llallagua,88,Esc. Jaime Mendoza,5009441,1,240,153,44,23,220,153,220
 2,Bustillo,3,Llallagua,1530,Llallagua,88,Esc. Jaime Mendoza,5009451,2,240,149,46,20,215,149,215
 2,Bustillo,3,Llallagua,1530,Llallagua,88,Esc. Jaime Mendoza,5009461,3,240,135,45,32,212,135,212
@@ -874,11 +876,37 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Chayanta,5,San Pedro de Macha,1573,Ayoma,141,U. E. Franz Tamayo De Ayoma,5013751,1,240,49,110,19,178,49,178
 4,Chayanta,5,San Pedro de Macha,1573,Ayoma,141,U. E. Franz Tamayo De Ayoma,5013761,2,240,66,98,20,184,66,184
 4,Chayanta,5,San Pedro de Macha,4055,Milluri,25386,U. E. Avelino Siñani de Milluri,5013851,1,150,71,36,30,137,71,137
+6,Nor Chichas,1,Cotagaita,1618,Cotagaita,189,U.E. Manuel Jose Cortez,5014851,3,240,122,56,25,203,122,203
 6,Nor Chichas,1,Cotagaita,1624,Pampa Grande,198,U.E. Pampa Grande I,5014961,1,128,76,35,7,118,76,118
 6,Nor Chichas,1,Cotagaita,1625,La Carreta,25452,U.E. El Rancho,5015301,1,78,44,13,7,64,44,64
 6,Nor Chichas,1,Cotagaita,1633,Cerro Colorado,206,U.E. Cerro Colorado,5015071,1,52,48,1,0,49,48,49
 6,Nor Chichas,1,Cotagaita,1634,Mormorque,207,U.E. San Lorenzo,5015081,1,94,37,36,4,77,37,77
 6,Nor Chichas,1,Cotagaita,1637,Vicchoca,208,U.E. Chui Chui,5015091,1,100,47,38,1,86,47,86
+6,Nor Chichas,1,Cotagaita,3502,Cazon,1,U.E. Tupac Katari,5014821,1,242,106,44,25,175,106,175
+6,Nor Chichas,2,Vitiche,1642,Vitichi,215,U.E. Tomas Frias,5015391,1,240,112,76,13,201,112,201
+6,Nor Chichas,2,Vitiche,1642,Vitichi,215,U.E. Tomas Frias,5015401,2,240,104,83,16,203,104,203
+6,Nor Chichas,2,Vitiche,1642,Vitichi,215,U.E. Tomas Frias,5015411,3,240,99,80,21,200,99,200
+6,Nor Chichas,2,Vitiche,1642,Vitichi,215,U.E. Tomas Frias,5015421,4,240,126,70,10,206,126,206
+6,Nor Chichas,2,Vitiche,1642,Vitichi,215,U.E. Tomas Frias,5015431,5,240,110,81,12,203,110,203
+6,Nor Chichas,2,Vitiche,1642,Vitichi,215,U.E. Tomas Frias,5015441,6,96,52,28,0,80,52,80
+6,Nor Chichas,2,Vitiche,1643,Ayoma Baja,489,U.E. Ayoma Baja,5015531,1,132,62,50,5,117,62,117
+6,Nor Chichas,2,Vitiche,1644,Calcha,217,U.E. Calcha,5015451,1,240,101,93,3,197,101,197
+6,Nor Chichas,2,Vitiche,1644,Calcha,217,U.E. Calcha,5015461,2,190,70,81,4,155,70,155
+6,Nor Chichas,2,Vitiche,1648,Yawisla,222,U.E. Juan Pellegrini,5015501,1,240,116,69,19,204,116,204
+6,Nor Chichas,2,Vitiche,1648,Yawisla,222,U.E. Juan Pellegrini,5015511,2,240,97,72,17,186,97,186
+6,Nor Chichas,2,Vitiche,1648,Yawisla,222,U.E. Juan Pellegrini,5015521,3,23,11,8,1,20,11,20
+6,Nor Chichas,2,Vitiche,3086,Estumilla,526,U.E. Estumilla,5015541,1,202,108,60,7,175,108,175
+6,Nor Chichas,2,Vitiche,3155,Tusquiña,560,U.E. San Miguel de Tusquiña,5015571,1,240,109,79,10,198,109,198
+6,Nor Chichas,2,Vitiche,3155,Tusquiña,560,U.E. San Miguel de Tusquiña,5015581,2,240,140,64,7,211,140,211
+6,Nor Chichas,2,Vitiche,3155,Tusquiña,560,U.E. San Miguel de Tusquiña,5015591,3,53,32,13,3,48,32,48
+6,Nor Chichas,2,Vitiche,3156,Peckajsi,559,U.E. Manuel Mora De Peckajsi,5015551,1,240,99,96,10,205,99,205
+6,Nor Chichas,2,Vitiche,3156,Peckajsi,559,U.E. Manuel Mora De Peckajsi,5015561,2,57,24,28,1,53,24,53
+6,Nor Chichas,2,Vitiche,3218,Calvi,581,U.E. Fray Angello Stellini de Calvi,5015601,1,240,129,63,9,201,129,201
+6,Nor Chichas,2,Vitiche,3218,Calvi,581,U.E. Fray Angello Stellini de Calvi,5015611,2,139,68,56,3,127,68,127
+7,Alonso de Ibáñez,1,Sacaca,1649,Sacaca,31151,U. E. Ladislao Cabrera Fe y Alegría,5016041,2,240,128,69,13,210,128,210
+7,Alonso de Ibáñez,1,Sacaca,1649,Sacaca,31151,U. E. Ladislao Cabrera Fe y Alegría,5016061,4,178,86,66,10,162,86,162
+7,Alonso de Ibáñez,1,Sacaca,1656,Comunidad de Laytojo,230,U.E. Laytujo,5015801,2,60,43,12,3,58,43,58
+7,Alonso de Ibáñez,1,Sacaca,1660,Vila Vila,234,Esc. Vila Vila,5015911,3,76,43,26,5,74,43,74
 8,Sud Chichas,1,Tupiza,1671,Tupiza,246,U. E. 26 de Agosto,5017431,14,240,123,43,26,192,123,192
 8,Sud Chichas,1,Tupiza,2851,El Molino(Sud Chichas),477,U. E. El Molino,5016671,1,62,38,9,5,52,38,52
 8,Sud Chichas,2,Atocha,1702,Atocha,283,U. E. Gregorio Pacheco,5017761,1,240,97,94,17,208,97,208
@@ -893,9 +921,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Sud Lipez,1,San Pablo,1731,San Pablo de Lipez,25448,U.E. Colorados De Bolivia de San Pablo de Lipez,5018641,1,92,48,23,6,77,48,77
 10,Sud Lipez,1,San Pablo,1732,Polulos,317,U. E. Nueva Esperanza de Polulos,5018541,1,163,59,65,20,144,59,144
 10,Sud Lipez,1,San Pablo,1733,Santa Isabel,318,U.E. Cóndor de Los Andes Santa Isabel,5018551,1,82,24,52,2,78,24,78
+10,Sud Lipez,1,San Pablo,1734,Cerrillos,319,U. E. Eduardo Abaroa de Cerrillos,5018561,1,79,25,36,4,65,25,65
 10,Sud Lipez,1,San Pablo,1736,San Antonio de Lipez,320,U.E. Villa Porvenir de San Antonio de Lípez,5018571,1,166,69,71,7,147,69,147
 10,Sud Lipez,1,San Pablo,1737,Quetena Grande,322,U.E. Eduardo Abaroa de Quetena Grande,5018591,1,68,33,27,3,63,33,63
+10,Sud Lipez,1,San Pablo,2671,Relave,321,U.E. Villa Imperial,5018581,1,61,31,17,5,53,31,53
 10,Sud Lipez,1,San Pablo,2840,Río San Pablo,480,U.E. Alonso de Ibáñez de Río San Pablo,5018621,1,99,38,40,6,84,38,84
+10,Sud Lipez,1,San Pablo,2920,Comunidad de Kollpani,494,U.E. 23 de Marzo de Kollpani,5018631,1,59,28,15,8,51,28,51
+10,Sud Lipez,3,San Antonio de Esmoruco,1735,Guadalupe (Sud Lipez),331,U.E. Francia de Guadalupe,5018741,1,111,70,28,6,104,70,104
+10,Sud Lipez,3,San Antonio de Esmoruco,1743,San Antonio de Esmoruco,330,U.E. Calama de San Antonio de Esmoruco,5018721,1,240,82,99,20,201,82,201
 10,Sud Lipez,3,San Antonio de Esmoruco,1743,San Antonio de Esmoruco,330,U.E. Calama de San Antonio de Esmoruco,5018731,2,52,16,19,5,40,16,40
 11,José María Linares,1,Puna,1744,Puna(C.Villa Talavera),332,Esc. Jose Maria Linares,5018811,1,240,120,55,22,197,120,197
 11,José María Linares,2,"Caiza ""D""",1775,Hornos,363,U.E. Elizardo Perez de Hornos,5019441,2,80,31,30,6,67,31,67
@@ -917,6 +950,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,368,U.E. Uyuni A,5020671,4,240,113,69,24,206,113,206
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,368,U.E. Uyuni A,5020681,5,240,118,70,22,210,118,210
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,368,U.E. Uyuni A,5020701,7,240,120,70,19,209,120,209
+12,Antonio Quijarro,1,Uyuni,1778,Uyuni,368,U.E. Uyuni A,5020711,8,240,117,69,27,213,117,213
+12,Antonio Quijarro,1,Uyuni,1778,Uyuni,368,U.E. Uyuni A,5020721,9,73,39,19,6,64,39,64
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,369,U.E. Potosi,5020731,1,240,107,63,30,200,107,200
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,369,U.E. Potosi,5020741,2,240,97,67,41,205,97,205
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,369,U.E. Potosi,5020751,3,240,111,60,29,200,111,200
@@ -928,6 +963,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,371,U.E. Jaime De Zudañes,5020401,4,240,128,61,22,211,128,211
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,371,U.E. Jaime De Zudañes,5020411,5,240,121,60,23,204,121,204
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,371,U.E. Jaime De Zudañes,5020421,6,240,125,47,19,191,125,191
+12,Antonio Quijarro,1,Uyuni,1778,Uyuni,574,U.E. Antonio Quijarro,5020431,1,240,125,57,24,206,125,206
+12,Antonio Quijarro,1,Uyuni,1778,Uyuni,574,U.E. Antonio Quijarro,5020441,2,240,112,58,32,202,112,202
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,574,U.E. Antonio Quijarro,5020451,3,240,118,70,19,207,118,207
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,574,U.E. Antonio Quijarro,5020461,4,240,119,68,20,207,119,207
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,574,U.E. Antonio Quijarro,5020471,5,240,138,47,22,207,138,207
@@ -938,9 +975,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,26494,(Cárcel) Centro de Readaptación Productiva Uyuni,5020891,1,135,69,46,7,122,69,122
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,31130,U.E. Antofagasta,5020241,3,240,107,63,25,195,107,195
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,31130,U.E. Antofagasta,5020251,4,240,114,54,17,185,114,185
+12,Antonio Quijarro,1,Uyuni,1778,Uyuni,31130,U.E. Antofagasta,5020261,5,240,124,47,22,193,124,193
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,31130,U.E. Antofagasta,5020271,6,240,111,55,37,203,111,203
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,31130,U.E. Antofagasta,5020281,7,240,119,51,16,186,119,186
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,31130,U.E. Antofagasta,5020291,8,240,95,37,33,165,95,165
+12,Antonio Quijarro,1,Uyuni,1778,Uyuni,31130,U.E. Antofagasta,5020301,9,252,98,39,17,154,98,154
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,31131,U.E. Aniceto Arce  A,5020311,1,240,95,61,37,193,95,193
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,31131,U.E. Aniceto Arce  A,5020321,2,240,122,45,16,183,122,183
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,31131,U.E. Aniceto Arce  A,5020331,3,240,116,62,34,212,116,212
@@ -948,6 +987,19 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Antonio Quijarro,1,Uyuni,1778,Uyuni,31131,U.E. Aniceto Arce  A,5020361,6,253,125,67,32,224,125,224
 12,Antonio Quijarro,1,Uyuni,1785,Chacala,380,U.E. Eduardo Abaroa de Chacala,5020041,1,251,135,64,18,217,135,217
 12,Antonio Quijarro,1,Uyuni,1788,Chita,383,U.E. Franz Tamayo,5020071,1,156,110,16,14,140,110,140
+14,Daniel Campos,1,Llica,1827,Llica,426,E.S.F.M. Franz Tamayo,5021771,1,240,130,57,16,203,130,203
+14,Daniel Campos,1,Llica,1827,Llica,426,E.S.F.M. Franz Tamayo,5021791,3,240,128,43,32,203,128,203
+14,Daniel Campos,1,Llica,1827,Llica,426,E.S.F.M. Franz Tamayo,5021821,6,240,126,48,20,194,126,194
+14,Daniel Campos,1,Llica,1828,Cahuana,427,U.E. Bernabe Ledezma,5021841,1,71,40,16,4,60,40,60
+14,Daniel Campos,1,Llica,1829,Palaya,428,U.E. Palaya,5021851,1,105,59,37,2,98,59,98
+14,Daniel Campos,1,Llica,1830,Chacoma,429,U.E. Pedro Garcia Ignacio,5021861,1,68,38,17,3,58,38,58
+14,Daniel Campos,1,Llica,1831,Tres Cruces,430,U.E. Elizardo Perez,5021871,1,59,28,20,3,51,28,51
+14,Daniel Campos,1,Llica,1832,Canquella,431,U.E. Canquella,5021881,1,77,32,20,7,59,32,59
+14,Daniel Campos,1,Llica,1833,Sejsihua,432,U.E. Manuel Antonio Aguirre Abra de Napa,5021891,1,82,36,21,4,61,36,61
+14,Daniel Campos,1,Llica,2677,Tamancaza,438,U. E. Tamancaza,5021901,1,19,9,1,2,12,9,12
+14,Daniel Campos,1,Llica,2678,Villque,439,U.E. Villque,5021911,1,23,12,6,3,21,12,21
+14,Daniel Campos,1,Llica,2679,Villa Aroma,440,Esc. Villa Aroma,5021921,1,27,19,3,4,26,19,26
+14,Daniel Campos,1,Llica,3331,Huanaque,476,U.E. Huanaque,5021931,1,92,50,20,5,75,50,75
 14,Daniel Campos,2,Tahua,1834,Tahua,433,U. E. Daniel Campos,5021941,1,233,148,44,7,199,148,199
 14,Daniel Campos,2,Tahua,1835,Alianza,434,U.E. Bernabe Ledezma,5021951,1,65,52,8,1,61,52,61
 14,Daniel Campos,2,Tahua,1836,Yonza,435,U.E. Franz Tamayo,5021961,1,117,69,31,4,104,69,104
@@ -959,6 +1011,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Modesto Omiste,1,Villazón,1841,Villazón,444,U.E. 1ro de Mayo,5022401,12,240,118,68,21,207,118,207
 15,Modesto Omiste,1,Villazón,1841,Villazón,444,U.E. 1ro de Mayo,5022421,14,240,130,52,27,209,130,209
 15,Modesto Omiste,1,Villazón,1841,Villazón,444,U.E. 1ro de Mayo,5022431,15,240,123,51,16,190,123,190
+15,Modesto Omiste,1,Villazón,1841,Villazón,466,Colegio 9 de Abril,5022741,6,240,150,36,17,203,150,203
+15,Modesto Omiste,1,Villazón,1841,Villazón,466,Colegio 9 de Abril,5022751,7,240,161,37,16,214,161,214
+15,Modesto Omiste,1,Villazón,1841,Villazón,466,Colegio 9 de Abril,5022771,9,127,77,17,11,105,77,105
+15,Modesto Omiste,1,Villazón,1841,Villazón,467,Esc. Daniel Campos,5022531,7,240,116,73,22,211,116,211
+15,Modesto Omiste,1,Villazón,1841,Villazón,467,Esc. Daniel Campos,5022541,8,240,115,64,28,207,115,207
+15,Modesto Omiste,1,Villazón,1842,Berque,448,Esc. Berque,5022001,1,204,87,68,26,181,87,181
 15,Modesto Omiste,1,Villazón,1845,Sococha,451,Esc. Seccional Sococha,5022031,1,160,75,49,10,134,75,134
 15,Modesto Omiste,1,Villazón,1846,Chagua,452,Esc. Seccional Chagua,5022041,1,197,94,51,12,157,94,157
 15,Modesto Omiste,1,Villazón,1847,Casira,453,Esc. Sargento M. Paredes,5022051,1,240,97,73,27,197,97,197
@@ -972,6 +1030,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Modesto Omiste,1,Villazón,1853,Yuruma,459,Esc. Yuruma,5022131,1,240,106,90,13,209,106,209
 15,Modesto Omiste,1,Villazón,1853,Yuruma,459,Esc. Yuruma,5022141,2,32,14,13,4,31,14,31
 15,Modesto Omiste,1,Villazón,4068,Chosconti,25399,Col. Mariscal Andres De Santa Cruz,5022171,1,150,92,35,11,138,92,138
+15,Modesto Omiste,1,Villazón,4069,Mantacillas,25400,U.E. Mantacillas,5022181,1,240,113,63,25,201,113,201
 15,Modesto Omiste,1,Villazón,4069,Mantacillas,25400,U.E. Mantacillas,5022191,2,240,95,68,42,205,95,205
+15,Modesto Omiste,1,Villazón,4069,Mantacillas,25400,U.E. Mantacillas,5022201,3,61,27,21,7,55,27,55
+15,Modesto Omiste,1,Villazón,4070,Ojo de Agua,25401,U.E. Ojo De Agua,5022211,1,240,88,92,25,205,88,205
+15,Modesto Omiste,1,Villazón,4070,Ojo de Agua,25401,U.E. Ojo De Agua,5022221,2,104,43,29,12,84,43,84
 15,Modesto Omiste,1,Villazón,4072,Calderilla,25403,U.E. Calderilla,5022241,1,110,77,25,3,105,77,105
 15,Modesto Omiste,1,Villazón,4079,Tinkuya,25485,U.E. Tinkuya,5022251,1,55,29,17,6,52,29,52
+15,Modesto Omiste,1,Villazón,4189,Lampaya,25634,U.E. Rafael Quispe,5022271,1,120,65,38,8,111,65,111
