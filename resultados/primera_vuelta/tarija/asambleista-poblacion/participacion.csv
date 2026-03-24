@@ -490,6 +490,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007391,17,240,110,75,21,206,110,206
 1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007401,18,78,47,16,3,66,47,66
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003391,1,240,123,75,17,215,123,215
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003401,2,240,121,72,23,216,121,216
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003411,3,240,123,82,5,210,123,210
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003421,4,240,134,58,19,211,134,211
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003431,5,240,118,85,13,216,118,216
@@ -652,6 +653,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004381,11,240,152,47,9,208,152,208
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004391,12,240,119,76,10,205,119,205
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004401,13,240,149,47,10,206,149,206
+1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004411,14,240,122,59,21,202,122,202
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004421,15,240,141,65,7,213,141,213
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004431,16,240,149,58,10,217,149,217
 1,Cercado,1,Tarija,2680,Tarija,25712,U.E. Santa Ana,6004441,17,240,147,57,9,213,147,213
@@ -949,6 +951,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Arce,2,Bermejo,1916,Bermejo,25547,U.E. Bolivia,6009831,6,141,61,33,6,100,61,100
 2,Arce,2,Bermejo,1916,Bermejo,32458,Centro de Capacitación Productiva,6009841,1,240,134,87,7,228,134,228
 2,Arce,2,Bermejo,1916,Bermejo,32458,Centro de Capacitación Productiva,6009851,2,71,36,28,5,69,36,69
+2,Arce,2,Bermejo,1918,Candado Grande,3,U.E. Moto Mendez,6008631,2,116,41,46,2,89,41,89
 2,Arce,2,Bermejo,1919,Flor de Oro,4,U.E. Flor De Oro,6008661,1,199,71,86,6,163,71,163
 2,Arce,2,Bermejo,1920,Arrozales,5,U.E. Arrozales,6008671,1,247,117,93,5,215,117,215
 2,Arce,2,Bermejo,1921,Barredero,6,U.E. Barredero,6008681,1,240,89,91,9,189,89,189
@@ -980,8 +983,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010611,14,240,91,92,20,203,91,203
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010621,15,240,112,65,10,187,112,187
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,3,U.E. Simón Bolívar,6010631,16,36,14,9,2,25,14,25
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012351,1,240,104,84,8,196,104,196
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012361,2,240,102,84,17,203,102,203
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012401,6,240,114,80,12,206,114,206
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012411,7,240,105,81,14,200,105,200
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012421,8,240,101,99,10,210,101,210
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012431,9,240,108,78,10,196,108,196
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012441,10,240,97,85,18,200,97,200
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,4,U.E. Campo Grande,6012451,11,201,90,76,9,175,90,175
@@ -1001,6 +1007,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011281,11,240,118,60,20,198,118,198
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011291,12,240,118,65,12,195,118,195
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011301,13,234,126,39,8,173,126,173
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011721,2,240,118,78,16,212,118,212
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011741,4,240,113,71,12,196,113,196
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011751,5,240,113,84,7,204,113,204
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011761,6,240,105,87,13,205,105,205
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011801,10,240,122,64,18,204,122,204
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011821,12,240,99,85,10,194,99,194
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011831,13,131,64,27,11,102,64,102
@@ -1019,7 +1029,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011471,9,240,132,75,4,211,132,211
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,17,U.E. Miguel Estensoro,6011481,10,197,109,41,14,164,109,164
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011841,1,240,99,74,27,200,99,200
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011851,2,240,102,80,24,206,102,206
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011871,4,240,113,75,16,204,113,204
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011891,6,240,106,87,10,203,106,203
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011901,7,240,99,91,14,204,99,204
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011921,9,240,114,90,8,212,114,212
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011931,10,240,95,95,16,206,95,206
@@ -1054,6 +1066,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011591,11,240,113,74,18,205,113,205
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011611,13,240,111,79,10,200,111,200
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011621,14,240,132,67,8,207,132,207
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011631,15,240,114,74,8,196,114,196
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011641,16,60,31,12,3,46,31,46
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,21,(Cárcel) Carceleta Pública,6012811,1,240,77,113,2,192,77,192
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,21,(Cárcel) Carceleta Pública,6012821,2,63,20,33,3,56,20,56
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012141,1,240,120,64,16,200,120,200
@@ -1068,6 +1082,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010871,5,240,128,52,8,188,128,188
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010881,6,240,136,53,14,203,136,203
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010891,7,240,136,43,14,193,136,193
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010901,8,240,129,58,10,197,129,197
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010911,9,240,123,59,11,193,123,193
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010921,10,240,125,56,5,186,125,186
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,23,U.E. German Busch,6010931,11,103,56,22,4,82,56,82
@@ -1083,6 +1098,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012611,2,240,81,111,9,201,81,201
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012621,3,240,103,76,15,194,103,194
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012631,4,57,21,28,3,52,21,52
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012301,1,240,123,70,15,208,123,208
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012311,2,240,136,66,15,217,136,217
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012321,3,240,115,64,23,202,115,202
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25707,U.E. Bella Vista de Caipitandy,6012331,4,240,124,79,9,212,124,212
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011021,1,240,130,63,18,211,130,211
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011041,3,240,127,70,10,207,127,207
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25716,U.E. José Mariano Serrano,6011051,4,240,118,70,15,203,118,203
@@ -1108,6 +1127,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012731,10,240,114,85,6,205,114,205
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012741,11,240,97,73,30,200,97,200
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,26483,U.E. 2 de Agosto,6012751,12,35,17,11,2,30,17,30
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011651,1,240,137,56,14,207,137,207
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011681,4,240,102,90,23,215,102,215
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011121,1,240,124,70,11,205,124,205
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011131,2,240,133,51,21,205,133,205
@@ -1117,7 +1137,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31066,Instituto de Idiomas Juan Misael Saracho,6011171,6,118,72,26,7,105,72,105
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012221,2,240,118,83,2,203,118,203
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012231,3,240,119,78,11,208,119,208
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012241,4,240,96,89,12,197,96,197
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012261,6,240,101,91,10,202,101,202
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31067,U.E. Yacuiba Inicial (Kinder),6012271,7,143,69,42,11,122,69,122
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31068,U.E. Juana Azurduy De Padilla Inicial (Kinder),6012281,1,240,110,55,16,181,110,181
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31068,U.E. Juana Azurduy De Padilla Inicial (Kinder),6012291,2,235,104,87,16,207,104,207
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012761,1,240,121,73,15,209,121,209
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012771,2,240,114,87,17,218,114,218
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012791,4,240,124,77,11,212,124,212
@@ -1186,6 +1210,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012911,2,240,132,68,4,204,132,204
 3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012921,3,240,127,58,6,191,127,191
 3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012931,4,240,115,74,17,206,115,206
+3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012941,5,240,127,75,7,209,127,209
 3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012951,6,240,129,71,5,205,129,205
 3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012961,7,240,127,54,6,187,127,187
 3,Gran Chaco,2,Caraparí,1967,Carapari,3,U.E. 3 de Mayo,6012971,8,240,129,54,10,193,129,193
@@ -1204,8 +1229,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,2,Caraparí,1971,Campo Largo,6,U.E. Fray Quebracho,6013141,2,176,92,50,4,146,92,146
 3,Gran Chaco,2,Caraparí,1973,Itau,8,U.E. Fray Quebracho,6013151,1,240,122,76,15,213,122,213
 3,Gran Chaco,2,Caraparí,1973,Itau,8,U.E. Fray Quebracho,6013161,2,240,126,77,7,210,126,210
+3,Gran Chaco,2,Caraparí,1974,Agua Blanca,9,U.E. Julio Ramos Valdez,6013181,1,240,136,77,2,215,136,215
 3,Gran Chaco,2,Caraparí,1974,Agua Blanca,9,U.E. Julio Ramos Valdez,6013191,2,182,121,32,6,159,121,159
 3,Gran Chaco,2,Caraparí,1975,Yacunda,10,U.E. 17 de Agosto,6013201,1,78,35,26,1,62,35,62
+3,Gran Chaco,2,Caraparí,1976,Zapatera Norte,11,U.E. Zapatera Norte,6013221,1,240,107,93,6,206,107,206
+3,Gran Chaco,2,Caraparí,1976,Zapatera Norte,11,U.E. Zapatera Norte,6013231,2,134,60,61,4,125,60,125
 3,Gran Chaco,2,Caraparí,2934,Las Sidras,10,U.E. 2 de Agosto,6013211,1,180,69,74,11,154,69,154
 3,Gran Chaco,2,Caraparí,3330,Campo Largo Hito 22,1,U.E. Campo Largo Hito 22,6012831,1,203,78,78,6,162,78,162
 3,Gran Chaco,2,Caraparí,3507,Fuerte Viejo,2,U.E. 6 de Agosto,6012851,1,240,104,90,6,200,104,200
@@ -1291,9 +1319,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,9,Kinder Colorados de Bolivia,6014531,8,124,65,30,5,100,65,100
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,10,(Cárcel) Carceleta De Villa Montes,6014061,1,160,58,63,5,126,58,126
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26478,U.E. Faustino Suarez Arnes,6014591,1,240,110,68,10,188,110,188
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014721,1,240,114,68,13,195,114,195
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014731,2,240,130,66,7,203,130,203
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014741,3,240,117,73,11,201,117,201
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014751,4,240,106,60,4,170,106,170
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014761,5,240,109,72,6,187,109,187
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014771,6,100,43,28,8,79,43,79
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013901,1,240,114,61,10,185,114,185
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013911,2,240,117,60,7,184,117,184
@@ -1315,7 +1345,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014821,5,240,116,75,5,196,116,196
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014831,6,240,90,91,12,193,90,193
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014841,7,61,30,19,2,51,30,51
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013501,1,240,89,87,4,180,89,180
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013511,2,240,98,84,2,184,98,184
 3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013521,3,240,83,113,5,201,83,201
+3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013531,4,240,88,115,0,203,88,203
 3,Gran Chaco,3,Villa Montes,1980,Caigua,5,U.E. Cabo Juan,6013551,1,240,75,106,12,193,75,193
 3,Gran Chaco,3,Villa Montes,1980,Caigua,5,U.E. Cabo Juan,6013561,2,240,77,116,8,201,77,201
 3,Gran Chaco,3,Villa Montes,1980,Caigua,5,U.E. Cabo Juan,6013571,3,105,41,42,4,87,41,87
@@ -1324,12 +1357,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,3,Villa Montes,1981,Taihuati,32331,Sede APG Tahiguaty,6013781,1,50,23,18,3,44,23,44
 3,Gran Chaco,3,Villa Montes,1982,Tarairi,7,U.E. Tte. Victor Zeballos Claros,6013601,2,111,44,39,1,84,44,84
 3,Gran Chaco,3,Villa Montes,1982,Tarairi,32328,U.E. Héroes del Chaco del Tarairi,6013751,1,66,43,16,3,62,43,62
+3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013611,1,240,111,65,11,187,111,187
 3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013621,2,240,106,79,4,189,106,189
 3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013631,3,240,124,58,10,192,124,192
 3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013641,4,79,44,20,3,67,44,67
 3,Gran Chaco,3,Villa Montes,1984,Capirenda,9,U.E. Capirenda,6013651,1,33,17,7,0,24,17,24
 3,Gran Chaco,3,Villa Montes,1985,Taringuiti,10,Sede Social de La Comunidad,6013661,1,45,27,7,1,35,27,35
 3,Gran Chaco,3,Villa Montes,1986,Ibibobo,11,U.E. Rafael Pabón,6013671,1,240,38,23,0,61,38,61
+3,Gran Chaco,3,Villa Montes,1986,Ibibobo,11,U.E. Rafael Pabón,6013681,2,240,43,18,0,61,43,61
 3,Gran Chaco,3,Villa Montes,1986,Ibibobo,11,U.E. Rafael Pabón,6013691,3,131,20,22,0,42,20,42
 3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013721,1,240,85,98,7,190,85,190
 3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013731,2,240,70,109,17,196,70,196
@@ -1476,6 +1511,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Méndez,1,San Lorenzo,2008,San Lorencito,18,U.E. San Lorencito,6016381,1,90,37,30,1,68,37,68
 5,Méndez,1,San Lorenzo,2009,Alto de Cajas,19,U.E. Alto De Cajas,6016391,1,107,39,40,8,87,39,87
 5,Méndez,1,San Lorenzo,2011,Sella Mendez,20,U.E. Julio Sucre Sella Mendez,6016401,1,240,131,56,15,202,131,202
+5,Méndez,1,San Lorenzo,2012,Carachimayo,21,U.E. Carachimayo Centro,6016431,1,240,121,59,15,195,121,195
+5,Méndez,1,San Lorenzo,2012,Carachimayo,21,U.E. Carachimayo Centro,6016451,3,124,55,41,3,99,55,99
 5,Méndez,1,San Lorenzo,2842,La Hoja,25029,U.E. 1o. de Mayo,6016471,1,152,62,48,4,114,62,114
 5,Méndez,1,San Lorenzo,2881,San Pedro de las Peñas,15,U.E. San Pedro de Las Peñas,6016361,1,59,19,12,6,37,19,37
 5,Méndez,1,San Lorenzo,3048,Trancas,23,U.E. Trancas,6016461,1,167,87,25,26,138,87,138
@@ -1502,6 +1539,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Méndez,1,San Lorenzo,3755,Cochas,1,U.E. Cochas,6015621,1,132,40,59,15,114,40,114
 5,Méndez,1,San Lorenzo,4357,Quirusillas,26059,U.E. Quirusillas,6016491,1,90,21,37,5,63,21,63
 5,Méndez,1,San Lorenzo,4645,Monte Méndez,32454,U.E. Monte Méndez,6016501,1,240,141,71,13,225,141,225
+5,Méndez,1,San Lorenzo,4645,Monte Méndez,32454,U.E. Monte Méndez,6016511,2,238,130,77,19,226,130,226
 5,Méndez,1,San Lorenzo,4646,Santa Bárbara,32455,U.E. Santa Bárbara,6016521,1,240,105,94,23,222,105,222
 5,Méndez,1,San Lorenzo,4646,Santa Bárbara,32455,U.E. Santa Bárbara,6016531,2,85,37,38,4,79,37,79
 5,Méndez,2,El Puente,2013,El Puente,2,U.E. 1o. de Julio,6016571,1,240,147,54,12,213,147,213

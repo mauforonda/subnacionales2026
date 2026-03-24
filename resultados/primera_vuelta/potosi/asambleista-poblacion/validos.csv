@@ -761,6 +761,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,2,Tinguipaya,2817,Utacalla,495,U. E. Juan Victor Montoya Medinacelli,5007631,1,0,7,26,0,1,22,1,4,6,1,1,0,0
 1,Tomás Frías,2,Tinguipaya,2817,Utacalla,495,U. E. Juan Victor Montoya Medinacelli,5007641,2,0,2,8,1,0,3,0,0,6,0,0,2,0
 1,Tomás Frías,2,Tinguipaya,3031,Talula,514,U. E. Mcal. Antonio José De Sucre,5007671,1,0,5,60,1,31,34,0,1,4,0,0,1,1
+1,Tomás Frías,2,Tinguipaya,3031,Talula,514,U. E. Mcal. Antonio José De Sucre,5007681,2,0,3,28,0,18,26,2,5,5,2,1,1,1
 1,Tomás Frías,2,Tinguipaya,3032,Calazaya,515,U. E. San José,5007691,1,0,4,18,0,1,39,0,1,0,2,0,1,4
 1,Tomás Frías,2,Tinguipaya,3032,Calazaya,515,U. E. San José,5007701,2,0,0,4,0,0,5,0,0,0,0,0,0,1
 1,Tomás Frías,2,Tinguipaya,3135,Puca Punta,536,U. E. Puca Punta,5007711,1,10,13,18,0,3,3,2,0,5,3,6,7,2
@@ -1023,19 +1024,41 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Bustillo,3,Llallagua,3387,Saca Saca,1,Esc. Chiru Chiru,5009131,1,0,1,21,0,0,0,0,13,0,26,1,0,1
 2,Bustillo,3,Llallagua,3496,Jisk'anqui,1,U.E. Elizardo Pérez,5009141,1,2,4,39,1,2,5,2,6,7,2,2,1,2
 2,Bustillo,3,Llallagua,3496,Jisk'anqui,1,U.E. Elizardo Pérez,5009151,2,0,2,9,0,1,0,0,1,1,2,0,3,0
+3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,98,U.E. Juan Francisco Bohorquez,5010711,1,9,30,24,2,2,6,6,2,9,0,2,2,2
+3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,98,U.E. Juan Francisco Bohorquez,5010721,2,11,22,19,1,3,8,1,0,13,0,2,0,2
+3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,98,U.E. Juan Francisco Bohorquez,5010731,3,6,14,21,2,1,4,1,1,4,0,2,0,1
+3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,98,U.E. Juan Francisco Bohorquez,5010741,4,6,20,17,1,3,5,3,0,8,0,1,1,2
+3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,103,Esc. Modesto Omiste,5011321,1,10,22,30,2,0,5,2,1,6,3,0,1,2
+3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,103,Esc. Modesto Omiste,5011371,6,1,17,9,0,2,2,2,2,21,0,2,3,2
+3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,31128,U. E. Cornelio Saavedra  A,5011411,3,14,15,19,0,1,6,3,3,8,0,6,3,2
 3,Cornelio Saavedra,1,Betanzos,1536,Quivincha,104,Esc. Villa Imperial,5010781,1,7,3,33,0,1,1,1,3,3,3,0,0,1
+3,Cornelio Saavedra,1,Betanzos,1536,Quivincha,104,Esc. Villa Imperial,5010791,2,0,4,9,0,1,1,0,1,0,2,0,0,0
+3,Cornelio Saavedra,1,Betanzos,1537,Millares,105,U.E. Oscar Unzaga de La Vega,5010801,1,1,20,47,0,1,1,2,0,2,0,0,0,1
+3,Cornelio Saavedra,1,Betanzos,1537,Millares,105,U.E. Oscar Unzaga de La Vega,5010811,2,1,19,55,1,0,3,2,2,7,0,0,0,1
 3,Cornelio Saavedra,1,Betanzos,1539,Tarija Cucho,107,U.E. 10 De Noviembre de Tarija Cuchu,5010851,1,25,4,20,0,0,2,1,5,3,1,0,0,1
+3,Cornelio Saavedra,1,Betanzos,1539,Tarija Cucho,107,U.E. 10 De Noviembre de Tarija Cuchu,5010861,2,9,5,11,1,1,1,0,2,1,1,0,1,0
+3,Cornelio Saavedra,1,Betanzos,1543,Potobamba,111,U.E. Santa Ana de Potobamba,5010931,1,2,5,15,1,2,0,1,1,0,0,1,9,2
 3,Cornelio Saavedra,1,Betanzos,1545,Vila Vila,113,U.E. San Ignacio De Loyola,5010951,1,10,13,11,0,6,2,1,2,3,1,0,0,7
+3,Cornelio Saavedra,1,Betanzos,1545,Vila Vila,113,U.E. San Ignacio De Loyola,5010961,2,21,11,8,1,1,1,1,3,1,0,1,2,3
+3,Cornelio Saavedra,1,Betanzos,1546,Tecoya,114,U.E. Miguel Betanzos de Tecoya,5010981,2,5,8,16,0,2,1,2,2,3,0,0,6,5
 3,Cornelio Saavedra,1,Betanzos,1547,Poco Poco,115,U.E. Joaquin Gantier,5011031,1,17,7,14,1,3,4,1,3,3,3,0,3,1
 3,Cornelio Saavedra,1,Betanzos,1547,Poco Poco,115,U.E. Joaquin Gantier,5011041,2,9,9,17,1,2,6,0,7,3,1,0,2,0
 3,Cornelio Saavedra,1,Betanzos,1547,Poco Poco,115,U.E. Joaquin Gantier,5011051,3,4,2,9,0,0,1,0,2,0,0,0,0,5
+3,Cornelio Saavedra,1,Betanzos,1548,Huanu Huanu,116,Esc. de Huano Huano,5011061,1,1,1,14,0,1,2,0,20,1,1,2,0,0
+3,Cornelio Saavedra,1,Betanzos,1550,Villa Carmen,118,Esc. Tauri Cancha,5011111,4,9,5,18,1,1,2,3,3,18,1,1,1,1
+3,Cornelio Saavedra,1,Betanzos,1550,Villa Carmen,118,Esc. Tauri Cancha,5011121,5,5,9,21,1,0,0,0,1,7,0,0,0,1
 3,Cornelio Saavedra,1,Betanzos,3036,Villa Trapiche,521,U.E. Villa Trapiche,5011181,1,0,6,122,0,1,3,0,2,1,0,0,0,1
 3,Cornelio Saavedra,1,Betanzos,3147,Camali,550,Esc. Camali,5011201,1,2,20,41,0,0,1,1,36,1,2,3,3,0
 3,Cornelio Saavedra,1,Betanzos,3147,Camali,550,Esc. Camali,5011221,3,0,0,3,0,0,0,0,2,0,0,0,0,0
+3,Cornelio Saavedra,1,Betanzos,3214,San Miguel de Anco Mayu,586,U. E. Anco Mayu,5011231,1,8,6,5,0,1,1,0,1,0,1,0,0,2
 3,Cornelio Saavedra,1,Betanzos,3215,Urifaya,588,Esc. Urifaya,5011241,1,5,12,24,1,0,1,1,18,3,0,0,1,1
 3,Cornelio Saavedra,1,Betanzos,3280,Trapiche Alto,1,U.E. Trapiche Alto,5010641,1,1,1,72,0,0,0,0,1,0,0,0,0,0
+3,Cornelio Saavedra,1,Betanzos,3325,Lagunillas,1,Central Elizardo Perez,5010651,1,12,4,25,0,2,2,0,4,2,0,0,0,0
+3,Cornelio Saavedra,1,Betanzos,3325,Lagunillas,1,Central Elizardo Perez,5010661,2,15,2,16,1,3,1,0,3,0,0,0,1,0
+3,Cornelio Saavedra,1,Betanzos,3388,Chillcani,1,U. E. Chillcani,5010681,2,4,6,29,0,1,1,0,1,0,1,1,0,4
 3,Cornelio Saavedra,1,Betanzos,3497,Viña Quemada,1,Esc. Viña Quemada,5010691,1,0,1,36,0,1,0,0,2,0,0,3,2,4
 3,Cornelio Saavedra,1,Betanzos,3498,Troja Pampa,1,Esc. Troja Pampa,5010701,1,6,8,30,2,3,0,0,5,1,0,2,1,0
+3,Cornelio Saavedra,1,Betanzos,4402,Huantapita,26136,U.E. Huantapita,5011261,1,16,2,5,2,2,1,0,9,2,1,0,0,1
 3,Cornelio Saavedra,2,Chaquí,1551,Chaqui,119,Esc. Andres De Santa Cruz,5011481,1,2,13,31,0,2,5,1,1,0,3,0,6,3
 3,Cornelio Saavedra,2,Chaquí,1551,Chaqui,119,Esc. Andres De Santa Cruz,5011491,2,1,10,13,0,1,7,0,0,2,1,2,10,6
 3,Cornelio Saavedra,2,Chaquí,1551,Chaqui,119,Esc. Andres De Santa Cruz,5011501,3,4,10,19,0,3,4,2,1,1,0,1,10,3
@@ -1084,26 +1107,45 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Chayanta,5,San Pedro de Macha,1573,Ayoma,141,U. E. Franz Tamayo De Ayoma,5013751,1,2,5,5,0,0,0,0,0,7,0,1,4,1
 4,Chayanta,5,San Pedro de Macha,1573,Ayoma,141,U. E. Franz Tamayo De Ayoma,5013761,2,7,8,18,0,1,1,0,0,16,0,0,1,0
 4,Chayanta,5,San Pedro de Macha,4055,Milluri,25386,U. E. Avelino Siñani de Milluri,5013851,1,11,1,3,0,1,0,0,1,15,0,1,1,0
+5,Chárcas,1,San Pedro,1601,San Pedro de Buena Vista,172,U. E. Charcas,5014011,1,35,25,5,1,2,3,0,0,2,1,1,8,6
 5,Chárcas,1,San Pedro,1601,San Pedro de Buena Vista,172,U. E. Charcas,5014021,2,18,20,8,1,1,0,0,6,2,1,0,6,2
 5,Chárcas,1,San Pedro,1601,San Pedro de Buena Vista,172,U. E. Charcas,5014041,4,25,11,2,1,1,1,0,9,2,4,1,9,9
+5,Chárcas,1,San Pedro,1601,San Pedro de Buena Vista,172,U. E. Charcas,5014051,5,28,18,4,0,0,4,0,4,2,0,2,4,4
 5,Chárcas,1,San Pedro,1601,San Pedro de Buena Vista,31150,U. E. Pastor Sainz,5014421,2,23,25,4,3,0,2,1,5,0,1,3,2,3
+5,Chárcas,1,San Pedro,1601,San Pedro de Buena Vista,31150,U. E. Pastor Sainz,5014431,3,30,17,3,0,0,3,0,4,2,0,0,7,5
+5,Chárcas,1,San Pedro,1601,San Pedro de Buena Vista,31150,U. E. Pastor Sainz,5014441,4,19,24,2,2,1,3,0,4,0,1,1,3,9
 5,Chárcas,1,San Pedro,1602,Quinamara,173,Esc. Quinamara,5014071,1,3,1,8,0,0,2,1,37,0,0,0,4,9
 5,Chárcas,1,San Pedro,1602,Quinamara,173,Esc. Quinamara,5014081,2,1,0,1,0,0,0,0,5,1,0,0,2,3
 5,Chárcas,1,San Pedro,1604,Moscari,175,Esc. Moscari,5014121,1,15,17,0,0,0,0,0,3,1,1,1,0,0
+5,Chárcas,1,San Pedro,1604,Moscari,175,Esc. Moscari,5014131,2,29,6,2,1,0,0,0,3,1,0,0,0,1
+5,Chárcas,1,San Pedro,1606,Toracari,177,Esc. Toracari,5014191,1,13,5,9,0,0,1,0,0,1,1,0,4,0
+5,Chárcas,1,San Pedro,1606,Toracari,177,Esc. Toracari,5014201,2,18,4,12,1,0,0,2,0,2,0,0,10,2
+5,Chárcas,1,San Pedro,1606,Toracari,177,Esc. Toracari,5014211,3,16,3,10,0,0,0,1,0,0,1,0,5,1
 5,Chárcas,1,San Pedro,1607,Ñequeta,178,Esc. Ñequeta,5014221,1,2,38,16,2,0,1,0,3,1,0,0,5,2
+5,Chárcas,1,San Pedro,1607,Ñequeta,178,Esc. Ñequeta,5014231,2,5,14,14,0,3,4,1,4,3,0,2,3,4
 5,Chárcas,1,San Pedro,1607,Ñequeta,178,Esc. Ñequeta,5014241,3,1,23,10,0,0,2,0,9,0,1,0,2,3
+5,Chárcas,1,San Pedro,1608,Chiro K'asa,31152,U. E. Tupac Katari  B,5014451,1,5,14,5,0,3,6,0,1,2,1,1,3,2
+5,Chárcas,1,San Pedro,1608,Chiro K'asa,31152,U. E. Tupac Katari  B,5014491,5,8,6,17,0,0,3,0,1,1,0,1,8,2
+5,Chárcas,1,San Pedro,1608,Chiro K'asa,31152,U. E. Tupac Katari  B,5014501,6,3,7,30,0,0,1,0,0,0,0,0,7,3
 5,Chárcas,1,San Pedro,1609,Esquencachi,180,Esc. Seccional Eskencachi,5014251,1,14,6,8,5,0,1,0,2,3,2,0,2,0
 5,Chárcas,1,San Pedro,1609,Esquencachi,180,Esc. Seccional Eskencachi,5014261,2,9,7,1,1,0,0,0,1,4,0,0,5,0
 5,Chárcas,1,San Pedro,1610,Zapacari,181,U. E. Zapacari,5014271,1,7,24,5,0,1,0,1,12,7,1,3,2,4
 5,Chárcas,1,San Pedro,1610,Zapacari,181,U. E. Zapacari,5014281,2,0,4,1,0,0,0,0,1,0,1,0,1,0
 5,Chárcas,1,San Pedro,3640,Cota Cota,1,U. E. Huancarani,5013911,1,3,1,10,0,0,2,1,2,1,0,0,7,3
+5,Chárcas,1,San Pedro,3943,Viscachani,1,Esc. Sora Sora,5014001,1,5,5,25,1,0,0,0,0,1,0,1,1,6
+5,Chárcas,1,San Pedro,4058,Banduriri,25389,Nucleo Educativo Banduriri,5014291,1,15,14,19,0,0,1,0,7,2,0,0,2,3
 5,Chárcas,1,San Pedro,4058,Banduriri,25389,Nucleo Educativo Banduriri,5014301,2,21,3,10,0,0,1,0,6,1,0,0,1,1
 5,Chárcas,1,San Pedro,4084,Suicoma,25490,U.E. Suycoma,5014311,1,13,6,5,0,1,1,0,1,0,2,0,0,0
 5,Chárcas,1,San Pedro,4084,Suicoma,25490,U.E. Suycoma,5014321,2,11,2,7,0,0,0,1,0,0,2,0,0,0
 5,Chárcas,1,San Pedro,4170,Sacana,25563,U.E. Sacana,5014331,1,6,20,5,0,2,0,0,19,5,3,0,1,15
+5,Chárcas,1,San Pedro,4170,Sacana,25563,U.E. Sacana,5014341,2,1,23,2,0,0,1,0,13,3,2,0,1,11
+5,Chárcas,1,San Pedro,4191,Llallaguani,25636,U.E. Hayra Kasa,5014351,1,24,3,0,0,0,0,0,12,0,0,0,2,3
+5,Chárcas,1,San Pedro,4257,Chirocarí,25941,U. E. Chirocarí,5014361,1,26,4,8,1,0,0,0,0,0,0,0,3,0
 5,Chárcas,1,San Pedro,4400,Huaraca,26134,U.E. Zenobio Gallardo,5014381,1,16,19,4,0,0,1,0,3,1,0,1,1,4
+5,Chárcas,1,San Pedro,4400,Huaraca,26134,U.E. Zenobio Gallardo,5014391,2,11,11,3,0,0,0,0,0,0,0,1,1,3
 5,Chárcas,1,San Pedro,4401,Poetera,26135,U.E. Poetera,5014401,1,4,2,5,0,0,0,0,7,1,0,0,18,10
 5,Chárcas,2,Toro Toro,1611,Toro Toro,182,U. E. Mariscal Sucre,5014541,1,74,5,15,0,0,3,2,1,1,1,0,1,1
+5,Chárcas,2,Toro Toro,1611,Toro Toro,182,U. E. Mariscal Sucre,5014551,2,72,11,19,0,0,6,0,4,1,0,1,1,0
 5,Chárcas,2,Toro Toro,1611,Toro Toro,182,U. E. Mariscal Sucre,5014561,3,67,11,16,0,1,5,1,1,2,2,0,1,0
 5,Chárcas,2,Toro Toro,1611,Toro Toro,182,U. E. Mariscal Sucre,5014571,4,85,5,15,0,0,5,2,3,1,0,4,0,0
 5,Chárcas,2,Toro Toro,1611,Toro Toro,182,U. E. Mariscal Sucre,5014581,5,68,12,12,2,0,9,0,1,1,2,1,0,1
@@ -1112,6 +1154,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Chárcas,2,Toro Toro,1611,Toro Toro,182,U. E. Mariscal Sucre,5014611,8,19,2,1,0,0,0,0,0,0,0,0,0,0
 5,Chárcas,2,Toro Toro,1612,Julo,183,U.E. Julio Grande,5014621,1,67,9,5,1,0,17,0,1,1,1,0,2,1
 5,Chárcas,2,Toro Toro,1612,Julo,183,U.E. Julio Grande,5014631,2,59,5,7,1,0,20,1,0,1,0,0,0,0
+5,Chárcas,2,Toro Toro,1612,Julo,183,U.E. Julio Grande,5014641,3,71,4,3,2,0,14,2,2,0,0,0,1,0
 5,Chárcas,2,Toro Toro,1612,Julo,183,U.E. Julio Grande,5014651,4,36,11,1,0,0,4,0,0,0,2,0,0,0
 5,Chárcas,2,Toro Toro,1613,Añahuani,184,U. E. Añahuani,5014661,1,67,18,7,0,0,1,0,0,0,1,1,0,0
 5,Chárcas,2,Toro Toro,1613,Añahuani,184,U. E. Añahuani,5014671,2,43,14,2,2,0,0,1,0,0,0,0,1,0
@@ -1211,6 +1254,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Alonso de Ibáñez,1,Sacaca,1649,Sacaca,31151,U. E. Ladislao Cabrera Fe y Alegría,5016041,2,18,6,75,0,0,2,0,1,1,3,2,1,1
 7,Alonso de Ibáñez,1,Sacaca,1649,Sacaca,31151,U. E. Ladislao Cabrera Fe y Alegría,5016051,3,22,7,51,1,2,4,0,1,3,1,0,0,1
 7,Alonso de Ibáñez,1,Sacaca,1649,Sacaca,31151,U. E. Ladislao Cabrera Fe y Alegría,5016061,4,21,6,32,0,0,2,1,1,0,2,0,1,1
+7,Alonso de Ibáñez,1,Sacaca,1650,Sillu Sillu,227,U.E. Eduardo Abaroa,5015751,1,58,9,35,0,1,0,0,0,0,0,1,0,0
+7,Alonso de Ibáñez,1,Sacaca,1650,Sillu Sillu,227,U.E. Eduardo Abaroa,5015761,2,49,12,19,1,0,0,0,1,0,0,0,0,0
 7,Alonso de Ibáñez,1,Sacaca,1651,Comunidad Jaroma,228,U.E. Mcal. Sucre B,5015771,1,36,12,47,0,1,0,1,1,0,0,0,0,1
 7,Alonso de Ibáñez,1,Sacaca,1651,Comunidad Jaroma,228,U.E. Mcal. Sucre B,5015781,2,13,3,8,0,0,0,0,0,1,0,0,0,1
 7,Alonso de Ibáñez,1,Sacaca,1652,Carcoma,226,Esc. Carcoma,5015731,1,74,2,3,1,0,0,0,1,3,0,0,0,0
@@ -1221,6 +1266,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Alonso de Ibáñez,1,Sacaca,1654,Layupampa,224,Esc. Layupampa,5015701,2,42,1,6,1,0,2,0,0,0,0,0,1,0
 7,Alonso de Ibáñez,1,Sacaca,1656,Comunidad de Laytojo,230,U.E. Laytujo,5015791,1,87,5,35,2,0,1,0,2,0,0,0,0,0
 7,Alonso de Ibáñez,1,Sacaca,1656,Comunidad de Laytojo,230,U.E. Laytujo,5015801,2,18,0,11,0,0,0,0,1,1,0,0,0,0
+7,Alonso de Ibáñez,1,Sacaca,1657,Tarwachapi,231,U.E. Simón Bolivar,5015811,1,1,2,66,0,0,0,0,7,0,0,0,0,1
+7,Alonso de Ibáñez,1,Sacaca,1657,Tarwachapi,231,U.E. Simón Bolivar,5015821,2,4,1,59,0,0,0,0,5,0,0,0,1,0
+7,Alonso de Ibáñez,1,Sacaca,1657,Tarwachapi,231,U.E. Simón Bolivar,5015831,3,2,1,45,0,0,0,0,3,0,0,1,0,0
 7,Alonso de Ibáñez,1,Sacaca,1658,Charca,232,U. E. Mcal. Sucre  A,5015841,1,1,11,56,0,0,0,0,1,0,0,0,0,1
 7,Alonso de Ibáñez,1,Sacaca,1659,Ovejeria,233,Esc. de Ovejeria,5015851,1,111,6,11,0,1,0,0,1,2,0,0,0,1
 7,Alonso de Ibáñez,1,Sacaca,1659,Ovejeria,233,Esc. de Ovejeria,5015861,2,109,3,6,1,0,1,0,2,0,0,0,0,1
@@ -1239,28 +1287,43 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Alonso de Ibáñez,1,Sacaca,4362,Cachari,26066,U.E. Juan Bautista,5016001,1,32,2,20,0,0,0,0,1,0,0,0,1,0
 7,Alonso de Ibáñez,1,Sacaca,4363,Pichuya,26067,U.E.Pichuya,5016011,1,131,1,3,1,0,0,0,0,1,0,0,0,0
 7,Alonso de Ibáñez,1,Sacaca,4363,Pichuya,26067,U.E.Pichuya,5016021,2,14,0,0,0,0,0,0,0,0,0,0,0,0
+7,Alonso de Ibáñez,2,Caripuyo,1655,Caripuyo,229,U. E. Eduardo Abaroa Fe y Alegría,5016091,3,21,5,38,0,0,2,0,5,0,0,0,2,1
 7,Alonso de Ibáñez,2,Caripuyo,1655,Caripuyo,229,U. E. Eduardo Abaroa Fe y Alegría,5016101,4,40,2,37,0,0,0,0,2,0,1,0,2,0
+7,Alonso de Ibáñez,2,Caripuyo,1662,Cotaña,236,U.E. Bartolomé Cruz de Cotaña,5016111,1,35,1,16,1,1,0,1,1,0,1,0,14,0
+7,Alonso de Ibáñez,2,Caripuyo,1662,Cotaña,236,U.E. Bartolomé Cruz de Cotaña,5016121,2,12,0,3,0,0,1,0,0,2,1,0,6,1
 7,Alonso de Ibáñez,2,Caripuyo,1663,Huañachaca,237,U.E. Simón Bolivar de Huañachaca,5016131,1,36,3,4,1,0,0,1,0,0,0,0,2,0
 7,Alonso de Ibáñez,2,Caripuyo,1664,Chojlla,238,U.E. Jaime Mendoza,5016141,1,8,0,78,0,4,0,0,3,3,2,0,6,2
 7,Alonso de Ibáñez,2,Caripuyo,1664,Chojlla,238,U.E. Jaime Mendoza,5016151,2,1,0,14,1,0,1,0,1,1,0,0,5,0
+7,Alonso de Ibáñez,2,Caripuyo,1666,Huanacoma,240,U.E. José Ballivian de Huanacoma,5016161,1,41,0,6,1,0,0,2,0,2,0,1,5,0
 7,Alonso de Ibáñez,2,Caripuyo,1667,Challviri,241,U.E. Challviri,5016181,1,28,3,13,1,0,0,0,2,1,1,0,0,1
 7,Alonso de Ibáñez,2,Caripuyo,1668,Comunidad Janco Janco,242,U.E. Janco Janco,5016191,1,63,5,23,2,1,3,2,2,3,3,2,2,2
 7,Alonso de Ibáñez,2,Caripuyo,1668,Comunidad Janco Janco,242,U.E. Janco Janco,5016201,2,11,0,3,0,0,0,0,0,0,0,0,0,1
+7,Alonso de Ibáñez,2,Caripuyo,1669,Juntavi,243,U.E. José Alonso de Ibáñez,5016221,2,58,0,10,0,0,0,0,2,0,2,0,1,1
 7,Alonso de Ibáñez,2,Caripuyo,1669,Juntavi,243,U.E. José Alonso de Ibáñez,5016231,3,3,0,1,0,0,0,0,0,0,0,0,0,0
 7,Alonso de Ibáñez,2,Caripuyo,1670,Chaicuriri,244,Esc. Chaicuriri,5016241,1,19,0,13,1,0,0,0,0,7,0,0,13,0
+7,Alonso de Ibáñez,2,Caripuyo,3208,Catariri,582,Esc. Catari,5016251,1,15,0,15,0,0,1,0,1,1,0,0,1,1
 7,Alonso de Ibáñez,2,Caripuyo,4169,Coacoani,25562,U.E. Koakoani,5016261,1,76,0,4,1,0,0,0,0,0,0,0,5,0
+7,Alonso de Ibáñez,2,Caripuyo,4169,Coacoani,25562,U.E. Koakoani,5016271,2,12,0,1,0,0,0,0,0,0,2,0,0,0
+8,Sud Chichas,1,Tupiza,1671,Tupiza,245,U. E. Antofagasta,5016781,3,9,10,21,6,6,22,2,8,11,4,7,0,0
 8,Sud Chichas,1,Tupiza,1671,Tupiza,245,U. E. Antofagasta,5016791,4,17,1,15,9,7,22,3,5,11,5,5,1,2
 8,Sud Chichas,1,Tupiza,1671,Tupiza,246,U. E. 26 de Agosto,5017431,14,13,6,21,7,6,15,8,0,24,2,2,1,5
 8,Sud Chichas,1,Tupiza,1671,Tupiza,247,U. E. 7 de Noviembre,5017001,4,4,7,17,15,10,27,6,4,16,5,1,0,2
 8,Sud Chichas,1,Tupiza,1671,Tupiza,248,U. E. Maria Rita Romano,5017691,4,10,7,17,11,7,28,8,3,19,2,5,2,2
 8,Sud Chichas,1,Tupiza,1671,Tupiza,248,U. E. Maria Rita Romano,5017701,5,10,6,9,8,6,21,9,2,19,3,1,0,2
+8,Sud Chichas,1,Tupiza,1671,Tupiza,249,Ins. Tec. José Luis San Juan Garcia,5017061,4,10,7,24,9,3,33,3,4,8,8,2,2,2
 8,Sud Chichas,1,Tupiza,1671,Tupiza,249,Ins. Tec. José Luis San Juan Garcia,5017071,5,4,8,14,13,9,33,5,5,7,4,3,0,4
+8,Sud Chichas,1,Tupiza,1671,Tupiza,249,Ins. Tec. José Luis San Juan Garcia,5017091,7,5,1,2,2,3,4,5,2,0,1,1,0,1
+8,Sud Chichas,1,Tupiza,1671,Tupiza,251,U. E. Bolivia de Tupiza,5017461,2,9,8,25,10,11,10,6,3,11,3,3,1,2
+8,Sud Chichas,1,Tupiza,1671,Tupiza,251,U. E. Bolivia de Tupiza,5017471,3,7,11,18,4,6,15,7,4,21,3,3,1,1
+8,Sud Chichas,1,Tupiza,1671,Tupiza,251,U. E. Bolivia de Tupiza,5017481,4,10,14,17,6,9,11,6,2,21,1,4,2,2
 8,Sud Chichas,1,Tupiza,1671,Tupiza,251,U. E. Bolivia de Tupiza,5017491,5,13,5,18,4,6,15,6,4,13,2,6,0,5
 8,Sud Chichas,1,Tupiza,1671,Tupiza,251,U. E. Bolivia de Tupiza,5017501,6,11,11,16,6,3,14,7,6,15,1,2,1,1
 8,Sud Chichas,1,Tupiza,1671,Tupiza,251,U. E. Bolivia de Tupiza,5017511,7,10,7,13,10,4,10,5,2,25,0,4,0,1
+8,Sud Chichas,1,Tupiza,1671,Tupiza,251,U. E. Bolivia de Tupiza,5017521,8,10,7,13,8,3,8,1,2,16,1,3,2,0
 8,Sud Chichas,1,Tupiza,1671,Tupiza,257,(Cárcel) Cárcel Tupiza,5016871,1,2,4,3,1,0,5,2,4,8,2,0,0,2
 8,Sud Chichas,1,Tupiza,1671,Tupiza,31139,U.E. Suipacha de Tupiza,5017101,1,8,8,16,11,14,31,6,2,12,7,4,2,1
 8,Sud Chichas,1,Tupiza,1671,Tupiza,31139,U.E. Suipacha de Tupiza,5017121,3,5,5,18,17,5,33,5,5,7,6,9,4,1
+8,Sud Chichas,1,Tupiza,1671,Tupiza,31139,U.E. Suipacha de Tupiza,5017131,4,7,7,17,8,4,25,3,4,12,3,8,4,4
 8,Sud Chichas,1,Tupiza,1671,Tupiza,31139,U.E. Suipacha de Tupiza,5017141,5,3,4,21,13,10,30,5,5,11,5,6,1,1
 8,Sud Chichas,1,Tupiza,1671,Tupiza,31139,U.E. Suipacha de Tupiza,5017151,6,3,7,16,12,11,22,4,4,7,6,3,0,3
 8,Sud Chichas,1,Tupiza,1671,Tupiza,31140,U. E. Gran Mariscal de Ayacucho,5016931,2,12,5,18,8,6,25,3,5,11,4,4,0,1
@@ -1333,6 +1396,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Sud Chichas,2,Atocha,1708,Santa Barbara,25450,Col. Chorolque,5018061,5,2,4,20,0,1,4,3,2,1,1,1,1,0
 8,Sud Chichas,2,Atocha,1709,Tacmari,291,U. E. Tacmari,5017971,1,1,0,1,0,0,5,0,0,0,0,0,0,2
 8,Sud Chichas,2,Atocha,1710,Guadalupe,292,U. E. Víctor Paz Estenssoro,5017981,1,0,1,5,2,1,0,1,1,1,0,0,0,0
+8,Sud Chichas,2,Atocha,1711,Chorolque Viejo,293,Salón Comunal,5017991,1,1,0,2,0,0,1,0,0,0,0,0,1,0
 8,Sud Chichas,2,Atocha,1712,San Vicente,294,Esc. Julio Urquieta,5018001,1,4,4,26,3,2,8,2,2,10,4,1,3,1
 8,Sud Chichas,2,Atocha,1712,San Vicente,294,Esc. Julio Urquieta,5018011,2,3,7,28,2,3,5,4,1,5,2,0,2,3
 9,Nor Lipez,1,"Colcha ""K""",1714,San Cristobal,297,U.E. Ricardo Rodriguez,5018151,2,11,6,55,0,2,2,6,3,35,0,0,3,0
@@ -1343,7 +1407,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Nor Lipez,1,"Colcha ""K""",1715,Santiago K,298,U.E. Franz Tamayo de Santiago K,5018231,1,5,7,36,2,1,4,7,1,19,1,0,7,0
 9,Nor Lipez,1,"Colcha ""K""",1717,Culpina  K,300,U.E. Eduardo Abaroa,5018261,1,7,5,17,2,0,2,4,0,82,1,0,0,0
 9,Nor Lipez,1,"Colcha ""K""",1718,Río Grande,301,U.E. Nuevo Amanecer,5018281,1,4,73,18,0,0,8,9,0,10,2,2,3,2
+9,Nor Lipez,1,"Colcha ""K""",1718,Río Grande,301,U.E. Nuevo Amanecer,5018301,3,4,62,16,1,1,7,1,0,9,0,0,1,2
 9,Nor Lipez,1,"Colcha ""K""",1718,Río Grande,301,U.E. Nuevo Amanecer,5018311,4,2,51,13,1,0,2,7,0,7,2,0,2,0
+9,Nor Lipez,1,"Colcha ""K""",1719,San Juan,302,Esc. Antofagasta,5018331,2,0,0,10,0,0,1,0,0,4,0,0,3,0
 9,Nor Lipez,1,"Colcha ""K""",1720,Santiago de Agencha,304,Esc. Tomas Frias,5018351,1,5,3,15,0,0,2,1,1,65,0,1,5,0
 9,Nor Lipez,1,"Colcha ""K""",1721,Atulcha,305,U.E. Luis Espinal,5018361,1,1,6,12,0,0,1,2,0,8,0,1,1,0
 9,Nor Lipez,1,"Colcha ""K""",1722,Puerto Chuvica,306,U. E. Juana Azurduy de Padilla,5018371,1,12,2,5,1,1,3,2,0,5,1,0,1,2
@@ -1413,6 +1479,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 11,José María Linares,1,Puna,1755,Nuqui,344,U.E. Ñuqui,5019001,1,5,22,63,1,1,8,3,2,5,2,4,12,0
 11,José María Linares,1,Puna,1755,Nuqui,344,U.E. Ñuqui,5019011,2,0,5,14,0,0,1,1,0,0,0,0,2,1
 11,José María Linares,1,Puna,1756,Pacasi,345,Esc. Tomas Frias,5019021,1,17,6,6,0,0,2,0,0,14,0,4,7,0
+11,José María Linares,1,Puna,1756,Pacasi,345,Esc. Tomas Frias,5019031,2,7,2,5,0,0,1,0,1,6,1,1,2,0
 11,José María Linares,1,Puna,1760,Vilacaya,349,U.E. Vilacaya,5019041,1,2,10,22,0,0,6,1,0,9,1,1,5,1
 11,José María Linares,1,Puna,1760,Vilacaya,349,U.E. Vilacaya,5019051,2,5,7,5,0,0,0,0,0,6,1,0,3,1
 11,José María Linares,1,Puna,1766,Chillcani (Zona D),355,U.E. German Busch,5019061,1,4,3,16,0,0,1,2,3,6,1,5,4,0
@@ -1443,6 +1510,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 11,José María Linares,2,"Caiza ""D""",1770,Tuctapari,358,U.E. Clovis Lanza Enriquez,5019361,2,0,2,13,0,1,2,2,0,3,1,0,1,0
 11,José María Linares,2,"Caiza ""D""",1771,Caltapi Puncu,359,U. E. Caltapi Puncu,5019371,1,0,11,51,1,1,1,6,2,14,1,1,3,0
 11,José María Linares,2,"Caiza ""D""",1772,Cuchu Ingenio,360,Col. Franz Tamayo,5019381,1,2,34,47,1,1,7,2,1,5,1,0,3,3
+11,José María Linares,2,"Caiza ""D""",1772,Cuchu Ingenio,360,Col. Franz Tamayo,5019391,2,6,41,36,0,0,8,1,2,4,1,0,3,0
 11,José María Linares,2,"Caiza ""D""",1772,Cuchu Ingenio,360,Col. Franz Tamayo,5019401,3,2,31,30,1,1,5,4,1,0,1,0,1,2
 11,José María Linares,2,"Caiza ""D""",1774,La Lava,362,U.E. 21 de Septiembre de la Lava,5019411,1,2,17,26,1,1,6,34,5,9,0,4,4,5
 11,José María Linares,2,"Caiza ""D""",1774,La Lava,362,U.E. 21 de Septiembre de la Lava,5019421,2,0,36,18,2,0,3,33,3,8,4,3,6,0
@@ -1610,9 +1678,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 13,General Bernardino Bilbao,1,Arampampa,3861,Calachua,1,Esc. Calachua,5021551,1,30,4,1,0,0,0,0,1,0,0,0,0,0
 13,General Bernardino Bilbao,1,Arampampa,3944,Qoaraca,1,Esc. Qoaraca,5021561,1,33,7,3,1,0,0,0,2,0,0,0,0,0
 13,General Bernardino Bilbao,2,Acasio,1816,Taconi de Caine,415,Esc. Taconi De Caine,5021671,1,61,4,1,0,0,0,0,3,0,0,0,0,0
+13,General Bernardino Bilbao,2,Acasio,1821,Acasio,420,Esc. Jose Rivero,5021681,1,65,34,1,0,0,1,1,4,2,0,1,1,1
 13,General Bernardino Bilbao,2,Acasio,1821,Acasio,420,Esc. Jose Rivero,5021691,2,63,14,3,1,0,2,1,0,2,0,1,0,0
+13,General Bernardino Bilbao,2,Acasio,1821,Acasio,420,Esc. Jose Rivero,5021701,3,66,36,5,1,0,0,1,3,0,1,0,0,1
 13,General Bernardino Bilbao,2,Acasio,1821,Acasio,420,Esc. Jose Rivero,5021711,4,22,40,5,0,0,0,0,0,0,0,0,0,0
 13,General Bernardino Bilbao,2,Acasio,1822,Churitaca,421,Esc. Churitaca,5021731,2,39,4,1,1,0,0,0,1,0,1,0,0,0
+13,General Bernardino Bilbao,2,Acasio,1823,Taconi Yambata,422,U.E. Taconi Bilbao,5021741,1,34,2,2,1,0,3,0,1,1,0,0,0,1
 13,General Bernardino Bilbao,2,Acasio,1825,Tuquiza,424,Esc. Tuquiza,5021751,1,64,6,1,0,0,1,0,1,0,0,0,0,0
 14,Daniel Campos,1,Llica,1827,Llica,426,E.S.F.M. Franz Tamayo,5021771,1,2,28,19,3,24,5,12,0,3,0,5,6,2
 14,Daniel Campos,1,Llica,1827,Llica,426,E.S.F.M. Franz Tamayo,5021791,3,1,29,28,0,23,0,8,3,0,0,2,8,2
