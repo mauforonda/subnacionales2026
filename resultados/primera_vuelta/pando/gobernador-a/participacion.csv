@@ -12,6 +12,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000211,1,240,155,10,21,186,155,186
 1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000221,2,240,152,11,25,188,152,188
 1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000231,3,240,139,17,24,180,139,180
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000241,4,240,158,12,19,189,158,189
 1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000251,5,240,142,7,34,183,142,183
 1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000261,6,240,137,15,31,183,137,183
 1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000271,7,240,153,19,21,193,153,193
@@ -29,6 +30,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,1,Cobija,2773,Cobija,13,(Cárcel) Cárcel Pública (Villa Busch),9000091,3,28,17,3,5,25,17,25
 1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000101,1,240,159,12,37,208,159,208
 1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000111,2,240,140,7,47,194,140,194
+1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000121,3,240,143,16,35,194,143,194
 1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000131,4,240,113,16,69,198,113,198
 1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000141,5,240,141,12,42,195,141,195
 1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000151,6,240,138,14,28,180,138,180
@@ -94,10 +96,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25034,U. E. Juana Azurduy De Padilla,9001071,1,240,140,9,31,180,140,180
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25034,U. E. Juana Azurduy De Padilla,9001081,2,240,161,5,28,194,161,194
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25034,U. E. Juana Azurduy De Padilla,9001091,3,192,135,7,19,161,135,161
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000641,1,240,158,10,32,200,158,200
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000651,2,240,147,19,32,198,147,198
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000661,3,240,142,16,44,202,142,202
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000671,4,240,165,9,24,198,165,198
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000681,5,240,150,10,27,187,150,187
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000691,6,240,146,9,33,188,146,188
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000701,7,240,146,13,39,198,146,198
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000711,8,240,159,11,27,197,159,197
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000721,9,240,160,5,25,190,160,190
@@ -301,6 +305,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003091,4,240,178,17,13,208,178,208
 3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003101,5,34,23,4,1,28,23,28
 3,Madre de Dios,2,San Lorenzo,2754,Vista Alegre,56,U.E. Vista Alegre,9003141,1,240,160,24,21,205,160,205
+3,Madre de Dios,2,San Lorenzo,2754,Vista Alegre,56,U.E. Vista Alegre,9003151,2,51,33,2,9,44,33,44
 3,Madre de Dios,2,San Lorenzo,2800,Galilea,57,U.E. Galilea,9003161,1,215,164,18,11,193,164,193
 3,Madre de Dios,2,San Lorenzo,3067,Sinaí,1,U.E.  Bruno Racua,9002971,1,80,55,6,7,68,55,68
 3,Madre de Dios,2,San Lorenzo,3068,Ibéria,1,U.E. De Iberia,9002981,1,56,39,4,4,47,39,47
@@ -381,6 +386,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Federico Román,2,Villa Nueva,3405,Santa Crucito,1,U.E.  Roberto Gonzales,9003814,1,191,118,18,24,160,118,160
 5,Federico Román,2,Villa Nueva,4101,San Ignacio,25510,U.E. Mariscal Sucre,9003864,1,84,60,8,4,72,60,72
 5,Federico Román,2,Villa Nueva,4102,Perseverancia,25511,U.E. 24 de Junio,9003874,1,98,52,17,15,84,52,84
+5,Federico Román,2,Villa Nueva,4444,Comunidad Campesina  Bella Brisa,26364,U.E. Mario Cortez Vaca,9003884,1,85,41,17,18,76,41,76
 5,Federico Román,2,Villa Nueva,4445,Comunidad Campesina  Triunfo,26365,U.E. 24 de Septiembre,9003894,1,72,48,8,10,66,48,66
 5,Federico Román,3,Santos Mercado,3065,Reserva,1,19 de Octubre,9003904,1,240,163,20,4,187,163,187
 5,Federico Román,3,Santos Mercado,3065,Reserva,1,19 de Octubre,9003914,2,199,123,17,3,143,123,143

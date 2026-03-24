@@ -12,6 +12,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000211,1,240,77,81,20,178,77,178
 1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000221,2,240,87,76,25,188,87,188
 1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000231,3,240,78,75,27,180,78,180
+1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000241,4,240,87,79,15,181,87,181
 1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000251,5,240,91,69,23,183,91,183
 1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000261,6,240,76,83,19,178,76,178
 1,Nicolás Suárez,1,Cobija,2773,Cobija,11,U. E. 11 de Octubre,9000271,7,240,92,79,22,193,92,193
@@ -29,6 +30,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,1,Cobija,2773,Cobija,13,(Cárcel) Cárcel Pública (Villa Busch),9000091,3,28,6,18,1,25,6,25
 1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000101,1,240,102,78,28,208,102,208
 1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000111,2,240,72,95,27,194,72,194
+1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000121,3,240,89,90,10,189,89,189
 1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000131,4,240,65,97,36,198,65,198
 1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000141,5,240,64,99,32,195,64,195
 1,Nicolás Suárez,1,Cobija,2773,Cobija,14,U.E. De Bella Vista,9000151,6,240,84,73,15,172,84,172
@@ -94,10 +96,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25034,U. E. Juana Azurduy De Padilla,9001071,1,240,112,43,25,180,112,180
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25034,U. E. Juana Azurduy De Padilla,9001081,2,240,105,65,24,194,105,194
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25034,U. E. Juana Azurduy De Padilla,9001091,3,192,72,65,24,161,72,161
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000641,1,240,94,87,29,210,94,210
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000651,2,240,75,96,27,198,75,198
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000661,3,240,79,96,27,202,79,202
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000671,4,240,75,100,23,198,75,198
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000681,5,240,84,86,17,187,84,187
+1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000691,6,240,70,98,20,188,70,188
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000701,7,240,72,96,30,198,72,198
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000711,8,240,76,94,16,186,76,186
 1,Nicolás Suárez,1,Cobija,2773,Cobija,25035,U.E. Defensores Del Acre,9000721,9,240,96,75,19,190,96,190
@@ -242,6 +246,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003091,4,240,120,84,4,208,120,208
 3,Madre de Dios,2,San Lorenzo,1172,Blanca Flor,52,U.E.  24 de Septiembre,9003101,5,34,13,12,3,28,13,28
 3,Madre de Dios,2,San Lorenzo,2754,Vista Alegre,56,U.E. Vista Alegre,9003141,1,240,78,120,7,205,78,205
+3,Madre de Dios,2,San Lorenzo,2754,Vista Alegre,56,U.E. Vista Alegre,9003151,2,51,19,25,0,44,19,44
 3,Madre de Dios,2,San Lorenzo,2800,Galilea,57,U.E. Galilea,9003161,1,215,76,114,3,193,76,193
 3,Madre de Dios,2,San Lorenzo,3067,Sinaí,1,U.E.  Bruno Racua,9002971,1,80,33,33,2,68,33,68
 3,Madre de Dios,2,San Lorenzo,3068,Ibéria,1,U.E. De Iberia,9002981,1,56,21,26,0,47,21,47
