@@ -1013,7 +1013,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,4350,Kuchu Tambo,26050,U.E. 9 de Marzo,1000557,5,127,84,7,22,113,84,113
 1,Oropeza,1,Sucre,4638,Paredón,32441,U.E. Paredón,1000567,1,103,81,7,11,99,81,99
 1,Oropeza,2,Yotala,3826,Mosoj Llajta,1,Unidad Educativa Victor Sandi,1010337,3,240,185,4,21,210,185,210
+1,Oropeza,3,Poroma,1260,Luje,1,Colegio Rafael Campos De Luje,1010537,1,192,140,5,23,168,140,168
+1,Oropeza,3,Poroma,1263,Piocera,1,Unidad Educativa Piocera,1010547,1,98,49,15,10,74,49,74
+1,Oropeza,3,Poroma,2757,El Ajial,1,Posta Sanitaria,1010557,1,36,19,0,2,21,19,21
+1,Oropeza,3,Poroma,3435,Cucuri,1,Unidad Educativa Cucuri,1010697,1,208,119,26,24,169,119,169
 1,Oropeza,3,Poroma,4474,Mariquilla,32062,U.E. Mariquilla,1010757,1,138,77,15,19,111,77,111
+3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011367,1,240,168,1,14,183,168,183
+3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011387,3,240,178,4,11,193,178,193
+3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011397,4,240,174,10,14,198,174,198
 3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011407,5,240,186,8,10,204,186,204
 3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011417,6,240,177,7,15,199,177,199
 3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011307,1,240,169,12,27,208,169,208
@@ -1022,35 +1029,148 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011337,4,240,170,10,25,205,170,205
 3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011347,5,240,181,7,17,205,181,205
 3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011357,6,209,155,7,19,181,155,181
+3,Zudáñez,2,Presto,1287,Presto,1,Unidad Educativa Ricardo Mujia,1011437,1,240,163,12,29,204,163,204
+3,Zudáñez,2,Presto,1287,Presto,1,Unidad Educativa Ricardo Mujia,1011477,5,204,146,11,23,180,146,180
 3,Zudáñez,2,Presto,1288,Pasopaya,1,U.E. 31 de Mayo,1011487,1,240,142,20,28,190,142,190
+3,Zudáñez,2,Presto,1288,Pasopaya,1,U.E. 31 de Mayo,1011497,2,44,27,3,4,34,27,34
 3,Zudáñez,2,Presto,1289,Rodeo El Palmar,1,Escuela José María Martínez,1011527,3,243,152,16,32,200,152,200
+3,Zudáñez,2,Presto,2896,El Peral,1,Unidad Educativa Tomoroco,1011547,2,132,98,2,11,111,98,111
+3,Zudáñez,2,Presto,3902,El Palmar,1,Unidad Educativa El Palmar,1011567,1,165,93,8,26,127,93,127
+3,Zudáñez,2,Presto,4396,Huaylla Pampa,26127,U.E. Huaylla Pampa Alta,1011577,1,210,144,9,27,180,144,180
+3,Zudáñez,3,Mojocoya,1292,Mojocoya,1,Unidad Educativa Eduardo Avaroa,1011587,1,216,156,6,11,173,156,173
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011617,3,240,182,7,18,207,182,207
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011667,8,240,189,3,14,206,189,206
+3,Zudáñez,3,Mojocoya,1293,Redencion Pampa,1,Colegio Franz Tamayo,1011677,9,240,178,6,13,197,178,197
 3,Zudáñez,3,Mojocoya,2899,Quivale,1,Escuela Hilarion Vides Choque,1011737,1,257,171,7,11,189,171,189
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1011957,3,240,161,9,24,194,161,194
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1011967,4,240,178,7,16,201,178,201
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1011977,5,240,187,2,16,205,187,205
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1012017,9,240,183,2,17,202,183,202
+4,Tomina,1,Padilla,1305,Padilla,1,Colegio San Pio X,1012027,10,82,66,3,2,71,66,71
 4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012147,1,240,200,6,10,216,200,216
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012157,2,240,192,8,9,209,192,209
 4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012177,4,240,173,10,20,203,173,203
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012197,6,240,190,2,12,204,190,204
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012227,9,62,48,0,4,52,48,52
 4,Tomina,1,Padilla,3679,Llantoj,1,U.E. Caciano Rodas Cardenas,1012107,1,109,79,3,13,95,79,95
+4,Tomina,1,Padilla,3833,Corey,1,Unidad Educativa Susana Duran,1012127,1,105,82,0,11,93,82,93
+4,Tomina,2,Tomina,1314,Tomina,1,Unidad Educativa Eduardo Avaroa,1012237,1,240,167,8,16,191,167,191
+4,Tomina,2,Tomina,1314,Tomina,1,Unidad Educativa Eduardo Avaroa,1012267,4,240,170,6,20,196,170,196
 4,Tomina,2,Tomina,1314,Tomina,1,Unidad Educativa Eduardo Avaroa,1012287,6,240,170,4,22,196,170,196
+4,Tomina,2,Tomina,1314,Tomina,1,Unidad Educativa Eduardo Avaroa,1012297,7,72,58,0,5,63,58,63
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,1,U.E. María Vargas de Valda,1012907,11,219,154,2,5,161,154,161
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013267,3,240,177,4,8,189,177,189
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013277,4,240,168,1,15,184,168,184
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013287,5,240,175,4,12,191,175,191
 5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013297,6,240,174,6,17,197,174,197
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,30021,U.E. Lucio Siles Morales,1013407,3,240,188,9,5,202,188,202
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,32385,U.E. República de Venezuela,1013537,2,105,83,0,8,91,83,91
 5,Hernando Siles,1,Monteagudo,1332,Bartolo,1,Nucleo Escolar Bartolo,1012917,1,82,59,1,8,68,59,68
+5,Hernando Siles,1,Monteagudo,1333,Comunidad Heredia,1,Escuela Pampa Heredia,1012927,1,160,90,11,17,118,90,118
+5,Hernando Siles,1,Monteagudo,1335,Piraimiri,1,U. Edu. Juana Azurduy De Padilla,1012937,1,240,148,4,34,186,148,186
+5,Hernando Siles,1,Monteagudo,1335,Piraimiri,1,U. Edu. Juana Azurduy De Padilla,1012947,2,217,133,11,22,166,133,166
+5,Hernando Siles,1,Monteagudo,1336,Candua,1,Unidad Educativa Rebeca De La Vega,1013027,8,240,166,4,23,193,166,193
+5,Hernando Siles,1,Monteagudo,1336,Candua,32159,U.E. Gladys Cruz Perez,1013497,1,240,147,5,25,177,147,177
+5,Hernando Siles,1,Monteagudo,1340,San Juan del Pirai,1,Escuela 6 de Junio,1013057,1,240,172,7,14,193,172,193
+5,Hernando Siles,1,Monteagudo,2846,Despensas,1,Escuela Despensas,1013107,1,178,107,9,17,133,107,133
+5,Hernando Siles,1,Monteagudo,2848,San Miguel,1,U. Edu. San Miguel Del Bañado,1013127,1,240,160,13,23,196,160,196
+5,Hernando Siles,1,Monteagudo,2848,San Miguel,1,U. Edu. San Miguel Del Bañado,1013137,2,240,153,9,22,184,153,184
+5,Hernando Siles,1,Monteagudo,2848,San Miguel,1,U. Edu. San Miguel Del Bañado,1013147,3,20,14,0,3,17,14,17
+5,Hernando Siles,1,Monteagudo,2967,San Pedro del Parapetí,1,U. Edu. San Pedro Del Parapeti,1013177,1,72,53,2,7,62,53,62
+5,Hernando Siles,1,Monteagudo,3745,Valle Nuevo,1,Unidad Educativa Valle Nuevo,1013197,2,48,28,3,8,39,28,39
 5,Hernando Siles,1,Monteagudo,4216,Ñaurenda,25725,U.E. Ñaurenda,1013377,1,77,41,1,15,57,41,57
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013547,1,240,190,1,16,207,190,207
 5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013557,2,240,172,3,20,195,172,195
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013567,3,240,188,5,12,205,188,205
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013577,4,240,175,2,21,198,175,198
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013587,5,240,180,5,20,205,180,205
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013597,6,240,169,7,26,202,169,202
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013607,7,48,34,1,7,42,34,42
+5,Hernando Siles,2,Huacareta,1345,Ñacamiri,1,Escuela Miguel Jhaster,1013617,1,240,151,6,21,178,151,178
+5,Hernando Siles,2,Huacareta,1345,Ñacamiri,1,Escuela Miguel Jhaster,1013627,2,47,30,1,6,37,30,37
+5,Hernando Siles,2,Huacareta,1346,Piraicito,1,Unidad Baldomero Lopez,1013637,1,253,189,5,15,209,189,209
+5,Hernando Siles,2,Huacareta,1348,Añimbo,1,Escuela Rafael Pabon,1013647,1,240,175,7,15,197,175,197
+5,Hernando Siles,2,Huacareta,1348,Añimbo,1,Escuela Rafael Pabon,1013657,2,196,138,5,17,160,138,160
+5,Hernando Siles,2,Huacareta,1350,Rosario del Ingre,1,Escuela Salvio Lanuza,1013667,1,240,142,9,17,168,142,168
 5,Hernando Siles,2,Huacareta,1350,Rosario del Ingre,1,Escuela Salvio Lanuza,1013677,2,135,84,7,14,105,84,105
+5,Hernando Siles,2,Huacareta,2902,Uruguay,1,Unidad Educativa Ernesto Theobald,1013697,2,240,158,6,20,184,158,184
 5,Hernando Siles,2,Huacareta,2902,Uruguay,1,Unidad Educativa Ernesto Theobald,1013707,3,165,113,4,13,130,113,130
+5,Hernando Siles,2,Huacareta,3440,San Jorge de Ipaty,1,Unidad Educativa San Jorge De Ipaty,1013717,1,240,154,4,25,183,154,183
+5,Hernando Siles,2,Huacareta,3440,San Jorge de Ipaty,1,Unidad Educativa San Jorge De Ipaty,1013727,2,77,44,3,11,58,44,58
+5,Hernando Siles,2,Huacareta,3441,Atirimbia,1,Unidad Educativa Atirimbia,1013737,1,140,92,1,13,106,92,106
 5,Hernando Siles,2,Huacareta,3442,Huirasai,1,Unidad Educativa Huirasai,1013747,1,206,134,6,28,168,134,168
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013767,2,240,149,11,48,208,149,208
 6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013777,3,240,157,18,30,205,157,205
 6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013787,4,240,143,13,27,183,143,183
 6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013797,5,240,151,11,41,203,151,203
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013807,6,253,166,15,24,205,166,205
 6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014047,1,240,170,8,25,203,170,203
 6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014057,2,240,152,9,29,190,152,190
 6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014077,4,240,150,10,23,183,150,183
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014087,5,240,155,12,24,191,155,191
 6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014097,6,240,158,10,19,187,158,187
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,2,Colegio Aniceto Arce,1014107,7,146,94,3,17,114,94,114
+6,Yamparáez,1,Tarabuco,1354,Tarabuco,26130,(Cárcel) Carceleta Pública de Tarabuco,1014127,1,81,59,1,12,72,59,72
+6,Yamparáez,1,Tarabuco,1355,Cororo,1,Colegio Nacional Mixto Bolivia,1013827,2,240,184,4,19,207,184,207
+6,Yamparáez,1,Tarabuco,1357,Morado Ckasa,1,U.E. Morado Qasa,1013847,1,240,146,17,32,195,146,195
+6,Yamparáez,1,Tarabuco,1357,Morado Ckasa,1,U.E. Morado Qasa,1013857,2,88,58,3,13,74,58,74
+6,Yamparáez,1,Tarabuco,1359,Sarufaya,1,Unidad Educativa Sarufaya,1013877,2,68,39,2,6,47,39,47
+6,Yamparáez,1,Tarabuco,1360,Pajcha,1,Escuela Gustavo Valdivia De Pajcha,1013897,2,128,63,9,29,101,63,101
+6,Yamparáez,1,Tarabuco,2759,La Cienega (Y),1,Unidad Educativa La Cienega,1013907,1,240,160,19,19,198,160,198
+6,Yamparáez,1,Tarabuco,3373,Tunas Chillca,1,Escuela Tunas Chillca,1014007,1,158,111,8,15,134,111,134
+6,Yamparáez,1,Tarabuco,3443,El Carmen,1,Unidad Educativa El Carmen,1014017,1,210,129,5,37,171,129,171
+6,Yamparáez,1,Tarabuco,3444,Cayambuco,1,Unidad Educativa Cayambuco,1014027,1,191,118,8,25,151,118,151
+6,Yamparáez,1,Tarabuco,4397,Comunidad Surima Chica,26128,U.E. Surima Chica,1014117,1,108,63,6,15,84,63,84
 6,Yamparáez,1,Tarabuco,4574,Ichupampa,32284,U.E. Ichu Pampa,1014157,1,111,83,8,13,104,83,104
 6,Yamparáez,2,Yamparáez,1363,Yamparaez,1,Escuela Eduardo Sempertegui,1014197,1,240,163,10,27,200,163,200
 6,Yamparáez,2,Yamparáez,1363,Yamparaez,1,Escuela Eduardo Sempertegui,1014217,3,240,171,8,19,198,171,198
 6,Yamparáez,2,Yamparáez,1363,Yamparaez,1,Escuela Eduardo Sempertegui,1014237,5,213,144,6,25,175,144,175
 6,Yamparáez,2,Yamparáez,1365,Escana,1,U.E. Gerardo Rios Murillo,1014277,2,164,111,10,20,141,111,141
+6,Yamparáez,2,Yamparáez,3445,Carama,1,Unidad Educativa Carama,1014317,1,162,107,6,31,144,107,144
+6,Yamparáez,2,Yamparáez,3740,Sajpaya,1,Unidad Educativa Sajpaya,1014327,1,240,151,11,47,209,151,209
+6,Yamparáez,2,Yamparáez,3740,Sajpaya,1,Unidad Educativa Sajpaya,1014337,2,110,63,8,19,90,63,90
+7,Nor Cinti,1,Camargo,1371,Camargo,1,Colegio Bolivia,1014437,9,240,174,4,14,192,174,192
+7,Nor Cinti,1,Camargo,1371,Camargo,1,Colegio Bolivia,1014447,10,229,188,3,8,199,188,199
 7,Nor Cinti,2,San Lucas,1393,Uruchini,1,Unidad Educativa Uruchini,1014947,1,118,74,5,15,94,74,94
+7,Nor Cinti,2,San Lucas,1394,Torojchi,1,Unidad Educativa Torojchi,1014957,1,121,79,6,21,106,79,106
+7,Nor Cinti,2,San Lucas,1397,Palacio Tambo,1,Unidad Educativa Palacio Tambo,1014977,2,240,158,11,23,192,158,192
+7,Nor Cinti,2,San Lucas,4013,El Terrado,25328,U.E. El Terrado,1015327,1,210,133,10,26,169,133,169
+7,Nor Cinti,2,San Lucas,4451,Comunidad Querquihuisi,26370,U.E. Qhirqiwisi,1015337,1,135,86,10,15,111,86,111
+7,Nor Cinti,2,San Lucas,4567,Andamarca,32280,U.E. Andamarca,1015477,1,109,85,7,8,100,85,100
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015517,1,240,178,7,9,194,178,194
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015537,3,240,168,7,11,186,168,186
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015567,6,240,180,7,8,195,180,195
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015577,7,240,168,7,18,193,168,193
+7,Nor Cinti,3,Incahuasi,1401,Incahuasi,1,Unidad Educativa Eduardo Avaroa,1015587,8,76,58,1,2,61,58,61
+7,Nor Cinti,3,Incahuasi,1404,San Lorencito,1,Escuela San Lorencito,1015597,1,57,43,0,3,46,43,46
+7,Nor Cinti,3,Incahuasi,2974,Jolencia,1,Escuela Jolencia,1015657,1,240,191,10,8,209,191,209
+7,Nor Cinti,3,Incahuasi,2977,El Verano,1,Escuela El Verano,1015677,1,240,157,4,15,176,157,176
+7,Nor Cinti,3,Incahuasi,2977,El Verano,1,Escuela El Verano,1015687,2,54,46,5,1,52,46,52
+7,Nor Cinti,3,Incahuasi,3845,El Quemado,1,U.E. Marcelo Quiroga Santa Cruz,1015707,1,240,147,5,18,170,147,170
+7,Nor Cinti,3,Incahuasi,3845,El Quemado,1,U.E. Marcelo Quiroga Santa Cruz,1015717,2,62,33,2,3,38,33,38
+7,Nor Cinti,3,Incahuasi,4395,Chillajara,26126,U.E. 25 de Mayo,1015737,1,156,101,2,5,108,101,108
+8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016227,3,240,187,7,14,208,187,208
+8,Belisario Boeto,1,Villa Serrano,1421,Urriolagoitia,1,Escuela Luis Santos Prado,1016087,1,82,58,1,13,72,58,72
+8,Belisario Boeto,1,Villa Serrano,1423,Pampas del Tigre,1,Escuela Elisardo Perez,1016107,1,240,166,12,26,204,166,204
+9,Sud Cinti,1,Villa Abecia,1426,Camataqui (Villa Abecia),1,Unidad Educativa 23 de Marzo,1016347,2,240,198,2,12,212,198,212
+9,Sud Cinti,1,Villa Abecia,1426,Camataqui (Villa Abecia),1,Unidad Educativa 23 de Marzo,1016367,4,240,190,5,13,208,190,208
+9,Sud Cinti,1,Villa Abecia,1426,Camataqui (Villa Abecia),1,Unidad Educativa 23 de Marzo,1016377,5,100,78,4,3,85,78,85
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016517,9,240,176,6,15,197,176,197
+9,Sud Cinti,2,Culpina,1430,Culpina,1,U. Edu. Jose Antonio Zampa,1016537,11,150,104,3,4,111,104,111
+9,Sud Cinti,3,Las Carreras,1447,Las Carreras,1,Unidad Educativa Jaime Mendoza,1016877,2,226,185,5,7,197,185,197
+9,Sud Cinti,3,Las Carreras,1448,San Juan,1,Unidad Educativa San Juan,1016887,1,198,162,3,13,178,162,178
 9,Sud Cinti,3,Las Carreras,2984,Monte Sandoval,1,Escuela El Monte De Sandoval,1016957,1,193,164,4,9,177,164,177
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1016987,2,240,183,6,11,200,183,200
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017007,4,240,179,4,12,195,179,195
 10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017017,5,240,189,3,11,203,189,203
 10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017027,6,240,190,4,3,197,190,197
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017037,7,240,160,5,31,196,160,196
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017047,8,240,186,5,16,207,186,207
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017067,10,240,184,5,13,202,184,202
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017087,12,240,189,3,9,201,189,201
+10,Luis Calvo,1,Villa Vaca Guzmán,1458,Iguembe,1,Unidad Educativa Iguembe,1017117,2,69,54,1,3,58,54,58
+10,Luis Calvo,1,Villa Vaca Guzmán,1460,Tentayapi,1,Casa Comunal Tentayapi,1017127,1,240,151,14,50,215,151,215
+10,Luis Calvo,1,Villa Vaca Guzmán,1460,Tentayapi,1,Casa Comunal Tentayapi,1017137,2,83,49,2,19,70,49,70
 10,Luis Calvo,1,Villa Vaca Guzmán,1464,Ticucha,1,Escuela Ticucha,1017157,1,113,77,2,11,90,77,90
 10,Luis Calvo,1,Villa Vaca Guzmán,3246,Aguairenda,1,U.E. O Ñemboea,1017197,1,240,176,10,10,196,176,196
+10,Luis Calvo,1,Villa Vaca Guzmán,3892,Itau,1,Unidad Educativa Itau,1017227,1,95,74,3,1,78,74,78
