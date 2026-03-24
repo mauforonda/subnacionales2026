@@ -146,6 +146,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002321,1,44,7,39,14,3,2,6,10
 1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002331,2,38,12,45,18,8,1,1,7
 1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002351,4,34,8,32,17,6,1,8,10
+1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002361,5,22,19,40,26,8,2,2,10
 1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002371,6,40,4,44,16,5,1,4,8
 1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002381,7,48,9,35,24,5,3,7,6
 1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002391,8,30,6,43,20,7,2,3,10
@@ -303,6 +304,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006051,1,46,3,48,13,3,2,2,7
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006061,2,41,5,61,16,4,2,3,5
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006071,3,38,4,55,22,2,2,5,3
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006081,4,24,7,32,13,1,3,3,4
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006091,5,39,6,73,9,3,2,3,4
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006101,6,45,11,47,9,2,0,3,3
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006111,7,58,6,58,14,2,0,2,6
@@ -562,6 +564,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003231,16,29,6,38,18,5,1,2,8
 1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003251,18,36,6,40,25,7,1,4,6
 1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003261,19,33,10,37,19,6,0,11,6
+1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003271,20,39,8,53,10,4,0,2,2
 1,Cercado,1,Tarija,2680,Tarija,111,U.E. Tarija,6003281,21,26,7,30,18,3,1,3,4
 1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006671,1,58,7,36,25,3,1,4,6
 1,Cercado,1,Tarija,2680,Tarija,112,U.E. Teresa De Calcuta,6006681,2,50,3,58,22,2,5,2,6
@@ -939,9 +942,19 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011281,11,53,11,17,12,12,1,4,8
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011291,12,48,11,21,19,9,4,3,3
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011331,3,56,15,23,17,12,3,4,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,16,U.E. Liceo Gran Chaco,6011341,4,52,14,29,12,12,3,4,1
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012051,8,39,7,7,18,12,4,5,5
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012071,10,36,12,14,24,10,3,4,3
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,19,U.E. Yacuiba,6012081,11,38,6,16,21,8,0,4,6
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012141,1,53,9,16,25,10,2,2,3
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012171,4,39,12,19,19,18,4,8,5
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012181,5,37,10,13,21,17,7,8,5
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,22,U.E. Mariscal Sucre,6012191,6,55,8,18,16,11,2,8,8
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31065,Coliseo 15 de Abril,6011681,4,49,6,19,10,6,3,2,7
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010031,1,41,7,16,11,4,4,6,2
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010041,2,36,6,8,4,7,3,4,4
+3,Gran Chaco,1,Yacuiba,1956,Palmar Chico,7,U.E. Nacional Mixto El Palmar,6010091,7,37,6,12,10,5,3,7,6
+3,Gran Chaco,1,Yacuiba,1958,Caiza J,9,U.E. Prof. Bautista Jurado,6010131,1,26,11,7,19,7,2,4,2
 3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010221,1,9,6,4,6,23,2,1,9
 3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010231,2,19,5,10,19,14,1,2,8
 3,Gran Chaco,1,Yacuiba,1960,Yaguacua,11,U.E. 4 de Mayo,6010241,3,16,1,2,5,24,2,10,9
@@ -956,6 +969,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1962,Sachapera,13,U.E. Sachapera,6010341,4,14,4,9,6,25,1,8,6
 3,Gran Chaco,1,Yacuiba,1962,Sachapera,13,U.E. Sachapera,6010351,5,6,1,2,5,6,0,4,5
 3,Gran Chaco,1,Yacuiba,1963,Sunchal,14,U.E. Sunchal,6010361,1,15,4,11,3,9,2,2,0
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009941,1,23,7,7,6,18,3,5,8
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009971,4,26,3,2,14,11,4,3,7
+3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6010001,7,28,3,7,4,6,1,4,0
 3,Gran Chaco,1,Yacuiba,3271,Timboy Chaco,1,U.E. Timboy Tiguazu,6009861,1,9,6,7,17,37,7,11,2
 3,Gran Chaco,1,Yacuiba,3335,Tierras Nuevas,1,U.E. Tierras Nuevas,6009871,1,16,8,5,22,10,0,9,5
 3,Gran Chaco,1,Yacuiba,3335,Tierras Nuevas,1,U.E. Tierras Nuevas,6009891,3,16,3,7,14,17,1,4,6
@@ -963,6 +979,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013961,2,28,9,36,27,1,3,2,5
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013971,3,31,7,28,16,6,3,5,9
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013981,4,32,12,25,24,1,5,4,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013991,5,31,11,41,21,4,2,4,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014001,6,33,9,23,12,7,2,1,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014011,7,32,8,19,21,7,6,1,8
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014021,8,32,11,38,25,6,3,2,5
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014031,9,29,8,36,21,5,14,0,6
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6014041,10,33,10,38,13,8,7,1,6
@@ -1001,11 +1020,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014681,8,22,14,15,30,14,4,3,1
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014691,9,31,21,19,22,8,3,4,7
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014711,11,28,14,14,28,15,3,4,3
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014321,1,26,6,17,25,6,2,0,5
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014331,2,24,18,15,10,8,3,2,5
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014341,3,30,11,19,23,7,6,3,4
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014361,5,33,17,15,23,6,4,1,6
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014371,6,23,13,19,10,7,2,4,6
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014381,7,35,15,23,18,20,5,5,8
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014391,8,26,17,6,17,11,5,4,6
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014401,9,28,19,15,16,7,3,1,9
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014411,10,30,18,10,22,8,4,4,6
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014421,11,28,9,18,22,11,3,4,8
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,8,U.E. Colorados De Bolivia,6014431,12,22,18,9,18,8,1,4,9
@@ -1023,10 +1045,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014741,3,32,14,16,27,14,5,3,6
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014751,4,21,11,15,25,14,4,6,10
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26479,U.E. Cristo Rey,6014771,6,10,8,4,8,3,4,2,4
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013901,1,40,15,22,15,10,2,4,6
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013911,2,43,8,22,15,13,2,3,11
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013921,3,40,12,13,15,14,3,1,12
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013931,4,37,14,20,17,14,5,2,6
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26480,U.E. Santa Clara,6013941,5,21,17,9,12,10,4,1,10
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014541,1,19,13,15,34,8,3,3,8
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014551,2,34,10,16,22,15,7,3,12
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014561,3,34,11,18,16,9,12,2,8
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,26481,U.E. Defensores del Chaco,6014571,4,29,18,10,20,13,9,3,5
@@ -1052,11 +1076,13 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013631,3,24,25,27,27,10,5,2,4
 3,Gran Chaco,3,Villa Montes,1983,Tiguipa,8,U.E. Rebeca Aguirre,6013641,4,12,9,3,11,3,1,2,3
 3,Gran Chaco,3,Villa Montes,1984,Capirenda,9,U.E. Capirenda,6013651,1,5,2,8,2,0,0,0,0
+3,Gran Chaco,3,Villa Montes,1985,Taringuiti,10,Sede Social de La Comunidad,6013661,1,20,3,2,1,0,0,1,0
 3,Gran Chaco,3,Villa Montes,1986,Ibibobo,11,U.E. Rafael Pabón,6013671,1,22,3,4,5,0,0,2,2
 3,Gran Chaco,3,Villa Montes,1986,Ibibobo,11,U.E. Rafael Pabón,6013691,3,6,2,8,2,1,0,0,1
 3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013721,1,10,4,19,19,18,1,2,12
 3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013741,3,8,2,5,3,2,2,0,1
 3,Gran Chaco,3,Villa Montes,3166,La Victoria,2,U.E. San Isidro La Victoria,6013461,1,4,2,2,5,1,0,2,1
+3,Gran Chaco,3,Villa Montes,3336,El Toro,1,U.E. Chaco Boreal,6013361,1,6,2,0,0,0,0,1,0
 3,Gran Chaco,3,Villa Montes,3337,Ipa,1,U.E. Antonio Jose De Sucre,6013371,1,16,5,23,13,3,2,1,15
 3,Gran Chaco,3,Villa Montes,3360,Esmeralda,1,U.E. La Esmeralda,6013381,1,5,0,2,3,10,1,0,0
 3,Gran Chaco,3,Villa Montes,3509,Samayguate,25528,U.E. Samaiguate,6013711,1,13,0,5,2,2,0,1,0
@@ -1264,6 +1290,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,O' Connor,1,Entre Ríos,2034,Entre Rios,2,U.E. Franz Tamayo,6017141,19,48,8,8,13,,,,11
 6,O' Connor,1,Entre Ríos,2034,Entre Rios,26482,U.E. Gral. Francisco Bourth O'connor,6017581,1,84,11,15,19,,,,14
 6,O' Connor,1,Entre Ríos,2034,Entre Rios,26482,U.E. Gral. Francisco Bourth O'connor,6017591,2,87,17,26,13,,,,16
+6,O' Connor,1,Entre Ríos,2034,Entre Rios,26482,U.E. Gral. Francisco Bourth O'connor,6017601,3,78,7,29,22,,,,11
 6,O' Connor,1,Entre Ríos,2034,Entre Rios,26482,U.E. Gral. Francisco Bourth O'connor,6017611,4,37,3,7,11,,,,3
 6,O' Connor,1,Entre Ríos,2036,San Simon,4,U.E. San Simon,6017201,1,45,9,22,7,,,,6
 6,O' Connor,1,Entre Ríos,2037,Valle del Medio,5,U.E. Remigio Vaca,6017211,1,44,9,18,11,,,,11

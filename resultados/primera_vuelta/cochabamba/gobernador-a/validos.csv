@@ -263,6 +263,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,3017421,3,4,13,15,36,9,9,0,2,39,62
 1,Cercado,1,Cochabamba,821,Cochabamba,159,Centro Kanata,3006401,5,1,2,2,13,0,3,0,1,3,26
 1,Cercado,1,Cochabamba,821,Cochabamba,160,(Cárcel) Penitenciaria San Sebastian Mujeres,3017981,1,4,15,3,4,7,4,1,7,76,35
+1,Cercado,1,Cochabamba,821,Cochabamba,161,Colegio La Salle Fiscal,3018401,16,0,15,12,41,3,7,3,2,17,85
 1,Cercado,1,Cochabamba,821,Cochabamba,161,Colegio La Salle Fiscal,3018411,17,5,14,12,39,2,11,2,0,17,97
 1,Cercado,1,Cochabamba,821,Cochabamba,162,Liceo Adela Zamudio,3005471,2,3,11,11,37,2,10,5,0,12,98
 1,Cercado,1,Cochabamba,821,Cochabamba,162,Liceo Adela Zamudio,3005501,5,4,17,15,17,4,6,3,4,19,93
@@ -465,6 +466,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,187,Colegio San Antonio De Pucara,3014441,28,4,4,4,20,2,5,3,2,94,42
 1,Cercado,1,Cochabamba,821,Cochabamba,187,Colegio San Antonio De Pucara,3014451,29,1,10,3,24,3,14,3,0,94,34
 1,Cercado,1,Cochabamba,821,Cochabamba,187,Colegio San Antonio De Pucara,3014511,35,3,10,7,28,4,1,3,2,74,40
+1,Cercado,1,Cochabamba,821,Cochabamba,189,Escuela Ceferino Namuncura,3015321,6,6,14,9,25,4,6,2,5,64,41
 1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,3018621,1,4,24,20,19,6,5,3,1,8,104
 1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,3018631,2,5,25,18,31,0,4,4,1,9,89
 1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,3018641,3,2,8,8,29,1,1,2,2,3,79
@@ -705,6 +707,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,25313,U.E. Madre De La Divina Providencia,3008211,6,1,5,1,11,3,1,1,0,19,29
 1,Cercado,1,Cochabamba,821,Cochabamba,25358,U.E. Nacional San Isidro,3012771,1,5,3,3,22,1,5,2,3,126,19
 1,Cercado,1,Cochabamba,821,Cochabamba,25358,U.E. Nacional San Isidro,3012791,3,4,1,2,22,1,11,3,4,134,12
+1,Cercado,1,Cochabamba,821,Cochabamba,25358,U.E. Nacional San Isidro,3012811,5,4,4,1,19,2,6,2,2,113,22
 1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,3015251,1,10,4,13,24,0,6,2,1,62,62
 1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,3015261,2,5,7,10,40,4,6,4,3,49,64
 1,Cercado,1,Cochabamba,821,Cochabamba,25867,U. E. Isaac Attie,3020431,2,2,14,27,23,5,7,5,4,11,71
@@ -832,6 +835,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Campero,2,Pasorapa,3998,Yajo Pampa,25309,Sede Sindical Yajo Pampa,3023681,1,3,0,1,18,8,2,2,0,4,0
 2,Campero,3,Omereque,835,Perereta,2017,Unidad Educativa Perereta,3023801,1,2,0,5,31,12,25,3,1,47,4
 3,Ayopaya,1,Ayopaya,843,Icoya Kami,3011,Colegio Simon Bolivar Fe y Alegria,3024061,2,16,5,1,11,3,18,2,1,81,3
+3,Ayopaya,1,Ayopaya,843,Icoya Kami,3011,Colegio Simon Bolivar Fe y Alegria,3024101,6,11,2,2,20,5,7,0,0,105,13
 3,Ayopaya,1,Ayopaya,2909,Charahuaytu,3007,Unidad Educativa Charahuaytu,3023941,1,3,7,1,8,1,5,1,0,99,6
 3,Ayopaya,1,Ayopaya,3009,Chaupisuyo  A,3010,Unidad Educativa Chapisuyo A,3024021,1,5,8,1,2,1,10,0,1,144,4
 3,Ayopaya,1,Ayopaya,4236,Cotani,25908,U. E. Cotani,3024251,1,6,14,1,9,5,9,0,1,108,4
@@ -912,6 +916,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Capinota,2,Santivañez,919,Caporaya,7012,Unidad Educativa Caporaya,3028071,2,0,3,3,5,1,1,0,0,38,1
 7,Capinota,2,Santivañez,920,Poquera,7013,Unidad Educativa Jose Rivera,3028081,1,5,19,4,15,1,13,1,2,95,16
 7,Capinota,2,Santivañez,920,Poquera,7013,Unidad Educativa Jose Rivera,3028091,2,0,6,3,3,1,3,1,0,13,0
+7,Capinota,3,Sicaya,922,Orcoma,25931,U. E. Orcoma,3028161,1,6,8,4,6,2,14,0,1,136,7
 7,Capinota,3,Sicaya,922,Orcoma,25931,U. E. Orcoma,3028181,3,3,3,2,5,5,9,0,2,115,7
 8,Germán Jordán,1,Cliza,923,Cliza,8001,Colegio Juan de Dios Balderrama,3028211,3,6,10,11,40,1,15,1,3,59,31
 8,Germán Jordán,1,Cliza,923,Cliza,8001,Colegio Juan de Dios Balderrama,3028221,4,8,3,4,37,0,19,1,3,43,21
@@ -1508,6 +1513,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Chapare,3,Villa Tunari,3658,Independencia (Villa Tunari),1,U. E. Independencia (Villa Tunari),3049461,3,0,0,0,0,1,0,0,0,208,0
 10,Chapare,3,Villa Tunari,3853,Uncia,1,Unidad Educativa Uncia,3049651,2,0,2,0,0,0,0,0,1,210,1
 10,Chapare,3,Villa Tunari,4457,Padresama,26438,U. E. Padresama,3051911,2,1,3,1,6,0,8,0,2,149,5
+11,Tapacarí,1,Tapacarí,1011,Tapacari,1101,Unidad Educativa Sucre,3052091,3,16,6,0,3,0,9,0,0,85,6
 11,Tapacarí,1,Tapacarí,1011,Tapacari,1101,Unidad Educativa Sucre,3052101,4,15,8,0,2,0,10,0,0,89,5
 11,Tapacarí,1,Tapacarí,1011,Tapacari,1101,Unidad Educativa Sucre,3052131,7,8,1,2,1,0,6,0,2,37,5
 11,Tapacarí,1,Tapacarí,2946,Japo Kasa,1111,Unidad Educativa Japo K'Asa,3052391,4,10,5,1,2,0,3,0,2,78,1
@@ -1536,6 +1542,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Carrasco,4,Chimoré,1046,Entre Rios (Tacuaral),1226,Nucleo Educativo Entre Rios Tacuaral,3053921,2,1,2,0,3,2,1,0,0,193,2
 12,Carrasco,4,Chimoré,1046,Entre Rios (Tacuaral),1226,Nucleo Educativo Entre Rios Tacuaral,3053941,4,0,5,0,0,0,1,0,0,111,2
 12,Carrasco,4,Chimoré,1047,Puerto Aurora,1227,Nucleo Escolar Puerto Aurora,3053951,1,2,4,2,5,0,5,4,2,148,1
+12,Carrasco,4,Chimoré,1047,Puerto Aurora,1227,Nucleo Escolar Puerto Aurora,3053961,2,1,5,6,9,1,5,3,1,151,3
 12,Carrasco,4,Chimoré,1047,Puerto Aurora,1227,Nucleo Escolar Puerto Aurora,3053971,3,4,1,1,3,0,0,3,1,130,1
 12,Carrasco,4,Chimoré,4197,Puerto Cochabamba,25644,U.E. Puerto Cochabamba,3054191,1,0,17,2,3,0,1,2,1,92,1
 12,Carrasco,4,Chimoré,4407,Pachinu,26141,Sede Comunal Pachinu,3054311,1,0,0,0,0,0,0,0,0,32,0
@@ -1599,6 +1606,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 14,Punata,1,Punata,1076,Punata,25036,Escuela Andres Maria Torrico,3058881,7,6,7,2,24,5,7,2,4,73,26
 14,Punata,1,Punata,1076,Punata,25036,Escuela Andres Maria Torrico,3058921,11,6,4,2,19,2,12,8,8,62,29
 14,Punata,1,Punata,1076,Punata,25036,Escuela Andres Maria Torrico,3058931,12,3,10,1,21,3,5,4,6,93,18
+14,Punata,1,Punata,1076,Punata,25036,Escuela Andres Maria Torrico,3058951,14,5,8,3,23,2,10,6,6,59,39
 14,Punata,1,Punata,1076,Punata,25037,U. E. Manuel A. Villarroel (Ex Bolivar),3059011,3,0,7,0,25,7,14,3,7,59,33
 14,Punata,1,Punata,1076,Punata,25037,U. E. Manuel A. Villarroel (Ex Bolivar),3059041,6,5,13,2,13,8,13,6,10,54,24
 14,Punata,1,Punata,1076,Punata,25037,U. E. Manuel A. Villarroel (Ex Bolivar),3059111,13,5,12,3,17,6,10,7,7,49,33

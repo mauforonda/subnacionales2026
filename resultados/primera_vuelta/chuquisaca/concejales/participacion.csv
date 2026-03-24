@@ -1013,6 +1013,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,1,Sucre,4350,Kuchu Tambo,26050,U.E. 9 de Marzo,1000557,5,127,36,69,8,113,36,113
 1,Oropeza,1,Sucre,4638,Paredón,32441,U.E. Paredón,1000567,1,103,55,41,3,99,55,99
 1,Oropeza,2,Yotala,3826,Mosoj Llajta,1,Unidad Educativa Victor Sandi,1010337,3,240,140,62,8,210,140,210
+1,Oropeza,3,Poroma,4474,Mariquilla,32062,U.E. Mariquilla,1010757,1,138,44,63,4,111,44,111
 3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011407,5,240,130,45,29,204,130,204
 3,Zudáñez,1,Zudañez,1283,Zudañez,1,Col. Jaime De Zudañez,1011417,6,240,138,42,19,199,138,199
 3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011307,1,240,122,64,22,208,122,208
@@ -1021,7 +1022,20 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011337,4,240,122,66,17,205,122,205
 3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011347,5,240,126,63,16,205,126,205
 3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011357,6,209,106,58,17,181,106,181
+3,Zudáñez,2,Presto,1288,Pasopaya,1,U.E. 31 de Mayo,1011487,1,240,123,57,10,190,123,190
 3,Zudáñez,2,Presto,1289,Rodeo El Palmar,1,Escuela José María Martínez,1011527,3,243,132,53,15,200,132,200
+3,Zudáñez,3,Mojocoya,2899,Quivale,1,Escuela Hilarion Vides Choque,1011737,1,257,126,60,3,189,126,189
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012147,1,240,151,57,8,216,151,216
+4,Tomina,1,Padilla,1305,Padilla,30007,U.E. Deogracias Vega,1012177,4,240,141,48,14,203,141,203
+4,Tomina,1,Padilla,3679,Llantoj,1,U.E. Caciano Rodas Cardenas,1012107,1,109,50,44,1,95,50,95
+4,Tomina,2,Tomina,1314,Tomina,1,Unidad Educativa Eduardo Avaroa,1012287,6,240,119,67,10,196,119,196
+5,Hernando Siles,1,Monteagudo,1331,Monteagudo,2,Escuela Bernardo Monteagudo,1013297,6,240,136,52,9,197,136,197
+5,Hernando Siles,1,Monteagudo,1332,Bartolo,1,Nucleo Escolar Bartolo,1012917,1,82,29,37,2,68,29,68
+5,Hernando Siles,1,Monteagudo,4216,Ñaurenda,25725,U.E. Ñaurenda,1013377,1,77,30,21,6,57,30,57
+5,Hernando Siles,2,Huacareta,1344,San Pablo de Huacareta,1,Colegio Amistad A,1013557,2,240,154,38,3,195,154,195
+5,Hernando Siles,2,Huacareta,1350,Rosario del Ingre,1,Escuela Salvio Lanuza,1013677,2,135,62,37,6,105,62,105
+5,Hernando Siles,2,Huacareta,2902,Uruguay,1,Unidad Educativa Ernesto Theobald,1013707,3,165,95,26,9,130,95,130
+5,Hernando Siles,2,Huacareta,3442,Huirasai,1,Unidad Educativa Huirasai,1013747,1,206,113,52,3,168,113,168
 6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013777,3,240,71,120,14,205,71,205
 6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013787,4,240,83,97,3,183,83,183
 6,Yamparáez,1,Tarabuco,1354,Tarabuco,1,U. Edu. Rosalia Vda. De Antezana,1013797,5,240,84,106,13,203,84,203
@@ -1033,4 +1047,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,Yamparáez,2,Yamparáez,1363,Yamparaez,1,Escuela Eduardo Sempertegui,1014197,1,240,116,70,14,200,116,200
 6,Yamparáez,2,Yamparáez,1363,Yamparaez,1,Escuela Eduardo Sempertegui,1014217,3,240,131,59,8,198,131,198
 6,Yamparáez,2,Yamparáez,1363,Yamparaez,1,Escuela Eduardo Sempertegui,1014237,5,213,101,65,9,175,101,175
+6,Yamparáez,2,Yamparáez,1365,Escana,1,U.E. Gerardo Rios Murillo,1014277,2,164,78,52,11,141,78,141
+7,Nor Cinti,2,San Lucas,1393,Uruchini,1,Unidad Educativa Uruchini,1014947,1,118,58,31,5,94,58,94
 9,Sud Cinti,3,Las Carreras,2984,Monte Sandoval,1,Escuela El Monte De Sandoval,1016957,1,193,128,44,5,177,128,177
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017017,5,240,143,56,4,203,143,203
+10,Luis Calvo,1,Villa Vaca Guzmán,1456,Muyupampa,1,Escuela Hernando Siles,1017027,6,240,143,50,4,197,143,197
+10,Luis Calvo,1,Villa Vaca Guzmán,1464,Ticucha,1,Escuela Ticucha,1017157,1,113,55,30,5,90,55,90
+10,Luis Calvo,1,Villa Vaca Guzmán,3246,Aguairenda,1,U.E. O Ñemboea,1017197,1,240,126,68,2,196,126,196
