@@ -303,6 +303,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006097,5,240,166,4,10,180,166,180
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006107,6,240,149,8,17,174,149,174
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006117,7,240,170,8,8,186,170,186
+1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006127,8,240,156,3,11,170,156,170
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006137,9,240,132,3,15,150,132,150
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006147,10,240,148,7,12,167,148,167
 1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,6006157,11,240,161,5,15,181,161,181
@@ -1206,6 +1207,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,2,Caraparí,1973,Itau,32325,U.E. Eustaquio Méndez,6013337,1,66,48,3,6,57,48,57
 3,Gran Chaco,2,Caraparí,1974,Agua Blanca,9,U.E. Julio Ramos Valdez,6013187,1,240,195,12,8,215,195,215
 3,Gran Chaco,2,Caraparí,1974,Agua Blanca,9,U.E. Julio Ramos Valdez,6013197,2,182,147,2,10,159,147,159
+3,Gran Chaco,2,Caraparí,1975,Yacunda,10,U.E. 17 de Agosto,6013207,1,78,54,3,5,62,54,62
 3,Gran Chaco,2,Caraparí,1976,Zapatera Norte,11,U.E. Zapatera Norte,6013227,1,240,193,7,7,207,193,207
 3,Gran Chaco,2,Caraparí,1976,Zapatera Norte,32324,Centro Pan,6013327,1,39,34,0,0,34,34,34
 3,Gran Chaco,2,Caraparí,2934,Las Sidras,10,U.E. 2 de Agosto,6013217,1,180,140,2,12,154,140,154
@@ -1267,6 +1269,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014647,4,240,170,9,9,188,170,188
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014657,5,240,176,10,14,200,176,200
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014667,6,240,162,6,16,184,162,184
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014677,7,240,179,7,6,192,179,192
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014687,8,240,175,8,11,194,175,194
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014697,9,240,178,8,22,208,178,208
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,7,U.E. Asamblea De Dios,6014707,10,240,173,13,9,195,173,195
@@ -1469,10 +1472,16 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Méndez,1,San Lorenzo,2000,Calama,11,U.E. Osvaldo Galvez,6016267,4,35,27,2,1,30,27,30
 5,Méndez,1,San Lorenzo,2001,Canasmoro,12,U.E. Eustaquio Mendez,6016277,1,240,186,10,16,212,186,212
 5,Méndez,1,San Lorenzo,2001,Canasmoro,12,U.E. Eustaquio Mendez,6016287,2,240,179,9,19,207,179,207
+5,Méndez,1,San Lorenzo,2001,Canasmoro,12,U.E. Eustaquio Mendez,6016307,4,201,140,7,19,166,140,166
+5,Méndez,1,San Lorenzo,2002,Tomatas Grande,14,U.E. Tomatas Grande,6016337,3,129,102,4,12,118,102,118
 5,Méndez,1,San Lorenzo,2003,León Cancha,14,U.E. Leon Cancha,6016347,1,240,130,17,30,177,130,177
 5,Méndez,1,San Lorenzo,2003,León Cancha,14,U.E. Leon Cancha,6016357,2,21,14,0,2,16,14,16
+5,Méndez,1,San Lorenzo,2006,Camarón Zona El Morro,16,U.E. Eustaquio Mendez,6016377,1,235,122,15,28,165,122,165
 5,Méndez,1,San Lorenzo,2008,San Lorencito,18,U.E. San Lorencito,6016387,1,90,55,4,9,68,55,68
 5,Méndez,1,San Lorenzo,2009,Alto de Cajas,19,U.E. Alto De Cajas,6016397,1,107,68,7,12,87,68,87
+5,Méndez,1,San Lorenzo,2011,Sella Mendez,20,U.E. Julio Sucre Sella Mendez,6016427,3,154,111,9,8,128,111,128
+5,Méndez,1,San Lorenzo,2842,La Hoja,25029,U.E. 1o. de Mayo,6016477,1,152,94,6,14,114,94,114
+5,Méndez,1,San Lorenzo,2881,San Pedro de las Peñas,15,U.E. San Pedro de Las Peñas,6016367,1,59,28,1,8,37,28,37
 5,Méndez,1,San Lorenzo,3048,Trancas,23,U.E. Trancas,6016467,1,167,110,8,20,138,110,138
 5,Méndez,1,San Lorenzo,3049,Pajonalcito,1,U.E. Pajonalcito,6015547,1,72,44,2,5,51,44,51
 5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015857,1,240,177,7,20,204,177,204
