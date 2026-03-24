@@ -219,6 +219,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Nicolás Suárez,4,Bella Flor,3527,Florida (TCO),1,U.E. De Florida,9002137,1,20,7,8,4,19,7,19
 1,Nicolás Suárez,4,Bella Flor,3874,San Pedro,1,U.E. Simon Bolívar,9002147,1,170,95,48,5,148,95,148
 1,Nicolás Suárez,4,Bella Flor,3890,Santa Lourdes,1,U.E. Santa Lourdes,9002157,1,191,109,41,6,156,109,156
+1,Nicolás Suárez,4,Bella Flor,4367,Castañera Campoana,26079,U. E. 24 de Septiembre,9002217,1,139,50,54,7,111,50,111
 1,Nicolás Suárez,4,Bella Flor,4663,Comunidad Campesina El Fortín,32490,U.E. Fortín,9002227,1,81,44,23,8,75,44,75
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002277,1,240,115,56,15,186,115,186
 2,Manuripi,1,Puerto Rico,1130,Puerto Rico,27,U.E. La Salle Pedro Villa Lobos,9002287,2,240,118,53,16,187,118,187
@@ -255,15 +256,18 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Manuripi,3,Filadelfia,1143,Filadelfia,36,U.E. Filadelfia,9002667,4,22,16,4,1,21,16,21
 2,Manuripi,3,Filadelfia,1145,Villa Bella (Purisima),37,U.E. Villa Bella,9002677,1,240,118,85,14,217,118,217
 2,Manuripi,3,Filadelfia,1145,Villa Bella (Purisima),37,U.E. Villa Bella,9002687,2,35,21,10,3,34,21,34
+2,Manuripi,3,Filadelfia,1146,Empresiña,38,U.E. Nueva Empresa,9002697,1,240,117,92,4,213,117,213
 2,Manuripi,3,Filadelfia,1146,Empresiña,38,U.E. Nueva Empresa,9002707,2,167,87,62,3,152,87,152
 2,Manuripi,3,Filadelfia,1147,Buyuyo,39,U.E. Buyuyo,9002717,1,240,143,61,9,213,143,213
 2,Manuripi,3,Filadelfia,1147,Buyuyo,39,U.E. Buyuyo,9002727,2,31,22,5,0,27,22,27
 2,Manuripi,3,Filadelfia,1149,Chive,41,U.E. Chive,9002737,1,240,122,56,7,185,122,185
+2,Manuripi,3,Filadelfia,1149,Chive,41,U.E. Chive,9002747,2,192,100,50,4,154,100,154
 2,Manuripi,3,Filadelfia,1151,Curichon,42,U.E. Curichon,9002757,1,211,97,88,3,188,97,188
 2,Manuripi,3,Filadelfia,2802,San Antonio (Chive),46,U.E. San Antonio,9002767,1,82,53,16,2,71,53,71
 2,Manuripi,3,Filadelfia,2897,Luz de America,80,U.E. Luz De America,9002777,1,189,101,71,2,174,101,174
 2,Manuripi,3,Filadelfia,3257,Alta Gracia,1,U.E. Alta Gracia,9002527,1,102,52,35,0,87,52,87
 2,Manuripi,3,Filadelfia,3298,Holanda,1,U.E. De Holanda,9002537,1,240,138,77,9,224,138,224
+2,Manuripi,3,Filadelfia,3298,Holanda,1,U.E. De Holanda,9002547,2,225,125,61,7,193,125,193
 2,Manuripi,3,Filadelfia,3299,Soberania,1,U.E.  Juancito Pinto,9002557,1,240,123,55,14,192,123,192
 2,Manuripi,3,Filadelfia,3299,Soberania,1,U.E.  Juancito Pinto,9002567,2,236,107,74,9,190,107,190
 2,Manuripi,3,Filadelfia,3402,La Cruz,1,U.E. De La Cruz,9002577,1,49,14,25,2,41,14,41
@@ -351,6 +355,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Abuná,1,Santa Rosa,1181,Santa Rosa del Abuna,69,U.E. Abuna,9003607,1,254,109,55,8,172,109,172
 4,Abuná,1,Santa Rosa,3301,1 de Mayo,1,U.E.  Zacarias Moreno,9003557,1,240,111,86,9,206,111,206
 4,Abuná,1,Santa Rosa,3301,1 de Mayo,1,U.E.  Zacarias Moreno,9003567,2,217,93,80,5,178,93,178
+4,Abuná,1,Santa Rosa,3697,Villa El Carmen,1,U.E. Augusto Gutierrez Banzer,9003577,1,142,78,39,4,121,78,121
 4,Abuná,1,Santa Rosa,3759,Nueva Esperanza(Urbanización Puerto Morales),1,U.E. Genoveva Ríos,9003587,1,233,110,76,24,210,110,210
 4,Abuná,1,Santa Rosa,3910,Mariscal Antonio José de Sucre Bernardino Racua,1,U.E. Pedro Domingo Murrillo,9003597,1,169,68,32,19,119,68,119
 4,Abuná,1,Santa Rosa,4253,Nacebe,25936,U.E. Benito Tirina Suarez,9003617,1,109,55,37,3,95,55,95
