@@ -412,7 +412,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,2,San Javier,3867,La Curva,1,U.E. La Curva,8004007,3,,0,6,1,,,0,,0,,0,,
 1,Cercado,2,San Javier,4172,Villa Rodeo,25567,U.E. Villa Rodeo,8004127,1,,4,23,25,,,4,,13,,2,,
 2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004427,1,12,3,31,,0,0,8,13,3,,14,24,56
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004437,2,13,2,32,,0,0,4,15,1,,18,21,49
 2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004447,3,7,2,21,,3,0,11,14,2,,15,25,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004457,4,9,1,34,,3,0,0,15,2,,17,26,60
 2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004467,5,10,0,37,,2,0,3,16,1,,14,17,63
 2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004477,6,9,3,30,,0,0,4,17,1,,15,22,49
 2,Vaca Diez,1,Riberalta,2540,Riberalta,1,U.E. San Jose Obrero,8004487,7,11,0,22,,2,0,6,15,3,,18,21,56
@@ -426,15 +428,18 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005197,2,9,3,37,,0,0,4,11,5,,14,26,70
 2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005207,3,20,5,25,,3,0,4,13,2,,26,42,53
 2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005217,4,12,3,32,,0,0,3,20,3,,18,31,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005227,5,11,3,43,,0,0,0,27,2,,12,23,66
 2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005237,6,12,1,35,,3,0,4,27,2,,12,39,57
 2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005247,7,7,1,36,,1,0,1,21,5,,19,25,62
 2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005257,8,5,1,25,,3,0,4,14,7,,13,20,70
+2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005267,9,10,4,42,,1,0,2,14,4,,18,21,72
 2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005277,10,19,1,38,,1,0,4,20,2,,22,19,53
 2,Vaca Diez,1,Riberalta,2540,Riberalta,3,U.E. Felix Sattory Roman,8005287,11,10,2,28,,1,0,2,17,5,,13,21,47
 2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006097,1,13,2,21,,8,0,8,16,3,,15,26,68
 2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006107,2,13,4,29,,0,0,5,14,6,,19,22,71
 2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006117,3,17,8,34,,2,0,4,17,1,,12,22,42
 2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006127,4,12,2,40,,1,0,5,11,6,,21,22,37
+2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006137,5,10,2,31,,6,0,1,11,0,,19,22,64
 2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006147,6,14,5,27,,5,0,3,12,2,,25,25,52
 2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006157,7,14,2,34,,11,0,4,14,3,,22,12,52
 2,Vaca Diez,1,Riberalta,2540,Riberalta,4,Politecnico Benjamin Bowles,8006167,8,23,3,27,,6,0,8,19,4,,17,23,51
@@ -460,11 +465,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,2540,Riberalta,9,U.E. Nacional Pedro Kramer,8004627,3,15,1,51,,2,0,4,24,4,,20,19,44
 2,Vaca Diez,1,Riberalta,2540,Riberalta,9,U.E. Nacional Pedro Kramer,8004637,4,10,3,57,,2,0,3,12,1,,22,32,32
 2,Vaca Diez,1,Riberalta,2540,Riberalta,9,U.E. Nacional Pedro Kramer,8004647,5,20,0,66,,0,0,4,9,3,,7,28,56
+2,Vaca Diez,1,Riberalta,2540,Riberalta,9,U.E. Nacional Pedro Kramer,8004657,6,7,1,31,,0,0,1,6,4,,15,13,26
 2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004667,1,12,1,37,,0,0,1,18,4,,21,28,60
 2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004677,2,14,1,50,,0,0,5,16,5,,26,31,53
 2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004687,3,22,1,0,,1,0,0,23,3,,15,23,70
+2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004697,4,8,2,42,,3,0,2,18,7,,14,31,53
 2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004707,5,19,4,39,,0,0,1,17,4,,22,39,58
 2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004717,6,23,1,45,,0,0,4,14,3,,20,29,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,10,U.E.Jhon Fitzgerald Kennedy,8004727,7,7,0,0,,1,0,0,6,2,,8,9,27
 2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006217,1,14,3,42,,1,0,2,13,2,,16,17,63
 2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006227,2,15,4,26,,1,0,7,22,1,,10,24,67
 2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006237,3,12,9,24,,3,0,7,12,5,,7,19,75
@@ -472,6 +480,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006257,5,12,5,27,,1,0,5,18,1,,26,11,70
 2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006267,6,11,4,30,,3,0,11,12,0,,16,25,53
 2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006277,7,10,4,33,,6,0,5,15,4,,21,16,66
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006287,8,10,10,29,,1,0,8,15,4,,14,18,50
+2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006297,9,7,7,21,,3,0,2,15,2,,15,30,58
 2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006307,10,6,9,41,,1,0,10,11,2,,17,18,44
 2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006317,11,9,12,38,,1,0,2,12,3,,14,22,48
 2,Vaca Diez,1,Riberalta,2540,Riberalta,11,U.E.  Británica,8006327,12,9,1,19,,3,0,6,18,3,,8,12,43
@@ -500,9 +510,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005357,7,10,5,32,,2,0,1,14,1,,16,12,40
 2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005367,8,11,2,36,,1,0,2,29,4,,21,16,47
 2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005377,9,10,1,30,,1,0,7,16,4,,22,29,62
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005387,10,13,5,32,,4,0,5,19,4,,11,24,62
 2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005397,11,12,2,35,,1,0,1,26,4,,16,32,53
 2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005407,12,13,2,33,,1,0,4,24,0,,21,18,62
 2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005417,13,18,5,32,,2,0,2,22,7,,11,25,61
+2,Vaca Diez,1,Riberalta,2540,Riberalta,13,U.E.  Eduardo Abaroa,8005427,14,7,1,13,,3,0,3,13,5,,10,16,35
+2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004907,1,21,3,18,,1,0,9,13,4,,14,29,45
 2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004917,2,14,3,30,,2,0,2,10,7,,21,31,49
 2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004927,3,12,1,32,,0,0,4,16,5,,12,30,47
 2,Vaca Diez,1,Riberalta,2540,Riberalta,14,U.E.  1ro. de Diciembre,8004937,4,7,3,22,,0,0,5,12,3,,18,27,59
@@ -525,18 +538,22 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006427,10,18,12,20,,0,0,7,21,2,,9,14,63
 2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006437,11,20,7,11,,5,0,24,14,6,,18,14,46
 2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006447,12,12,8,23,,1,0,7,13,0,,15,32,54
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006457,13,10,4,21,,3,0,10,14,6,,11,17,52
 2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006467,14,8,6,18,,5,0,2,23,2,,13,25,59
 2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006477,15,12,7,15,,4,0,6,17,3,,17,8,52
 2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006487,16,15,7,19,,2,0,4,17,4,,11,15,72
 2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006497,17,10,1,20,,1,0,7,15,5,,14,12,63
+2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006507,18,10,3,59,,0,0,0,12,3,,15,24,24
 2,Vaca Diez,1,Riberalta,2540,Riberalta,15,U.E. Los Tajibos,8006517,19,9,6,18,,1,0,1,13,2,,5,16,40
 2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004737,1,17,8,49,,3,0,4,16,2,,13,31,36
 2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004747,2,15,2,36,,3,0,5,18,4,,12,28,60
 2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004757,3,14,4,49,,0,0,2,20,1,,14,27,42
 2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004767,4,14,3,42,,1,0,6,21,2,,16,23,51
+2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004777,5,10,2,49,,1,0,2,24,0,,15,23,57
 2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004787,6,15,1,54,,0,0,2,14,5,,14,27,50
 2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004797,7,15,1,49,,0,0,3,19,3,,11,17,60
 2,Vaca Diez,1,Riberalta,2540,Riberalta,16,U.E. Nuestra Señora Del Carmen,8004807,8,1,2,16,,1,0,1,7,1,,3,10,8
+2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005017,1,19,0,25,,2,0,4,15,1,,17,41,59
 2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005027,2,11,1,39,,0,0,7,11,3,,12,42,52
 2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005037,3,12,4,20,,0,0,4,20,4,,19,47,57
 2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005047,4,13,4,29,,2,0,5,24,1,,18,38,44
@@ -547,14 +564,18 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005097,9,13,3,24,,6,0,4,15,2,,28,38,44
 2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005107,10,10,1,29,,0,0,4,19,1,,22,30,45
 2,Vaca Diez,1,Riberalta,2540,Riberalta,17,Unidad Educativa Nataniel García Chavez,8005117,11,5,0,20,,1,0,3,11,2,,23,28,30
+2,Vaca Diez,1,Riberalta,2540,Riberalta,18,(Cárcel) Penal Riberalta,8004817,1,2,0,4,,1,0,6,11,0,,2,0,4
+2,Vaca Diez,1,Riberalta,2540,Riberalta,19,U.E.  San Francisco,8005437,1,5,0,34,,5,0,4,33,3,,20,28,44
 2,Vaca Diez,1,Riberalta,2540,Riberalta,19,U.E.  San Francisco,8005447,2,8,1,22,,1,0,0,29,2,,14,23,59
 2,Vaca Diez,1,Riberalta,2540,Riberalta,19,U.E.  San Francisco,8005457,3,10,4,33,,1,0,1,25,2,,13,12,69
 2,Vaca Diez,1,Riberalta,2540,Riberalta,19,U.E.  San Francisco,8005467,4,5,1,28,,2,0,3,14,0,,12,18,36
 2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005477,1,4,2,23,,2,0,4,30,2,,11,28,61
 2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005487,2,4,5,34,,0,0,5,15,2,,21,23,75
+2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005497,3,10,5,25,,2,0,4,21,3,,10,32,57
 2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005507,4,12,5,26,,4,0,0,26,2,,13,24,54
 2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005517,5,16,3,24,,0,0,2,17,4,,19,27,66
 2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005527,6,9,0,39,,3,0,8,18,1,,14,30,52
+2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005537,7,15,5,29,,1,0,1,17,1,,16,30,67
 2,Vaca Diez,1,Riberalta,2540,Riberalta,20,U.E.  Walter Alpire Duran,8005547,8,2,1,3,,1,0,0,3,1,,4,6,11
 2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006527,1,11,2,20,,9,0,5,24,2,,25,17,57
 2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006537,2,11,6,27,,2,0,6,16,3,,18,24,55
@@ -562,18 +583,23 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006557,4,13,6,15,,6,0,5,16,2,,13,18,66
 2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006567,5,16,4,29,,16,0,10,11,0,,18,13,48
 2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006577,6,8,3,17,,4,0,8,21,3,,15,18,77
+2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006587,7,16,3,30,,3,0,7,26,3,,14,21,47
 2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006597,8,13,5,28,,3,0,8,18,3,,13,21,68
 2,Vaca Diez,1,Riberalta,2540,Riberalta,21,U.E.  Ismael Carrasco Telleria,8006607,9,10,4,14,,2,0,6,19,5,,6,15,38
 2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005777,1,12,2,22,,0,0,2,13,3,,19,15,63
 2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005787,2,12,2,26,,5,0,4,18,4,,16,19,58
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005797,3,13,2,37,,0,0,2,21,3,,10,31,48
 2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005807,4,13,6,23,,2,0,3,17,3,,20,21,56
 2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005817,5,21,2,22,,1,0,4,10,2,,12,33,58
 2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005827,6,11,3,37,,0,0,7,17,4,,15,40,45
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005837,7,15,1,27,,4,0,3,22,4,,14,30,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005847,8,10,3,24,,3,0,3,14,2,,25,23,73
 2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005857,9,16,1,31,,2,0,2,21,1,,11,26,49
 2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005867,10,11,4,30,,3,0,5,13,4,,15,27,46
 2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005877,11,17,1,36,,1,0,4,21,3,,13,36,46
 2,Vaca Diez,1,Riberalta,2540,Riberalta,22,U.E. Federico Demmer,8005887,12,1,2,4,,0,0,0,2,0,,4,2,9
 2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006617,1,11,16,22,,7,0,10,19,4,,10,20,49
+2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006627,2,18,15,20,,3,0,8,14,3,,11,15,51
 2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006637,3,13,20,16,,2,0,6,10,1,,9,11,52
 2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006647,4,12,16,16,,3,0,10,16,7,,12,20,48
 2,Vaca Diez,1,Riberalta,2540,Riberalta,23,U.E.  San Juan,8006657,5,9,23,17,,5,0,5,24,1,,13,12,51
@@ -596,6 +622,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005927,4,8,2,34,,1,0,6,24,3,,11,15,61
 2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005937,5,11,1,36,,3,0,6,17,3,,21,24,54
 2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005947,6,12,2,22,,3,0,3,22,2,,20,17,55
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005957,7,12,1,37,,0,0,10,15,3,,17,20,74
 2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005967,8,11,0,24,,0,0,2,11,2,,16,30,61
 2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005977,9,14,4,17,,5,0,4,16,4,,16,33,56
 2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8005987,10,13,2,31,,2,0,1,14,4,,21,21,66
@@ -608,15 +635,19 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006057,17,7,4,29,,4,0,7,17,2,,21,11,52
 2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006067,18,10,1,30,,2,0,5,19,3,,17,22,63
 2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006077,19,12,4,26,,3,0,1,24,4,,14,21,53
+2,Vaca Diez,1,Riberalta,2540,Riberalta,25574,U.E. Litoral,8006087,20,0,0,2,,1,0,1,2,1,,1,2,8
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006917,1,16,13,18,,4,0,9,14,4,,13,25,49
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006927,2,18,20,19,,4,0,3,18,4,,8,22,46
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006937,3,20,18,17,,4,0,7,4,2,,14,21,53
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006947,4,17,9,14,,3,0,8,11,2,,16,13,47
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006957,5,15,12,26,,3,0,9,16,4,,8,18,54
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006967,6,10,19,17,,5,0,3,13,5,,14,31,50
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006977,7,13,10,18,,3,0,5,14,3,,11,18,59
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006987,8,11,18,20,,4,0,10,10,2,,8,14,44
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8006997,9,16,11,29,,3,0,3,14,2,,13,27,57
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8007007,10,19,13,21,,5,0,3,20,0,,10,23,48
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8007017,11,22,16,18,,0,0,1,26,1,,11,12,55
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8007027,12,14,21,18,,5,0,7,14,3,,4,17,44
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8007037,13,21,11,22,,3,0,11,18,1,,12,27,49
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26355,U.E. 21 de Septiembre,8007047,14,14,19,20,,2,0,10,11,1,,11,16,49
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26356,U.E. Barbarita Paz Yamane,8006797,1,16,2,20,,3,0,3,15,1,,21,34,68
@@ -625,6 +656,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26356,U.E. Barbarita Paz Yamane,8006827,4,10,9,21,,2,0,11,15,5,,10,14,69
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26356,U.E. Barbarita Paz Yamane,8006837,5,21,5,22,,1,0,5,28,2,,9,17,49
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26356,U.E. Barbarita Paz Yamane,8006847,6,14,0,15,,4,0,7,18,2,,12,22,65
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26356,U.E. Barbarita Paz Yamane,8006857,7,11,10,18,,0,0,5,12,1,,9,19,53
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26357,U.E. Polo Palacios,8005127,1,13,4,29,,1,0,3,19,1,,21,27,52
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26357,U.E. Polo Palacios,8005137,2,18,3,34,,1,0,5,20,7,,21,15,47
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26357,U.E. Polo Palacios,8005147,3,9,1,38,,1,0,1,17,5,,26,37,50
@@ -633,7 +665,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26357,U.E. Polo Palacios,8005177,6,7,2,20,,1,0,1,7,1,,7,19,16
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26358,U.E. Guido Gutierrez Moreno,8006867,1,20,3,19,,1,0,11,10,2,,14,25,56
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26358,U.E. Guido Gutierrez Moreno,8006877,2,15,0,28,,2,0,5,18,5,,10,17,55
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26358,U.E. Guido Gutierrez Moreno,8006887,3,20,5,32,,2,0,3,21,2,,16,13,54
 2,Vaca Diez,1,Riberalta,2540,Riberalta,26358,U.E. Guido Gutierrez Moreno,8006897,4,14,7,24,,1,0,5,11,2,,19,10,46
+2,Vaca Diez,1,Riberalta,2540,Riberalta,26358,U.E. Guido Gutierrez Moreno,8006907,5,12,8,27,,2,0,8,15,2,,10,15,46
 2,Vaca Diez,1,Riberalta,2540,Riberalta,32016,U.E. Arca Maranatha,8005557,1,19,2,31,,0,0,4,19,4,,12,30,56
 2,Vaca Diez,1,Riberalta,2540,Riberalta,32016,U.E. Arca Maranatha,8005567,2,22,2,37,,4,0,3,13,6,,18,27,63
 2,Vaca Diez,1,Riberalta,2540,Riberalta,32016,U.E. Arca Maranatha,8005577,3,19,1,42,,1,0,1,21,4,,14,31,62

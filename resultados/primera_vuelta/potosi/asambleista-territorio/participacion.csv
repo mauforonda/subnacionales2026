@@ -753,6 +753,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,2,Tinguipaya,1502,Isla,57,U. E. Isla,5007571,1,60,29,13,2,44,29,44
 1,Tomás Frías,2,Tinguipaya,2817,Utacalla,495,U. E. Juan Victor Montoya Medinacelli,5007631,1,240,120,72,15,207,120,207
 1,Tomás Frías,2,Tinguipaya,2817,Utacalla,495,U. E. Juan Victor Montoya Medinacelli,5007641,2,111,55,35,5,95,55,95
+1,Tomás Frías,2,Tinguipaya,3032,Calazaya,515,U. E. San José,5007691,1,240,110,67,32,209,110,209
 1,Tomás Frías,2,Tinguipaya,3137,Tambo Leñas,539,U.E. Leñas,5007751,1,240,122,60,16,198,122,198
 1,Tomás Frías,2,Tinguipaya,3206,kaquena Alta,585,U. E. Eje Caquena,5007791,1,240,136,79,22,237,136,237
 1,Tomás Frías,2,Tinguipaya,3206,kaquena Alta,585,U. E. Eje Caquena,5007801,2,49,30,17,2,49,30,49
@@ -1025,6 +1026,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,Nor Chichas,1,Cotagaita,1638,Laytapi,209,U.E. Laytapi,5015101,1,131,79,43,7,129,79,129
 6,Nor Chichas,1,Cotagaita,1639,Ramadas,210,U.E. Ramadas,5015111,1,154,99,22,19,140,99,140
 6,Nor Chichas,1,Cotagaita,1640,Villa Concepción,211,U.E. Villa Concepcion,5015121,1,164,91,60,11,162,91,162
+6,Nor Chichas,1,Cotagaita,1645,Sagrario,218,U.E. Pedro Domingo Murillo De Sagrario,5015161,2,157,94,40,8,142,94,142
 6,Nor Chichas,1,Cotagaita,2662,El Manzanal(Ayataqui),213,U.E. El Manzanal,5015131,1,73,52,4,1,57,52,57
 6,Nor Chichas,1,Cotagaita,2663,Ascanty,214,U.E. Ascanty,5015141,1,240,109,59,9,177,109,177
 6,Nor Chichas,1,Cotagaita,2664,Cotagaita (Cotagaitilla),191,U.E. Cotagaitilla,5014901,1,259,124,84,21,229,124,229
@@ -1112,6 +1114,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Sud Chichas,2,Atocha,1702,Atocha,283,U. E. Gregorio Pacheco,5017771,2,240,100,80,38,218,100,218
 8,Sud Chichas,2,Atocha,1702,Atocha,283,U. E. Gregorio Pacheco,5017781,3,240,99,72,31,202,99,202
 8,Sud Chichas,2,Atocha,1702,Atocha,283,U. E. Gregorio Pacheco,5017791,4,240,91,80,29,200,91,200
+8,Sud Chichas,2,Atocha,1702,Atocha,284,U. E. Eduardo Abaroa,5017821,2,240,102,63,31,196,102,196
 8,Sud Chichas,2,Atocha,1703,Telamayu,285,U. E. Bolivia,5017851,2,240,104,78,32,214,104,214
 8,Sud Chichas,2,Atocha,1703,Telamayu,285,U. E. Bolivia,5017861,3,84,32,24,11,67,32,67
 8,Sud Chichas,2,Atocha,1704,Gran Chocaya,286,U. E. Hernan Siles Zuazo,5017871,1,58,32,11,7,50,32,50
@@ -1146,6 +1149,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 11,José María Linares,1,Puna,1744,Puna(C.Villa Talavera),333,Coleg. Litoral,5019221,3,240,123,50,25,198,123,198
 11,José María Linares,1,Puna,1744,Puna(C.Villa Talavera),333,Coleg. Litoral,5019231,4,240,113,61,25,199,113,199
 11,José María Linares,1,Puna,1744,Puna(C.Villa Talavera),333,Coleg. Litoral,5019241,5,49,23,14,2,39,23,39
+11,José María Linares,1,Puna,1745,Yascapi,334,U.E. Fray José Antonio Zampa De Yascapi,5018861,1,222,91,75,7,173,91,173
 11,José María Linares,1,Puna,1747,Miculpaya,336,U.E. Miculpaya,5018881,2,151,77,48,7,132,77,132
 11,José María Linares,1,Puna,1749,San Lorenzo,338,U.E. Luis Espinal De San Lorenzo,5018901,1,213,88,68,15,171,88,171
 11,José María Linares,1,Puna,1750,Suquicha,339,U.E. Fray Franco Valli Brogi De Suquicha,5018911,1,240,126,44,15,185,126,185
@@ -1159,6 +1163,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 11,José María Linares,1,Puna,1755,Nuqui,344,U.E. Ñuqui,5019001,1,240,136,43,20,199,136,199
 11,José María Linares,1,Puna,1755,Nuqui,344,U.E. Ñuqui,5019011,2,43,28,4,1,33,28,33
 11,José María Linares,1,Puna,1760,Vilacaya,349,U.E. Vilacaya,5019041,1,240,95,99,10,204,95,204
+11,José María Linares,1,Puna,1760,Vilacaya,349,U.E. Vilacaya,5019051,2,85,39,25,12,76,39,76
 11,José María Linares,1,Puna,1766,Chillcani (Zona D),355,U.E. German Busch,5019061,1,149,61,63,11,135,61,135
 11,José María Linares,1,Puna,3042,Molino Pampa,531,U.E. Molino Pampa,5019121,1,219,99,68,11,178,99,178
 11,José María Linares,1,Puna,3153,Turquiña,562,U.E. Turquiña,5019131,1,156,100,27,2,129,100,129
@@ -1257,8 +1262,13 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Antonio Quijarro,3,Porco,2675,Chichuyo,405,U.E. Gualberto Villarroel De Chichuyo,5021291,1,102,54,32,4,90,54,90
 12,Antonio Quijarro,3,Porco,3937,Torcuyo,1,U.E. San Antonio de Torcuyo,5021091,1,123,62,41,6,109,62,109
 12,Antonio Quijarro,4,TIOC Jatun Ayllu Yura,1792,Yura,387,U.E. Mariscal Jose De Sucre,5021451,2,240,136,53,15,204,136,204
+12,Antonio Quijarro,4,TIOC Jatun Ayllu Yura,1793,Caracota,388,U.E. Ricardo Cruz,5021481,1,175,85,50,10,145,85,145
 12,Antonio Quijarro,4,TIOC Jatun Ayllu Yura,1794,Tauro,389,U.E. German Busch,5021491,1,229,146,40,15,201,146,201
+12,Antonio Quijarro,4,TIOC Jatun Ayllu Yura,2836,Pelca,475,U.E. Franz Tamayo,5021501,1,240,133,41,29,203,133,203
+12,Antonio Quijarro,4,TIOC Jatun Ayllu Yura,2836,Pelca,475,U.E. Franz Tamayo,5021511,2,63,55,2,2,59,55,59
+12,Antonio Quijarro,4,TIOC Jatun Ayllu Yura,3160,Charara,567,U.E. Rafael Pabon,5021531,1,81,53,13,8,74,53,74
 12,Antonio Quijarro,4,TIOC Jatun Ayllu Yura,3282,Tatuca,1,U.E. Julio Laredo,5021421,1,172,102,38,8,148,102,148
+12,Antonio Quijarro,4,TIOC Jatun Ayllu Yura,3505,Punutuma,1,Col. Simon Rodriguez Carreño,5021431,1,230,143,37,21,201,143,201
 14,Daniel Campos,1,Llica,1827,Llica,426,E.S.F.M. Franz Tamayo,5021771,1,240,130,57,16,203,130,203
 14,Daniel Campos,1,Llica,1827,Llica,426,E.S.F.M. Franz Tamayo,5021791,3,240,128,43,32,203,128,203
 14,Daniel Campos,1,Llica,1827,Llica,426,E.S.F.M. Franz Tamayo,5021821,6,240,126,48,20,194,126,194
