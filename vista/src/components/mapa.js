@@ -1,7 +1,7 @@
 import maplibregl from "npm:maplibre-gl";
 
 export function circleColorExpr(metrica) {
-  const {campo, dominio, colores} = metrica;
+  const { campo, dominio, colores } = metrica;
   const medio = (dominio[0] + dominio[1]) / 2;
   return [
     "interpolate",
@@ -92,7 +92,7 @@ export function persistirMapa(map, storage, key) {
       JSON.stringify({
         center: [center.lng, center.lat],
         zoom: map.getZoom(),
-      })
+      }),
     );
   });
 }
@@ -116,23 +116,6 @@ export function leerMapaInicial(storage, key, fallback) {
 }
 
 export function crearCapasBase(map, recintos, metrica) {
-  if (!map.getSource("etiquetas")) {
-    map.addSource("etiquetas", {
-      type: "raster",
-      tiles: ["https://a.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png"],
-      tileSize: 256,
-    });
-  }
-
-  if (!map.getLayer("etiquetas")) {
-    map.addLayer({
-      id: "etiquetas",
-      type: "raster",
-      source: "etiquetas",
-      paint: {"raster-opacity": 0.8},
-    });
-  }
-
   if (!map.getSource("recintos")) {
     map.addSource("recintos", {
       type: "geojson",
@@ -150,6 +133,25 @@ export function crearCapasBase(map, recintos, metrica) {
         "circle-color": circleColorExpr(metrica),
         "circle-opacity": 0.62,
       },
+    });
+  }
+
+  if (!map.getSource("etiquetas")) {
+    map.addSource("etiquetas", {
+      type: "raster",
+      tiles: [
+        "https://a.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png",
+      ],
+      tileSize: 256,
+    });
+  }
+
+  if (!map.getLayer("etiquetas")) {
+    map.addLayer({
+      id: "etiquetas",
+      type: "raster",
+      source: "etiquetas",
+      paint: { "raster-opacity": 0.8 },
     });
   }
 

@@ -131,6 +131,19 @@ def guardar_json(path, data):
         json.dump(data, f, ensure_ascii=False)
 
 
+def guardar_timestamp_agregado():
+    timestamps = []
+    for departamento in DEPARTAMENTOS:
+        timestamp_path = BASE / slugify(departamento) / "timestamp"
+        if timestamp_path.exists():
+            timestamps.append(timestamp_path.read_text().strip())
+
+    if not timestamps:
+        return
+
+    (BASE / "timestamp").write_text(f"{max(timestamps)}\n")
+
+
 def main():
     municipios_data = {}
     resultados_por_eleccion = {eleccion: {} for eleccion in ELECCIONES}
@@ -218,6 +231,7 @@ def main():
     guardar_json(BASE / "municipios.json", municipios_data)
     for eleccion, resultados in resultados_por_eleccion.items():
         guardar_json(BASE / f"resultados_{eleccion}.json", resultados)
+    guardar_timestamp_agregado()
 
 
 if __name__ == "__main__":
