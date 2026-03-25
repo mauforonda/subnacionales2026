@@ -18,7 +18,7 @@
 <link rel="modulepreload" href="./_npm/maplibre-gl@5.21.1/13f11ada.js">
 <link rel="modulepreload" href="./_import/components/definiciones.87be0c74.js">
 <link rel="modulepreload" href="./_import/components/datos.7137a2e8.js">
-<link rel="modulepreload" href="./_import/components/mapa.838be2f1.js">
+<link rel="modulepreload" href="./_import/components/mapa.98936880.js">
 <link rel="modulepreload" href="./_import/components/ui.7f2f8fb5.js">
 <link rel="modulepreload" href="./_observablehq/stdlib/inputs.31cd1366.js">
 <link rel="modulepreload" href="./_npm/d3@7.9.0/66d82917.js">
@@ -66,7 +66,7 @@
 import {define} from "./_observablehq/client.a0083439.js";
 
 define({id: "8f874a5b", outputs: ["maplibregl","DATA_BASE","MAPA_FALLBACK","STORAGE_ELECCION_KEY","STORAGE_KEY","STORAGE_MAP_KEY","elecciones","getStorage","metricas","cargarDatos","crearRecintos","aplicarMetricaMapa","crearCapasBase","crearMapa","leerMapaInicial","persistirMapa","popupHTML","renderizarLeyenda"], body: async () => {
-const [{default: maplibregl}, {DATA_BASE, MAPA_FALLBACK, STORAGE_ELECCION_KEY, STORAGE_KEY, STORAGE_MAP_KEY, elecciones, getStorage, metricas}, {cargarDatos, crearRecintos}, {aplicarMetricaMapa, crearCapasBase, crearMapa, leerMapaInicial, persistirMapa}, {popupHTML, renderizarLeyenda}] = await Promise.all([import("./_npm/maplibre-gl@5.21.1/13f11ada.js"), import("./_import/components/definiciones.87be0c74.js"), import("./_import/components/datos.7137a2e8.js"), import("./_import/components/mapa.838be2f1.js"), import("./_import/components/ui.7f2f8fb5.js")]);
+const [{default: maplibregl}, {DATA_BASE, MAPA_FALLBACK, STORAGE_ELECCION_KEY, STORAGE_KEY, STORAGE_MAP_KEY, elecciones, getStorage, metricas}, {cargarDatos, crearRecintos}, {aplicarMetricaMapa, crearCapasBase, crearMapa, leerMapaInicial, persistirMapa}, {popupHTML, renderizarLeyenda}] = await Promise.all([import("./_npm/maplibre-gl@5.21.1/13f11ada.js"), import("./_import/components/definiciones.87be0c74.js"), import("./_import/components/datos.7137a2e8.js"), import("./_import/components/mapa.98936880.js"), import("./_import/components/ui.7f2f8fb5.js")]);
 
 return {maplibregl,DATA_BASE,MAPA_FALLBACK,STORAGE_ELECCION_KEY,STORAGE_KEY,STORAGE_MAP_KEY,elecciones,getStorage,metricas,cargarDatos,crearRecintos,aplicarMetricaMapa,crearCapasBase,crearMapa,leerMapaInicial,persistirMapa,popupHTML,renderizarLeyenda};
 }});
@@ -267,7 +267,7 @@ return {locked};
 <div id="observablehq-center">
 <main id="observablehq-main" class="observablehq">
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/maplibre-gl@4.0.2/dist/maplibre-gl.css">
-<link rel="stylesheet" type="text/css" href="./_file/index.66fe4c61.css">
+<link rel="stylesheet" type="text/css" href="./_file/index.0c2f0040.css">
 <div class="observablehq observablehq--block"><!--:8f874a5b:--></div>
 <div class="observablehq observablehq--block"><!--:f27f9d2c:--></div>
 <div class="app">
@@ -284,6 +284,10 @@ return {locked};
     </div>
   </header>
   <div id="mapa"></div>
+  <div class="credito">
+    <img class="credito__logo" src="https://mauforonda.github.io/images/icon.svg" alt="">
+    <span class="credito__text">Creado por Mauricio Foronda</span>
+  </div>
 </div>
 <div class="observablehq observablehq--block"><!--:49c840d2:--></div>
 <div class="observablehq observablehq--block"><!--:d6f5b653:--></div>

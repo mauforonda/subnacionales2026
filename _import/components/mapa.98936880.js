@@ -66,13 +66,20 @@ export function crearMapa(selector, mapaInicial) {
     minZoom: 4.2,
     maxZoom: 15,
     scrollZoom: true,
-    attributionControl: {
-      compact: true,
-      customAttribution:
-        "<a href='https://mauforonda.github.io/'>Mauricio Foronda</a>",
-    },
+    attributionControl: false,
   });
 
+  map.addControl(
+    new maplibregl.GeolocateControl({
+      positionOptions: {
+        enableHighAccuracy: true,
+      },
+      trackUserLocation: false,
+      showUserHeading: true,
+      showAccuracyCircle: false,
+    }),
+    "bottom-right",
+  );
   map.addControl(new maplibregl.NavigationControl(), "bottom-right");
   return map;
 }
