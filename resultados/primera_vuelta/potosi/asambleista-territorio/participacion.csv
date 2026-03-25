@@ -784,6 +784,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Tomás Frías,2,Tinguipaya,4085,Pucyupata,25491,U. E. Pujyupata,5007831,1,180,120,49,6,175,120,175
 1,Tomás Frías,2,Tinguipaya,4462,Thocra Pampa Alta,26493,U.E. Thojra Pampa,5007841,1,240,89,100,21,210,89,210
 1,Tomás Frías,2,Tinguipaya,4462,Thocra Pampa Alta,26493,U.E. Thojra Pampa,5007851,2,81,29,42,5,76,29,76
+1,Tomás Frías,2,Tinguipaya,4616,Valero Ayllu Qollana Inairi,32393,U.E. Valero,5007861,1,111,54,56,1,111,54,111
 1,Tomás Frías,3,Yocalla,1504,El Molino,59,Esc. Alonso De Ibanez,5007871,1,240,163,36,11,210,163,210
 1,Tomás Frías,3,Yocalla,1504,El Molino,59,Esc. Alonso De Ibanez,5007881,2,66,39,18,4,61,39,61
 1,Tomás Frías,3,Yocalla,1505,Totora  D,60,Esc. Jose Antonio Zampa,5007891,1,240,127,58,22,207,127,207
@@ -1042,6 +1043,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Bustillo,3,Llallagua,3387,Saca Saca,1,Esc. Chiru Chiru,5009131,1,215,86,79,22,187,86,187
 2,Bustillo,3,Llallagua,3496,Jisk'anqui,1,U.E. Elizardo Pérez,5009141,1,240,103,59,52,214,103,214
 2,Bustillo,3,Llallagua,3496,Jisk'anqui,1,U.E. Elizardo Pérez,5009151,2,42,24,5,9,38,24,38
+2,Bustillo,4,Chuquihuta Ayllu Jucumani,1527,Chuquihuta,84,U. E. Pablo Zarate Villca,5010451,1,240,94,77,33,204,94,204
 2,Bustillo,4,Chuquihuta Ayllu Jucumani,1527,Chuquihuta,84,U. E. Pablo Zarate Villca,5010461,2,240,90,95,20,205,90,205
 2,Bustillo,4,Chuquihuta Ayllu Jucumani,1527,Chuquihuta,84,U. E. Pablo Zarate Villca,5010471,3,240,93,90,22,205,93,205
 2,Bustillo,4,Chuquihuta Ayllu Jucumani,1527,Chuquihuta,84,U. E. Pablo Zarate Villca,5010481,4,240,101,101,20,222,101,222
@@ -1050,6 +1052,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Bustillo,4,Chuquihuta Ayllu Jucumani,1527,Chuquihuta,84,U. E. Pablo Zarate Villca,5010511,7,123,69,31,11,111,69,111
 2,Bustillo,4,Chuquihuta Ayllu Jucumani,1527,Chuquihuta,31158,U. E. Ismael Montes,5010541,1,240,125,61,24,210,125,210
 2,Bustillo,4,Chuquihuta Ayllu Jucumani,1527,Chuquihuta,31158,U. E. Ismael Montes,5010551,2,240,108,88,23,219,108,219
+2,Bustillo,4,Chuquihuta Ayllu Jucumani,1527,Chuquihuta,31158,U. E. Ismael Montes,5010561,3,240,107,91,22,220,107,220
 2,Bustillo,4,Chuquihuta Ayllu Jucumani,1527,Chuquihuta,31158,U. E. Ismael Montes,5010571,4,104,54,27,7,88,54,88
 2,Bustillo,4,Chuquihuta Ayllu Jucumani,3082,Tacopalca,31159,U. E. Tocoria,5010581,1,240,108,80,22,210,108,210
 2,Bustillo,4,Chuquihuta Ayllu Jucumani,3082,Tacopalca,31159,U. E. Tocoria,5010591,2,240,123,73,25,221,123,221
@@ -1189,6 +1192,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Chayanta,1,Colquechaca,1566,Colquechaca,134,U. E. Junin,5011971,1,240,92,108,21,221,92,221
 4,Chayanta,1,Colquechaca,1566,Colquechaca,134,U. E. Junin,5011981,2,240,87,113,14,214,87,214
 4,Chayanta,1,Colquechaca,1566,Colquechaca,134,U. E. Junin,5011991,3,240,92,104,22,218,92,218
+4,Chayanta,1,Colquechaca,1566,Colquechaca,134,U. E. Junin,5012001,4,240,98,94,18,210,98,210
 4,Chayanta,1,Colquechaca,1566,Colquechaca,134,U. E. Junin,5012011,5,240,87,102,31,220,87,220
 4,Chayanta,1,Colquechaca,1566,Colquechaca,134,U. E. Junin,5012021,6,240,81,104,28,213,81,213
 4,Chayanta,1,Colquechaca,1566,Colquechaca,134,U. E. Junin,5012031,7,240,103,94,19,216,103,216
@@ -2278,6 +2282,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Modesto Omiste,1,Villazón,1841,Villazón,31133,U. E. 6 de Junio  A,5022601,4,240,138,64,13,215,138,215
 15,Modesto Omiste,1,Villazón,1841,Villazón,31133,U. E. 6 de Junio  A,5022611,5,240,150,38,20,208,150,208
 15,Modesto Omiste,1,Villazón,1841,Villazón,31133,U. E. 6 de Junio  A,5022621,6,240,131,58,20,209,131,209
+15,Modesto Omiste,1,Villazón,1841,Villazón,31133,U. E. 6 de Junio  A,5022631,7,234,146,48,16,210,146,210
 15,Modesto Omiste,1,Villazón,1841,Villazón,31134,U. E. Alonso de Ibáñez  B,5023301,1,240,107,47,23,177,107,177
 15,Modesto Omiste,1,Villazón,1841,Villazón,31134,U. E. Alonso de Ibáñez  B,5023311,2,240,123,69,14,206,123,206
 15,Modesto Omiste,1,Villazón,1841,Villazón,31134,U. E. Alonso de Ibáñez  B,5023321,3,240,113,74,17,204,113,204
@@ -2295,7 +2300,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Modesto Omiste,1,Villazón,1841,Villazón,31136,U. E. Marcelo Quiroga Santa Cruz  B,5023141,5,240,154,45,17,216,154,216
 15,Modesto Omiste,1,Villazón,1841,Villazón,31136,U. E. Marcelo Quiroga Santa Cruz  B,5023151,6,197,125,31,16,172,125,172
 15,Modesto Omiste,1,Villazón,1841,Villazón,31137,U. E. Carlos Villegas,5022841,1,240,144,40,16,200,144,200
+15,Modesto Omiste,1,Villazón,1841,Villazón,31137,U. E. Carlos Villegas,5022851,2,240,126,56,27,209,126,209
 15,Modesto Omiste,1,Villazón,1841,Villazón,31137,U. E. Carlos Villegas,5022861,3,240,137,52,20,209,137,209
+15,Modesto Omiste,1,Villazón,1841,Villazón,31137,U. E. Carlos Villegas,5022871,4,240,142,52,19,213,142,213
 15,Modesto Omiste,1,Villazón,1841,Villazón,31137,U. E. Carlos Villegas,5022881,5,212,127,43,23,193,127,193
 15,Modesto Omiste,1,Villazón,1842,Berque,448,Esc. Berque,5022001,1,204,87,68,26,181,87,181
 15,Modesto Omiste,1,Villazón,1843,Mojo,449,U.E. Mojo,5022011,1,237,134,69,8,211,134,211
@@ -2320,6 +2327,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Modesto Omiste,1,Villazón,4069,Mantacillas,25400,U.E. Mantacillas,5022201,3,61,27,21,7,55,27,55
 15,Modesto Omiste,1,Villazón,4070,Ojo de Agua,25401,U.E. Ojo De Agua,5022211,1,240,88,92,25,205,88,205
 15,Modesto Omiste,1,Villazón,4070,Ojo de Agua,25401,U.E. Ojo De Agua,5022221,2,104,43,29,12,84,43,84
+15,Modesto Omiste,1,Villazón,4071,Tambo,25402,U.E. Monseñor Felix Gainza,5022231,1,132,64,49,8,121,64,121
 15,Modesto Omiste,1,Villazón,4072,Calderilla,25403,U.E. Calderilla,5022241,1,110,77,25,3,105,77,105
 15,Modesto Omiste,1,Villazón,4079,Tinkuya,25485,U.E. Tinkuya,5022251,1,55,29,17,6,52,29,52
 15,Modesto Omiste,1,Villazón,4080,Hornos,25486,U.E. Hornos,5022261,1,80,48,8,15,71,48,71
