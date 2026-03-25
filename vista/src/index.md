@@ -70,6 +70,7 @@ function obtenerEleccionActual() {
   <header class="header">
     <div class="header__eyebrow">Elecciones subnacionales 2026</div>
     <div class="header__subtitle">Votos a <span class="header__eleccion">${eleccionInput}</span> por recinto a nivel nacional</div>
+    <div class="header__timestamp" id="timestamp-container"></div>
     <div class="header__controls">
       <div class="control control--legend">
         <div class="control__input">${metricaInput}</div>
@@ -83,12 +84,21 @@ function obtenerEleccionActual() {
 </div>
 
 ```js
-const { resultadosRaw, municipios } = await cargarDatos(
+const { resultadosRaw, municipios, timestamp } = await cargarDatos(
   DATA_BASE,
   obtenerEleccionActual().archivo,
 );
 const recintos = crearRecintos(resultadosRaw, municipios, eleccionInput.value);
 const mapaInicial = leerMapaInicial(storage, STORAGE_MAP_KEY, MAPA_FALLBACK);
+```
+
+```js
+{
+  const container = document.querySelector("#timestamp-container");
+  container.textContent = timestamp
+    ? `actualizado el ${timestamp.fecha} a las ${timestamp.hora}`
+    : "";
+}
 ```
 
 ```js
@@ -145,7 +155,7 @@ const ready = new Promise((resolve) => {
   const actualizarEleccion = async () => {
     const eleccionSiguiente = obtenerEleccionActual();
     if (storage) storage.setItem(STORAGE_ELECCION_KEY, eleccionInput.value);
-    const { resultadosRaw, municipios } = await cargarDatos(
+    const { resultadosRaw, municipios, timestamp } = await cargarDatos(
       DATA_BASE,
       eleccionSiguiente.archivo,
     );
@@ -155,6 +165,10 @@ const ready = new Promise((resolve) => {
       eleccionInput.value,
     );
     map.getSource("recintos")?.setData(recintosNuevos);
+    const container = document.querySelector("#timestamp-container");
+    container.textContent = timestamp
+      ? `actualizado el ${timestamp.fecha} a las ${timestamp.hora}`
+      : "";
   };
   eleccionInput.addEventListener("input", actualizarEleccion);
   invalidation.then(() =>

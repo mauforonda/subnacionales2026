@@ -75,6 +75,16 @@ main,
   text-align: center;
 }
 
+.header__timestamp {
+  margin-top: 0.18rem;
+  font-size: 0.65rem;
+  line-height: 1.15;
+  font-weight: 300;
+  color: var(--text-soft);
+  opacity: 1;
+  text-align: center;
+}
+
 .header__eleccion {
   display: inline;
 }
@@ -331,6 +341,11 @@ main,
   .header__subtitle {
     margin-top: 0.1rem;
     font-size: 0.8rem;
+  }
+
+  .header__timestamp {
+    margin-top: 0.12rem;
+    /* font-size: 0.6rem; */
   }
 
   .header__controls {

@@ -1,12 +1,34 @@
 import * as d3 from "npm:d3";
 
 export async function cargarDatos(base, archivoResultados) {
-  const [resultadosRaw, municipios] = await Promise.all([
+  const [resultadosRaw, municipios, timestampRaw] = await Promise.all([
     d3.json(`${base}${archivoResultados}`),
     d3.json(`${base}municipios.json`),
+    d3.text(`${base}timestamp`),
   ]);
 
-  return {resultadosRaw, municipios};
+  return {
+    resultadosRaw,
+    municipios,
+    timestamp: formatearTimestamp(timestampRaw),
+  };
+}
+
+function formatearTimestamp(timestampRaw) {
+  const timestamp = timestampRaw?.trim();
+  if (!timestamp) return null;
+
+  const [fecha, hora] = timestamp.split(" ");
+  if (!fecha || !hora) return null;
+
+  const [year, month, day] = fecha.split("-");
+  const [hours, minutes] = hora.split(":");
+  if (!year || !month || !day || !hours || !minutes) return null;
+
+  return {
+    fecha: `${day}/${month}/${year}`,
+    hora: `${hours}:${minutes}`,
+  };
 }
 
 export function crearRecintos(resultadosRaw, municipios, eleccion) {

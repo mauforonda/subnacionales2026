@@ -131,6 +131,14 @@ def guardar_json(path, data):
         json.dump(data, f, ensure_ascii=False)
 
 
+def redondear_metricas(resultados):
+    for row in resultados.values():
+        for campo in ("validos", "ganador"):
+            if campo in row and pd.notna(row[campo]):
+                row[campo] = round(float(row[campo]), 4)
+    return resultados
+
+
 def guardar_timestamp_agregado():
     timestamps = []
     for departamento in DEPARTAMENTOS:
@@ -216,7 +224,7 @@ def main():
                 [participacion, porcentaje_ganador, recintos], axis=1
             ).dropna()
             resultados_por_eleccion[eleccion].update(
-                resultados_eleccion.to_dict(orient="index")
+                redondear_metricas(resultados_eleccion.to_dict(orient="index"))
             )
 
         for municipio_codigo, row in municipios_depto.to_dict(orient="index").items():
