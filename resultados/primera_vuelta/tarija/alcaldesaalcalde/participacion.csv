@@ -39,8 +39,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,1876,Tolomosa Grande,1,U.E. Oscar Zamora,6000387,2,240,138,17,32,187,138,187
 1,Cercado,1,Tarija,1876,Tolomosa Grande,1,U.E. Oscar Zamora,6000397,3,240,142,11,31,184,142,184
 1,Cercado,1,Tarija,1876,Tolomosa Grande,1,U.E. Oscar Zamora,6000407,4,142,71,12,18,101,71,101
+1,Cercado,1,Tarija,1877,Tolomosita Centro,1,U.E. Tolomosita,6000417,1,240,143,18,33,194,143,194
 1,Cercado,1,Tarija,1877,Tolomosita Centro,1,U.E. Tolomosita,6000427,2,156,108,14,16,138,108,138
 1,Cercado,1,Tarija,1878,San Jacinto Sud,1,U.E. San Jacinto Sud,6000437,1,240,152,17,23,192,152,192
+1,Cercado,1,Tarija,1878,San Jacinto Sud,1,U.E. San Jacinto Sud,6000447,2,245,159,21,16,196,159,196
 1,Cercado,1,Tarija,1880,Pampa Redonda Centro,1,U.E. Luis De Fuentes,6000457,1,240,130,17,27,174,130,174
 1,Cercado,1,Tarija,1880,Pampa Redonda Centro,1,U.E. Luis De Fuentes,6000467,2,208,112,14,27,153,112,153
 1,Cercado,1,Tarija,1882,Guerra Huayco,1,U.E. San Lazaro de Guerra Huayco,6000477,1,240,141,14,33,188,141,188
@@ -66,6 +68,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000827,1,240,178,7,16,201,178,201
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000837,2,240,186,4,9,199,186,199
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000847,3,240,185,6,12,203,185,203
+1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000857,4,240,188,2,14,204,188,204
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000867,5,240,181,10,8,199,181,199
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000877,6,240,184,5,7,196,184,196
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000887,7,240,192,3,11,206,192,206
@@ -93,6 +96,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000957,1,240,198,4,9,211,198,211
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000967,2,240,184,6,15,205,184,205
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000977,3,240,178,6,13,197,178,197
+1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000987,4,240,202,3,4,209,202,209
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6000997,5,240,190,2,14,206,190,206
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001007,6,240,194,3,10,207,194,207
 1,Cercado,1,Tarija,2680,Tarija,5,U.E. San Roque,6001017,7,240,187,3,1,191,187,191
@@ -165,6 +169,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001297,1,240,174,10,13,197,174,197
 1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001307,2,240,191,5,10,206,191,206
 1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001317,3,240,192,5,8,205,192,205
+1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001327,4,240,194,3,11,208,194,208
 1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001337,5,240,192,4,10,206,192,206
 1,Cercado,1,Tarija,2680,Tarija,69,U.E. Liceo Campero,6001347,6,92,74,2,3,79,74,79
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005257,1,240,188,3,21,212,188,212
@@ -182,6 +187,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005377,13,240,197,2,10,209,197,209
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005387,14,207,169,6,13,188,169,188
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004617,1,240,199,3,16,218,199,218
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004627,2,240,193,6,12,211,193,211
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004637,3,240,185,6,21,212,185,212
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004647,4,240,176,15,18,209,176,209
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004657,5,240,188,7,20,215,188,215
@@ -193,6 +199,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004717,11,240,181,7,21,209,181,209
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004727,12,240,198,4,10,212,198,212
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004737,13,240,203,5,9,217,203,217
+1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004747,14,240,197,4,12,213,197,213
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004757,15,240,189,6,21,216,189,216
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004767,16,240,196,5,10,211,196,211
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004777,17,26,20,0,2,22,20,22
@@ -228,6 +235,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005097,12,240,172,4,34,210,172,210
 1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005107,13,240,177,4,27,208,177,208
 1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005117,14,240,176,7,21,204,176,204
+1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005127,15,240,183,7,31,221,183,221
 1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005137,16,240,201,4,16,221,201,221
 1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005147,17,240,188,5,23,216,188,216
 1,Cercado,1,Tarija,2680,Tarija,73,U.E. Octavio Campero Echazu,6005157,18,240,181,2,22,205,181,205
@@ -290,6 +298,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,76,U.E. San Jorge,6005837,18,239,190,5,14,209,190,209
 1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007847,1,240,162,7,27,196,162,196
 1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007857,2,240,185,6,25,216,185,216
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007867,3,240,173,7,29,209,173,209
 1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007877,4,240,173,14,22,209,173,209
 1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007887,5,240,180,6,21,207,180,207
 1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007897,6,240,172,9,20,201,172,201
@@ -485,6 +494,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007387,16,240,181,10,25,216,181,216
 1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007397,17,240,175,9,22,206,175,206
 1,Cercado,1,Tarija,2680,Tarija,97,U.E. J. Naval Monzon,6007407,18,78,63,2,1,66,63,66
+1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003407,2,240,172,9,35,216,172,216
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003417,3,240,182,13,15,210,182,210
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003427,4,240,179,5,27,211,179,211
 1,Cercado,1,Tarija,2680,Tarija,98,U.E. Julio Calvo,6003437,5,240,185,7,24,216,185,216
@@ -603,6 +613,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003347,6,240,165,12,20,197,165,197
 1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003357,7,240,165,12,22,199,165,199
 1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003367,8,240,175,10,14,199,175,199
+1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003377,9,240,165,10,25,200,165,200
 1,Cercado,1,Tarija,2680,Tarija,25709,U.E. Humberto Portocarrero 1,6003387,10,26,19,1,2,22,19,22
 1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006487,1,240,190,5,11,206,190,206
 1,Cercado,1,Tarija,2680,Tarija,25710,U.E. Carmen Mealla,6006497,2,240,185,6,15,206,185,206
@@ -659,6 +670,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005437,5,240,191,5,17,213,191,213
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005447,6,240,184,3,20,207,184,207
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005457,7,240,190,9,15,214,190,214
+1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005467,8,240,195,4,20,219,195,219
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005477,9,240,202,8,10,220,202,220
 1,Cercado,1,Tarija,2680,Tarija,25713,U.E. Víctor Varas Reyes,6005487,10,210,173,3,15,191,173,191
 1,Cercado,1,Tarija,2680,Tarija,25714,U.E. Aniceto Arce,6002007,1,240,197,5,12,214,197,214
@@ -685,6 +697,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,26476,U.E. Moto Mendez,6007797,1,240,172,4,27,203,172,203
 1,Cercado,1,Tarija,2680,Tarija,26476,U.E. Moto Mendez,6007807,2,240,181,5,25,211,181,211
 1,Cercado,1,Tarija,2680,Tarija,26476,U.E. Moto Mendez,6007817,3,240,184,6,21,211,184,211
+1,Cercado,1,Tarija,2680,Tarija,26476,U.E. Moto Mendez,6007827,4,240,186,10,25,221,186,221
 1,Cercado,1,Tarija,2680,Tarija,26476,U.E. Moto Mendez,6007837,5,37,33,0,1,34,33,34
 1,Cercado,1,Tarija,2680,Tarija,26477,U.E. Los Laureles,6007657,1,240,187,1,17,205,187,205
 1,Cercado,1,Tarija,2680,Tarija,26477,U.E. Los Laureles,6007667,2,240,182,7,26,215,182,215
@@ -746,11 +759,13 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001957,3,240,178,7,19,204,178,204
 1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001967,4,240,187,6,16,209,187,209
 1,Cercado,1,Tarija,2680,Tarija,32460,U.E. Jesús Buen Pastor,6001977,5,106,87,2,5,94,87,94
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005587,1,240,198,5,14,217,198,217
 1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005597,2,240,188,5,15,208,188,208
 1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005607,3,240,196,4,18,218,196,218
 1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005617,4,240,190,9,14,213,190,213
 1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005627,5,240,183,5,22,210,183,210
 1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005637,6,240,177,8,26,211,177,211
+1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005647,7,240,199,5,13,217,199,217
 1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005657,8,169,143,5,5,153,143,153
 1,Cercado,1,Tarija,2927,Churquis,1,U.E. Churquis,6000677,1,240,123,17,33,173,123,173
 1,Cercado,1,Tarija,2927,Churquis,1,U.E. Churquis,6000687,2,145,72,10,22,104,72,104
@@ -882,6 +897,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009217,7,240,179,9,20,208,179,208
 2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009227,8,240,179,12,17,208,179,208
 2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009237,9,240,195,6,12,213,195,213
+2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009247,10,240,192,6,15,213,192,213
 2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009257,11,240,182,4,16,202,182,202
 2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009267,12,240,196,8,12,216,196,216
 2,Arce,2,Bermejo,1916,Bermejo,12,U.E. Eduardo Avaroa,6009277,13,238,186,11,16,213,186,213
@@ -1005,6 +1021,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011257,8,240,172,9,17,198,172,198
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011267,9,240,164,13,23,200,164,200
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011277,10,240,179,4,19,202,179,202
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011287,11,240,180,9,14,203,180,203
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011297,12,240,171,10,14,195,171,195
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,13,U.E. Club De Leones (Básico Y Medio),6011307,13,234,156,8,9,173,156,173
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,15,U.E. Juana Azurduy De Padilla (Yacuiba),6011717,1,240,185,4,12,201,185,201
@@ -1042,6 +1059,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011867,3,240,178,6,12,196,178,196
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011877,4,240,173,7,24,204,173,204
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011887,5,240,177,10,13,200,177,200
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011897,6,240,176,12,15,203,176,203
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011907,7,240,172,12,20,204,172,204
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011917,8,240,160,12,25,197,160,197
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,18,U.E. Nestor Paz Galarza,6011927,9,240,188,8,16,212,188,212
@@ -1076,6 +1094,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011577,9,240,188,2,9,199,188,199
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011587,10,240,183,6,8,197,183,197
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011597,11,240,183,6,16,205,183,205
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011607,12,240,192,3,9,204,192,204
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011627,14,240,192,5,11,208,192,208
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011637,15,240,178,7,11,196,178,196
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,20,U.E. Jose Manuel Belgrano (Yacuiba),6011647,16,60,43,0,3,46,43,46
@@ -1107,6 +1126,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6010997,6,240,160,7,19,186,160,186
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6011007,7,240,155,13,20,188,155,188
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,24,U.E. Oliverio Pelichelli,6011017,8,79,57,2,4,63,57,63
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012607,1,240,172,17,12,201,172,201
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012617,2,240,160,23,18,201,160,201
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012627,3,240,167,13,14,194,167,194
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,25706,U.E. Campo Grande A,6012637,4,57,43,3,6,52,43,52
@@ -1164,6 +1184,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,31068,U.E. Juana Azurduy De Padilla Inicial (Kinder),6012297,2,235,181,11,15,207,181,207
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012767,1,240,185,8,17,210,185,210
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012777,2,240,181,8,29,218,181,218
+3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012787,3,240,186,6,21,213,186,213
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32095,U.E. San Juan,6012797,4,240,170,14,27,211,170,211
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010697,1,240,182,2,16,200,182,200
 3,Gran Chaco,1,Yacuiba,1949,Yacuiba,32096,U.E. Heroes del Chaco,6010707,2,240,176,12,10,198,176,198
@@ -1214,11 +1235,13 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,1,Yacuiba,1963,Sunchal,14,U.E. Sunchal,6010367,1,138,92,7,10,109,92,109
 3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010377,1,240,158,8,23,189,158,189
 3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010387,2,240,161,9,32,202,161,202
+3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010397,3,240,167,16,29,212,167,212
 3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010407,4,240,161,11,28,200,161,200
 3,Gran Chaco,1,Yacuiba,1964,Crevaux,15,U.E. Crevaux Sud,6010417,5,39,31,1,2,34,31,34
 3,Gran Chaco,1,Yacuiba,1965,D'Orbigni,16,U.E. D'Orbigny,6010427,1,240,124,17,35,176,124,176
 3,Gran Chaco,1,Yacuiba,1965,D'Orbigni,16,U.E. D'Orbigny,6010437,2,240,106,16,42,164,106,164
 3,Gran Chaco,1,Yacuiba,1965,D'Orbigni,16,U.E. D'Orbigny,6010447,3,131,79,12,13,104,79,104
+3,Gran Chaco,1,Yacuiba,1966,Bagual,17,U.E. 21 de Septiembre,6010457,1,246,131,18,8,157,131,157
 3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009947,1,240,148,14,25,187,148,187
 3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009967,3,240,166,19,17,202,166,202
 3,Gran Chaco,1,Yacuiba,3162,Villa el Carmen,3,U.E. Villa El Carmen,6009977,4,240,143,25,19,187,143,187
@@ -1287,6 +1310,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,2,Caraparí,4025,San Nicolas,25353,Posta Sanitaria Kereimba Renda (Indigena),6013307,1,32,25,0,5,30,25,30
 3,Gran Chaco,2,Caraparí,4075,Lecheronal Cañaveral,25477,U.E. José Antonio De Sucre,6013317,1,97,73,3,6,82,73,82
 3,Gran Chaco,2,Caraparí,4591,Laime,32326,Sede Comunal Laime,6013347,1,97,83,3,4,90,83,90
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013957,1,240,159,11,17,187,159,187
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013967,2,240,151,4,12,167,151,167
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013977,3,240,150,14,10,174,150,174
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,1,U.E.  Julio Crevaux,6013987,4,240,161,8,9,178,161,178
@@ -1387,6 +1411,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014797,2,240,173,9,14,196,173,196
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014807,3,240,172,17,9,198,172,198
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014817,4,240,169,14,15,198,169,198
+3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014827,5,240,184,5,7,196,184,196
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014837,6,240,160,11,22,193,160,193
 3,Gran Chaco,3,Villa Montes,1977,Villa Montes,31065,U.E. San Antonio,6014847,7,61,49,1,1,51,49,51
 3,Gran Chaco,3,Villa Montes,1979,Capirendita,5,U.E. Capirendita,6013507,1,240,154,15,11,180,154,180
@@ -1415,12 +1440,15 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013727,1,240,153,21,16,190,153,190
 3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013737,2,240,139,21,36,196,139,196
 3,Gran Chaco,3,Villa Montes,2879,Palmar Grande,26484,U.E. 15 de Abril,6013747,3,58,42,2,2,46,42,46
+3,Gran Chaco,3,Villa Montes,3166,La Victoria,2,U.E. San Isidro La Victoria,6013467,1,66,35,4,3,42,35,42
 3,Gran Chaco,3,Villa Montes,3198,Resistencia,2,U.E. Resistencia,6013477,1,193,119,16,8,143,119,143
 3,Gran Chaco,3,Villa Montes,3336,El Toro,1,U.E. Chaco Boreal,6013367,1,15,12,0,0,12,12,12
 3,Gran Chaco,3,Villa Montes,3337,Ipa,1,U.E. Antonio Jose De Sucre,6013377,1,216,148,18,16,182,148,182
 3,Gran Chaco,3,Villa Montes,3360,Esmeralda,1,U.E. La Esmeralda,6013387,1,37,29,0,5,34,29,34
 3,Gran Chaco,3,Villa Montes,3510,Algarrobal,2,U.E. Algarrobal,6013487,1,203,147,18,8,173,147,173
 3,Gran Chaco,3,Villa Montes,3511,La Central,2,U.E. Aguaragüe,6013497,1,160,82,2,16,100,82,100
+3,Gran Chaco,3,Villa Montes,3731,Puesto Garcia,1,U.E. 27 de Mayo,6013397,1,240,174,15,9,198,174,198
+3,Gran Chaco,3,Villa Montes,3731,Puesto Garcia,1,U.E. 27 de Mayo,6013407,2,63,41,5,4,50,41,50
 3,Gran Chaco,3,Villa Montes,3732,Nueva Esperanza,1,U.E. Nueva Esperanza,6013417,1,69,49,2,1,52,49,52
 3,Gran Chaco,3,Villa Montes,3753,Chimeo,1,U.E. Chimeo,6013427,1,240,171,24,11,206,171,206
 3,Gran Chaco,3,Villa Montes,3753,Chimeo,1,U.E. Chimeo,6013437,2,101,67,5,6,78,67,78
@@ -1564,6 +1592,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Méndez,1,San Lorenzo,2011,Sella Mendez,20,U.E. Julio Sucre Sella Mendez,6016417,2,240,173,12,15,200,173,200
 5,Méndez,1,San Lorenzo,2011,Sella Mendez,20,U.E. Julio Sucre Sella Mendez,6016427,3,154,111,9,8,128,111,128
 5,Méndez,1,San Lorenzo,2012,Carachimayo,21,U.E. Carachimayo Centro,6016437,1,240,167,13,15,195,167,195
+5,Méndez,1,San Lorenzo,2012,Carachimayo,21,U.E. Carachimayo Centro,6016447,2,240,140,9,31,180,140,180
 5,Méndez,1,San Lorenzo,2012,Carachimayo,21,U.E. Carachimayo Centro,6016457,3,124,73,10,16,99,73,99
 5,Méndez,1,San Lorenzo,2842,La Hoja,25029,U.E. 1o. de Mayo,6016477,1,152,94,6,14,114,94,114
 5,Méndez,1,San Lorenzo,2881,San Pedro de las Peñas,15,U.E. San Pedro de Las Peñas,6016367,1,59,28,1,8,37,28,37
@@ -1581,6 +1610,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015947,10,240,182,8,17,207,182,207
 5,Méndez,1,San Lorenzo,3177,Tomatitas,4,U.E. Angel Calabi Pasolinni,6015957,11,253,194,10,23,227,194,227
 5,Méndez,1,San Lorenzo,3199,Colorado Norte,2,U.E. Colorado Norte,6015767,1,132,55,7,30,92,55,92
+5,Méndez,1,San Lorenzo,3200,Peñaderia,1,U.E. Peñaderia,6015557,1,47,28,2,10,40,28,40
 5,Méndez,1,San Lorenzo,3290,Bordo El Mollar,1,U.E. Bordo El Mollar,6015567,1,240,168,11,19,198,168,198
 5,Méndez,1,San Lorenzo,3290,Bordo El Mollar,1,U.E. Bordo El Mollar,6015577,2,240,173,11,8,192,173,192
 5,Méndez,1,San Lorenzo,3290,Bordo El Mollar,1,U.E. Bordo El Mollar,6015587,3,240,172,6,13,191,172,191
@@ -1590,6 +1620,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Méndez,1,San Lorenzo,3671,Huancoiro,1,U.E. Huancoiro,6015617,1,91,51,4,16,71,51,71
 5,Méndez,1,San Lorenzo,3755,Cochas,1,U.E. Cochas,6015627,1,132,80,9,25,114,80,114
 5,Méndez,1,San Lorenzo,4357,Quirusillas,26059,U.E. Quirusillas,6016497,1,90,38,13,12,63,38,63
+5,Méndez,1,San Lorenzo,4645,Monte Méndez,32454,U.E. Monte Méndez,6016507,1,240,199,11,15,225,199,225
 5,Méndez,1,San Lorenzo,4645,Monte Méndez,32454,U.E. Monte Méndez,6016517,2,238,195,11,20,226,195,226
 5,Méndez,1,San Lorenzo,4646,Santa Bárbara,32455,U.E. Santa Bárbara,6016527,1,240,180,12,30,222,180,222
 5,Méndez,1,San Lorenzo,4646,Santa Bárbara,32455,U.E. Santa Bárbara,6016537,2,85,66,5,8,79,66,79

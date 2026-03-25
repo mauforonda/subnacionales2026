@@ -676,11 +676,25 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,2540,Riberalta,32016,U.E. Arca Maranatha,8005607,6,59,47,2,3,52,47,52
 2,Vaca Diez,1,Riberalta,2540,Riberalta,32119,(Cárcel) Penal Nuevo Riberalta,8007057,1,121,73,12,10,95,73,95
 2,Vaca Diez,1,Riberalta,2546,Tumichucua,1,U.E. Zaida Gosalvez Alarcón,8004147,1,240,156,14,18,188,156,188
+2,Vaca Diez,1,Riberalta,2546,Tumichucua,1,U.E. Zaida Gosalvez Alarcón,8004157,2,118,88,5,7,100,88,100
 2,Vaca Diez,1,Riberalta,2749,Warnes,1,U.E.   Warnes,8004167,1,240,163,21,19,203,163,203
 2,Vaca Diez,1,Riberalta,2749,Warnes,1,U.E.   Warnes,8004177,2,240,182,14,16,212,182,212
 2,Vaca Diez,1,Riberalta,2749,Warnes,1,U.E.   Warnes,8004187,3,98,68,4,13,85,68,85
 2,Vaca Diez,1,Riberalta,3096,Bolivar,1,U.E. Bolívar,8004197,1,240,159,18,21,198,159,198
+2,Vaca Diez,1,Riberalta,3096,Bolivar,1,U.E. Bolívar,8004207,2,240,166,15,15,196,166,196
+2,Vaca Diez,1,Riberalta,3097,12 de Octubre,1,Escuela 12 de Octubre,8004237,2,148,105,8,8,121,105,121
+2,Vaca Diez,1,Riberalta,3098,Mariposa,1,Escuela Mariposa,8004247,1,85,52,7,10,69,52,69
+2,Vaca Diez,1,Riberalta,3099,Alto Ivon,1,Escuela Alto Ivon,8004267,2,240,148,9,41,198,148,198
+2,Vaca Diez,1,Riberalta,3099,Alto Ivon,1,Escuela Alto Ivon,8004277,3,215,136,8,26,170,136,170
+2,Vaca Diez,1,Riberalta,3100,Santuario,1,Escuela Santuario,8004287,1,80,65,0,8,73,65,73
+2,Vaca Diez,1,Riberalta,3101,Santa María  de Vaca Diez,1,U.E. Santa Maria,8004297,1,240,161,22,20,203,161,203
+2,Vaca Diez,1,Riberalta,4004,Popechi,25318,U.E. Popechi,8004347,1,240,157,26,20,203,157,203
+2,Vaca Diez,1,Riberalta,4004,Popechi,25318,U.E. Popechi,8004357,2,198,134,22,14,170,134,170
 2,Vaca Diez,1,Riberalta,4005,Bella Flor,25319,U.E. Bella Flor,8004367,1,240,155,9,25,189,155,189
+2,Vaca Diez,1,Riberalta,4005,Bella Flor,25319,U.E. Bella Flor,8004377,2,40,26,2,3,31,26,31
+2,Vaca Diez,1,Riberalta,4419,Recreo,26176,U.E. Recreo,8004387,1,130,89,18,8,115,89,115
+2,Vaca Diez,1,Riberalta,4420,Alta Gracia,26177,U.E. 23 de Marzo,8004397,1,179,146,12,9,167,146,167
+2,Vaca Diez,1,Riberalta,4509,Los Cayuses,32144,U.E. Los Cayuses,8004407,1,77,35,14,10,59,35,59
 2,Vaca Diez,2,Guayaramerín,2549,Cachuela Esperanza,1,Esc. Juddi De Suarez,8007087,2,184,131,11,5,147,131,147
 2,Vaca Diez,2,Guayaramerín,2551,Rosario del Yata,1,Esc. Rosario Del Yata,8007097,1,240,166,9,10,185,166,185
 2,Vaca Diez,2,Guayaramerín,2551,Rosario del Yata,1,Esc. Rosario Del Yata,8007107,2,182,132,4,5,141,132,141
@@ -802,14 +816,18 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,32115,U.E.  Guayaraguazu,8007527,3,240,123,9,11,143,123,143
 2,Vaca Diez,2,Guayaramerín,2784,Guayaramerín,32115,U.E.  Guayaraguazu,8007537,4,51,29,1,2,32,29,32
 2,Vaca Diez,2,Guayaramerín,2785,San Lorenzo  de Vaca Diez,1,Esc. Central San Lorenzo,8007117,1,143,36,3,9,48,36,48
+3,General José Ballivián,1,Reyes,2542,Peña Amarilla,1,Esc. Peña Amarilla,8008307,1,109,86,0,1,87,86,87
 3,General José Ballivián,1,Reyes,2555,Reyes,1,U.E. Rene Barrientos Ortuño,8008317,1,240,183,2,4,189,183,189
 3,General José Ballivián,1,Reyes,2555,Reyes,1,U.E. Rene Barrientos Ortuño,8008327,2,240,179,2,10,191,179,191
 3,General José Ballivián,1,Reyes,2555,Reyes,1,U.E. Rene Barrientos Ortuño,8008337,3,240,176,1,10,187,176,187
 3,General José Ballivián,1,Reyes,2555,Reyes,1,U.E. Rene Barrientos Ortuño,8008347,4,214,156,3,2,161,156,161
+3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008447,1,240,182,4,6,192,182,192
 3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008457,2,240,198,0,2,200,198,200
 3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008467,3,240,197,5,4,206,197,206
 3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008477,4,240,184,3,3,190,184,190
+3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008487,5,240,186,7,4,197,186,197
 3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008497,6,240,181,2,5,188,181,188
+3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008507,7,240,184,5,6,195,184,195
 3,General José Ballivián,1,Reyes,2555,Reyes,2,U.E. Nacional de Reyes,8008517,8,229,189,3,2,194,189,194
 3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008527,1,240,202,2,7,211,202,211
 3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008537,2,240,179,4,7,190,179,190
@@ -817,36 +835,51 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008557,4,240,192,0,7,199,192,199
 3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008567,5,240,201,5,1,207,201,207
 3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008577,6,240,199,1,8,208,199,208
+3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008587,7,240,194,4,7,205,194,205
 3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008597,8,240,196,2,3,201,196,201
 3,General José Ballivián,1,Reyes,2555,Reyes,3,U.E. Jesus Alvarez Rodriguez,8008607,9,210,169,5,7,181,169,181
+3,General José Ballivián,1,Reyes,2556,Puerto Cavinas,1,Esc. Central Puerto Cavinas,8008357,1,233,136,15,13,164,136,164
 3,General José Ballivián,1,Reyes,2885,San Marcos,1,Esc. San Marcos,8008367,1,34,26,1,0,27,26,27
+3,General José Ballivián,1,Reyes,3076,Baqueti,1,U. E. 9 de Agosto,8008377,1,206,97,12,13,122,97,122
+3,General José Ballivián,1,Reyes,3077,Buen Destino,1,Esc. Buen Destino,8008387,1,188,99,9,4,112,99,112
 3,General José Ballivián,1,Reyes,3078,Soraida,1,Esc. Soraida,8008397,1,60,40,0,2,42,40,42
+3,General José Ballivián,1,Reyes,3384,California,1,Escuela De California,8008407,1,135,100,3,2,105,100,105
 3,General José Ballivián,1,Reyes,3516,San Jose Maropa,1,Esc. San Jose,8008417,1,164,136,1,5,142,136,142
+3,General José Ballivián,1,Reyes,3676,El Triunfo Rio Biata,1,Esc. Constanza Vargas,8008427,1,88,63,3,2,68,63,68
+3,General José Ballivián,1,Reyes,3868,Carmen Alto,1,U.E. Carmen Alto,8008437,1,190,148,9,8,165,148,165
 3,General José Ballivián,1,Reyes,4233,Gualaguagua,25865,U.E. Gualaguagua,8008617,1,68,61,0,1,62,61,62
 3,General José Ballivián,1,Reyes,4234,Ratije,25866,U.E. Ratije,8008627,1,116,90,5,4,99,90,99
+3,General José Ballivián,1,Reyes,4614,Santa Catalina,32369,U.E. Santa Catalina,8008637,1,74,62,0,0,62,62,62
+3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009297,1,240,193,4,6,203,193,203
 3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009307,2,240,187,6,19,212,187,212
 3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009317,3,240,198,4,5,207,198,207
 3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009327,4,240,191,7,16,214,191,214
+3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009337,5,240,195,4,6,205,195,205
 3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009347,6,240,196,0,5,201,196,201
 3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009357,7,240,188,1,6,195,188,195
 3,General José Ballivián,2,San Borja,2559,San Borja,1,U.E. San Francisco De Borja,8009367,8,213,166,0,4,170,166,170
 3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009467,1,240,203,3,5,211,203,211
 3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009477,2,240,191,4,7,202,191,202
+3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009487,3,240,193,4,4,201,193,201
 3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009497,4,240,187,9,9,205,187,205
 3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009507,5,240,183,3,14,200,183,200
 3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009517,6,240,176,5,12,193,176,193
 3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009527,7,240,187,2,10,199,187,199
 3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009537,8,240,189,5,6,200,189,200
 3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009547,9,240,191,3,7,201,191,201
+3,General José Ballivián,2,San Borja,2559,San Borja,2,U.E. German Busch,8009557,10,89,74,0,3,77,74,77
 3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009567,1,240,191,4,6,201,191,201
 3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009577,2,240,177,8,14,199,177,199
 3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009587,3,240,186,8,10,204,186,204
 3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009597,4,240,179,5,7,191,179,191
 3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009607,5,240,186,4,12,202,186,202
+3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009617,6,240,208,4,3,215,208,215
 3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009627,7,240,183,4,4,191,183,191
 3,General José Ballivián,2,San Borja,2559,San Borja,3,U.E. Arnulfo Martínez,8009637,8,76,61,1,1,63,61,63
+3,General José Ballivián,2,San Borja,2559,San Borja,4,U.E. Villa San Antonio,8009017,1,240,182,6,11,199,182,199
 3,General José Ballivián,2,San Borja,2559,San Borja,4,U.E. Villa San Antonio,8009027,2,240,183,6,9,198,183,198
 3,General José Ballivián,2,San Borja,2559,San Borja,4,U.E. Villa San Antonio,8009037,3,240,171,5,7,183,171,183
+3,General José Ballivián,2,San Borja,2559,San Borja,4,U.E. Villa San Antonio,8009047,4,240,177,7,14,198,177,198
 3,General José Ballivián,2,San Borja,2559,San Borja,4,U.E. Villa San Antonio,8009057,5,240,178,7,8,193,178,193
 3,General José Ballivián,2,San Borja,2559,San Borja,4,U.E. Villa San Antonio,8009067,6,128,88,4,8,100,88,100
 3,General José Ballivián,2,San Borja,2559,San Borja,5,U.E. San Ignacio Del Maniqui,8009647,1,240,170,7,11,188,170,188
@@ -856,18 +889,25 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,General José Ballivián,2,San Borja,2559,San Borja,5,U.E. San Ignacio Del Maniqui,8009687,5,126,100,7,3,110,100,110
 3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009377,1,240,168,2,4,174,168,174
 3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009387,2,240,173,2,8,183,173,183
+3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009397,3,240,175,0,5,180,175,180
 3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009407,4,240,186,9,10,205,186,205
 3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009417,5,240,176,6,9,191,176,191
+3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009427,6,240,175,4,4,183,175,183
 3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009437,7,240,186,3,7,196,186,196
 3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009447,8,240,177,7,13,197,177,197
+3,General José Ballivián,2,San Borja,2559,San Borja,6,U.E. 18 de Noviembre,8009457,9,227,179,2,6,187,179,187
 3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009697,1,240,181,4,3,188,181,188
+3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009707,2,240,171,5,10,186,171,186
 3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009717,3,240,181,1,11,193,181,193
 3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009727,4,240,187,1,10,198,187,198
+3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009737,5,240,181,6,11,198,181,198
 3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009747,6,240,203,2,2,207,203,207
 3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009757,7,240,180,5,10,195,180,195
+3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009767,8,240,188,4,13,205,188,205
 3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009777,9,40,36,0,1,37,36,37
 3,General José Ballivián,2,San Borja,2560,Santa Elena del Caripo,1,Esc. Santa Elena del Caripo,8008647,1,165,132,4,7,143,132,143
 3,General José Ballivián,2,San Borja,2562,Junreno,1,Esc. Junrreno,8008657,1,73,59,1,5,65,59,65
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009147,1,240,171,11,21,203,171,203
 3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009157,2,240,179,11,15,205,179,205
 3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009167,3,240,154,14,30,198,154,198
 3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009177,4,240,163,19,21,203,163,203
@@ -876,10 +916,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009217,8,240,161,17,22,200,161,200
 3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009227,9,240,165,14,15,194,165,194
 3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009237,10,240,165,12,21,198,165,198
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009247,11,240,154,11,24,189,154,189
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009257,12,240,159,11,21,191,159,191
+3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009267,13,240,173,10,19,202,173,202
 3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009277,14,240,171,7,27,205,171,205
 3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009287,15,102,76,3,7,86,76,86
 3,General José Ballivián,2,San Borja,2564,La Embocada,1,Esc. La Embocada,8008667,1,240,167,10,33,210,167,210
 3,General José Ballivián,2,San Borja,2564,La Embocada,1,Esc. La Embocada,8008677,2,240,171,7,26,204,171,204
+3,General José Ballivián,2,San Borja,2564,La Embocada,1,Esc. La Embocada,8008687,3,37,29,0,2,31,29,31
 3,General José Ballivián,2,San Borja,2565,El Palmar,1,Esc. El Palmar,8008707,2,240,169,8,26,203,169,203
 3,General José Ballivián,2,San Borja,2565,El Palmar,1,Esc. El Palmar,8008717,3,240,165,10,27,202,165,202
 3,General José Ballivián,2,San Borja,2565,El Palmar,1,Esc. El Palmar,8008727,4,159,112,5,19,136,112,136
@@ -889,10 +933,15 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,General José Ballivián,2,San Borja,2569,La Cruz,1,Esc. La Cruz,8008767,3,240,193,9,13,215,193,215
 3,General José Ballivián,2,San Borja,2569,La Cruz,1,Esc. La Cruz,8008777,4,209,157,10,19,186,157,186
 3,General José Ballivián,2,San Borja,2570,Puerto Yucumo,1,U. E. Puerto Yucumo,8008787,1,240,162,15,35,212,162,212
+3,General José Ballivián,2,San Borja,2570,Puerto Yucumo,1,U. E. Puerto Yucumo,8008797,2,249,189,4,42,235,189,235
 3,General José Ballivián,2,San Borja,2571,El Chacal,1,Esc. El Chacal,8008807,1,240,187,5,23,215,187,215
 3,General José Ballivián,2,San Borja,2571,El Chacal,1,Esc. El Chacal,8008817,2,240,177,6,32,215,177,215
+3,General José Ballivián,2,San Borja,2571,El Chacal,1,Esc. El Chacal,8008827,3,67,51,0,9,60,51,60
 3,General José Ballivián,2,San Borja,2788,Las Habras,1,Esc. Las Abras,8008837,1,125,97,2,7,106,97,106
+3,General José Ballivián,2,San Borja,3074,Oriente,1,Escuela El Oriente Del Yacuma,8008847,1,192,145,6,8,159,145,159
+3,General José Ballivián,2,San Borja,3517,Tacuaral de Mattos,1,Esc. Tacuaral De Mattos,8008857,1,240,156,12,36,204,156,204
 3,General José Ballivián,2,San Borja,3517,Tacuaral de Mattos,1,Esc. Tacuaral De Mattos,8008867,2,240,171,11,27,209,171,209
+3,General José Ballivián,2,San Borja,3517,Tacuaral de Mattos,1,Esc. Tacuaral De Mattos,8008877,3,240,167,11,23,201,167,201
 3,General José Ballivián,2,San Borja,3517,Tacuaral de Mattos,1,Esc. Tacuaral De Mattos,8008887,4,79,59,3,16,78,59,78
 3,General José Ballivián,2,San Borja,3518,Indígenas Arenales,1,Esc. Indigena Arenales,8008897,1,240,188,9,22,219,188,219
 3,General José Ballivián,2,San Borja,3518,Indígenas Arenales,1,Esc. Indigena Arenales,8008907,2,240,186,9,25,220,186,220
@@ -901,6 +950,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,General José Ballivián,2,San Borja,3870,Quiquibey,1,U.E. Quiquibey,8008957,2,102,65,2,10,77,65,77
 3,General José Ballivián,2,San Borja,3871,Manguito,1,U.E. Manguito,8008967,1,240,186,4,26,216,186,216
 3,General José Ballivián,2,San Borja,3871,Manguito,1,U.E. Manguito,8008977,2,240,179,8,26,213,179,213
+3,General José Ballivián,2,San Borja,3871,Manguito,1,U.E. Manguito,8008987,3,151,115,8,13,136,115,136
 3,General José Ballivián,2,San Borja,3873,Marca Coroico,1,U.E. Marca Coroico,8008997,1,240,140,19,41,200,140,200
 3,General José Ballivián,2,San Borja,3873,Marca Coroico,1,U.E. Marca Coroico,8009007,2,47,31,2,8,41,31,41
 3,General José Ballivián,2,San Borja,4230,Galilea,25862,U.E. Galilea,8009077,1,240,205,0,11,216,205,216
@@ -908,26 +958,55 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,General José Ballivián,2,San Borja,4230,Galilea,25862,U.E. Galilea,8009097,3,254,206,5,5,216,206,216
 3,General José Ballivián,2,San Borja,4231,Puente Yucumo,25863,U.E. Cooperativa Chimane,8009107,1,240,183,13,30,226,183,226
 3,General José Ballivián,2,San Borja,4231,Puente Yucumo,25863,U.E. Cooperativa Chimane,8009117,2,71,52,3,16,71,52,71
+3,General José Ballivián,2,San Borja,4418,Cosincho,26175,U.E. Cosincho,8009127,1,240,179,4,36,219,179,219
 3,General José Ballivián,2,San Borja,4418,Cosincho,26175,U.E. Cosincho,8009137,2,203,128,4,54,186,128,186
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009807,3,240,195,6,4,205,195,205
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009837,6,240,204,1,7,212,204,212
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009847,7,240,207,1,5,213,207,213
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009857,8,240,199,2,9,210,199,210
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,1,U.E. Gerardo Reyes,8009867,9,240,219,0,6,225,219,225
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010007,1,240,177,4,1,182,177,182
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010027,3,240,193,0,1,194,193,194
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010037,4,240,179,3,7,189,179,189
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010047,5,240,192,2,3,197,192,197
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010057,6,240,185,1,5,191,185,191
+3,General José Ballivián,3,Santa Rosa,2573,Santa Rosa,25859,U.E. Umbelina Claure de Cuellar,8010067,7,220,175,1,6,182,175,182
+3,General José Ballivián,3,Santa Rosa,2574,Palma Flor,1,Esc. Central Palma Flor,8009907,1,150,100,9,10,119,100,119
+3,General José Ballivián,3,Santa Rosa,2575,El Triunfo Las Petas,1,Esc. El Triunfo,8009927,2,227,180,3,9,192,180,192
+3,General José Ballivián,3,Santa Rosa,2576,El Candado,1,Esc. El Candado,8009937,1,120,74,0,12,86,74,86
+3,General José Ballivián,3,Santa Rosa,2577,Puerto Yata,1,Esc. Puerto Yata,8009947,1,91,63,2,3,68,63,68
+3,General José Ballivián,3,Santa Rosa,3088,El Rosario,1,Escuela El Rosario,8009957,1,195,158,1,5,164,158,164
+3,General José Ballivián,3,Santa Rosa,3315,Australia,1,Escuela Australia,8009967,1,240,158,13,15,186,158,186
+3,General José Ballivián,3,Santa Rosa,3733,Puerto Teresa,1,Esc. Puerto Teresa,8009987,1,97,64,1,9,74,64,74
+3,General José Ballivián,3,Santa Rosa,3737,El Cerrito,1,Esc. El Cerrito,8009997,1,130,83,3,16,102,83,102
+3,General José Ballivián,3,Santa Rosa,4510,Tacuaral,32146,U.E. Tacuaral,8010077,1,194,158,5,6,169,158,169
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2566,Piedras Blancas,1,Esc. Central Piedras Blancas,8010087,1,240,180,13,17,210,180,210
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2566,Piedras Blancas,1,Esc. Central Piedras Blancas,8010097,2,144,110,14,6,130,110,130
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010107,1,240,186,4,10,200,186,200
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010117,2,240,194,5,14,213,194,213
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010127,3,240,183,13,12,208,183,208
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010137,4,240,186,6,10,202,186,202
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010147,5,240,190,5,6,201,190,201
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010157,6,240,193,3,2,198,193,198
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010167,7,240,176,7,10,193,176,193
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,1,Esc. Gualberto Villarruel,8010177,8,109,79,1,1,81,79,81
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010237,1,240,165,8,14,187,165,187
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010247,2,240,180,1,6,187,180,187
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010257,3,240,169,9,12,190,169,190
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010267,4,240,154,7,22,183,154,183
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010277,5,240,160,6,10,176,160,176
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010287,6,240,179,10,8,197,179,197
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010307,8,240,169,2,20,191,169,191
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010317,9,240,155,5,7,167,155,167
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010337,11,240,157,1,11,169,157,169
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,3,Unidad Educativa Lucio Lens,8010357,13,67,37,3,1,41,37,41
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010367,1,240,187,6,10,203,187,203
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010387,3,240,188,5,7,200,188,200
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010397,4,240,180,8,6,194,180,194
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010417,6,240,192,10,9,211,192,211
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,4,Escuela Villa Lourdes,8010427,7,240,181,7,10,198,181,198
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,26362,U.E. Melvin Jonnes,8010537,1,240,185,7,3,195,185,195
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,26362,U.E. Melvin Jonnes,8010557,3,240,189,6,11,206,189,206
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,26362,U.E. Melvin Jonnes,8010567,4,35,23,4,0,27,23,27
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32019,U.E. Filadelfia,8010577,1,240,163,5,16,184,163,184
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32019,U.E. Filadelfia,8010587,2,240,185,8,10,203,185,203
@@ -937,7 +1016,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32019,U.E. Filadelfia,8010627,6,237,176,5,12,193,176,193
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32020,U.E. Obispo Juan Claudel Fe y Alegria,8010677,5,240,180,11,8,199,180,199
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2786,Rurrenabaque,32020,U.E. Obispo Juan Claudel Fe y Alegria,8010687,6,55,43,1,2,46,43,46
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2787,Nuevos Horizontes,1,Esc. Central Nuevos Horizontes,8010187,1,240,167,7,26,200,167,200
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2787,Nuevos Horizontes,1,Esc. Central Nuevos Horizontes,8010197,2,240,153,5,44,202,153,202
+3,General José Ballivián,4,Puerto Menor de Rurrenabaque,2787,Nuevos Horizontes,1,Esc. Central Nuevos Horizontes,8010207,3,208,146,9,22,177,146,177
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,3520,Asunción de Quiquibey,1,Esc. Asuncion Del Quiquibey,8010217,1,201,148,12,26,186,148,186
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4171,Ticala Linares,25566,U.E. Collana Linares,8010447,1,240,185,12,11,208,185,208
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4171,Ticala Linares,25566,U.E. Collana Linares,8010457,2,240,158,10,33,201,158,201
@@ -947,14 +1028,43 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4232,Bajo Colorado,25864,U.E. Bajo Colorado,8010507,3,27,15,4,5,24,15,24
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4421,El Cebu,26178,U.E. El Cebu,8010517,1,240,167,9,22,198,167,198
 3,General José Ballivián,4,Puerto Menor de Rurrenabaque,4421,El Cebu,26178,U.E. El Cebu,8010527,2,49,41,3,4,48,41,48
+4,Yacuma,1,Santa Ana,2561,Totaisal,1,Esc. Cec. El Totaisal,8010697,1,240,161,16,18,195,161,195
 4,Yacuma,1,Santa Ana,2561,Totaisal,1,Esc. Cec. El Totaisal,8010707,2,183,126,5,10,141,126,141
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010827,1,240,176,4,6,186,176,186
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010837,2,240,183,2,5,190,183,190
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010847,3,240,200,4,4,208,200,208
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010857,4,240,176,1,8,185,176,185
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010867,5,240,187,2,6,195,187,195
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010877,6,240,189,3,4,196,189,196
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010887,7,240,196,2,5,203,196,203
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010897,8,240,195,2,5,202,195,202
 4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010907,9,240,181,4,3,188,181,188
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010917,10,240,199,0,4,203,199,203
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010927,11,240,178,3,5,186,178,186
+4,Yacuma,1,Santa Ana,2581,Santa Ana,1,U.E. Andrés Alberdi Salegui,8010937,12,31,26,0,3,29,26,29
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011017,1,240,194,5,17,216,194,216
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011027,2,240,209,0,4,213,209,213
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011037,3,240,199,0,6,205,199,205
 4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011047,4,240,193,1,9,203,193,203
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011057,5,240,194,5,6,205,194,205
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011067,6,240,197,6,9,212,197,212
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011077,7,240,204,3,4,211,204,211
+4,Yacuma,1,Santa Ana,2581,Santa Ana,2,U.E. Monseñor Daniel Rivero,8011087,8,176,129,1,3,133,129,133
+4,Yacuma,1,Santa Ana,2581,Santa Ana,3,U.E. Guillermo Searle,8010947,1,240,180,7,8,195,180,195
 4,Yacuma,1,Santa Ana,2581,Santa Ana,3,U.E. Guillermo Searle,8010957,2,240,181,1,11,193,181,193
+4,Yacuma,1,Santa Ana,2581,Santa Ana,3,U.E. Guillermo Searle,8010977,4,240,189,3,5,197,189,197
+4,Yacuma,1,Santa Ana,2581,Santa Ana,3,U.E. Guillermo Searle,8010987,5,240,185,1,4,190,185,190
+4,Yacuma,1,Santa Ana,2581,Santa Ana,3,U.E. Guillermo Searle,8010997,6,163,123,2,2,127,123,127
 4,Yacuma,1,Santa Ana,2581,Santa Ana,25861,U.E. John Fitzgerald Kennedy,8011107,2,240,171,5,8,184,171,184
+4,Yacuma,1,Santa Ana,2581,Santa Ana,25861,U.E. John Fitzgerald Kennedy,8011127,4,240,172,0,4,176,172,176
 4,Yacuma,1,Santa Ana,2581,Santa Ana,25861,U.E. John Fitzgerald Kennedy,8011137,5,46,32,0,0,32,32,32
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010757,1,240,161,1,4,166,161,166
 4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010767,2,240,173,5,7,185,173,185
 4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010777,3,240,185,2,14,201,185,201
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010787,4,240,196,1,2,199,196,199
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010797,5,240,183,4,12,199,183,199
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010807,6,240,193,2,10,205,193,205
+4,Yacuma,1,Santa Ana,2581,Santa Ana,32021,U.E. Monseñor Carlos Anasagasti Zulueta,8010817,7,200,155,1,6,162,155,162
 4,Yacuma,1,Santa Ana,2581,Santa Ana,32116,U.E. Antonio Carvalho Urey,8011007,1,259,191,4,7,202,191,202
 4,Yacuma,1,Santa Ana,2587,Los Montes de Oro,1,Esc. Los Montes De Oro,8010717,1,18,5,0,2,7,5,7
 4,Yacuma,1,Santa Ana,2681,El Peru Rio Apere,1,Esc. Wenceslao Añez,8010727,1,240,180,3,6,189,180,189
@@ -968,6 +1078,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Yacuma,2,Exaltación,3103,San Juan del Jordán,1,Escuela San Juan del Jordan,8011237,1,101,66,0,5,71,66,71
 4,Yacuma,2,Exaltación,3521,Nueva Esperanza,1,Esc. Nueva Esperanza,8011247,1,45,36,0,0,36,36,36
 4,Yacuma,2,Exaltación,3522,Campo Ana Maria,1,Esc. Campo Ana Maria,8011257,1,39,31,0,0,31,31,31
+4,Yacuma,2,Exaltación,4486,Bienvenido,32117,U.E. Bienvenido,8011277,1,179,112,0,3,115,112,115
 5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011517,1,240,195,8,7,210,195,210
 5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011527,2,240,171,8,9,188,171,188
 5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011537,3,240,185,9,8,202,185,202
@@ -1004,17 +1115,27 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Moxos,1,San Ignacio,2598,Fatima,1,Esc. Fatima,8011297,1,159,124,4,4,132,124,132
 5,Moxos,1,San Ignacio,2600,Argentina,1,Esc. La Argentina,8011307,1,121,99,5,4,108,99,108
 5,Moxos,1,San Ignacio,2601,Desengaño,1,Esc. El Desengaño,8011317,1,154,107,2,8,117,107,117
+5,Moxos,1,San Ignacio,2608,San José de Patrocinio,1,Esc. San Jose De Patrocinio,8011377,1,39,26,1,3,30,26,30
+5,Moxos,1,San Ignacio,2609,Santisima Trinidad,1,Escuela Santísima Trinidad,8011387,1,240,151,28,24,203,151,203
+5,Moxos,1,San Ignacio,2610,Puerto San Lorenzo de Moxos,1,Esc. Pto. San Lorenzo,8011407,1,143,74,7,16,97,74,97
 5,Moxos,1,San Ignacio,2611,San Miguelito del Isiboro,1,Esc. San Miguelito Isiboro,8011417,1,123,83,7,11,101,83,101
 5,Moxos,1,San Ignacio,2824,Litoral,1,Esc. Litoral,8011427,1,180,140,12,6,158,140,158
 5,Moxos,1,San Ignacio,2827,Monte Mae,1,Esc. Monte Mae,8011437,1,110,79,3,9,91,79,91
+5,Moxos,1,San Ignacio,3108,San Antonio de Imose,1,Esc. San Antonio De Imose,8011447,1,125,56,1,1,58,56,58
 5,Moxos,1,San Ignacio,3110,Mercedes de Lojojota,1,Esc. Mercedes De Lojojota,8011457,1,224,120,16,20,156,120,156
+5,Moxos,1,San Ignacio,3127,Trinidacito,1,Esc. Trinidacito,8011467,1,51,33,1,1,35,33,35
 5,Moxos,1,San Ignacio,3406,Bermeo,1,Escuela De Bermeo,8011477,1,119,81,7,7,95,81,95
+5,Moxos,1,San Ignacio,3875,San Bernardo,1,U.E. San Bernardo,8011507,1,155,88,35,11,134,88,134
 6,Marbán,1,Loreto,2624,Loreto,1,Esc. Perfecta Vda. De Bejarano,8011947,1,240,207,1,5,213,207,213
 6,Marbán,1,Loreto,2624,Loreto,1,Esc. Perfecta Vda. De Bejarano,8011957,2,240,206,1,5,212,206,212
 6,Marbán,1,Loreto,2624,Loreto,1,Esc. Perfecta Vda. De Bejarano,8011967,3,67,56,1,1,58,56,58
+6,Marbán,1,Loreto,2630,Gundonovia,1,Esc. Gundonovia,8012007,1,157,97,3,14,114,97,114
 6,Marbán,1,Loreto,2631,Sachojere,1,Esc. Sachojere,8012017,1,240,194,5,6,205,194,205
 6,Marbán,1,Loreto,2631,Sachojere,1,Esc. Sachojere,8012027,2,142,127,0,2,129,127,129
+6,Marbán,1,Loreto,2747,San Pablo del Isiboro,1,Esc. San Pablo Isiboro,8012037,1,197,137,5,3,145,137,145
 6,Marbán,1,Loreto,3105,Santa Rosa del Isiboro,1,Santa Rosa del Isiboro,8012047,1,175,112,10,12,134,112,134
+6,Marbán,1,Loreto,3876,Palermo,1,U.E. Palermo,8012067,1,49,48,1,0,49,48,49
+6,Marbán,1,Loreto,3878,Villa El Carmen del Remanzo,1,U.E. Villa El Carmen del Remanzo,8012077,1,124,70,3,11,84,70,84
 6,Marbán,2,San Andrés,2633,San Andrés,1,Esc. Humberto Velarde,8012087,1,240,178,7,9,194,178,194
 6,Marbán,2,San Andrés,2633,San Andrés,1,Esc. Humberto Velarde,8012097,2,27,20,0,0,20,20,20
 6,Marbán,2,San Andrés,2634,Perotó,1,Esc. Peroto,8012107,1,234,170,6,3,179,170,179
@@ -1054,26 +1175,44 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,Marbán,2,San Andrés,4115,Villa San Pedro,25525,U.E. Canaan,8012467,2,217,155,12,11,178,155,178
 6,Marbán,2,San Andrés,4422,Unión y Fe,26179,U.E. Unión y Fe,8012477,1,240,172,15,17,204,172,204
 6,Marbán,2,San Andrés,4422,Unión y Fe,26179,U.E. Unión y Fe,8012487,2,28,21,1,0,22,21,22
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012527,1,240,158,2,2,162,158,162
 7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012567,5,240,166,1,1,168,166,168
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012577,6,240,169,5,5,179,169,179
 7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012607,1,240,192,0,4,196,192,196
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012627,3,240,195,2,3,200,195,200
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012637,4,240,191,4,2,197,191,197
 7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012667,7,90,72,3,0,75,72,75
 7,Mamoré,1,San Joaquín,2621,Puerto Ustarez,1,Esc. Puerto Ustarez,8012507,1,133,97,3,3,103,97,103
+7,Mamoré,1,San Joaquín,3079,Moré Monte Azul,1,Esc. More Monte Azul,8012517,1,116,98,2,2,102,98,102
 7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012687,2,240,188,6,5,199,188,199
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012697,3,240,194,2,3,199,194,199
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012707,4,240,207,6,5,218,207,218
 7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012717,5,240,197,3,6,206,197,206
 7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012727,6,240,200,4,4,208,200,208
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012737,7,240,203,2,1,206,203,206
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012747,8,240,199,0,2,201,199,201
 7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012757,9,240,200,3,0,203,200,203
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012767,10,240,213,0,1,214,213,214
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012777,11,240,193,7,4,204,193,204
 7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012787,12,144,115,0,3,118,115,118
+7,Mamoré,2,San Ramón,2617,Poyori,1,Esc. El Poyori,8012797,1,53,45,0,0,45,45,45
 7,Mamoré,2,San Ramón,3173,El Carmen de Guacayane,1,Esc. El Carmen de Guacayane,8012807,1,69,53,1,1,55,53,55
+7,Mamoré,3,Puerto Siles,2618,Puerto Siles,1,Esc. Antofagasta,8012817,1,240,196,6,3,205,196,205
+7,Mamoré,3,Puerto Siles,2622,Alejandría,1,Esc. Alejandria,8012847,1,52,37,0,0,37,37,37
 8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012857,1,240,195,2,5,202,195,202
 8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012867,2,240,190,3,5,198,190,198
 8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012877,3,240,190,1,8,199,190,199
+8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012887,4,240,189,2,7,198,189,198
 8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012897,5,240,175,6,6,187,175,187
+8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012907,6,240,195,5,2,202,195,202
 8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012917,7,240,186,4,11,201,186,201
 8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012927,8,35,26,0,0,26,26,26
+8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013087,1,240,192,2,7,201,192,201
 8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013097,2,240,185,6,7,198,185,198
 8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013107,3,240,202,3,6,211,202,211
 8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013117,4,240,202,2,5,209,202,209
 8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013137,6,240,193,2,5,200,193,200
+8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013147,7,240,198,4,5,207,198,207
 8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013157,8,240,194,6,13,213,194,213
 8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013167,9,240,197,1,8,206,197,206
 8,Iténez,1,Magdalena,2644,Magdalena,32118,U.E. Carmen Urdininea Rivero,8013177,10,104,81,1,6,88,81,88
@@ -1082,7 +1221,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8012997,1,240,180,9,6,195,180,195
 8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013007,2,240,184,4,4,192,184,192
 8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013017,3,240,169,6,5,180,169,180
+8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013027,4,240,190,9,4,203,190,203
 8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013037,5,240,186,5,5,196,186,196
+8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013047,6,162,131,7,5,143,131,143
 8,Iténez,1,Magdalena,2682,Buena Vista,1,Esc. Buena Vista,8013057,1,240,154,9,16,179,154,179
 8,Iténez,1,Magdalena,2682,Buena Vista,1,Esc. Buena Vista,8013067,2,39,25,1,0,26,25,26
 8,Iténez,1,Magdalena,4578,Nueva Brema,32289,U.E. Nueva Brema,8013187,1,111,88,2,6,96,88,96
@@ -1107,6 +1248,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013397,2,240,208,0,1,209,208,209
 8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013417,4,240,208,1,2,211,208,211
 8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013427,5,240,212,0,1,213,212,213
+8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013437,6,214,170,0,3,173,170,173
 8,Iténez,3,Huacaraje,2658,El Carmen del Itenez,1,Esc. El Carmen,8013447,1,240,197,1,7,205,197,205
 8,Iténez,3,Huacaraje,2658,El Carmen del Itenez,1,Esc. El Carmen,8013457,2,240,179,2,3,184,179,184
 8,Iténez,3,Huacaraje,2658,El Carmen del Itenez,1,Esc. El Carmen,8013467,3,185,156,2,2,160,156,160
