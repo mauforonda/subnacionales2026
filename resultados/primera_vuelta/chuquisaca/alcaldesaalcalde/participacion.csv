@@ -1045,6 +1045,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Oropeza,3,Poroma,1242,Poroma,1,U. Edu. San Andres De Poroma,1010447,4,240,153,7,20,180,153,180
 1,Oropeza,3,Poroma,1242,Poroma,1,U. Edu. San Andres De Poroma,1010457,5,240,135,6,25,166,135,166
 1,Oropeza,3,Poroma,1242,Poroma,1,U. Edu. San Andres De Poroma,1010467,6,46,29,0,5,34,29,34
+1,Oropeza,3,Poroma,1246,Huañoma,1,Unidad Educativa Huañoma,1010477,1,240,129,20,18,167,129,167
 1,Oropeza,3,Poroma,1246,Huañoma,1,Unidad Educativa Huañoma,1010487,2,154,92,4,21,117,92,117
 1,Oropeza,3,Poroma,1248,Pojpo,1,Escuela San Salvador de Pojpo,1010497,1,240,120,19,38,177,120,177
 1,Oropeza,3,Poroma,1248,Pojpo,1,Escuela San Salvador de Pojpo,1010507,2,22,12,0,4,16,12,16
@@ -1138,6 +1139,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Zudáñez,1,Zudañez,1283,Zudañez,2,Col. Ignacio Prudencio Bustillos,1011357,6,209,155,7,19,181,155,181
 3,Zudáñez,1,Zudañez,1284,Capilla Llave,1,Unidad Educativa Capilla Llave,1011267,1,92,67,0,9,76,67,76
 3,Zudáñez,1,Zudañez,3393,Mandinga,1,Escuela Mandinga,1011277,1,143,95,3,24,122,95,122
+3,Zudáñez,1,Zudañez,3394,Sayan Chaca,1,Escuela Sayan Chaca,1011287,1,213,147,5,36,188,147,188
 3,Zudáñez,1,Zudañez,3716,Huaca Huasi,1,Unidad Educativa Huaca Huasi,1011297,1,134,80,4,21,105,80,105
 3,Zudáñez,2,Presto,1287,Presto,1,Unidad Educativa Ricardo Mujia,1011437,1,240,163,12,29,204,163,204
 3,Zudáñez,2,Presto,1287,Presto,1,Unidad Educativa Ricardo Mujia,1011447,2,240,164,11,24,199,164,199
@@ -1251,6 +1253,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Tomina,3,Sopachuy,3239,Pampas del Carmen,1,Unidad Educativa Pampas del Carmen,1012497,1,126,79,6,21,106,79,106
 4,Tomina,3,Sopachuy,3372,Sipicani,1,Escuela Sipicani,1012507,1,218,161,8,15,184,161,184
 4,Tomina,3,Sopachuy,3439,Milanes,1,Unidad Educativa Seccional Milanes,1012517,1,85,47,4,15,66,47,66
+4,Tomina,3,Sopachuy,3680,San Juan de Horcas,1,U.E. San Juan de Horcas,1012527,1,96,63,6,10,79,63,79
 4,Tomina,3,Sopachuy,3681,Pampas Punta,1,U.E. Pampas Punta,1012537,1,156,103,7,19,129,103,129
 4,Tomina,3,Sopachuy,3903,Mama Huasi,1,Unidad Educativa Mama Huasi,1012547,1,189,131,6,21,158,131,158
 4,Tomina,3,Sopachuy,4008,Paslapaya,25323,U.E. Paslapaya,1012587,1,86,62,3,12,77,62,77
@@ -1448,6 +1451,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014687,6,240,200,3,9,212,200,212
 7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014697,7,240,192,3,4,199,192,199
 7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014707,8,240,197,8,5,210,197,210
+7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014717,9,240,198,4,7,209,198,209
 7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014727,10,240,195,2,14,211,195,211
 7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014737,11,240,191,5,8,204,191,204
 7,Nor Cinti,1,Camargo,1371,Camargo,2,Colegio Nacional Mixto 3 De Abril,1014747,12,181,140,3,8,151,140,151
@@ -1467,12 +1471,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Nor Cinti,1,Camargo,1382,La Quemada,1,Escuela La Quemada,1014567,1,117,83,5,7,95,83,95
 7,Nor Cinti,1,Camargo,2926,Carpachacra,1,Unidad Educativa Carpachacra,1014577,1,134,101,5,15,121,101,121
 7,Nor Cinti,1,Camargo,2970,El Churo,1,Escuela El Churo,1014587,1,65,48,2,5,55,48,55
+7,Nor Cinti,1,Camargo,2971,Huaca Cancha,1,Unidad Educativa Huaca Cancha,1014597,1,149,70,10,24,104,70,104
 7,Nor Cinti,1,Camargo,3244,Cueva Pampa,1,Unidad Educativa Cueva Pampa,1014607,1,214,135,10,15,160,135,160
 7,Nor Cinti,1,Camargo,3844,Jatun Quinray,1,Unidad Educativa Jatun Quinray,1014617,1,130,87,4,8,99,87,99
 7,Nor Cinti,1,Camargo,3905,Quirucillani,1,Unidad Educativa Quirucillani,1014627,1,82,48,2,6,56,48,56
 7,Nor Cinti,2,San Lucas,1380,Acchilla,1,Unidad Educativa Acchilla,1014777,1,240,104,19,32,155,104,155
 7,Nor Cinti,2,San Lucas,1380,Acchilla,1,Unidad Educativa Acchilla,1014787,2,180,88,12,19,119,88,119
 7,Nor Cinti,2,San Lucas,1383,San Lucas,2,U. Edu. Eduardo Avaroa,1015257,1,240,169,2,20,191,169,191
+7,Nor Cinti,2,San Lucas,1383,San Lucas,2,U. Edu. Eduardo Avaroa,1015267,2,240,187,3,12,202,187,202
 7,Nor Cinti,2,San Lucas,1383,San Lucas,2,U. Edu. Eduardo Avaroa,1015277,3,240,169,9,26,204,169,204
 7,Nor Cinti,2,San Lucas,1383,San Lucas,2,U. Edu. Eduardo Avaroa,1015287,4,240,183,2,10,195,183,195
 7,Nor Cinti,2,San Lucas,1383,San Lucas,2,U. Edu. Eduardo Avaroa,1015297,5,240,172,10,14,196,172,196
@@ -1593,6 +1599,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Nor Cinti,4,Villa Charcas,1410,Supas,1,Escuela Supas,1015937,1,240,117,14,25,156,117,156
 7,Nor Cinti,4,Villa Charcas,1410,Supas,1,Escuela Supas,1015947,2,146,89,5,8,102,89,102
 7,Nor Cinti,4,Villa Charcas,1411,La Bombona,1,Escuela Bomboma,1015957,1,85,49,7,6,62,49,62
+7,Nor Cinti,4,Villa Charcas,2975,Pucara de Llujllaya,1,Escuela Llujllaya,1015967,1,240,121,26,12,159,121,159
 7,Nor Cinti,4,Villa Charcas,2975,Pucara de Llujllaya,1,Escuela Llujllaya,1015977,2,154,33,71,2,106,33,106
 7,Nor Cinti,4,Villa Charcas,3691,Mollini,1,U.E. Mollini,1015987,1,174,117,11,15,143,117,143
 8,Belisario Boeto,1,Villa Serrano,1417,Villa Serrano (Pescado),30008,U.E. Eduardo Abaroa,1016207,1,240,179,2,16,197,179,197
