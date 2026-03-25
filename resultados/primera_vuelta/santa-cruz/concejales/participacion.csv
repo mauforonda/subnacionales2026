@@ -937,6 +937,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009067,3,240,185,16,2,203,185,203
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009077,4,240,164,34,4,202,164,202
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009087,5,240,138,28,11,177,138,177
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009097,6,240,151,31,3,185,151,185
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009107,7,240,168,25,4,197,168,197
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009117,8,240,151,39,4,194,151,194
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,4012,Col. Jose Malky Jesus Maria,7009127,9,240,156,40,6,202,156,202
@@ -1523,6 +1524,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6020,U.E. El Dorado Norte,7019857,15,240,143,65,7,215,143,215
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6020,U.E. El Dorado Norte,7019867,16,240,155,49,4,208,155,208
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6020,U.E. El Dorado Norte,7019877,17,240,135,62,10,207,135,207
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6020,U.E. El Dorado Norte,7019887,18,240,144,66,10,220,144,220
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6020,U.E. El Dorado Norte,7019897,19,240,144,54,13,211,144,211
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6020,U.E. El Dorado Norte,7019917,21,240,135,55,6,196,135,196
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6020,U.E. El Dorado Norte,7019927,22,240,131,58,12,201,131,201
@@ -3698,6 +3700,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25661,U.E. Libertad,7021277,10,47,31,11,3,45,31,45
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030597,1,240,132,52,11,195,132,195
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030607,2,240,139,59,13,211,139,211
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030617,3,240,153,55,7,215,153,215
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030627,4,240,152,44,11,207,152,207
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030637,5,240,136,60,13,209,136,209
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,25662,U.E. Luis Melgar I,7030647,6,240,136,71,4,211,136,211
@@ -6161,22 +6164,31 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Cordillera,1,Lagunillas,3563,Tasete,1,U.E. Tazete,7071097,1,66,38,19,1,58,38,58
 7,Cordillera,1,Lagunillas,3987,Tenta Piau,1,U. E. Tenta Piau,7071107,1,116,77,12,0,89,77,89
 7,Cordillera,1,Lagunillas,3989,Pampa Redonda,1,U.E. Pampa Redonda,7071127,1,158,87,42,3,132,87,132
+7,Cordillera,1,Lagunillas,3990,Yaity,1,U.E. Yaity,7071137,1,103,65,24,2,91,65,91
 7,Cordillera,1,Lagunillas,4162,Buena Vista,25554,Salón de Reuniones,7071267,1,34,28,4,0,32,28,32
 7,Cordillera,1,Lagunillas,4163,Potrerillos Los Pozos,25555,U.E. Rafael Julián,7071277,1,186,93,54,2,149,93,149
 7,Cordillera,1,Lagunillas,4572,Kuruyuqui,32283,U.E. José María Carpio,7071307,1,53,30,23,0,53,30,53
 7,Cordillera,1,Lagunillas,4575,Mocomocal,32285,U.E. Mocomocal,7071317,1,121,69,39,0,108,69,108
 7,Cordillera,1,Lagunillas,4577,Curupaiti,32288,U.E. Andrés Avalos,7071327,1,92,62,22,0,84,62,84
+7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072227,1,240,130,57,2,189,130,189
+7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072237,2,240,120,39,8,167,120,167
 7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072267,5,240,88,21,6,115,88,115
 7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072277,6,240,92,35,14,141,92,141
 7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072287,7,240,76,21,2,99,76,99
 7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072297,8,240,130,36,8,174,130,174
+7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072307,9,240,119,22,6,147,119,147
 7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072317,10,240,125,21,10,156,125,156
+7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072327,11,240,116,38,12,166,116,166
 7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072337,12,240,147,43,3,193,147,193
 7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072347,13,240,124,35,4,163,124,163
 7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072367,15,111,35,10,4,49,35,49
 7,Cordillera,3,Cabezas,2376,Pueblo Viejo (Florida),4032,Esc. Seccional Pueblo Viejo,7072377,1,227,142,47,9,198,142,198
 7,Cordillera,3,Cabezas,2377,Estación Mora,4036,Esc. 12 de Abril,7072407,1,240,138,51,22,211,138,211
+7,Cordillera,3,Cabezas,2377,Estación Mora,4036,Esc. 12 de Abril,7072417,2,240,122,56,8,186,122,186
+7,Cordillera,3,Cabezas,2377,Estación Mora,4036,Esc. 12 de Abril,7072427,3,240,123,66,20,209,123,209
+7,Cordillera,3,Cabezas,2377,Estación Mora,4036,Esc. 12 de Abril,7072437,4,240,127,56,22,205,127,205
 7,Cordillera,3,Cabezas,2377,Estación Mora,4036,Esc. 12 de Abril,7072447,5,240,125,49,22,196,125,196
+7,Cordillera,3,Cabezas,2377,Estación Mora,4036,Esc. 12 de Abril,7072457,6,240,103,70,24,197,103,197
 7,Cordillera,3,Cabezas,2377,Estación Mora,4036,Esc. 12 de Abril,7072467,7,240,133,48,12,193,133,193
 7,Cordillera,3,Cabezas,2377,Estación Mora,4036,Esc. 12 de Abril,7072477,8,240,126,58,27,211,126,211
 7,Cordillera,3,Cabezas,2377,Estación Mora,4036,Esc. 12 de Abril,7072487,9,240,137,60,10,207,137,207
@@ -6184,16 +6196,26 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Cordillera,3,Cabezas,2379,Eduardo Avaroa,4035,Esc. Eduardo Abaroa,7072397,1,236,122,70,16,208,122,208
 7,Cordillera,3,Cabezas,2380,Zanja Honda,4038,Esc. Zanja Honda,7072537,1,240,144,41,25,210,144,210
 7,Cordillera,3,Cabezas,2380,Zanja Honda,4038,Esc. Zanja Honda,7072557,3,240,128,56,18,202,128,202
+7,Cordillera,3,Cabezas,2380,Zanja Honda,4038,Esc. Zanja Honda,7072567,4,240,140,59,12,211,140,211
 7,Cordillera,3,Cabezas,2380,Zanja Honda,4038,Esc. Zanja Honda,7072587,6,240,132,58,12,202,132,202
+7,Cordillera,3,Cabezas,2380,Zanja Honda,4038,Esc. Zanja Honda,7072597,7,240,137,49,15,201,137,201
 7,Cordillera,3,Cabezas,2380,Zanja Honda,4038,Esc. Zanja Honda,7072607,8,240,153,53,9,215,153,215
+7,Cordillera,3,Cabezas,2380,Zanja Honda,4038,Esc. Zanja Honda,7072617,9,25,15,5,3,23,15,23
+7,Cordillera,3,Cabezas,2383,El Filo,4005,Esc. Seccional El Filo,7072217,1,33,22,7,2,31,22,31
+7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072667,1,240,142,36,19,197,142,197
 7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072677,2,240,125,64,23,212,125,212
 7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072697,4,240,127,56,18,201,127,201
 7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072707,5,240,130,48,15,193,130,193
 7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072727,7,240,117,70,12,199,117,199
 7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072737,8,240,140,47,11,198,140,198
 7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072747,9,240,111,73,11,195,111,195
+7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072757,10,240,142,50,14,206,142,206
+7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072767,11,240,141,53,11,205,141,205
+7,Cordillera,3,Cabezas,3180,Santa Rosa,4067,Esc. Santa Rosa,7072647,1,240,139,55,9,203,139,203
 7,Cordillera,3,Cabezas,3180,Santa Rosa,4067,Esc. Santa Rosa,7072657,2,51,27,16,1,44,27,44
 7,Cordillera,3,Cabezas,3181,Pampa del Coscal,4066,U.E. Eduardo Abaroa Pampa El Coscal,7072627,1,240,119,82,14,215,119,215
+7,Cordillera,3,Cabezas,3181,Pampa del Coscal,4066,U.E. Eduardo Abaroa Pampa El Coscal,7072637,2,173,91,47,18,156,91,156
+7,Cordillera,3,Cabezas,3568,Yatirenda,1,U.E. Yateirenda,7072127,1,240,126,69,11,206,126,206
 7,Cordillera,3,Cabezas,3568,Yatirenda,1,U.E. Yateirenda,7072137,2,253,123,84,12,219,123,219
 7,Cordillera,3,Cabezas,3570,San Lorenzo Brecha 7,1,Esc. Secc. San Francisco De Asis,7072157,1,240,84,61,17,162,84,162
 7,Cordillera,3,Cabezas,3570,San Lorenzo Brecha 7,1,Esc. Secc. San Francisco De Asis,7072167,2,240,64,32,13,109,64,109
@@ -6201,6 +6223,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Cordillera,3,Cabezas,3570,San Lorenzo Brecha 7,1,Esc. Secc. San Francisco De Asis,7072197,5,240,92,36,13,141,92,141
 7,Cordillera,3,Cabezas,3570,San Lorenzo Brecha 7,1,Esc. Secc. San Francisco De Asis,7072207,6,241,65,37,5,107,65,107
 7,Cordillera,3,Cabezas,4218,Vaca Guzmán,25844,U. E. Vaca Guzmán,7072787,1,258,130,79,18,227,130,227
+7,Cordillera,3,Cabezas,4219,Loma Blanca,25845,U. E. Loma Blanca,7072797,1,240,108,70,23,201,108,201
+7,Cordillera,3,Cabezas,4219,Loma Blanca,25845,U. E. Loma Blanca,7072807,2,120,57,40,14,111,57,111
 7,Cordillera,3,Cabezas,4581,Buen Retiro,32293,U.E. Buen Retiro,7072817,1,141,67,42,9,118,67,118
 7,Cordillera,4,Cuevo,2384,Cuevo,4039,Esc. Ub. Angel Sandoval,7072847,1,240,160,24,2,186,160,186
 7,Cordillera,4,Cuevo,2384,Cuevo,4039,Esc. Ub. Angel Sandoval,7072857,2,240,118,32,3,153,118,153
@@ -6312,6 +6336,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Cordillera,7,Boyuibe,2398,Boyuibe,4015,Esc. Central Rafael Pabon,7074497,10,240,122,30,11,163,122,163
 7,Cordillera,7,Boyuibe,2398,Boyuibe,4015,Esc. Central Rafael Pabon,7074507,11,240,140,37,9,186,140,186
 7,Cordillera,7,Boyuibe,2398,Boyuibe,4015,Esc. Central Rafael Pabon,7074517,12,50,24,16,1,41,24,41
+7,Cordillera,7,Boyuibe,2399,La Ele,4052,U.E. Juan Carlos Sanchez,7074527,1,31,20,2,1,23,20,23
 7,Cordillera,7,Boyuibe,3577,Pozo del Monte,1,U.E. Paulino Moreno,7074397,1,197,108,45,1,154,108,154
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074577,1,240,155,40,8,203,155,203
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074587,2,240,159,39,11,209,159,209
@@ -6376,6 +6401,13 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Vallegrande,1,Vallegrande,4159,Mataralcito,25551,U.E. Mataralcito,7074987,1,53,26,15,6,47,26,47
 8,Vallegrande,1,Vallegrande,4160,Manchones,25552,U.E. Manchones,7074997,1,95,64,19,6,89,64,89
 8,Vallegrande,1,Vallegrande,4161,Chujllas,25553,U.E. Chujllas,7075007,1,114,78,21,5,104,78,104
+8,Vallegrande,2,Trigal,2416,Trigal,23017,U.E. San pedro,7075197,1,240,183,36,11,230,183,230
+8,Vallegrande,2,Trigal,2416,Trigal,23017,U.E. San pedro,7075207,2,240,168,45,6,219,168,219
+8,Vallegrande,2,Trigal,2416,Trigal,23017,U.E. San pedro,7075217,3,161,119,22,4,145,119,145
+8,Vallegrande,2,Trigal,2417,Muyurina,6218,Esc. Tte.Roman Alderette,7075187,1,173,146,15,3,164,146,164
+8,Vallegrande,2,Trigal,2418,La Aguada,23019,Esc. La Aguada,7075227,1,54,46,4,2,52,46,52
+8,Vallegrande,2,Trigal,2419,Lagunillas (Vallegrande),23020,Esc. Lagunillas,7075237,1,240,166,47,4,217,166,217
+8,Vallegrande,2,Trigal,2419,Lagunillas (Vallegrande),23020,Esc. Lagunillas,7075247,2,95,74,13,3,90,74,90
 8,Vallegrande,3,Moromoro,2420,Ariruma,3021,Esc. Nucleo Ariruma,7075277,1,162,90,53,6,149,90,149
 8,Vallegrande,3,Moromoro,2421,Moromoro,6223,U.E. Eloy Peña,7075297,1,240,145,59,21,225,145,225
 8,Vallegrande,3,Moromoro,2421,Moromoro,6223,U.E. Eloy Peña,7075307,2,240,137,53,21,211,137,211
@@ -6428,17 +6460,24 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Florida,1,Samaipata,3182,Bella Victoria,15014,Esc. Central Bella Victoria,7075647,4,240,149,62,5,216,149,216
 9,Florida,1,Samaipata,3366,Achiras,15015,Esc. Unidad Educativa 27 De Mayo,7075677,1,240,155,44,11,210,155,210
 9,Florida,1,Samaipata,3366,Achiras,15015,Esc. Unidad Educativa 27 De Mayo,7075687,2,72,51,11,2,64,51,64
+9,Florida,2,Pampagrande,2434,Pampagrande,5005,Esc. Pedro Aristides,7075857,1,240,138,57,10,205,138,205
 9,Florida,2,Pampagrande,2434,Pampagrande,5005,Esc. Pedro Aristides,7075877,3,240,150,55,6,211,150,211
 9,Florida,2,Pampagrande,2434,Pampagrande,5005,Esc. Pedro Aristides,7075887,4,102,61,25,1,87,61,87
 9,Florida,2,Pampagrande,2435,Mataral,15006,U.E.Delfin Arteaga Taborga,7075907,1,240,135,72,4,211,135,211
 9,Florida,2,Pampagrande,2435,Mataral,15006,U.E.Delfin Arteaga Taborga,7075917,2,240,133,79,1,213,133,213
+9,Florida,2,Pampagrande,2435,Mataral,15006,U.E.Delfin Arteaga Taborga,7075927,3,131,73,38,4,115,73,115
+9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7075937,1,240,130,66,4,200,130,200
+9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7075947,2,240,146,51,12,209,146,209
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7075957,3,240,147,50,9,206,147,206
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7075967,4,240,138,54,11,203,138,203
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7075977,5,240,139,65,6,210,139,210
+9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7075987,6,240,137,65,8,210,137,210
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7076007,8,240,132,66,10,208,132,208
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7076017,9,240,130,57,19,206,130,206
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7076027,10,240,146,62,2,210,146,210
+9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7076037,11,240,159,52,3,214,159,214
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7076047,12,240,135,62,7,204,135,204
+9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7076057,13,240,137,70,2,209,137,209
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7076067,14,240,129,68,7,204,129,204
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7076077,15,240,141,61,9,211,141,211
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7076087,16,221,103,66,18,187,103,187
@@ -6456,8 +6495,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076217,9,240,124,64,11,199,124,199
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076247,12,240,132,56,13,201,132,201
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076257,13,240,146,47,17,210,146,210
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076267,14,240,140,63,12,215,140,215
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076277,15,240,121,65,16,202,121,202
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076287,16,240,131,60,9,200,131,200
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076297,17,240,141,50,11,202,141,202
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076307,18,240,138,58,4,200,138,200
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076317,19,240,148,55,14,217,148,217
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076327,20,240,161,43,7,211,161,211
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076337,21,240,139,64,9,212,139,212
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076347,22,240,140,60,12,212,140,212
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076357,23,240,128,73,18,219,128,219
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076367,24,240,130,70,8,208,130,208
@@ -7079,13 +7124,50 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 11,Ñuflo De Chávez,5,San Antonio de Lomerio,3599,Las Trancas,1,U.E. 29 de Junio,7084997,1,180,43,118,2,163,43,163
 11,Ñuflo De Chávez,5,San Antonio de Lomerio,3918,Palmira,1,U.E. Pedro Pablo Peña Garcia,7085007,1,141,24,84,18,126,24,126
 11,Ñuflo De Chávez,5,San Antonio de Lomerio,4566,San Simón,32274,U.E. 1ro. de Enero,7085157,1,143,22,25,2,49,22,49
+12,Angel Sandoval,1,San Matías,2490,San Matías,12000,Esc. U.E.Tecnica Vocacional,7085807,1,240,116,57,26,199,116,199
+12,Angel Sandoval,1,San Matías,2490,San Matías,12000,Esc. U.E.Tecnica Vocacional,7085827,3,240,123,57,28,208,123,208
+12,Angel Sandoval,1,San Matías,2490,San Matías,12000,Esc. U.E.Tecnica Vocacional,7085847,5,240,124,46,24,194,124,194
+12,Angel Sandoval,1,San Matías,2490,San Matías,12000,Esc. U.E.Tecnica Vocacional,7085857,6,240,114,63,17,194,114,194
+12,Angel Sandoval,1,San Matías,2490,San Matías,12000,Esc. U.E.Tecnica Vocacional,7085867,7,240,109,68,18,195,109,195
+12,Angel Sandoval,1,San Matías,2490,San Matías,12000,Esc. U.E.Tecnica Vocacional,7085887,9,240,121,62,26,209,121,209
+12,Angel Sandoval,1,San Matías,2490,San Matías,12000,Esc. U.E.Tecnica Vocacional,7085907,11,240,124,58,23,205,124,205
+12,Angel Sandoval,1,San Matías,2490,San Matías,12000,Esc. U.E.Tecnica Vocacional,7085917,12,98,47,30,9,86,47,86
+12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086017,1,240,127,50,15,192,127,192
+12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086027,2,240,99,49,30,178,99,178
+12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086037,3,240,107,44,23,174,107,174
+12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086047,4,240,117,71,17,205,117,205
+12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086067,6,240,115,45,25,185,115,185
+12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086097,9,240,98,64,28,190,98,190
+12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086127,12,240,115,51,26,192,115,192
+12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086137,13,240,104,74,22,200,104,200
+12,Angel Sandoval,1,San Matías,2490,San Matías,32107,U. E. Ángel Sandoval,7086187,1,163,61,39,10,110,61,110
+12,Angel Sandoval,1,San Matías,2490,San Matías,32437,U.E. Gilberto Barba,7086217,1,40,15,21,1,37,15,37
+12,Angel Sandoval,1,San Matías,2490,San Matías,32516,U.E. 27 de Julio,7086227,1,93,36,36,9,81,36,81
+12,Angel Sandoval,1,San Matías,2491,Candelaria,12001,U.E. Eduardo Abaroa,7085937,2,187,74,57,27,158,74,158
+12,Angel Sandoval,1,San Matías,2492,Las Petas,12002,U.E. Simón Bolívar,7085947,1,240,105,80,20,205,105,205
+12,Angel Sandoval,1,San Matías,2492,Las Petas,12002,U.E. Simón Bolívar,7085967,3,76,32,20,6,58,32,58
+12,Angel Sandoval,1,San Matías,2493,Ascención de la Frontera,12003,U.E. Benjamin Catacora,7085977,1,240,112,77,11,200,112,200
+12,Angel Sandoval,1,San Matías,2493,Ascención de la Frontera,12003,U.E. Benjamin Catacora,7085997,3,240,107,75,21,203,107,203
+12,Angel Sandoval,1,San Matías,2493,Ascención de la Frontera,12003,U.E. Benjamin Catacora,7086007,4,96,41,29,9,79,41,79
+12,Angel Sandoval,1,San Matías,2494,Santo Corazón,5104,U.E. Jose Eccli,7085787,1,240,77,85,29,191,77,191
+12,Angel Sandoval,1,San Matías,2494,Santo Corazón,5104,U.E. Jose Eccli,7085797,2,85,29,31,11,71,29,71
+12,Angel Sandoval,1,San Matías,3601,San Fernando,1,U.E. San Fernando,7085777,1,163,83,38,14,135,83,135
+12,Angel Sandoval,1,San Matías,4441,Comunidad Indígena San José de la Frontera,26336,U. E. San José de la Frontera,7086167,1,162,100,52,5,157,100,157
+12,Angel Sandoval,1,San Matías,4628,Comunidad Indígena San Juan de Corralitos,32423,U.E. Cristóbal Colón,7086197,1,48,20,15,12,47,20,47
+12,Angel Sandoval,1,San Matías,4629,Comunidad Indígena San Francisco,32424,U.E. San Francisco,7086207,1,125,66,41,14,121,66,121
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086237,1,240,143,53,5,201,143,201
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086247,2,240,144,63,6,213,144,213
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086257,3,240,144,53,9,206,144,206
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086277,5,240,134,66,10,210,134,210
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086287,6,240,142,58,6,206,142,206
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086297,7,240,127,66,10,203,127,203
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086307,8,240,138,64,11,213,138,213
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086327,10,240,147,49,7,203,147,203
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086337,11,240,137,61,11,209,137,209
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086347,12,240,127,79,10,216,127,216
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086357,13,240,137,57,12,206,137,206
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086367,14,240,133,62,10,205,133,205
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086377,15,240,141,63,1,205,141,205
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086387,16,240,157,43,8,208,157,208
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086397,17,240,132,62,6,200,132,200
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086407,18,240,151,57,2,210,151,210
@@ -7096,9 +7178,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086467,24,250,142,72,7,221,142,221
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,32348,U.E. Mariano Eliodoro Saucedo Sevilla I,7086737,1,142,72,35,8,115,72,115
 13,Manuel María Caballero,1,Comarapa,2496,San Juan del Potrero,19001,Esc. San Juan del Potrero,7086477,1,240,122,85,2,209,122,209
+13,Manuel María Caballero,1,Comarapa,2496,San Juan del Potrero,19001,Esc. San Juan del Potrero,7086487,2,202,115,54,7,176,115,176
 13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086497,1,240,122,65,15,202,122,202
 13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086517,3,240,117,67,13,197,117,197
 13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086547,6,66,27,25,4,56,27,56
+13,Manuel María Caballero,1,Comarapa,2498,San Mateo,19003,Esc. Escuela San Mateo,7086557,1,240,138,50,8,196,138,196
 13,Manuel María Caballero,1,Comarapa,2498,San Mateo,19003,Esc. Escuela San Mateo,7086567,2,108,62,35,2,99,62,99
 13,Manuel María Caballero,1,Comarapa,2500,Pulquina,19005,Esc. Marcelino Chaipana,7086577,1,240,145,42,14,201,145,201
 13,Manuel María Caballero,1,Comarapa,2500,Pulquina,19005,Esc. Marcelino Chaipana,7086587,2,240,128,72,9,209,128,209
@@ -7107,9 +7191,13 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 13,Manuel María Caballero,1,Comarapa,2501,San José de la Capilla,19006,Esc. San Jose De La Capilla,7086617,2,204,104,58,9,171,104,171
 13,Manuel María Caballero,1,Comarapa,2502,Capillas,19007,Esc. Habra De Capilla,7086627,1,131,65,42,7,114,65,114
 13,Manuel María Caballero,1,Comarapa,2503,Siberia,19008,Esc. Siberia,7086637,1,170,95,44,10,149,95,149
+13,Manuel María Caballero,1,Comarapa,2504,Manzanal,19009,Esc. Manzanal,7086647,1,154,60,65,6,131,60,131
 13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086657,1,240,107,92,15,214,107,214
 13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086667,2,240,99,111,10,220,99,220
 13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086677,3,240,101,93,12,206,101,206
+13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086687,4,128,59,52,6,117,59,117
+13,Manuel María Caballero,1,Comarapa,3189,El Jague,19015,Esc.  El Jague,7086697,1,57,40,12,0,52,40,52
+13,Manuel María Caballero,1,Comarapa,3370,La Palizada,19016,Esc. U.E. La Palizada,7086727,3,67,31,21,2,54,31,54
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086747,1,240,134,72,10,216,134,216
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086757,2,240,169,35,16,220,169,220
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086767,3,240,140,60,12,212,140,212
@@ -7258,6 +7346,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088467,15,240,166,49,9,224,166,224
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088477,16,259,177,49,5,231,177,231
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088497,2,240,157,51,7,215,157,215
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088507,3,240,154,53,1,208,154,208
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088517,4,240,164,40,8,212,164,212
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088527,5,240,142,61,8,211,142,211
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088547,7,240,151,32,15,198,151,198
@@ -7274,6 +7363,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088657,18,240,167,43,4,214,167,214
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088667,19,240,140,65,8,213,140,213
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088677,20,78,55,13,5,73,55,73
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17002,U.E. Mi Dulce Hogar,7088687,1,240,140,60,6,206,140,206
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17002,U.E. Mi Dulce Hogar,7088697,2,240,134,46,12,192,134,192
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17002,U.E. Mi Dulce Hogar,7088707,3,240,126,51,13,190,126,190
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17002,U.E. Mi Dulce Hogar,7088717,4,240,160,36,5,201,160,201
@@ -7294,8 +7384,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),25537,U.E. 27 de Mayo,7088967,6,151,96,32,3,131,96,131
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),25538,U.E. San José Obrero,7088977,1,240,146,40,7,193,146,193
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),25538,U.E. San José Obrero,7088997,3,240,150,50,7,207,150,207
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),25538,U.E. San José Obrero,7089007,4,240,140,54,5,199,140,199
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),26349,U. E. San Gregorio,7089027,1,87,56,17,2,75,56,75
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),32111,U. E. José Barrero Valverde (Módulo),7089037,1,240,137,44,4,185,137,185
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),32111,U. E. José Barrero Valverde (Módulo),7089047,2,240,143,44,6,193,143,193
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),32111,U. E. José Barrero Valverde (Módulo),7089057,3,54,29,9,1,39,29,39
 15,Guarayos,1,Ascención de Guarayos,2519,San Pablo,7002,Esc. San Pablo,7088257,2,240,96,39,2,137,96,137
 15,Guarayos,1,Ascención de Guarayos,2519,San Pablo,7002,Esc. San Pablo,7088267,3,240,101,27,11,139,101,139
@@ -7328,17 +7420,27 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Guarayos,2,Urubicha,2522,Yaguarú,7006,Esc. Nucleo Escolar Yaguaru,7089217,4,240,146,61,5,212,146,212
 15,Guarayos,2,Urubicha,2523,Monseñor Salvatierra,7005,Esc. Secc. Mon. Salvatierra,7089177,1,115,80,16,1,97,80,97
 15,Guarayos,2,Urubicha,3604,Santa Teresita (Cururu),1,U.E. 1ro de abril,7089077,1,122,77,27,5,109,77,109
+15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089337,1,240,149,42,4,195,149,195
 15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089347,2,240,163,40,3,206,163,206
+15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089357,3,240,147,55,6,208,147,208
+15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089367,4,240,138,62,6,206,138,206
+15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089377,5,240,158,54,1,213,158,213
 15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089387,6,240,163,41,5,209,163,209
 15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089407,8,240,156,46,2,204,156,204
+15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089417,9,240,140,55,6,201,140,201
 15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089437,11,240,148,49,5,202,148,202
 15,Guarayos,3,El Puente,2525,Yotaú,7008,Esc. San Jose De Yotau,7089457,1,240,130,69,12,211,130,211
 15,Guarayos,3,El Puente,2525,Yotaú,7008,Esc. San Jose De Yotau,7089467,2,240,139,60,6,205,139,205
 15,Guarayos,3,El Puente,2525,Yotaú,7008,Esc. San Jose De Yotau,7089477,3,240,134,66,10,210,134,210
+15,Guarayos,3,El Puente,2525,Yotaú,7008,Esc. San Jose De Yotau,7089497,5,240,127,69,10,206,127,206
 15,Guarayos,3,El Puente,2525,Yotaú,7008,Esc. San Jose De Yotau,7089517,7,147,84,38,3,125,84,125
 15,Guarayos,3,El Puente,3057,10 de Noviembre (Núcleo 47),17010,U.E. Elizardo Perez,7089587,1,240,136,64,9,209,136,209
+15,Guarayos,3,El Puente,3057,10 de Noviembre (Núcleo 47),17010,U.E. Elizardo Perez,7089597,2,240,159,49,6,214,159,214
+15,Guarayos,3,El Puente,3057,10 de Noviembre (Núcleo 47),17010,U.E. Elizardo Perez,7089607,3,140,88,35,6,129,88,129
 15,Guarayos,3,El Puente,3058,El Cármen (Núcleo 53),7009,Esc. Seccional El Carmen,7089527,1,240,128,60,10,198,128,198
 15,Guarayos,3,El Puente,3058,El Cármen (Núcleo 53),7009,Esc. Seccional El Carmen,7089537,2,240,123,3,57,183,123,183
+15,Guarayos,3,El Puente,3058,El Cármen (Núcleo 53),7009,Esc. Seccional El Carmen,7089547,3,167,77,61,7,145,77,145
+15,Guarayos,3,El Puente,3188,Núcleo 50 Villa Esperanza,7011,Esc. U.E. Bolivar,7089557,1,240,133,61,12,206,133,206
 15,Guarayos,3,El Puente,3188,Núcleo 50 Villa Esperanza,7011,Esc. U.E. Bolivar,7089567,2,83,50,23,2,75,50,75
 15,Guarayos,3,El Puente,3190,Limoncito,7012,Esc. Seccional Limoncito,7089577,1,245,165,37,7,209,165,209
 15,Guarayos,3,El Puente,3358,Corralón,1,Esc. Corralon,7089247,1,203,107,48,6,161,107,161
@@ -7349,4 +7451,5 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Guarayos,3,El Puente,3609,El Combate,1,Esc. El Combate,7089297,1,71,50,6,2,58,50,58
 15,Guarayos,3,El Puente,3912,Lagunilla,1,U.E. Lagunillas,7089307,1,142,65,45,6,116,65,116
 15,Guarayos,3,El Puente,3913,Monte Sinai,1,Monte Sinai,7089317,1,240,127,75,5,207,127,207
+15,Guarayos,3,El Puente,4484,Surucusi,32114,U. E. Pedro Suarez Arana,7089627,1,174,81,73,2,156,81,156
 15,Guarayos,3,El Puente,4485,Momene,32113,U. E. Santa Martha,7089617,1,71,37,22,2,61,37,61
