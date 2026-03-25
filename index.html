@@ -15,10 +15,10 @@
 <link rel="modulepreload" href="./_observablehq/client.a0083439.js">
 <link rel="modulepreload" href="./_observablehq/runtime.607a8173.js">
 <link rel="modulepreload" href="./_observablehq/stdlib.277aeab8.js">
-<link rel="modulepreload" href="./_npm/maplibre-gl@5.21.0/d66dead0.js">
+<link rel="modulepreload" href="./_npm/maplibre-gl@5.21.1/13f11ada.js">
 <link rel="modulepreload" href="./_import/components/definiciones.87be0c74.js">
-<link rel="modulepreload" href="./_import/components/datos.3297ce77.js">
-<link rel="modulepreload" href="./_import/components/mapa.313630c8.js">
+<link rel="modulepreload" href="./_import/components/datos.7137a2e8.js">
+<link rel="modulepreload" href="./_import/components/mapa.838be2f1.js">
 <link rel="modulepreload" href="./_import/components/ui.7f2f8fb5.js">
 <link rel="modulepreload" href="./_observablehq/stdlib/inputs.31cd1366.js">
 <link rel="modulepreload" href="./_npm/d3@7.9.0/66d82917.js">
@@ -66,7 +66,7 @@
 import {define} from "./_observablehq/client.a0083439.js";
 
 define({id: "8f874a5b", outputs: ["maplibregl","DATA_BASE","MAPA_FALLBACK","STORAGE_ELECCION_KEY","STORAGE_KEY","STORAGE_MAP_KEY","elecciones","getStorage","metricas","cargarDatos","crearRecintos","aplicarMetricaMapa","crearCapasBase","crearMapa","leerMapaInicial","persistirMapa","popupHTML","renderizarLeyenda"], body: async () => {
-const [{default: maplibregl}, {DATA_BASE, MAPA_FALLBACK, STORAGE_ELECCION_KEY, STORAGE_KEY, STORAGE_MAP_KEY, elecciones, getStorage, metricas}, {cargarDatos, crearRecintos}, {aplicarMetricaMapa, crearCapasBase, crearMapa, leerMapaInicial, persistirMapa}, {popupHTML, renderizarLeyenda}] = await Promise.all([import("./_npm/maplibre-gl@5.21.0/d66dead0.js"), import("./_import/components/definiciones.87be0c74.js"), import("./_import/components/datos.3297ce77.js"), import("./_import/components/mapa.313630c8.js"), import("./_import/components/ui.7f2f8fb5.js")]);
+const [{default: maplibregl}, {DATA_BASE, MAPA_FALLBACK, STORAGE_ELECCION_KEY, STORAGE_KEY, STORAGE_MAP_KEY, elecciones, getStorage, metricas}, {cargarDatos, crearRecintos}, {aplicarMetricaMapa, crearCapasBase, crearMapa, leerMapaInicial, persistirMapa}, {popupHTML, renderizarLeyenda}] = await Promise.all([import("./_npm/maplibre-gl@5.21.1/13f11ada.js"), import("./_import/components/definiciones.87be0c74.js"), import("./_import/components/datos.7137a2e8.js"), import("./_import/components/mapa.838be2f1.js"), import("./_import/components/ui.7f2f8fb5.js")]);
 
 return {maplibregl,DATA_BASE,MAPA_FALLBACK,STORAGE_ELECCION_KEY,STORAGE_KEY,STORAGE_MAP_KEY,elecciones,getStorage,metricas,cargarDatos,crearRecintos,aplicarMetricaMapa,crearCapasBase,crearMapa,leerMapaInicial,persistirMapa,popupHTML,renderizarLeyenda};
 }});
@@ -110,14 +110,23 @@ metricaInput
 ))
 }});
 
-define({id: "9f74af58", inputs: ["cargarDatos","DATA_BASE","obtenerEleccionActual","crearRecintos","eleccionInput","leerMapaInicial","storage","STORAGE_MAP_KEY","MAPA_FALLBACK"], outputs: ["resultadosRaw","municipios","recintos","mapaInicial"], body: async (cargarDatos,DATA_BASE,obtenerEleccionActual,crearRecintos,eleccionInput,leerMapaInicial,storage,STORAGE_MAP_KEY,MAPA_FALLBACK) => {
-const { resultadosRaw, municipios } = await cargarDatos(
+define({id: "49c840d2", inputs: ["cargarDatos","DATA_BASE","obtenerEleccionActual","crearRecintos","eleccionInput","leerMapaInicial","storage","STORAGE_MAP_KEY","MAPA_FALLBACK"], outputs: ["resultadosRaw","municipios","timestamp","recintos","mapaInicial"], body: async (cargarDatos,DATA_BASE,obtenerEleccionActual,crearRecintos,eleccionInput,leerMapaInicial,storage,STORAGE_MAP_KEY,MAPA_FALLBACK) => {
+const { resultadosRaw, municipios, timestamp } = await cargarDatos(
   DATA_BASE,
   obtenerEleccionActual().archivo,
 );
 const recintos = crearRecintos(resultadosRaw, municipios, eleccionInput.value);
 const mapaInicial = leerMapaInicial(storage, STORAGE_MAP_KEY, MAPA_FALLBACK);
-return {resultadosRaw,municipios,recintos,mapaInicial};
+return {resultadosRaw,municipios,timestamp,recintos,mapaInicial};
+}});
+
+define({id: "d6f5b653", inputs: ["timestamp"], body: (timestamp) => {
+{
+  const container = document.querySelector("#timestamp-container");
+  container.textContent = timestamp
+    ? `actualizado el ${timestamp.fecha} a las ${timestamp.hora}`
+    : "";
+}
 }});
 
 define({id: "2f3369b8", inputs: ["crearMapa","mapaInicial","maplibregl","persistirMapa","storage","STORAGE_MAP_KEY","invalidation"], outputs: ["map","popup"], body: (crearMapa,mapaInicial,maplibregl,persistirMapa,storage,STORAGE_MAP_KEY,invalidation) => {
@@ -170,13 +179,13 @@ define({id: "0e3f32d7", inputs: ["ready","obtenerMetricaActual","storage","STORA
 }
 }});
 
-define({id: "915833be", inputs: ["ready","obtenerEleccionActual","storage","STORAGE_ELECCION_KEY","eleccionInput","cargarDatos","DATA_BASE","crearRecintos","map","invalidation"], body: async (ready,obtenerEleccionActual,storage,STORAGE_ELECCION_KEY,eleccionInput,cargarDatos,DATA_BASE,crearRecintos,map,invalidation) => {
+define({id: "1a20135f", inputs: ["ready","obtenerEleccionActual","storage","STORAGE_ELECCION_KEY","eleccionInput","cargarDatos","DATA_BASE","crearRecintos","map","invalidation"], body: async (ready,obtenerEleccionActual,storage,STORAGE_ELECCION_KEY,eleccionInput,cargarDatos,DATA_BASE,crearRecintos,map,invalidation) => {
 {
   await ready;
   const actualizarEleccion = async () => {
     const eleccionSiguiente = obtenerEleccionActual();
     if (storage) storage.setItem(STORAGE_ELECCION_KEY, eleccionInput.value);
-    const { resultadosRaw, municipios } = await cargarDatos(
+    const { resultadosRaw, municipios, timestamp } = await cargarDatos(
       DATA_BASE,
       eleccionSiguiente.archivo,
     );
@@ -186,6 +195,10 @@ define({id: "915833be", inputs: ["ready","obtenerEleccionActual","storage","STOR
       eleccionInput.value,
     );
     map.getSource("recintos")?.setData(recintosNuevos);
+    const container = document.querySelector("#timestamp-container");
+    container.textContent = timestamp
+      ? `actualizado el ${timestamp.fecha} a las ${timestamp.hora}`
+      : "";
   };
   eleccionInput.addEventListener("input", actualizarEleccion);
   invalidation.then(() =>
@@ -254,13 +267,14 @@ return {locked};
 <div id="observablehq-center">
 <main id="observablehq-main" class="observablehq">
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/maplibre-gl@4.0.2/dist/maplibre-gl.css">
-<link rel="stylesheet" type="text/css" href="./_file/index.8af8b28d.css">
+<link rel="stylesheet" type="text/css" href="./_file/index.66fe4c61.css">
 <div class="observablehq observablehq--block"><!--:8f874a5b:--></div>
 <div class="observablehq observablehq--block"><!--:f27f9d2c:--></div>
 <div class="app">
   <header class="header">
     <div class="header__eyebrow">Elecciones subnacionales 2026</div>
     <div class="header__subtitle">Votos a <span class="header__eleccion"><observablehq-loading></observablehq-loading><!--:c63a2d52:--></span> por recinto a nivel nacional</div>
+    <div class="header__timestamp" id="timestamp-container"></div>
     <div class="header__controls">
       <div class="control control--legend">
         <div class="control__input"><observablehq-loading></observablehq-loading><!--:f10b1c16:--></div>
@@ -271,12 +285,13 @@ return {locked};
   </header>
   <div id="mapa"></div>
 </div>
-<div class="observablehq observablehq--block"><!--:9f74af58:--></div>
+<div class="observablehq observablehq--block"><!--:49c840d2:--></div>
+<div class="observablehq observablehq--block"><!--:d6f5b653:--></div>
 <div class="observablehq observablehq--block"><!--:2f3369b8:--></div>
 <div class="observablehq observablehq--block"><!--:0cdf295d:--></div>
 <div class="observablehq observablehq--block"><!--:2ac06a58:--></div>
 <div class="observablehq observablehq--block"><!--:0e3f32d7:--></div>
-<div class="observablehq observablehq--block"><!--:915833be:--></div>
+<div class="observablehq observablehq--block"><!--:1a20135f:--></div>
 <div class="observablehq observablehq--block"><!--:dcbdfb41:--></div>
 </main>
 </div>
