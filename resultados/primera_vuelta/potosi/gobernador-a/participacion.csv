@@ -1033,6 +1033,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Bustillo,3,Llallagua,3387,Saca Saca,1,Esc. Chiru Chiru,5009131,1,215,105,63,19,187,105,187
 2,Bustillo,3,Llallagua,3496,Jisk'anqui,1,U.E. Elizardo Pérez,5009141,1,240,131,27,56,214,131,214
 2,Bustillo,3,Llallagua,3496,Jisk'anqui,1,U.E. Elizardo Pérez,5009151,2,42,25,3,10,38,25,38
+2,Bustillo,4,Chuquihuta Ayllu Jucumani,1527,Chuquihuta,84,U. E. Pablo Zarate Villca,5010501,6,240,160,30,22,212,160,212
+2,Bustillo,4,Chuquihuta Ayllu Jucumani,1527,Chuquihuta,31158,U. E. Ismael Montes,5010541,1,240,163,30,17,210,163,210
+2,Bustillo,4,Chuquihuta Ayllu Jucumani,1527,Chuquihuta,31158,U. E. Ismael Montes,5010571,4,104,61,19,8,88,61,88
 3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,98,U.E. Juan Francisco Bohorquez,5010711,1,240,161,21,17,199,161,199
 3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,98,U.E. Juan Francisco Bohorquez,5010721,2,240,149,27,27,203,149,203
 3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,98,U.E. Juan Francisco Bohorquez,5010731,3,240,128,20,60,208,128,208
@@ -1057,6 +1060,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,31128,U. E. Cornelio Saavedra  A,5011411,3,240,154,18,33,205,154,205
 3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,31128,U. E. Cornelio Saavedra  A,5011421,4,240,170,18,25,213,170,213
 3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,31128,U. E. Cornelio Saavedra  A,5011431,5,240,166,26,14,206,166,206
+3,Cornelio Saavedra,1,Betanzos,1535,Betanzos,31128,U. E. Cornelio Saavedra  A,5011441,6,25,17,1,4,22,17,22
 3,Cornelio Saavedra,1,Betanzos,1536,Quivincha,104,Esc. Villa Imperial,5010781,1,240,127,25,39,191,127,191
 3,Cornelio Saavedra,1,Betanzos,1536,Quivincha,104,Esc. Villa Imperial,5010791,2,95,47,9,25,81,47,81
 3,Cornelio Saavedra,1,Betanzos,1537,Millares,105,U.E. Oscar Unzaga de La Vega,5010801,1,240,140,30,35,205,140,205
@@ -1152,30 +1156,48 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Cornelio Saavedra,3,Tacobamba,1563,Canutillos,131,U. E. Canutillos,5011831,1,111,92,4,5,101,92,101
 3,Cornelio Saavedra,3,Tacobamba,1564,Rodeo,132,Esc. Rodeo,5011841,1,246,169,8,30,207,169,207
 3,Cornelio Saavedra,3,Tacobamba,1565,Ancoma,133,Esc. Ancoma,5011851,1,191,140,22,26,188,140,188
+3,Cornelio Saavedra,3,Tacobamba,2907,Juruna,505,U.E. Elizardo Perez,5011861,1,240,129,39,34,202,129,202
 3,Cornelio Saavedra,3,Tacobamba,2907,Juruna,505,U.E. Elizardo Perez,5011871,2,81,46,17,12,75,46,75
 3,Cornelio Saavedra,3,Tacobamba,3216,Huajchi Marquiri,589,U.E. Marquiri,5011881,1,69,40,3,10,53,40,53
 3,Cornelio Saavedra,3,Tacobamba,3500,Tirina,1,U.E. Tomás Katari,5011691,1,240,149,27,33,209,149,209
 3,Cornelio Saavedra,3,Tacobamba,3500,Tirina,1,U.E. Tomás Katari,5011701,2,36,23,4,8,35,23,35
 3,Cornelio Saavedra,3,Tacobamba,4187,Potosillo,25632,U.E. Potosillo,5011891,1,46,38,0,7,45,38,45
 3,Cornelio Saavedra,3,Tacobamba,4511,Cerca Cancha,32149,U. E. Cerca Cancha,5011901,1,65,56,2,7,65,56,65
+4,Chayanta,1,Colquechaca,1566,Colquechaca,31160,U. E. Roberto Hinojosa,5012241,4,240,164,27,20,211,164,211
+4,Chayanta,1,Colquechaca,3947,Comunidad Jamachiri Distrito Chairapata,1,U.E. Jaime Mendoza De Jamachiri,5011961,1,228,192,16,16,224,192,224
 4,Chayanta,2,Ravelo,1579,Pitantora,148,Esc. Pitantora,5012501,2,74,24,6,18,48,24,48
 4,Chayanta,2,Ravelo,1581,Antora,150,Esc. Antora,5012531,1,240,110,43,43,196,110,196
 4,Chayanta,2,Ravelo,1581,Antora,150,Esc. Antora,5012541,2,27,12,2,8,22,12,22
 4,Chayanta,2,Ravelo,1583,Huaycoma,152,Esc. Huaycoma,5012551,1,187,61,49,17,127,61,127
+4,Chayanta,2,Ravelo,2910,Luqui Pampa,500,Esc. Secc. Luqui Pampa,5012631,1,61,15,12,7,34,15,34
 4,Chayanta,2,Ravelo,3284,Lamphasuni,1,Esc. Lamphasuni,5012301,1,130,49,37,29,115,49,115
 4,Chayanta,2,Ravelo,3326,Teja Molino,1,Esc. Secc. Teja Molino,5012311,1,246,74,92,15,181,74,181
+4,Chayanta,2,Ravelo,3352,Lacayani,1,Esc. Lacayani,5012341,1,224,84,66,48,198,84,198
+4,Chayanta,2,Ravelo,3729,Sorocoto,2,Col. Jose Alonso De Ibañez,5012401,1,224,102,49,34,185,102,185
+4,Chayanta,2,Ravelo,3949,Janina,1,U.E. Janina,5012361,2,160,73,22,39,134,73,134
 4,Chayanta,3,Pocoata,1567,Kapar Rancho,135,Esc. Kaparancho,5012741,1,206,147,20,34,201,147,201
 4,Chayanta,3,Pocoata,1586,Jarana,157,U. E. Jarana,5012801,1,240,138,41,47,226,138,226
 4,Chayanta,3,Pocoata,1586,Jarana,157,U. E. Jarana,5012811,2,173,96,33,25,154,96,154
+4,Chayanta,3,Pocoata,1587,Comunidad Saye,158,U.E. Saye,5012821,1,193,157,20,12,189,157,189
+4,Chayanta,3,Pocoata,1588,Huancarani,159,U. E. Huancarani,5012841,2,240,116,53,31,200,116,200
 4,Chayanta,3,Pocoata,1588,Huancarani,159,U. E. Huancarani,5012851,3,128,73,39,7,119,73,119
+4,Chayanta,3,Pocoata,1589,Vila Vila,160,U. E. Vila Vila,5012861,1,240,171,24,28,223,171,223
 4,Chayanta,3,Pocoata,1590,Collana Tuica,161,U. E. Collana Tuica,5012881,1,240,78,114,47,239,78,239
 4,Chayanta,3,Pocoata,1590,Collana Tuica,161,U. E. Collana Tuica,5012901,3,23,13,6,4,23,13,23
+4,Chayanta,3,Pocoata,1594,Campaya,165,U. E. Tomas Katari,5012961,3,240,173,34,18,225,173,225
+4,Chayanta,3,Pocoata,1594,Campaya,165,U. E. Tomas Katari,5012971,4,240,167,38,22,227,167,227
 4,Chayanta,3,Pocoata,1596,Quesem Phuco,167,Nucleo Escolar Kesimpucu,5013001,1,240,153,66,19,238,153,238
 4,Chayanta,3,Pocoata,1596,Quesem Phuco,167,Nucleo Escolar Kesimpucu,5013011,2,188,119,49,13,181,119,181
 4,Chayanta,3,Pocoata,2661,San Miguel de Khari,168,U. E. Kari,5013021,1,240,151,62,19,232,151,232
 4,Chayanta,3,Pocoata,2661,San Miguel de Khari,168,U. E. Kari,5013031,2,240,201,26,13,240,201,240
+4,Chayanta,3,Pocoata,2661,San Miguel de Khari,168,U. E. Kari,5013051,4,43,32,8,1,41,32,41
+4,Chayanta,3,Pocoata,2828,Yahuaco,485,U. E. Yahuaco,5013081,1,116,51,25,19,95,51,95
+4,Chayanta,3,Pocoata,3143,Pacotanca,555,U.E. Elizardo Pérez,5013101,1,88,79,3,2,84,79,84
 4,Chayanta,3,Pocoata,3285,Turberia,1,U. E. Turberia,5012691,3,205,139,7,44,190,139,190
 4,Chayanta,3,Pocoata,3390,Collpa Ckasa,1,U. E. Collpa Ckasa,5012701,1,243,167,17,13,197,167,197
+4,Chayanta,3,Pocoata,4508,Vilapampa,32145,U. E. Vilapampa,5013131,1,163,99,28,17,144,99,144
+4,Chayanta,3,Pocoata,4563,Yusfaya,32268,U.E.Yusfaya,5013141,1,120,115,1,4,120,115,120
+4,Chayanta,3,Pocoata,4657,Comunidad de Kapac Macha Macha,32484,U.E. Kapaj Machamacha,5013191,1,240,126,80,23,229,126,229
 4,Chayanta,3,Pocoata,4657,Comunidad de Kapac Macha Macha,32484,U.E. Kapaj Machamacha,5013201,2,33,19,13,1,33,19,33
 4,Chayanta,4,Ocurí,1597,Ocuri,169,Col. Nac. Marcelo Quiroga Santa Cruz,5013451,1,240,123,47,36,206,123,206
 4,Chayanta,4,Ocurí,1597,Ocuri,169,Col. Nac. Marcelo Quiroga Santa Cruz,5013461,2,240,127,45,23,195,127,195
@@ -1185,13 +1207,19 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Chayanta,4,Ocurí,1597,Ocuri,170,Colegio Daniel Salamanca,5013401,1,240,113,35,33,181,113,181
 4,Chayanta,4,Ocurí,1597,Ocuri,170,Colegio Daniel Salamanca,5013411,2,240,127,46,28,201,127,201
 4,Chayanta,4,Ocurí,1597,Ocuri,170,Colegio Daniel Salamanca,5013441,5,128,76,23,12,111,76,111
+4,Chayanta,4,Ocurí,1598,Maragua,170,Esc. Maragua,5013301,3,240,125,48,41,214,125,214
+4,Chayanta,4,Ocurí,1600,Marcoma,171,Esc. Seccional Marcoma,5013321,1,240,109,90,23,222,109,222
+4,Chayanta,4,Ocurí,3085,Yurimata,524,Esc. Yurimata,5013351,2,46,10,7,12,29,10,29
 4,Chayanta,5,San Pedro de Macha,1569,Uluchi,139,U. E. Elizardo Perez,5013711,1,240,136,36,34,206,136,206
 4,Chayanta,5,San Pedro de Macha,1569,Uluchi,139,U. E. Elizardo Perez,5013721,2,240,85,60,40,185,85,185
 4,Chayanta,5,San Pedro de Macha,1569,Uluchi,139,U. E. Elizardo Perez,5013731,3,240,121,47,28,196,121,196
 4,Chayanta,5,San Pedro de Macha,1569,Uluchi,139,U. E. Elizardo Perez,5013741,4,29,17,3,4,24,17,24
 4,Chayanta,5,San Pedro de Macha,1573,Ayoma,141,U. E. Franz Tamayo De Ayoma,5013751,1,240,87,60,31,178,87,178
 4,Chayanta,5,San Pedro de Macha,1573,Ayoma,141,U. E. Franz Tamayo De Ayoma,5013761,2,240,114,46,24,184,114,184
+4,Chayanta,5,San Pedro de Macha,1574,Bombori,142,U. E. Jaime Mendoza,5013791,2,240,115,55,23,193,115,193
+4,Chayanta,5,San Pedro de Macha,2822,Tomaycuri,465,U. E. 6 de Junio,5013821,1,240,122,25,30,177,122,177
 4,Chayanta,5,San Pedro de Macha,2822,Tomaycuri,465,U. E. 6 de Junio,5013831,2,181,88,33,22,143,88,143
+4,Chayanta,5,San Pedro de Macha,3144,Comunidad Colcha Pocro,553,U.E. Simón Bolivar de Choquecayara Baja,5013841,1,224,151,14,55,220,151,220
 4,Chayanta,5,San Pedro de Macha,3854,Titiri,1,U. E. Gualberto Villarroel de Titiri,5013561,1,229,113,41,35,189,113,189
 4,Chayanta,5,San Pedro de Macha,4055,Milluri,25386,U. E. Avelino Siñani de Milluri,5013851,1,150,88,21,28,137,88,137
 4,Chayanta,5,San Pedro de Macha,4082,Qheojo,25488,U.E. 1ro. de Mayo De Qheojo,5013861,1,148,120,10,13,143,120,143
@@ -1467,8 +1495,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Sud Chichas,1,Tupiza,1671,Tupiza,251,U. E. Bolivia de Tupiza,5017511,7,240,147,36,19,202,147,202
 8,Sud Chichas,1,Tupiza,1671,Tupiza,251,U. E. Bolivia de Tupiza,5017521,8,204,113,31,31,175,113,175
 8,Sud Chichas,1,Tupiza,1671,Tupiza,254,Esc. Villa Fatima Andres De Santa Cruz,5017161,1,240,154,36,25,215,154,215
+8,Sud Chichas,1,Tupiza,1671,Tupiza,254,Esc. Villa Fatima Andres De Santa Cruz,5017171,2,240,141,35,40,216,141,216
 8,Sud Chichas,1,Tupiza,1671,Tupiza,254,Esc. Villa Fatima Andres De Santa Cruz,5017181,3,240,136,35,39,210,136,210
 8,Sud Chichas,1,Tupiza,1671,Tupiza,254,Esc. Villa Fatima Andres De Santa Cruz,5017191,4,240,159,40,21,220,159,220
+8,Sud Chichas,1,Tupiza,1671,Tupiza,254,Esc. Villa Fatima Andres De Santa Cruz,5017201,5,240,149,31,27,207,149,207
 8,Sud Chichas,1,Tupiza,1671,Tupiza,254,Esc. Villa Fatima Andres De Santa Cruz,5017211,6,123,90,10,11,111,90,111
 8,Sud Chichas,1,Tupiza,1671,Tupiza,255,U. E. Paul Harris De Palala,5017291,2,237,146,42,15,203,146,203
 8,Sud Chichas,1,Tupiza,1671,Tupiza,256,U. E. Genoveva Ríos,5017531,1,240,144,36,31,211,144,211
@@ -1479,6 +1509,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Sud Chichas,1,Tupiza,1671,Tupiza,26138,U.E. Juan Evo Morales Ayma,5017571,1,240,116,20,23,159,116,159
 8,Sud Chichas,1,Tupiza,1671,Tupiza,26138,U.E. Juan Evo Morales Ayma,5017581,2,240,119,21,26,166,119,166
 8,Sud Chichas,1,Tupiza,1671,Tupiza,26138,U.E. Juan Evo Morales Ayma,5017591,3,240,156,34,21,211,156,211
+8,Sud Chichas,1,Tupiza,1671,Tupiza,26138,U.E. Juan Evo Morales Ayma,5017601,4,240,153,28,22,203,153,203
 8,Sud Chichas,1,Tupiza,1671,Tupiza,26138,U.E. Juan Evo Morales Ayma,5017611,5,240,151,21,23,195,151,195
 8,Sud Chichas,1,Tupiza,1671,Tupiza,26138,U.E. Juan Evo Morales Ayma,5017621,6,240,136,27,25,188,136,188
 8,Sud Chichas,1,Tupiza,1671,Tupiza,26138,U.E. Juan Evo Morales Ayma,5017631,7,240,150,25,20,195,150,195
@@ -1493,6 +1524,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Sud Chichas,1,Tupiza,1671,Tupiza,31140,U. E. Gran Mariscal de Ayacucho,5016921,1,240,165,19,23,207,165,207
 8,Sud Chichas,1,Tupiza,1671,Tupiza,31140,U. E. Gran Mariscal de Ayacucho,5016931,2,240,167,23,25,215,167,215
 8,Sud Chichas,1,Tupiza,1671,Tupiza,31140,U. E. Gran Mariscal de Ayacucho,5016941,3,240,175,25,17,217,175,217
+8,Sud Chichas,1,Tupiza,1671,Tupiza,31140,U. E. Gran Mariscal de Ayacucho,5016951,4,240,171,21,16,208,171,208
+8,Sud Chichas,1,Tupiza,1671,Tupiza,31140,U. E. Gran Mariscal de Ayacucho,5016961,5,197,128,22,23,173,128,173
 8,Sud Chichas,1,Tupiza,1671,Tupiza,31141,U. E. Andrés de Santa Cruz (Secundaria),5017221,1,240,153,23,34,210,153,210
 8,Sud Chichas,1,Tupiza,1671,Tupiza,31141,U. E. Andrés de Santa Cruz (Secundaria),5017231,2,240,143,40,27,210,143,210
 8,Sud Chichas,1,Tupiza,1671,Tupiza,31141,U. E. Andrés de Santa Cruz (Secundaria),5017241,3,240,140,31,37,208,140,208
@@ -1511,6 +1544,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Sud Chichas,1,Tupiza,1675,Esmoraca,253,U. E. Simón Bolívar de Esmoraca,5016341,1,240,172,37,17,226,172,226
 8,Sud Chichas,1,Tupiza,1675,Esmoraca,253,U. E. Simón Bolívar de Esmoraca,5016351,2,67,50,10,3,63,50,63
 8,Sud Chichas,1,Tupiza,1676,Chuqui,254,U. E. Franz Tamayo,5016361,1,54,34,6,7,47,34,47
+8,Sud Chichas,1,Tupiza,1677,Suipacha,257,U. E. Suipacha,5016391,2,240,140,33,36,209,140,209
 8,Sud Chichas,1,Tupiza,1678,Nazareno,258,U. E. Salvador Revilla,5016411,1,240,136,28,43,207,136,207
 8,Sud Chichas,1,Tupiza,1678,Nazareno,258,U. E. Salvador Revilla,5016421,2,72,47,8,3,58,47,58
 8,Sud Chichas,1,Tupiza,1680,Talina,260,U. E. Prudencio Guillen,5016441,1,169,97,33,10,140,97,140
@@ -1835,11 +1869,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Antonio Quijarro,1,Uyuni,1779,Cerdas,372,U.E. Mariscal De Ayacucho,5019921,1,219,106,37,37,180,106,180
 12,Antonio Quijarro,1,Uyuni,1780,Coroma,373,U.E. Katarina Krsul,5019941,2,240,136,55,17,208,136,208
 12,Antonio Quijarro,1,Uyuni,1780,Coroma,373,U.E. Katarina Krsul,5019951,3,240,125,54,19,198,125,198
+12,Antonio Quijarro,1,Uyuni,1780,Coroma,373,U.E. Katarina Krsul,5019961,4,26,20,3,1,24,20,24
 12,Antonio Quijarro,1,Uyuni,1781,Río Mulato,374,U.E. Rio Mulato,5019981,2,240,136,30,41,207,136,207
 12,Antonio Quijarro,1,Uyuni,1783,Pulacayo,377,U.E. Pulacayo A,5020021,1,240,150,36,25,211,150,211
 12,Antonio Quijarro,1,Uyuni,1783,Pulacayo,377,U.E. Pulacayo A,5020031,2,31,22,4,3,29,22,29
 12,Antonio Quijarro,1,Uyuni,1785,Chacala,380,U.E. Eduardo Abaroa de Chacala,5020041,1,251,181,18,18,217,181,217
+12,Antonio Quijarro,1,Uyuni,1787,Carhuaycollo,382,U.E. Max Fernández Rojas,5020051,1,240,154,38,31,223,154,223
 12,Antonio Quijarro,1,Uyuni,1788,Chita,383,U.E. Franz Tamayo,5020071,1,156,115,12,13,140,115,140
+12,Antonio Quijarro,1,Uyuni,3939,Kama(Villa Esperanza),1,U.E. Juana Azurduy De Padilla,5019911,1,154,110,22,8,140,110,140
 12,Antonio Quijarro,2,Tomave,1789,Tomave,384,Col. Tomas Frias,5020901,1,240,174,15,13,202,174,202
 12,Antonio Quijarro,2,Tomave,1789,Tomave,384,Col. Tomas Frias,5020911,2,253,168,12,24,204,168,204
 12,Antonio Quijarro,2,Tomave,1790,Calazaya,385,U.E. Franz Tamayo,5020921,1,251,188,17,14,219,188,219
@@ -1940,20 +1977,33 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 14,Daniel Campos,2,Tahua,1838,Cacoma,437,U.E. Aniceto Arce,5021971,1,20,10,3,1,14,10,14
 14,Daniel Campos,2,Tahua,1839,Caquena,441,U.E. Caquena,5021981,1,89,64,11,0,75,64,75
 14,Daniel Campos,2,Tahua,1840,Coqueza,442,U.E. German Busch,5021991,1,49,37,6,1,44,37,44
+15,Modesto Omiste,1,Villazón,1841,Villazón,443,U.E. Alonso De Ibañez,5023201,4,240,146,37,22,205,146,205
+15,Modesto Omiste,1,Villazón,1841,Villazón,443,U.E. Alonso De Ibañez,5023211,5,240,161,39,11,211,161,211
 15,Modesto Omiste,1,Villazón,1841,Villazón,444,U.E. 1ro de Mayo,5022301,2,240,159,25,25,209,159,209
 15,Modesto Omiste,1,Villazón,1841,Villazón,444,U.E. 1ro de Mayo,5022311,3,240,159,31,17,207,159,207
+15,Modesto Omiste,1,Villazón,1841,Villazón,444,U.E. 1ro de Mayo,5022381,10,240,152,38,21,211,152,211
 15,Modesto Omiste,1,Villazón,1841,Villazón,444,U.E. 1ro de Mayo,5022401,12,240,143,39,25,207,143,207
 15,Modesto Omiste,1,Villazón,1841,Villazón,444,U.E. 1ro de Mayo,5022421,14,240,153,26,30,209,153,209
 15,Modesto Omiste,1,Villazón,1841,Villazón,444,U.E. 1ro de Mayo,5022431,15,240,151,18,21,190,151,190
+15,Modesto Omiste,1,Villazón,1841,Villazón,446,Esc. Cornelio Saavedra,5022911,3,240,161,27,24,212,161,212
+15,Modesto Omiste,1,Villazón,1841,Villazón,447,Esc. Max Fernandez,5022791,2,240,153,34,20,207,153,207
 15,Modesto Omiste,1,Villazón,1841,Villazón,466,Colegio 9 de Abril,5022691,1,240,145,29,22,196,145,196
 15,Modesto Omiste,1,Villazón,1841,Villazón,466,Colegio 9 de Abril,5022701,2,240,162,23,10,195,162,195
+15,Modesto Omiste,1,Villazón,1841,Villazón,466,Colegio 9 de Abril,5022711,3,240,152,29,22,203,152,203
+15,Modesto Omiste,1,Villazón,1841,Villazón,466,Colegio 9 de Abril,5022731,5,240,162,31,20,213,162,213
 15,Modesto Omiste,1,Villazón,1841,Villazón,466,Colegio 9 de Abril,5022741,6,240,166,21,16,203,166,203
 15,Modesto Omiste,1,Villazón,1841,Villazón,466,Colegio 9 de Abril,5022751,7,240,174,26,14,214,174,214
 15,Modesto Omiste,1,Villazón,1841,Villazón,466,Colegio 9 de Abril,5022761,8,240,158,16,13,187,158,187
 15,Modesto Omiste,1,Villazón,1841,Villazón,466,Colegio 9 de Abril,5022771,9,127,87,8,10,105,87,105
 15,Modesto Omiste,1,Villazón,1841,Villazón,467,Esc. Daniel Campos,5022501,4,240,159,29,20,208,159,208
+15,Modesto Omiste,1,Villazón,1841,Villazón,467,Esc. Daniel Campos,5022511,5,240,154,37,23,214,154,214
 15,Modesto Omiste,1,Villazón,1841,Villazón,467,Esc. Daniel Campos,5022531,7,240,157,31,23,211,157,211
 15,Modesto Omiste,1,Villazón,1841,Villazón,467,Esc. Daniel Campos,5022541,8,240,142,37,28,207,142,207
+15,Modesto Omiste,1,Villazón,1841,Villazón,25639,U.E. Mariscal Sucre,5023271,2,240,163,18,20,201,163,201
+15,Modesto Omiste,1,Villazón,1841,Villazón,25639,U.E. Mariscal Sucre,5023291,4,44,26,6,1,33,26,33
+15,Modesto Omiste,1,Villazón,1841,Villazón,31133,U. E. 6 de Junio  A,5022621,6,240,151,35,23,209,151,209
+15,Modesto Omiste,1,Villazón,1841,Villazón,31135,U. E. Daniel Campos (Secundaria),5022651,2,240,158,35,30,223,158,223
+15,Modesto Omiste,1,Villazón,1841,Villazón,31135,U. E. Daniel Campos (Secundaria),5022681,5,120,83,11,11,105,83,105
 15,Modesto Omiste,1,Villazón,1842,Berque,448,Esc. Berque,5022001,1,204,125,27,29,181,125,181
 15,Modesto Omiste,1,Villazón,1843,Mojo,449,U.E. Mojo,5022011,1,237,142,51,18,211,142,211
 15,Modesto Omiste,1,Villazón,1844,Moraya,450,Esc. Moraya,5022021,1,108,70,18,3,91,70,91
