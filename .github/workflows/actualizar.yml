@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   update:
-    name: check, update and commit
+    name: actualizar, preparar y sincronizar
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -27,7 +27,12 @@ jobs:
           pip install -r resultados/primera_vuelta/requirements.txt
       - name: Actualizar
         run: |
-         ./resultados/primera_vuelta/actualizar.py
+          ./resultados/primera_vuelta/actualizar.py
+
+      - name: Preparar
+        run: |
+          ./resultados/primera_vuelta/preparar.py
+
       - name: Commit
         run: |
           git config --global user.name "actions-bot"
