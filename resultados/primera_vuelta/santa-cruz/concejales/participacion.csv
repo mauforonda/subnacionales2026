@@ -5512,6 +5512,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Velasco,1,San Ignacio,3927,San Simon,1,U.E. Jose Pessoa,7062567,1,127,31,70,9,110,31,110
 3,Velasco,1,San Ignacio,3928,Mercedes de las Minas,1,U.E. Mercedes De Las Minas,7062577,1,99,37,38,11,86,37,86
 3,Velasco,1,San Ignacio,3929,San Joaquin de la Frontera,1,U.E. Juana Azurduy De Padilla,7062587,1,91,18,21,41,80,18,80
+3,Velasco,1,San Ignacio,3930,Palmarito Alto Paragua,1,U.E. Jose Ferreira,7062597,1,120,34,52,11,97,34,97
 3,Velasco,1,San Ignacio,3979,San Javierito,1,U.E. San Javierito,7062607,1,240,96,89,15,200,96,200
 3,Velasco,1,San Ignacio,3979,San Javierito,1,U.E. San Javierito,7062617,2,240,87,97,26,210,87,210
 3,Velasco,1,San Ignacio,3979,San Javierito,1,U.E. San Javierito,7062627,3,94,47,33,7,87,47,87
@@ -6491,6 +6492,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076167,4,240,132,68,7,207,132,207
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076177,5,240,136,64,9,209,136,209
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076187,6,240,137,55,15,207,137,207
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076197,7,240,133,69,8,210,133,210
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076207,8,240,130,61,14,205,130,205
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076217,9,240,124,64,11,199,124,199
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076247,12,240,132,56,13,201,132,201
@@ -6921,6 +6923,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,2,General Saavedra,4053,San Lorenzo,25384,U.E. 10 de Agosto,7080787,1,153,103,30,4,137,103,137
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080907,1,240,153,56,6,215,153,215
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080917,2,240,142,63,30,235,142,235
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080937,4,240,156,43,8,207,156,207
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080947,5,240,160,43,7,210,160,210
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080967,7,240,148,52,5,205,148,205
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080977,8,240,160,46,6,212,160,212
@@ -6933,6 +6936,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081047,15,240,169,32,8,209,169,209
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081067,17,240,160,49,11,220,160,220
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081077,18,240,153,42,15,210,153,210
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081087,19,240,153,48,4,205,153,205
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081097,20,240,163,41,5,209,163,209
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081107,21,240,159,42,8,209,159,209
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081117,22,240,158,40,22,220,158,220
@@ -6948,7 +6952,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081217,32,240,157,46,7,210,157,210
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081227,33,240,140,5,13,158,140,158
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081237,34,240,156,46,6,208,156,208
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081247,35,240,151,48,14,213,151,213
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081257,36,240,155,40,13,208,155,208
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081267,37,136,91,22,6,119,91,119
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081317,2,240,152,34,7,193,152,193
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081327,3,240,146,39,9,194,146,194
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081337,4,240,148,29,12,189,148,189
@@ -6971,6 +6977,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,3,Mineros,2451,Mineros,26382,U.E. Eulogio Arredondo Coimbra (Mod. Juan Evo Morales Ayma),7081507,5,85,46,18,4,68,46,68
 10,Obispo Santistéban,3,Mineros,2457,La Porfía,1029,Esc. Sub. Central la Porfia,7080867,1,240,122,61,17,200,122,200
 10,Obispo Santistéban,3,Mineros,2457,La Porfía,1029,Esc. Sub. Central la Porfia,7080877,2,240,120,52,27,199,120,199
+10,Obispo Santistéban,3,Mineros,2457,La Porfía,1029,Esc. Sub. Central la Porfia,7080887,3,112,62,30,6,98,62,98
 10,Obispo Santistéban,3,Mineros,2861,La Patria,1,Esc. La Patria,7080827,2,73,30,29,2,61,30,61
 10,Obispo Santistéban,3,Mineros,2862,Las Marotas,6040,U.E. 21 de Junio,7080897,1,37,23,6,1,30,23,30
 10,Obispo Santistéban,3,Mineros,3323,Pueblo Nuevo,1,Esc. Las Palmas,7080837,1,240,141,64,4,209,141,209
@@ -6979,6 +6986,33 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,3,Mineros,4048,Alianza,25379,U.E. Alianza El Progreso,7081277,1,240,131,66,13,210,131,210
 10,Obispo Santistéban,3,Mineros,4048,Alianza,25379,U.E. Alianza El Progreso,7081287,2,192,107,39,12,158,107,158
 10,Obispo Santistéban,3,Mineros,4049,Chuchial,25380,U.E. 24 de Junio,7081297,1,155,92,47,6,145,92,145
+10,Obispo Santistéban,4,Fernández Alonso,2452,Chané Independencia,6025,U.E.  Independencia II,7081527,1,240,148,39,19,206,148,206
+10,Obispo Santistéban,4,Fernández Alonso,2452,Chané Independencia,6025,U.E.  Independencia II,7081537,2,240,140,43,27,210,140,210
+10,Obispo Santistéban,4,Fernández Alonso,2452,Chané Independencia,6025,U.E.  Independencia II,7081547,3,240,136,53,19,208,136,208
+10,Obispo Santistéban,4,Fernández Alonso,2452,Chané Independencia,6025,U.E.  Independencia II,7081557,4,240,132,50,23,205,132,205
+10,Obispo Santistéban,4,Fernández Alonso,2452,Chané Independencia,6025,U.E.  Independencia II,7081567,5,240,157,44,17,218,157,218
+10,Obispo Santistéban,4,Fernández Alonso,2452,Chané Independencia,6025,U.E.  Independencia II,7081577,6,240,154,47,14,215,154,215
+10,Obispo Santistéban,4,Fernández Alonso,2452,Chané Independencia,6025,U.E.  Independencia II,7081587,7,240,151,43,13,207,151,207
+10,Obispo Santistéban,4,Fernández Alonso,2452,Chané Independencia,6025,U.E.  Independencia II,7081597,8,240,152,46,18,216,152,216
+10,Obispo Santistéban,4,Fernández Alonso,2452,Chané Independencia,6025,U.E.  Independencia II,7081607,9,240,133,45,24,202,133,202
+10,Obispo Santistéban,4,Fernández Alonso,2452,Chané Independencia,6025,U.E.  Independencia II,7081617,10,240,140,42,16,198,140,198
+10,Obispo Santistéban,4,Fernández Alonso,2452,Chané Independencia,6025,U.E.  Independencia II,7081627,11,209,122,44,14,180,122,180
+10,Obispo Santistéban,4,Fernández Alonso,2453,Chané Magallanes,21025,Esc. Eduardo Avaroa,7081637,1,240,153,43,9,205,153,205
+10,Obispo Santistéban,4,Fernández Alonso,2453,Chané Magallanes,21025,Esc. Eduardo Avaroa,7081647,2,240,136,41,30,207,136,207
+10,Obispo Santistéban,4,Fernández Alonso,2453,Chané Magallanes,21025,Esc. Eduardo Avaroa,7081657,3,186,106,34,18,158,106,158
+10,Obispo Santistéban,4,Fernández Alonso,2459,Puesto Fernández,26426,U.E. Bolivia,7081687,1,240,123,57,25,205,123,205
+10,Obispo Santistéban,4,Fernández Alonso,2459,Puesto Fernández,26426,U.E. Bolivia,7081697,2,240,121,52,30,203,121,203
+10,Obispo Santistéban,4,Fernández Alonso,2459,Puesto Fernández,26426,U.E. Bolivia,7081707,3,240,135,58,19,212,135,212
+10,Obispo Santistéban,4,Fernández Alonso,2459,Puesto Fernández,26426,U.E. Bolivia,7081737,6,240,136,44,31,211,136,211
+10,Obispo Santistéban,4,Fernández Alonso,2459,Puesto Fernández,26426,U.E. Bolivia,7081747,7,240,132,47,32,211,132,211
+10,Obispo Santistéban,4,Fernández Alonso,2459,Puesto Fernández,26426,U.E. Bolivia,7081767,9,240,128,24,33,185,128,185
+10,Obispo Santistéban,4,Fernández Alonso,2459,Puesto Fernández,26426,U.E. Bolivia,7081777,10,240,104,52,38,194,104,194
+10,Obispo Santistéban,4,Fernández Alonso,2459,Puesto Fernández,26426,U.E. Bolivia,7081807,13,240,121,45,24,190,121,190
+10,Obispo Santistéban,4,Fernández Alonso,2459,Puesto Fernández,26426,U.E. Bolivia,7081817,14,240,123,60,17,200,123,200
+10,Obispo Santistéban,4,Fernández Alonso,2459,Puesto Fernández,26426,U.E. Bolivia,7081827,15,240,149,42,29,220,149,220
+10,Obispo Santistéban,4,Fernández Alonso,2459,Puesto Fernández,26426,U.E. Bolivia,7081837,16,229,131,34,29,194,131,194
+10,Obispo Santistéban,4,Fernández Alonso,3279,Aguaices,21048,U.E. 15 de agosto,7081667,1,240,122,58,28,208,122,208
+10,Obispo Santistéban,4,Fernández Alonso,3589,Betania,1,U.E. 24 de septiembre,7081517,1,195,113,57,10,180,113,180
 10,Obispo Santistéban,5,San Pedro,2454,Colonia Calama,21026,Esc. Seccional Litoral,7081977,1,240,168,44,1,213,168,213
 10,Obispo Santistéban,5,San Pedro,2454,Colonia Calama,21026,Esc. Seccional Litoral,7081987,2,123,82,23,1,106,82,106
 10,Obispo Santistéban,5,San Pedro,2455,Colonia Piraí,6028,Esc. 9 de Abril,7081937,1,240,180,17,6,203,180,203
@@ -7124,6 +7158,22 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 11,Ñuflo De Chávez,5,San Antonio de Lomerio,3599,Las Trancas,1,U.E. 29 de Junio,7084997,1,180,43,118,2,163,43,163
 11,Ñuflo De Chávez,5,San Antonio de Lomerio,3918,Palmira,1,U.E. Pedro Pablo Peña Garcia,7085007,1,141,24,84,18,126,24,126
 11,Ñuflo De Chávez,5,San Antonio de Lomerio,4566,San Simón,32274,U.E. 1ro. de Enero,7085157,1,143,22,25,2,49,22,49
+11,Ñuflo De Chávez,6,Cuatro Cañadas,2486,Cuatro Cañadas,20018,U.E. Juan Pablo II A,7085247,2,240,131,62,24,217,131,217
+11,Ñuflo De Chávez,6,Cuatro Cañadas,2486,Cuatro Cañadas,20018,U.E. Juan Pablo II A,7085267,4,240,126,71,21,218,126,218
+11,Ñuflo De Chávez,6,Cuatro Cañadas,2486,Cuatro Cañadas,20018,U.E. Juan Pablo II A,7085277,5,240,134,65,10,209,134,209
+11,Ñuflo De Chávez,6,Cuatro Cañadas,2486,Cuatro Cañadas,20018,U.E. Juan Pablo II A,7085307,8,240,133,55,14,202,133,202
+11,Ñuflo De Chávez,6,Cuatro Cañadas,2486,Cuatro Cañadas,20018,U.E. Juan Pablo II A,7085347,12,240,140,32,16,188,140,188
+11,Ñuflo De Chávez,6,Cuatro Cañadas,2486,Cuatro Cañadas,20018,U.E. Juan Pablo II A,7085487,26,240,160,44,5,209,160,209
+11,Ñuflo De Chávez,6,Cuatro Cañadas,2489,Puerto Rico (Ñ.de Chavez),20021,Esc. Jose Luis Castro,7085637,1,240,147,50,22,219,147,219
+11,Ñuflo De Chávez,6,Cuatro Cañadas,2489,Puerto Rico (Ñ.de Chavez),20021,Esc. Jose Luis Castro,7085647,2,240,129,46,26,201,129,201
+11,Ñuflo De Chávez,6,Cuatro Cañadas,2489,Puerto Rico (Ñ.de Chavez),20021,Esc. Jose Luis Castro,7085657,3,240,146,58,6,210,146,210
+11,Ñuflo De Chávez,6,Cuatro Cañadas,2489,Puerto Rico (Ñ.de Chavez),20021,Esc. Jose Luis Castro,7085667,4,240,141,57,9,207,141,207
+11,Ñuflo De Chávez,6,Cuatro Cañadas,2489,Puerto Rico (Ñ.de Chavez),20021,Esc. Jose Luis Castro,7085687,6,240,156,46,11,213,156,213
+11,Ñuflo De Chávez,6,Cuatro Cañadas,2489,Puerto Rico (Ñ.de Chavez),20021,Esc. Jose Luis Castro,7085697,7,58,42,10,2,54,42,54
+11,Ñuflo De Chávez,6,Cuatro Cañadas,3195,26 de Agosto,31,Esc. 26 de Agosto,7085197,2,240,130,50,8,188,130,188
+11,Ñuflo De Chávez,6,Cuatro Cañadas,3195,26 de Agosto,31,Esc. 26 de Agosto,7085227,5,215,118,50,13,181,118,181
+11,Ñuflo De Chávez,6,Cuatro Cañadas,4045,Chihuahua,25376,U.E. Haziel,7085737,2,240,146,16,4,166,146,166
+11,Ñuflo De Chávez,6,Cuatro Cañadas,4045,Chihuahua,25376,U.E. Haziel,7085757,4,39,21,5,0,26,21,26
 12,Angel Sandoval,1,San Matías,2490,San Matías,12000,Esc. U.E.Tecnica Vocacional,7085807,1,240,116,57,26,199,116,199
 12,Angel Sandoval,1,San Matías,2490,San Matías,12000,Esc. U.E.Tecnica Vocacional,7085827,3,240,123,57,28,208,123,208
 12,Angel Sandoval,1,San Matías,2490,San Matías,12000,Esc. U.E.Tecnica Vocacional,7085847,5,240,124,46,24,194,124,194
@@ -7136,7 +7186,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086027,2,240,99,49,30,178,99,178
 12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086037,3,240,107,44,23,174,107,174
 12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086047,4,240,117,71,17,205,117,205
+12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086057,5,240,95,47,25,167,95,167
 12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086067,6,240,115,45,25,185,115,185
+12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086087,8,240,96,41,51,188,96,188
 12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086097,9,240,98,64,28,190,98,190
 12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086127,12,240,115,51,26,192,115,192
 12,Angel Sandoval,1,San Matías,2490,San Matías,12005,Esc. U.E. Emilia Rodat,7086137,13,240,104,74,22,200,104,200
@@ -7153,11 +7205,13 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Angel Sandoval,1,San Matías,2494,Santo Corazón,5104,U.E. Jose Eccli,7085797,2,85,29,31,11,71,29,71
 12,Angel Sandoval,1,San Matías,3601,San Fernando,1,U.E. San Fernando,7085777,1,163,83,38,14,135,83,135
 12,Angel Sandoval,1,San Matías,4441,Comunidad Indígena San José de la Frontera,26336,U. E. San José de la Frontera,7086167,1,162,100,52,5,157,100,157
+12,Angel Sandoval,1,San Matías,4442,Comunidad Indígena Santa Fe,26337,U. E. Santa Fe,7086177,1,221,118,75,9,202,118,202
 12,Angel Sandoval,1,San Matías,4628,Comunidad Indígena San Juan de Corralitos,32423,U.E. Cristóbal Colón,7086197,1,48,20,15,12,47,20,47
 12,Angel Sandoval,1,San Matías,4629,Comunidad Indígena San Francisco,32424,U.E. San Francisco,7086207,1,125,66,41,14,121,66,121
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086237,1,240,143,53,5,201,143,201
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086247,2,240,144,63,6,213,144,213
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086257,3,240,144,53,9,206,144,206
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086267,4,240,146,53,9,208,146,208
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086277,5,240,134,66,10,210,134,210
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086287,6,240,142,58,6,206,142,206
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086297,7,240,127,66,10,203,127,203
@@ -7180,7 +7234,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 13,Manuel María Caballero,1,Comarapa,2496,San Juan del Potrero,19001,Esc. San Juan del Potrero,7086477,1,240,122,85,2,209,122,209
 13,Manuel María Caballero,1,Comarapa,2496,San Juan del Potrero,19001,Esc. San Juan del Potrero,7086487,2,202,115,54,7,176,115,176
 13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086497,1,240,122,65,15,202,122,202
+13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086507,2,240,115,75,15,205,115,205
 13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086517,3,240,117,67,13,197,117,197
+13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086527,4,240,129,63,14,206,129,206
+13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086537,5,240,127,70,15,212,127,212
 13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086547,6,66,27,25,4,56,27,56
 13,Manuel María Caballero,1,Comarapa,2498,San Mateo,19003,Esc. Escuela San Mateo,7086557,1,240,138,50,8,196,138,196
 13,Manuel María Caballero,1,Comarapa,2498,San Mateo,19003,Esc. Escuela San Mateo,7086567,2,108,62,35,2,99,62,99
@@ -7197,6 +7254,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086677,3,240,101,93,12,206,101,206
 13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086687,4,128,59,52,6,117,59,117
 13,Manuel María Caballero,1,Comarapa,3189,El Jague,19015,Esc.  El Jague,7086697,1,57,40,12,0,52,40,52
+13,Manuel María Caballero,1,Comarapa,3370,La Palizada,19016,Esc. U.E. La Palizada,7086707,1,240,139,47,9,195,139,195
+13,Manuel María Caballero,1,Comarapa,3370,La Palizada,19016,Esc. U.E. La Palizada,7086717,2,240,146,38,12,196,146,196
 13,Manuel María Caballero,1,Comarapa,3370,La Palizada,19016,Esc. U.E. La Palizada,7086727,3,67,31,21,2,54,31,54
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086747,1,240,134,72,10,216,134,216
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086757,2,240,169,35,16,220,169,220
@@ -7418,6 +7477,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Guarayos,2,Urubicha,2522,Yaguarú,7006,Esc. Nucleo Escolar Yaguaru,7089197,2,240,121,71,12,204,121,204
 15,Guarayos,2,Urubicha,2522,Yaguarú,7006,Esc. Nucleo Escolar Yaguaru,7089207,3,240,134,57,12,203,134,203
 15,Guarayos,2,Urubicha,2522,Yaguarú,7006,Esc. Nucleo Escolar Yaguaru,7089217,4,240,146,61,5,212,146,212
+15,Guarayos,2,Urubicha,2522,Yaguarú,7006,Esc. Nucleo Escolar Yaguaru,7089227,5,249,110,88,7,205,110,205
 15,Guarayos,2,Urubicha,2523,Monseñor Salvatierra,7005,Esc. Secc. Mon. Salvatierra,7089177,1,115,80,16,1,97,80,97
 15,Guarayos,2,Urubicha,3604,Santa Teresita (Cururu),1,U.E. 1ro de abril,7089077,1,122,77,27,5,109,77,109
 15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089337,1,240,149,42,4,195,149,195
@@ -7426,8 +7486,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089367,4,240,138,62,6,206,138,206
 15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089377,5,240,158,54,1,213,158,213
 15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089387,6,240,163,41,5,209,163,209
+15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089397,7,240,156,50,4,210,156,210
 15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089407,8,240,156,46,2,204,156,204
 15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089417,9,240,140,55,6,201,140,201
+15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089427,10,240,143,56,7,206,143,206
 15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089437,11,240,148,49,5,202,148,202
 15,Guarayos,3,El Puente,2525,Yotaú,7008,Esc. San Jose De Yotau,7089457,1,240,130,69,12,211,130,211
 15,Guarayos,3,El Puente,2525,Yotaú,7008,Esc. San Jose De Yotau,7089467,2,240,139,60,6,205,139,205
