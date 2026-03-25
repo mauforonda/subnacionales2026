@@ -1,4 +1,5 @@
 CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,InscritosHabilitados,VotoValido,VotoBlanco,VotoNulo,VotoEmitido,VotoValidoReal,VotoEmitidoReal
+1,Cercado,1,Cochabamba,821,Cochabamba,101,Escuela IV Centenario,3002731,1,240,153,54,11,218,153,218
 1,Cercado,1,Cochabamba,821,Cochabamba,101,Escuela IV Centenario,3002741,2,240,160,43,4,207,160,207
 1,Cercado,1,Cochabamba,821,Cochabamba,101,Escuela IV Centenario,3002811,9,240,126,67,14,207,126,207
 1,Cercado,1,Cochabamba,821,Cochabamba,101,Escuela IV Centenario,3002841,12,240,137,65,15,217,137,217
@@ -262,6 +263,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,133,Centro Particular Geronimo De Osorio,3004821,9,240,165,51,4,220,165,220
 1,Cercado,1,Cochabamba,821,Cochabamba,133,Centro Particular Geronimo De Osorio,3004841,11,240,138,77,3,218,138,218
 1,Cercado,1,Cochabamba,821,Cochabamba,133,Centro Particular Geronimo De Osorio,3004871,14,240,155,55,7,217,155,217
+1,Cercado,1,Cochabamba,821,Cochabamba,133,Centro Particular Geronimo De Osorio,3004951,22,240,160,49,5,214,160,214
 1,Cercado,1,Cochabamba,821,Cochabamba,134,Unidad Educativa Esteban Arze,3005221,1,240,118,100,6,224,118,224
 1,Cercado,1,Cochabamba,821,Cochabamba,134,Unidad Educativa Esteban Arze,3005231,2,240,126,81,11,218,126,218
 1,Cercado,1,Cochabamba,821,Cochabamba,134,Unidad Educativa Esteban Arze,3005241,3,240,134,85,4,223,134,223
@@ -306,6 +308,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,142,Colegio Abaroa,3017871,4,240,146,61,7,214,146,214
 1,Cercado,1,Cochabamba,821,Cochabamba,143,Unidad Educativa Daniel Salamanca (Ex Colegio Nal. Mixto 6 De Agosto),3017931,1,240,140,66,4,210,140,210
 1,Cercado,1,Cochabamba,821,Cochabamba,143,Unidad Educativa Daniel Salamanca (Ex Colegio Nal. Mixto 6 De Agosto),3017961,4,240,141,51,10,202,141,202
+1,Cercado,1,Cochabamba,821,Cochabamba,144,Colegio Aleman Santa Maria,3017611,4,240,161,34,12,207,161,207
 1,Cercado,1,Cochabamba,821,Cochabamba,144,Colegio Aleman Santa Maria,3017631,6,240,171,29,1,201,171,201
 1,Cercado,1,Cochabamba,821,Cochabamba,144,Colegio Aleman Santa Maria,3017641,7,240,154,47,5,206,154,206
 1,Cercado,1,Cochabamba,821,Cochabamba,145,Colegio Don Bosco,3019181,1,240,160,38,9,207,160,207
@@ -342,9 +345,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,149,Escuela Gualberto Villarroel,3019141,6,240,131,55,17,203,131,203
 1,Cercado,1,Cochabamba,821,Cochabamba,149,Escuela Gualberto Villarroel,3019151,7,240,139,70,11,220,139,220
 1,Cercado,1,Cochabamba,821,Cochabamba,149,Escuela Gualberto Villarroel,3019171,9,253,158,51,11,220,158,220
+1,Cercado,1,Cochabamba,821,Cochabamba,150,Liceo  Mercedes Candia De Ovando,3018701,6,240,132,64,11,207,132,207
+1,Cercado,1,Cochabamba,821,Cochabamba,150,Liceo  Mercedes Candia De Ovando,3018731,9,240,153,49,9,211,153,211
 1,Cercado,1,Cochabamba,821,Cochabamba,150,Liceo  Mercedes Candia De Ovando,3018761,12,240,145,65,7,217,145,217
 1,Cercado,1,Cochabamba,821,Cochabamba,151,Colegio San Rafael,3018821,1,240,155,61,5,221,155,221
 1,Cercado,1,Cochabamba,821,Cochabamba,151,Colegio San Rafael,3018831,2,240,147,64,12,223,147,223
+1,Cercado,1,Cochabamba,821,Cochabamba,151,Colegio San Rafael,3018841,3,240,145,60,4,209,145,209
 1,Cercado,1,Cochabamba,821,Cochabamba,151,Colegio San Rafael,3018851,4,240,156,53,7,216,156,216
 1,Cercado,1,Cochabamba,821,Cochabamba,151,Colegio San Rafael,3018861,5,240,152,59,6,217,152,217
 1,Cercado,1,Cochabamba,821,Cochabamba,151,Colegio San Rafael,3018871,6,240,140,66,12,218,140,218
@@ -438,6 +444,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,166,Unidad Educativa Estados Unidos,3008121,4,240,127,72,12,211,127,211
 1,Cercado,1,Cochabamba,821,Cochabamba,167,Colegio Yugoslavia ( Ex Mariscal Santa Cruz),3006441,4,240,138,68,11,217,138,217
 1,Cercado,1,Cochabamba,821,Cochabamba,167,Colegio Yugoslavia ( Ex Mariscal Santa Cruz),3006451,5,240,145,55,12,212,145,212
+1,Cercado,1,Cochabamba,821,Cochabamba,167,Colegio Yugoslavia ( Ex Mariscal Santa Cruz),3006461,6,240,136,60,13,209,136,209
+1,Cercado,1,Cochabamba,821,Cochabamba,167,Colegio Yugoslavia ( Ex Mariscal Santa Cruz),3006471,7,240,161,43,7,211,161,211
 1,Cercado,1,Cochabamba,821,Cochabamba,167,Colegio Yugoslavia ( Ex Mariscal Santa Cruz),3006481,8,240,156,60,7,223,156,223
 1,Cercado,1,Cochabamba,821,Cochabamba,168,Colegio Sergio Almaraz Paz,3007161,7,240,132,67,10,209,132,209
 1,Cercado,1,Cochabamba,821,Cochabamba,168,Colegio Sergio Almaraz Paz,3007171,8,240,162,38,13,213,162,213
@@ -653,6 +661,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,187,Colegio San Antonio De Pucara,3014451,29,240,128,67,8,203,128,203
 1,Cercado,1,Cochabamba,821,Cochabamba,187,Colegio San Antonio De Pucara,3014511,35,240,114,71,14,199,114,199
 1,Cercado,1,Cochabamba,821,Cochabamba,187,Colegio San Antonio De Pucara,3014611,45,240,91,102,12,205,91,205
+1,Cercado,1,Cochabamba,821,Cochabamba,187,Colegio San Antonio De Pucara,3014731,57,165,91,38,12,141,91,141
 1,Cercado,1,Cochabamba,821,Cochabamba,189,Escuela Ceferino Namuncura,3015271,1,240,107,105,6,218,107,218
 1,Cercado,1,Cochabamba,821,Cochabamba,189,Escuela Ceferino Namuncura,3015281,2,240,100,97,16,213,100,213
 1,Cercado,1,Cochabamba,821,Cochabamba,189,Escuela Ceferino Namuncura,3015291,3,240,104,97,9,210,104,210
@@ -663,6 +672,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,191,Escuela 6 de Agosto,3016451,8,240,93,106,11,210,93,210
 1,Cercado,1,Cochabamba,821,Cochabamba,191,Escuela 6 de Agosto,3016471,10,240,110,87,11,208,110,208
 1,Cercado,1,Cochabamba,821,Cochabamba,191,Escuela 6 de Agosto,3016521,15,240,103,87,9,199,103,199
+1,Cercado,1,Cochabamba,821,Cochabamba,191,Escuela 6 de Agosto,3016611,24,240,95,99,8,202,95,202
 1,Cercado,1,Cochabamba,821,Cochabamba,191,Escuela 6 de Agosto,3016651,28,240,125,75,2,202,125,202
 1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,3018621,1,240,156,43,13,212,156,212
 1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,3018631,2,240,150,41,7,198,150,198
@@ -812,6 +822,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,213,Colegio Buenas Nuevas C,3008951,1,240,120,78,15,213,120,213
 1,Cercado,1,Cochabamba,821,Cochabamba,213,Colegio Buenas Nuevas C,3008961,2,240,129,78,12,219,129,219
 1,Cercado,1,Cochabamba,821,Cochabamba,213,Colegio Buenas Nuevas C,3008971,3,240,119,81,8,208,119,208
+1,Cercado,1,Cochabamba,821,Cochabamba,213,Colegio Buenas Nuevas C,3008981,4,240,122,86,11,219,122,219
+1,Cercado,1,Cochabamba,821,Cochabamba,213,Colegio Buenas Nuevas C,3009001,6,240,127,77,9,213,127,213
 1,Cercado,1,Cochabamba,821,Cochabamba,213,Colegio Buenas Nuevas C,3009021,8,240,171,36,9,216,171,216
 1,Cercado,1,Cochabamba,821,Cochabamba,213,Colegio Buenas Nuevas C,3009031,9,240,130,75,12,217,130,217
 1,Cercado,1,Cochabamba,821,Cochabamba,213,Colegio Buenas Nuevas C,3009041,10,240,134,76,6,216,134,216
@@ -940,7 +952,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,237,Unidad Educativa Verdad y Vida,3011471,9,240,129,49,17,195,129,195
 1,Cercado,1,Cochabamba,821,Cochabamba,237,Unidad Educativa Verdad y Vida,3011491,11,240,113,71,12,196,113,196
 1,Cercado,1,Cochabamba,821,Cochabamba,237,Unidad Educativa Verdad y Vida,3011531,15,240,131,57,12,200,131,200
+1,Cercado,1,Cochabamba,821,Cochabamba,237,Unidad Educativa Verdad y Vida,3011551,17,240,106,83,6,195,106,195
 1,Cercado,1,Cochabamba,821,Cochabamba,237,Unidad Educativa Verdad y Vida,3011591,21,240,107,90,10,207,107,207
+1,Cercado,1,Cochabamba,821,Cochabamba,237,Unidad Educativa Verdad y Vida,3011601,22,240,116,80,9,205,116,205
 1,Cercado,1,Cochabamba,821,Cochabamba,237,Unidad Educativa Verdad y Vida,3011611,23,240,118,76,9,203,118,203
 1,Cercado,1,Cochabamba,821,Cochabamba,237,Unidad Educativa Verdad y Vida,3011621,24,240,106,89,12,207,106,207
 1,Cercado,1,Cochabamba,821,Cochabamba,238,Unidad Educativa Siglo XX   Gabriela Mistral,3009931,1,240,134,51,13,198,134,198
@@ -1030,7 +1044,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,25870,U. E. San José,3004261,6,240,170,47,2,219,170,219
 1,Cercado,1,Cochabamba,821,Cochabamba,25870,U. E. San José,3004271,7,240,158,50,13,221,158,221
 1,Cercado,1,Cochabamba,821,Cochabamba,25870,U. E. San José,3004281,8,78,56,10,1,67,56,67
+1,Cercado,1,Cochabamba,821,Cochabamba,25871,U. E. Oscar Alfaro,3000551,1,240,148,46,10,204,148,204
 1,Cercado,1,Cochabamba,821,Cochabamba,25871,U. E. Oscar Alfaro,3000561,2,240,167,45,7,219,167,219
+1,Cercado,1,Cochabamba,821,Cochabamba,25871,U. E. Oscar Alfaro,3000571,3,240,163,40,10,213,163,213
+1,Cercado,1,Cochabamba,821,Cochabamba,25871,U. E. Oscar Alfaro,3000581,4,183,138,26,1,165,138,165
 1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,3003351,5,240,159,48,9,216,159,216
 1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,3003361,6,240,156,53,6,215,156,215
 1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,3003371,7,240,155,45,14,214,155,214
@@ -1065,6 +1082,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,25886,U. E. Juancito Pinto B,3016211,5,240,88,108,11,207,88,207
 1,Cercado,1,Cochabamba,821,Cochabamba,25886,U. E. Juancito Pinto B,3016221,6,240,93,97,10,200,93,200
 1,Cercado,1,Cochabamba,821,Cochabamba,25886,U. E. Juancito Pinto B,3016231,7,240,102,95,6,203,102,203
+1,Cercado,1,Cochabamba,821,Cochabamba,25886,U. E. Juancito Pinto B,3016241,8,240,148,42,15,205,148,205
 1,Cercado,1,Cochabamba,821,Cochabamba,25886,U. E. Juancito Pinto B,3016251,9,240,109,81,13,203,109,203
 1,Cercado,1,Cochabamba,821,Cochabamba,25886,U. E. Juancito Pinto B,3016271,11,240,93,95,10,198,93,198
 1,Cercado,1,Cochabamba,821,Cochabamba,25886,U. E. Juancito Pinto B,3016281,12,240,90,118,8,216,90,216
@@ -1093,12 +1111,16 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,3008071,3,240,147,45,6,198,147,198
 1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,3008081,4,93,51,24,3,78,51,78
 1,Cercado,1,Cochabamba,821,Cochabamba,25897,U. E. Pentecostal de Bolivia,3022741,3,240,158,51,9,218,158,218
+1,Cercado,1,Cochabamba,821,Cochabamba,25897,U. E. Pentecostal de Bolivia,3022751,4,240,123,62,18,203,123,203
+1,Cercado,1,Cochabamba,821,Cochabamba,25897,U. E. Pentecostal de Bolivia,3022761,5,240,123,69,11,203,123,203
+1,Cercado,1,Cochabamba,821,Cochabamba,25897,U. E. Pentecostal de Bolivia,3022791,8,144,91,36,6,133,91,133
 1,Cercado,1,Cochabamba,821,Cochabamba,25898,Sede Social de OTB Cerro San Miguel  Alto,3008551,1,202,80,56,6,142,80,142
 1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,3010031,1,240,136,65,8,209,136,209
 1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,3010041,2,240,154,49,14,217,154,217
 1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,3010051,3,206,130,46,6,182,130,182
 1,Cercado,1,Cochabamba,821,Cochabamba,25901,U. E. Luz y Verdad,3013671,2,240,135,45,8,188,135,188
 1,Cercado,1,Cochabamba,821,Cochabamba,25902,U. E. Padre Luis Diez del Pozo,3015861,1,240,116,76,21,213,116,213
+1,Cercado,1,Cochabamba,821,Cochabamba,25902,U. E. Padre Luis Diez del Pozo,3015871,2,240,130,65,10,205,130,205
 1,Cercado,1,Cochabamba,821,Cochabamba,25902,U. E. Padre Luis Diez del Pozo,3015891,4,240,168,43,11,222,168,222
 1,Cercado,1,Cochabamba,821,Cochabamba,25902,U. E. Padre Luis Diez del Pozo,3015911,6,240,114,75,10,199,114,199
 1,Cercado,1,Cochabamba,821,Cochabamba,25902,U. E. Padre Luis Diez del Pozo,3015941,9,240,143,63,9,215,143,215
@@ -1144,6 +1166,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,26322,U. E. Libertad,3022901,9,240,131,74,8,213,131,213
 1,Cercado,1,Cochabamba,821,Cochabamba,26322,U. E. Libertad,3022921,11,240,124,71,9,204,124,204
 1,Cercado,1,Cochabamba,821,Cochabamba,26322,U. E. Libertad,3022931,12,154,71,54,7,132,71,132
+1,Cercado,1,Cochabamba,821,Cochabamba,26323,U. E. Juan Lechin Oquendo,3022031,2,240,113,90,8,211,113,211
+1,Cercado,1,Cochabamba,821,Cochabamba,26324,Sede Social Alto Higuerani,3015371,1,240,89,120,10,219,89,219
+1,Cercado,1,Cochabamba,821,Cochabamba,26324,Sede Social Alto Higuerani,3015381,2,240,81,125,6,212,81,212
 1,Cercado,1,Cochabamba,821,Cochabamba,26325,U. E. Rey de Reyes,3020261,8,240,181,37,6,224,181,224
 1,Cercado,1,Cochabamba,821,Cochabamba,26325,U. E. Rey de Reyes,3020271,9,240,139,66,7,212,139,212
 1,Cercado,1,Cochabamba,821,Cochabamba,26325,U. E. Rey de Reyes,3020281,10,240,157,41,12,210,157,210
@@ -1158,6 +1183,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,26439,U. E. Adventista Cochabamba,3019421,5,240,185,9,10,204,185,204
 1,Cercado,1,Cochabamba,821,Cochabamba,26439,U. E. Adventista Cochabamba,3019431,6,240,160,38,10,208,160,208
 1,Cercado,1,Cochabamba,821,Cochabamba,26441,U. E. Lía Rivera de Guzmán,3000281,2,40,23,10,2,35,23,35
+1,Cercado,1,Cochabamba,821,Cochabamba,26442,kinder Antofagasta,3004151,2,240,169,35,5,209,169,209
 1,Cercado,1,Cochabamba,821,Cochabamba,26442,kinder Antofagasta,3004161,3,240,189,13,8,210,189,210
 1,Cercado,1,Cochabamba,821,Cochabamba,26442,kinder Antofagasta,3004171,4,240,163,43,10,216,163,216
 1,Cercado,1,Cochabamba,821,Cochabamba,26442,kinder Antofagasta,3004181,5,240,154,51,6,211,154,211
@@ -1197,6 +1223,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Cochabamba,821,Cochabamba,32413,U.E. Pedro Poveda,3020181,19,73,45,15,2,62,45,62
 1,Cercado,1,Cochabamba,4198,Tirani,25645,U.E. José Carlos Carrillo,3000011,1,240,109,103,10,222,109,222
 1,Cercado,1,Cochabamba,4198,Tirani,25645,U.E. José Carlos Carrillo,3000021,2,240,116,82,13,211,116,211
+1,Cercado,1,Cochabamba,4198,Tirani,25645,U.E. José Carlos Carrillo,3000031,3,240,109,84,14,207,109,207
 2,Campero,1,Aiquile,822,Aiquile,2001,Escuela Simon Rodriguez,3023061,7,240,100,79,12,191,100,191
 2,Campero,1,Aiquile,822,Aiquile,2002,Escuela Manuel De Ugarte,3023131,3,240,112,74,14,200,112,200
 2,Campero,1,Aiquile,822,Aiquile,2002,Escuela Manuel De Ugarte,3023161,6,240,91,99,8,198,91,198
@@ -1218,6 +1245,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Campero,1,Aiquile,3952,Laime,1,Unidad Educativa Laime,3022991,1,214,57,99,18,174,57,174
 2,Campero,1,Aiquile,4244,Tipa Pampa,25916,U. E. Tipa Pampa,3023501,1,232,78,102,16,196,78,196
 2,Campero,1,Aiquile,4537,Tabla Mayu,32231,U.E. Tabla Mayu,3023571,1,51,17,27,4,48,17,48
+2,Campero,1,Aiquile,4541,Higus Pampa,32234,U.E. Higus Pampa,3023591,1,121,21,84,3,108,21,108
 2,Campero,2,Pasorapa,830,Pasorapa,2012,Colegio Tte.Cnel. Nataniel Verduguez,3023611,1,240,111,94,10,215,111,215
 2,Campero,2,Pasorapa,830,Pasorapa,2012,Colegio Tte.Cnel. Nataniel Verduguez,3023621,2,240,113,90,11,214,113,214
 2,Campero,2,Pasorapa,830,Pasorapa,2012,Colegio Tte.Cnel. Nataniel Verduguez,3023631,3,240,125,81,11,217,125,217
@@ -1289,6 +1317,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Ayopaya,3,Cocapata,3654,Totorani,1,Unidad Educativa Totorani,3024771,2,240,101,103,4,208,101,208
 3,Ayopaya,3,Cocapata,4204,Tocorani,25651,U.E. Tocorani,3025121,1,240,61,133,2,196,61,196
 3,Ayopaya,3,Cocapata,4204,Tocorani,25651,U.E. Tocorani,3025131,2,75,11,46,2,59,11,59
+3,Ayopaya,3,Cocapata,4359,Muñoz Cueva,26061,U.E. Muñoz Cueva,3025141,1,248,92,85,13,190,92,190
 4,Esteban Arze,1,Tarata,865,Tarata,4001,Colegio My. Victor Ustariz,3025211,1,240,106,66,14,186,106,186
 4,Esteban Arze,1,Tarata,865,Tarata,4002,Escuela Rene Barrientos O.,3025371,5,240,127,63,15,205,127,205
 4,Esteban Arze,1,Tarata,865,Tarata,4002,Escuela Rene Barrientos O.,3025391,7,113,58,36,5,99,58,99
@@ -1296,6 +1325,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Esteban Arze,1,Tarata,866,Huayculi,4005,Unidad Educativa Huayculi,3025481,1,240,121,77,16,214,121,214
 4,Esteban Arze,1,Tarata,868,Izata,4007,Escuela Luis Terrazas,3025531,1,185,82,72,5,159,82,159
 4,Esteban Arze,2,Anzaldo,870,Anzaldo,4008,U. E. San José de Calasanz,3025611,7,240,82,107,11,200,82,200
+4,Esteban Arze,2,Anzaldo,4606,Phinquina,32351,U.E. Phinquina,3025691,1,161,58,90,5,153,58,153
 4,Esteban Arze,3,Arbieto,876,Mamanaca,4013,Unidad Educativa 6 de Junio   Mamanaca,3025981,1,240,71,113,19,203,71,203
 4,Esteban Arze,3,Arbieto,876,Mamanaca,4013,Unidad Educativa 6 de Junio   Mamanaca,3025991,2,240,62,118,11,191,62,191
 4,Esteban Arze,3,Arbieto,876,Mamanaca,4013,Unidad Educativa 6 de Junio   Mamanaca,3026011,4,27,14,9,1,24,14,24
@@ -1340,12 +1370,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Arani,1,Arani,884,Arani,5002,U.E. Arani,3026451,5,240,112,89,7,208,112,208
 5,Arani,1,Arani,884,Arani,5002,U.E. Arani,3026461,6,240,120,75,9,204,120,204
 5,Arani,1,Arani,884,Arani,5002,U.E. Arani,3026471,7,240,110,83,19,212,110,212
+5,Arani,1,Arani,884,Arani,5002,U.E. Arani,3026491,9,240,104,103,4,211,104,211
 5,Arani,1,Arani,885,Collpaciaco,5003,Unidad Educativa Collpaciaco,3026541,2,240,78,115,14,207,78,207
 5,Arani,1,Arani,885,Collpaciaco,5003,Unidad Educativa Collpaciaco,3026551,3,133,41,56,3,100,41,100
 5,Arani,1,Arani,886,Pocoata,5004,Escuela Mixta Pocoata,3026571,2,161,38,93,7,138,38,138
 5,Arani,2,Vacas,887,Vacas,5005,Escuela Experimental Vacas,3026601,1,240,70,121,11,202,70,202
 5,Arani,2,Vacas,887,Vacas,5005,Escuela Experimental Vacas,3026621,3,240,83,116,11,210,83,210
 5,Arani,2,Vacas,887,Vacas,5005,Escuela Experimental Vacas,3026641,5,240,72,130,12,214,72,214
+5,Arani,2,Vacas,887,Vacas,5005,Escuela Experimental Vacas,3026651,6,240,77,128,8,213,77,213
 5,Arani,2,Vacas,887,Vacas,5005,Escuela Experimental Vacas,3026661,7,240,70,126,11,207,70,207
 5,Arani,2,Vacas,887,Vacas,5005,Escuela Experimental Vacas,3026681,9,240,53,138,14,205,53,205
 5,Arani,2,Vacas,887,Vacas,5005,Escuela Experimental Vacas,3026691,10,240,77,114,8,199,77,199
@@ -1377,8 +1409,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Capinota,1,Capinota,907,Capinota,7002,Unidad Educativa Juana Azurduy De Padilla,3027411,3,240,125,56,7,188,125,188
 7,Capinota,1,Capinota,907,Capinota,7002,Unidad Educativa Juana Azurduy De Padilla,3027431,5,240,114,52,21,187,114,187
 7,Capinota,1,Capinota,907,Capinota,7002,Unidad Educativa Juana Azurduy De Padilla,3027451,7,240,108,69,10,187,108,187
+7,Capinota,1,Capinota,907,Capinota,7002,Unidad Educativa Juana Azurduy De Padilla,3027461,8,240,118,67,17,202,118,202
 7,Capinota,1,Capinota,907,Capinota,7002,Unidad Educativa Juana Azurduy De Padilla,3027471,9,20,8,10,1,19,8,19
 7,Capinota,1,Capinota,907,Capinota,25703,U. E. Oscar Unzaga De La Vega,3027751,1,240,111,75,8,194,111,194
+7,Capinota,1,Capinota,907,Capinota,32076,U.E. Rodolfo Montaño Valderrama,3027831,1,240,99,55,10,164,99,164
 7,Capinota,1,Capinota,909,Irpa Irpa,7002,Unidad Educativa Custodio Ayaviri,3027481,1,240,159,38,13,210,159,210
 7,Capinota,1,Capinota,909,Irpa Irpa,7002,Unidad Educativa Custodio Ayaviri,3027491,2,240,94,107,14,215,94,215
 7,Capinota,1,Capinota,909,Irpa Irpa,7002,Unidad Educativa Custodio Ayaviri,3027511,4,240,119,90,6,215,119,215
@@ -1427,6 +1461,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Germán Jordán,1,Cliza,923,Cliza,8001,Colegio Juan de Dios Balderrama,3028441,26,210,87,84,6,177,87,177
 8,Germán Jordán,1,Cliza,923,Cliza,8002,Escuela Sucre,3028461,2,240,111,91,9,211,111,211
 8,Germán Jordán,1,Cliza,923,Cliza,8002,Escuela Sucre,3028491,5,240,98,106,5,209,98,209
+8,Germán Jordán,1,Cliza,923,Cliza,8002,Escuela Sucre,3028541,10,240,98,101,16,215,98,215
 8,Germán Jordán,1,Cliza,923,Cliza,8002,Escuela Sucre,3028551,11,240,85,98,21,204,85,204
 8,Germán Jordán,1,Cliza,924,Chullpas,8003,Unidad Educativa Chullpas,3028601,1,240,80,127,6,213,80,213
 8,Germán Jordán,1,Cliza,924,Chullpas,8003,Unidad Educativa Chullpas,3028611,2,240,84,127,9,220,84,220
@@ -1473,6 +1508,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,1,Quillacollo,934,Quillacollo,25033,Unidad Educativa Nestor Adriazola (Ex Colegio Nacional Calama),3031341,3,240,124,78,8,210,124,210
 9,Quillacollo,1,Quillacollo,934,Quillacollo,25033,Unidad Educativa Nestor Adriazola (Ex Colegio Nacional Calama),3031351,4,240,126,75,11,212,126,212
 9,Quillacollo,1,Quillacollo,934,Quillacollo,25033,Unidad Educativa Nestor Adriazola (Ex Colegio Nacional Calama),3031371,6,240,145,63,9,217,145,217
+9,Quillacollo,1,Quillacollo,934,Quillacollo,25033,Unidad Educativa Nestor Adriazola (Ex Colegio Nacional Calama),3031391,8,240,109,98,8,215,109,215
 9,Quillacollo,1,Quillacollo,934,Quillacollo,25033,Unidad Educativa Nestor Adriazola (Ex Colegio Nacional Calama),3031441,13,240,140,59,11,210,140,210
 9,Quillacollo,1,Quillacollo,934,Quillacollo,25033,Unidad Educativa Nestor Adriazola (Ex Colegio Nacional Calama),3031461,15,240,113,98,2,213,113,213
 9,Quillacollo,1,Quillacollo,934,Quillacollo,25033,Unidad Educativa Nestor Adriazola (Ex Colegio Nacional Calama),3031481,17,240,160,29,15,204,160,204
@@ -1609,9 +1645,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,1,Quillacollo,934,Quillacollo,32360,U.E. Cerro Cota,3034111,1,240,111,103,8,222,111,222
 9,Quillacollo,1,Quillacollo,934,Quillacollo,32360,U.E. Cerro Cota,3034121,2,226,98,98,13,209,98,209
 9,Quillacollo,1,Quillacollo,935,Illataco,9014,U. E. Jose Miguel Lanza (Illataco),3029281,2,240,103,103,7,213,103,213
+9,Quillacollo,1,Quillacollo,935,Illataco,9014,U. E. Jose Miguel Lanza (Illataco),3029301,4,240,121,83,7,211,121,211
 9,Quillacollo,1,Quillacollo,936,Piñami,9015,Escuela Felix Martinez,3030481,4,240,137,65,21,223,137,223
 9,Quillacollo,1,Quillacollo,936,Piñami,9015,Escuela Felix Martinez,3030491,5,240,121,84,13,218,121,218
 9,Quillacollo,1,Quillacollo,936,Piñami,9015,Escuela Felix Martinez,3030501,6,240,104,96,17,217,104,217
+9,Quillacollo,1,Quillacollo,936,Piñami,9015,Escuela Felix Martinez,3030521,8,240,133,72,18,223,133,223
 9,Quillacollo,1,Quillacollo,936,Piñami,9015,Escuela Felix Martinez,3030571,13,240,124,79,10,213,124,213
 9,Quillacollo,1,Quillacollo,936,Piñami,9015,Escuela Felix Martinez,3030601,16,240,141,65,17,223,141,223
 9,Quillacollo,1,Quillacollo,936,Piñami,9015,Escuela Felix Martinez,3030611,17,240,118,76,27,221,118,221
@@ -1648,6 +1686,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,1,Quillacollo,938,Cotapachi,9019,Colegio Nacional Calama (Nueva Infraestructura),3031891,6,238,145,49,10,204,145,204
 9,Quillacollo,1,Quillacollo,938,Cotapachi,26182,U.E. Cotapachi,3032891,2,240,157,44,19,220,157,220
 9,Quillacollo,1,Quillacollo,939,El Paso,9018,Unidad Educativa El Paso,3030061,1,240,109,96,13,218,109,218
+9,Quillacollo,1,Quillacollo,939,El Paso,9018,Unidad Educativa El Paso,3030081,3,240,86,115,17,218,86,218
 9,Quillacollo,1,Quillacollo,939,El Paso,9018,Unidad Educativa El Paso,3030121,7,240,108,100,10,218,108,218
 9,Quillacollo,1,Quillacollo,939,El Paso,9018,Unidad Educativa El Paso,3030131,8,240,96,91,23,210,96,210
 9,Quillacollo,1,Quillacollo,939,El Paso,9018,Unidad Educativa El Paso,3030151,10,240,114,79,17,210,114,210
@@ -1657,6 +1696,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,1,Quillacollo,939,El Paso,9020,Instituto Tecnologico El Paso,3030871,7,240,115,68,14,197,115,197
 9,Quillacollo,1,Quillacollo,939,El Paso,9020,Instituto Tecnologico El Paso,3030881,8,240,140,49,18,207,140,207
 9,Quillacollo,1,Quillacollo,939,El Paso,25684,U. E. El Paso  A,3030281,3,240,147,37,19,203,147,203
+9,Quillacollo,1,Quillacollo,939,El Paso,25684,U. E. El Paso  A,3030331,8,240,137,52,14,203,137,203
 9,Quillacollo,1,Quillacollo,939,El Paso,25684,U. E. El Paso  A,3030401,15,240,107,87,14,208,107,208
 9,Quillacollo,1,Quillacollo,939,El Paso,25684,U. E. El Paso  A,3030411,16,170,86,63,12,161,86,161
 9,Quillacollo,1,Quillacollo,939,El Paso,25685,U.E. Molle Molle,3030921,1,240,75,114,12,201,75,201
@@ -1719,6 +1759,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,2,Sipesipe,947,Parotani,9026,Unidad Educativa Eduardo Abaroa,3035181,5,240,113,87,8,208,113,208
 9,Quillacollo,2,Sipesipe,947,Parotani,9026,Unidad Educativa Eduardo Abaroa,3035191,6,240,100,98,7,205,100,205
 9,Quillacollo,2,Sipesipe,947,Parotani,9026,Unidad Educativa Eduardo Abaroa,3035201,7,240,101,92,7,200,101,200
+9,Quillacollo,2,Sipesipe,947,Parotani,9026,Unidad Educativa Eduardo Abaroa,3035261,13,84,33,33,7,73,33,73
 9,Quillacollo,2,Sipesipe,949,Mallco Rancho,9027,Escuela Bolviana Americana,3035901,2,240,86,110,8,204,86,204
 9,Quillacollo,2,Sipesipe,949,Mallco Rancho,9027,Escuela Bolviana Americana,3035911,3,240,115,74,13,202,115,202
 9,Quillacollo,2,Sipesipe,949,Mallco Rancho,9027,Escuela Bolviana Americana,3035981,10,240,105,91,10,206,105,206
@@ -1752,6 +1793,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,9030,Colegio Simon Bolivar (Tiquipaya),3036431,5,240,113,84,18,215,113,215
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,9030,Colegio Simon Bolivar (Tiquipaya),3036441,6,240,104,90,10,204,104,204
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,9030,Colegio Simon Bolivar (Tiquipaya),3036461,8,240,113,83,11,207,113,207
+9,Quillacollo,3,Tiquipaya,951,Tiquipaya,9030,Colegio Simon Bolivar (Tiquipaya),3036481,10,240,111,81,8,200,111,200
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,9030,Colegio Simon Bolivar (Tiquipaya),3036491,11,240,117,82,15,214,117,214
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,9030,Colegio Simon Bolivar (Tiquipaya),3036511,13,240,118,73,15,206,118,206
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,9030,Colegio Simon Bolivar (Tiquipaya),3036571,19,240,146,53,9,208,146,208
@@ -1760,6 +1802,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,9030,Colegio Simon Bolivar (Tiquipaya),3036601,22,240,129,67,6,202,129,202
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,9030,Colegio Simon Bolivar (Tiquipaya),3036611,23,240,141,53,14,208,141,208
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,9030,Colegio Simon Bolivar (Tiquipaya),3036671,29,240,125,78,8,211,125,211
+9,Quillacollo,3,Tiquipaya,951,Tiquipaya,9030,Colegio Simon Bolivar (Tiquipaya),3036691,31,220,156,28,7,191,156,191
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,25698,U.E. Monseñor Salomón Romero,3037991,1,240,139,47,9,195,139,195
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,25698,U.E. Monseñor Salomón Romero,3038001,2,240,142,50,10,202,142,202
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,25698,U.E. Monseñor Salomón Romero,3038011,3,240,144,48,12,204,144,204
@@ -1773,6 +1816,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,32302,U.E. Encanto Pampa,3038201,1,240,137,71,11,219,137,219
 9,Quillacollo,3,Tiquipaya,951,Tiquipaya,32302,U.E. Encanto Pampa,3038211,2,214,120,68,8,196,120,196
 9,Quillacollo,3,Tiquipaya,952,Trojes,9031,Escuela Toribio Claure,3036701,1,240,140,63,9,212,140,212
+9,Quillacollo,3,Tiquipaya,952,Trojes,9031,Escuela Toribio Claure,3036751,6,240,133,65,11,209,133,209
 9,Quillacollo,3,Tiquipaya,952,Trojes,9031,Escuela Toribio Claure,3036761,7,240,126,74,14,214,126,214
 9,Quillacollo,3,Tiquipaya,952,Trojes,9031,Escuela Toribio Claure,3036851,16,240,140,60,11,211,140,211
 9,Quillacollo,3,Tiquipaya,952,Trojes,9031,Escuela Toribio Claure,3036861,17,240,127,64,16,207,127,207
@@ -1796,7 +1840,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,3,Tiquipaya,952,Trojes,26459,U.E. Técnico Humanístico San Gabriel,3038161,2,240,176,40,6,222,176,222
 9,Quillacollo,3,Tiquipaya,952,Trojes,26459,U.E. Técnico Humanístico San Gabriel,3038171,3,138,89,27,9,125,89,125
 9,Quillacollo,3,Tiquipaya,953,Cuatro Esquinas (Tiquipaya),9032,U.E. Santa María Magdalena Postel,3037191,5,240,157,53,8,218,157,218
+9,Quillacollo,3,Tiquipaya,954,Chapisirca,9033,Nucleo Educativo Chapisirca,3037251,3,240,55,142,6,203,55,203
 9,Quillacollo,3,Tiquipaya,955,Ciudad del Niño,9034,Unidad Educativa Libertad,3037271,1,240,133,64,10,207,133,207
+9,Quillacollo,3,Tiquipaya,955,Ciudad del Niño,9034,Unidad Educativa Libertad,3037301,4,240,125,74,13,212,125,212
 9,Quillacollo,3,Tiquipaya,955,Ciudad del Niño,9034,Unidad Educativa Libertad,3037351,9,240,133,71,10,214,133,214
 9,Quillacollo,3,Tiquipaya,955,Ciudad del Niño,9034,Unidad Educativa Libertad,3037381,12,240,148,39,20,207,148,207
 9,Quillacollo,3,Tiquipaya,955,Ciudad del Niño,9034,Unidad Educativa Libertad,3037391,13,240,128,74,8,210,128,210
@@ -1829,6 +1875,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,3,Tiquipaya,958,Callaj Chullpa (Tiquipaya),9060,Unidad Educativa Nuestra Sra. De Altagracia,3037891,3,223,108,81,11,200,108,200
 9,Quillacollo,3,Tiquipaya,3115,Waripucara,9050,Escuela Seccional Waripucara,3037841,1,179,91,80,5,176,91,176
 9,Quillacollo,3,Tiquipaya,3115,Waripucara,9051,Unidad Educativa Montecillo,3037861,2,59,53,3,0,56,53,56
+9,Quillacollo,3,Tiquipaya,4078,Rumy Corral,25484,U.E. Rumy Corral,3037911,2,90,46,25,4,75,46,75
 9,Quillacollo,3,Tiquipaya,4200,4 Esquinas,25647,U.E. Cuatro Esquinas,3037921,1,185,56,77,2,135,56,135
 9,Quillacollo,4,Vinto,959,Vinto,9053,Escuela Melchor Cuadros,3039361,1,240,155,49,17,221,155,221
 9,Quillacollo,4,Vinto,959,Vinto,9053,Escuela Melchor Cuadros,3039381,3,240,127,77,15,219,127,219
@@ -1874,6 +1921,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,4,Vinto,959,Vinto,9056,Unidad Educativa David Arzabe,3040061,5,240,116,80,11,207,116,207
 9,Quillacollo,4,Vinto,959,Vinto,9056,Unidad Educativa David Arzabe,3040081,7,240,119,84,7,210,119,210
 9,Quillacollo,4,Vinto,959,Vinto,9056,Unidad Educativa David Arzabe,3040101,9,240,106,72,17,195,106,195
+9,Quillacollo,4,Vinto,959,Vinto,9056,Unidad Educativa David Arzabe,3040141,13,240,122,69,17,208,122,208
+9,Quillacollo,4,Vinto,959,Vinto,9056,Unidad Educativa David Arzabe,3040151,14,240,123,67,17,207,123,207
+9,Quillacollo,4,Vinto,959,Vinto,9056,Unidad Educativa David Arzabe,3040161,15,240,121,74,14,209,121,209
 9,Quillacollo,4,Vinto,959,Vinto,9056,Unidad Educativa David Arzabe,3040171,16,229,161,29,12,202,161,202
 9,Quillacollo,4,Vinto,959,Vinto,25699,U.E. Avelino Mérida Zubieta,3039231,1,240,127,59,13,199,127,199
 9,Quillacollo,4,Vinto,959,Vinto,25699,U.E. Avelino Mérida Zubieta,3039241,2,240,122,54,18,194,122,194
@@ -1908,7 +1958,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,4,Vinto,961,La Chulla,9041,Escuela Ismael Montes,3038701,14,240,114,82,13,209,114,209
 9,Quillacollo,4,Vinto,962,Anocaraire,9042,Unidad Educativa Anocaraire,3038731,1,240,102,95,5,202,102,202
 9,Quillacollo,4,Vinto,962,Anocaraire,9042,Unidad Educativa Anocaraire,3038751,3,240,106,82,8,196,106,196
+9,Quillacollo,4,Vinto,962,Anocaraire,9042,Unidad Educativa Anocaraire,3038761,4,240,126,73,9,208,126,208
 9,Quillacollo,4,Vinto,962,Anocaraire,9042,Unidad Educativa Anocaraire,3038771,5,240,105,91,12,208,105,208
+9,Quillacollo,4,Vinto,962,Anocaraire,9042,Unidad Educativa Anocaraire,3038781,6,240,99,101,12,212,99,212
 9,Quillacollo,4,Vinto,962,Anocaraire,9042,Unidad Educativa Anocaraire,3038791,7,240,117,82,14,213,117,213
 9,Quillacollo,4,Vinto,962,Anocaraire,9042,Unidad Educativa Anocaraire,3038801,8,240,90,100,15,205,90,205
 9,Quillacollo,4,Vinto,962,Anocaraire,9042,Unidad Educativa Anocaraire,3038811,9,240,112,78,19,209,112,209
@@ -1942,6 +1994,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,5,Colcapirhua,963,Colcapirhua,25033,Unidad Educativa Daniel Salamanca,3041841,13,240,141,78,9,228,141,228
 9,Quillacollo,5,Colcapirhua,963,Colcapirhua,25033,Unidad Educativa Daniel Salamanca,3041881,17,240,129,81,9,219,129,219
 9,Quillacollo,5,Colcapirhua,963,Colcapirhua,25033,Unidad Educativa Daniel Salamanca,3041891,18,240,132,79,12,223,132,223
+9,Quillacollo,5,Colcapirhua,963,Colcapirhua,25034,Unidad Educativa San Lorenzo,3041931,1,240,153,52,3,208,153,208
 9,Quillacollo,5,Colcapirhua,963,Colcapirhua,25034,Unidad Educativa San Lorenzo,3041951,3,240,175,18,18,211,175,211
 9,Quillacollo,5,Colcapirhua,963,Colcapirhua,25034,Unidad Educativa San Lorenzo,3041971,5,240,133,62,10,205,133,205
 9,Quillacollo,5,Colcapirhua,963,Colcapirhua,25034,Unidad Educativa San Lorenzo,3042041,12,240,156,41,18,215,156,215
@@ -1950,6 +2003,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,5,Colcapirhua,963,Colcapirhua,25681,U.E. 27 de Mayo,3042161,4,240,131,52,12,195,131,195
 9,Quillacollo,5,Colcapirhua,963,Colcapirhua,25681,U.E. 27 de Mayo,3042171,5,240,129,66,10,205,129,205
 9,Quillacollo,5,Colcapirhua,964,San Jose (Cuatro Esquinas),9046,Unidad Educativa San José de Kami,3040251,2,240,115,78,10,203,115,203
+9,Quillacollo,5,Colcapirhua,964,San Jose (Cuatro Esquinas),9046,Unidad Educativa San José de Kami,3040261,3,240,109,93,7,209,109,209
 9,Quillacollo,5,Colcapirhua,964,San Jose (Cuatro Esquinas),9046,Unidad Educativa San José de Kami,3040301,7,240,125,71,10,206,125,206
 9,Quillacollo,5,Colcapirhua,964,San Jose (Cuatro Esquinas),9046,Unidad Educativa San José de Kami,3040311,8,240,124,69,17,210,124,210
 9,Quillacollo,5,Colcapirhua,964,San Jose (Cuatro Esquinas),9046,Unidad Educativa San José de Kami,3040321,9,240,117,81,11,209,117,209
@@ -2006,6 +2060,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Quillacollo,5,Colcapirhua,968,Santa Rosa (Colcapirhua),25679,U.E. San Miguel,3040751,3,240,139,66,13,218,139,218
 9,Quillacollo,5,Colcapirhua,968,Santa Rosa (Colcapirhua),25679,U.E. San Miguel,3040771,5,240,155,57,8,220,155,220
 9,Quillacollo,5,Colcapirhua,968,Santa Rosa (Colcapirhua),25679,U.E. San Miguel,3040781,6,240,134,65,8,207,134,207
+9,Quillacollo,5,Colcapirhua,968,Santa Rosa (Colcapirhua),25679,U.E. San Miguel,3040791,7,240,138,66,8,212,138,212
 9,Quillacollo,5,Colcapirhua,968,Santa Rosa (Colcapirhua),25679,U.E. San Miguel,3040841,12,240,179,22,10,211,179,211
 9,Quillacollo,5,Colcapirhua,968,Santa Rosa (Colcapirhua),25679,U.E. San Miguel,3040851,13,240,154,50,11,215,154,215
 9,Quillacollo,5,Colcapirhua,968,Santa Rosa (Colcapirhua),25679,U.E. San Miguel,3040861,14,240,172,33,9,214,172,214
@@ -2047,9 +2102,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Chapare,1,Sacaba,971,Sacaba,1047,Liceo De Señoritas Sacaba,3046501,5,240,142,55,11,208,142,208
 10,Chapare,1,Sacaba,971,Sacaba,1047,Liceo De Señoritas Sacaba,3046511,6,240,142,49,13,204,142,204
 10,Chapare,1,Sacaba,971,Sacaba,1047,Liceo De Señoritas Sacaba,3046521,7,240,140,52,8,200,140,200
+10,Chapare,1,Sacaba,971,Sacaba,1047,Liceo De Señoritas Sacaba,3046551,10,240,132,55,14,201,132,201
 10,Chapare,1,Sacaba,971,Sacaba,1047,Liceo De Señoritas Sacaba,3046571,12,240,143,60,5,208,143,208
 10,Chapare,1,Sacaba,971,Sacaba,1047,Liceo De Señoritas Sacaba,3046601,15,240,125,60,15,200,125,200
 10,Chapare,1,Sacaba,971,Sacaba,1047,Liceo De Señoritas Sacaba,3046631,18,240,137,58,12,207,137,207
+10,Chapare,1,Sacaba,971,Sacaba,1047,Liceo De Señoritas Sacaba,3046651,20,240,166,21,19,206,166,206
 10,Chapare,1,Sacaba,971,Sacaba,1047,Liceo De Señoritas Sacaba,3046661,21,240,159,31,15,205,159,205
 10,Chapare,1,Sacaba,971,Sacaba,1047,Liceo De Señoritas Sacaba,3046671,22,240,141,60,6,207,141,207
 10,Chapare,1,Sacaba,971,Sacaba,1047,Liceo De Señoritas Sacaba,3046681,23,240,154,52,10,216,154,216
@@ -2137,6 +2194,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Chapare,1,Sacaba,971,Sacaba,26452,U.E. José Nicolás Maldonado,3047451,6,240,147,59,8,214,147,214
 10,Chapare,1,Sacaba,971,Sacaba,26452,U.E. José Nicolás Maldonado,3047461,7,240,146,58,10,214,146,214
 10,Chapare,1,Sacaba,971,Sacaba,26452,U.E. José Nicolás Maldonado,3047471,8,133,90,30,4,124,90,124
+10,Chapare,1,Sacaba,971,Sacaba,32357,U.E. Chimboco,3047491,2,240,119,75,9,203,119,203
 10,Chapare,1,Sacaba,971,Sacaba,32357,U.E. Chimboco,3047511,4,36,22,11,1,34,22,34
 10,Chapare,1,Sacaba,972,El Castillo,1005,Escuela Jesus Terceros,3042191,1,240,197,9,10,216,197,216
 10,Chapare,1,Sacaba,972,El Castillo,1005,Escuela Jesus Terceros,3042201,2,240,151,53,7,211,151,211
@@ -2239,6 +2297,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Chapare,1,Sacaba,974,Pacata,1052,Unidad Educativa René Barrientos Ortuño,3044861,5,240,154,50,16,220,154,220
 10,Chapare,1,Sacaba,974,Pacata,1052,Unidad Educativa René Barrientos Ortuño,3044871,6,240,138,55,17,210,138,210
 10,Chapare,1,Sacaba,974,Pacata,1052,Unidad Educativa René Barrientos Ortuño,3044881,7,144,75,44,5,124,75,124
+10,Chapare,1,Sacaba,974,Pacata,1053,U.E. Marcelo Quiroga Santa Cruz (Pacata),3044901,2,240,154,35,16,205,154,205
 10,Chapare,1,Sacaba,974,Pacata,1054,Unidad Educativa Edmundo Bojanowski,3045021,2,240,152,45,13,210,152,210
 10,Chapare,1,Sacaba,974,Pacata,1054,Unidad Educativa Edmundo Bojanowski,3045031,3,240,153,42,13,208,153,208
 10,Chapare,1,Sacaba,974,Pacata,1054,Unidad Educativa Edmundo Bojanowski,3045041,4,240,151,57,7,215,151,215
@@ -2318,6 +2377,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Chapare,1,Sacaba,980,Lava Lava,1015,Escuela 6 de Junio   Tacopoca,3043931,2,240,127,60,13,200,127,200
 10,Chapare,1,Sacaba,980,Lava Lava,1015,Escuela 6 de Junio   Tacopoca,3043991,8,240,146,51,11,208,146,208
 10,Chapare,1,Sacaba,980,Lava Lava,1015,Escuela 6 de Junio   Tacopoca,3044011,10,240,134,69,19,222,134,222
+10,Chapare,1,Sacaba,980,Lava Lava,1015,Escuela 6 de Junio   Tacopoca,3044031,12,194,113,50,5,168,113,168
 10,Chapare,1,Sacaba,980,Lava Lava,25581,U.E. Hugo Chavez Frias,3045341,1,240,110,86,19,215,110,215
 10,Chapare,1,Sacaba,980,Lava Lava,25581,U.E. Hugo Chavez Frias,3045361,3,240,97,91,14,202,97,202
 10,Chapare,1,Sacaba,980,Lava Lava,25581,U.E. Hugo Chavez Frias,3045391,6,240,131,72,14,217,131,217
@@ -2339,6 +2399,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Chapare,1,Sacaba,982,Chiñata,1017,Colegio Franz Tamayo (Chiñata),3044311,19,153,87,42,4,133,87,133
 10,Chapare,1,Sacaba,982,Chiñata,26454,U.E. Franz Famayo,3047531,1,234,114,67,7,188,114,188
 10,Chapare,1,Sacaba,983,Ucuchi,1018,Escuela Rene Barrientos Ortuño (Ucuchi),3044321,1,240,78,129,9,216,78,216
+10,Chapare,1,Sacaba,983,Ucuchi,1018,Escuela Rene Barrientos Ortuño (Ucuchi),3044331,2,240,71,126,8,205,71,205
 10,Chapare,1,Sacaba,984,Melga,1019,Colegio Rene Fernandez Becerra,3044351,1,240,126,84,4,214,126,214
 10,Chapare,1,Sacaba,984,Melga,1019,Colegio Rene Fernandez Becerra,3044361,2,240,148,46,9,203,148,203
 10,Chapare,1,Sacaba,984,Melga,1019,Colegio Rene Fernandez Becerra,3044371,3,240,104,101,4,209,104,209
@@ -2379,6 +2440,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Chapare,2,Colomi,986,Colomi,1021,U.E. Samuel Fina Savio,3048821,7,240,106,95,13,214,106,214
 10,Chapare,2,Colomi,986,Colomi,1021,U.E. Samuel Fina Savio,3048831,8,240,80,124,11,215,80,215
 10,Chapare,2,Colomi,986,Colomi,1021,U.E. Samuel Fina Savio,3048841,9,240,112,94,12,218,112,218
+10,Chapare,2,Colomi,986,Colomi,1021,U.E. Samuel Fina Savio,3048851,10,240,76,122,12,210,76,210
+10,Chapare,2,Colomi,986,Colomi,1021,U.E. Samuel Fina Savio,3048871,12,240,83,118,10,211,83,211
 10,Chapare,2,Colomi,986,Colomi,1021,U.E. Samuel Fina Savio,3048881,13,240,79,124,13,216,79,216
 10,Chapare,2,Colomi,986,Colomi,1021,U.E. Samuel Fina Savio,3048911,16,240,83,114,15,212,83,212
 10,Chapare,2,Colomi,986,Colomi,25702,U.E. Sócrates Villazón,3049261,5,240,104,64,11,179,104,179
@@ -2396,11 +2459,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Chapare,2,Colomi,2943,Paracti (Colomi),1027,Unidad Educativa Paracti (Colomi),3049171,2,240,70,119,6,195,70,195
 10,Chapare,2,Colomi,2943,Paracti (Colomi),1027,Unidad Educativa Paracti (Colomi),3049191,4,240,78,109,9,196,78,196
 10,Chapare,2,Colomi,4000,Rosario,25311,U.E. Rosario,3049211,1,243,69,128,10,207,69,207
+10,Chapare,2,Colomi,4427,Pico Central,26314,U.E. Pico Central,3049301,1,125,83,23,10,116,83,116
 10,Chapare,3,Villa Tunari,992,Villa Tunari,1028,Escuela San Antonio de Villa Tunari,3049681,1,240,134,72,4,210,134,210
 10,Chapare,3,Villa Tunari,992,Villa Tunari,1028,Escuela San Antonio de Villa Tunari,3049701,3,240,105,76,22,203,105,203
 10,Chapare,3,Villa Tunari,992,Villa Tunari,1028,Escuela San Antonio de Villa Tunari,3049721,5,240,118,81,9,208,118,208
 10,Chapare,3,Villa Tunari,992,Villa Tunari,1028,Escuela San Antonio de Villa Tunari,3049731,6,240,124,77,10,211,124,211
+10,Chapare,3,Villa Tunari,992,Villa Tunari,1028,Escuela San Antonio de Villa Tunari,3049741,7,240,126,77,8,211,126,211
 10,Chapare,3,Villa Tunari,992,Villa Tunari,1028,Escuela San Antonio de Villa Tunari,3049771,10,240,130,77,13,220,130,220
+10,Chapare,3,Villa Tunari,992,Villa Tunari,1028,Escuela San Antonio de Villa Tunari,3049781,11,126,71,39,5,115,71,115
 10,Chapare,3,Villa Tunari,992,Villa Tunari,25033,Colegio Francisco Vignaud,3051621,1,240,143,55,7,205,143,205
 10,Chapare,3,Villa Tunari,992,Villa Tunari,25033,Colegio Francisco Vignaud,3051631,2,240,118,70,14,202,118,202
 10,Chapare,3,Villa Tunari,992,Villa Tunari,25033,Colegio Francisco Vignaud,3051641,3,240,122,67,21,210,122,210
@@ -2532,6 +2598,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Carrasco,1,Totora,4609,Coluyo Grande,32354,U.E. 24 de Marzo,3052991,1,243,102,124,3,229,102,229
 12,Carrasco,2,Pojo,1035,Pojo,1206,Colegio Venancio Loss,3053081,2,240,107,93,2,202,107,202
 12,Carrasco,2,Pojo,1035,Pojo,1206,Colegio Venancio Loss,3053101,4,240,83,116,5,204,83,204
+12,Carrasco,2,Pojo,1035,Pojo,1206,Colegio Venancio Loss,3053111,5,170,64,74,1,139,64,139
 12,Carrasco,2,Pojo,1036,Kara Huasi,1207,Unidad Educativa Kara Huasi   Pojo,3053121,1,240,104,87,5,196,104,196
 12,Carrasco,2,Pojo,1043,Palca  C,1216,Unidad Educativa Palca C,3053221,2,240,100,117,4,221,100,221
 12,Carrasco,2,Pojo,1043,Palca  C,1216,Unidad Educativa Palca C,3053231,3,216,131,66,0,197,131,197
@@ -2556,8 +2623,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Carrasco,3,Pocona,4360,Chiuchi Arriba,26062,U.E. Pedro Domingo Murillo,3053601,1,172,57,92,4,153,57,153
 12,Carrasco,3,Pocona,4428,Sombrerito,26315,Sede Social Sombrerito,3053611,1,148,65,62,5,132,65,132
 12,Carrasco,3,Pocona,4585,Chaupi Rancho,32297,U.E. 2  de Agosto,3053621,1,240,100,113,10,223,100,223
+12,Carrasco,4,Chimoré,1045,Chimoré,1225,Escuela Gerónimo Uzeda Fe y Alegria,3053761,4,240,145,66,5,216,145,216
 12,Carrasco,4,Chimoré,1045,Chimoré,1225,Escuela Gerónimo Uzeda Fe y Alegria,3053781,6,240,124,83,7,214,124,214
 12,Carrasco,4,Chimoré,1045,Chimoré,1225,Escuela Gerónimo Uzeda Fe y Alegria,3053881,16,240,109,86,15,210,109,210
+12,Carrasco,4,Chimoré,1045,Chimoré,1225,Escuela Gerónimo Uzeda Fe y Alegria,3053901,18,139,77,25,11,113,77,113
 12,Carrasco,4,Chimoré,1045,Chimoré,25894,U. E. Ernesto Che Guevara,3054201,1,240,146,37,12,195,146,195
 12,Carrasco,4,Chimoré,1045,Chimoré,25894,U. E. Ernesto Che Guevara,3054211,2,240,148,26,8,182,148,182
 12,Carrasco,4,Chimoré,1045,Chimoré,25894,U. E. Ernesto Che Guevara,3054221,3,240,130,47,9,186,130,186
@@ -2573,6 +2642,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Carrasco,4,Chimoré,1047,Puerto Aurora,1227,Nucleo Escolar Puerto Aurora,3053961,2,240,121,80,6,207,121,207
 12,Carrasco,4,Chimoré,1047,Puerto Aurora,1227,Nucleo Escolar Puerto Aurora,3053971,3,190,91,64,9,164,91,164
 12,Carrasco,4,Chimoré,3176,Cesar Zama (Chimore),1241,Unidad Educativa Cesar Zama (Chimore),3054011,4,240,163,54,6,223,163,223
+12,Carrasco,4,Chimoré,4110,Urupa,25519,U.E. 10 de Mayo,3054111,1,112,29,50,4,83,29,83
 12,Carrasco,4,Chimoré,4195,Senda  F  27 de Mayo,25642,U.E. Bolivia,3054131,2,244,157,55,7,219,157,219
 12,Carrasco,4,Chimoré,4197,Puerto Cochabamba,25644,U.E. Puerto Cochabamba,3054191,1,157,72,62,4,138,72,138
 12,Carrasco,4,Chimoré,4407,Pachinu,26141,Sede Comunal Pachinu,3054311,1,55,3,32,0,35,3,35
@@ -2601,6 +2671,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Carrasco,5,Puerto Villarroel,1050,Ivirgarzama,25031,Unidad Educativa Juana Azurduy De Padilla,3055981,9,119,55,31,3,89,55,89
 12,Carrasco,5,Puerto Villarroel,1050,Ivirgarzama,25893,U. E. San Antonio de Padua,3055991,1,240,158,28,17,203,158,203
 12,Carrasco,5,Puerto Villarroel,1050,Ivirgarzama,25893,U. E. San Antonio de Padua,3056041,6,240,119,66,11,196,119,196
+12,Carrasco,5,Puerto Villarroel,1050,Ivirgarzama,25893,U. E. San Antonio de Padua,3056131,15,240,148,31,21,200,148,200
 12,Carrasco,5,Puerto Villarroel,1050,Ivirgarzama,25893,U. E. San Antonio de Padua,3056151,17,240,138,48,13,199,138,199
 12,Carrasco,5,Puerto Villarroel,1050,Ivirgarzama,30083,U.E. Eben Ezer A,3056271,1,240,113,58,17,188,113,188
 12,Carrasco,5,Puerto Villarroel,1050,Ivirgarzama,30083,U.E. Eben Ezer A,3056281,2,240,108,59,28,195,108,195
@@ -2659,15 +2730,20 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Carrasco,6,Entre Ríos,1052,Isarzama,1212,Escuela Eduardo Avaroa (Isarzama),3056991,10,240,179,35,1,215,179,215
 12,Carrasco,6,Entre Ríos,1052,Isarzama,1212,Escuela Eduardo Avaroa (Isarzama),3057011,12,155,94,39,0,133,94,133
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056491,2,240,156,55,12,223,156,223
+12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056541,7,240,137,67,9,213,137,213
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056551,8,240,131,60,11,202,131,202
+12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056561,9,240,141,59,9,209,141,209
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056601,13,240,134,60,7,201,134,201
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056611,14,240,126,65,20,211,126,211
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056621,15,240,138,65,8,211,138,211
+12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056671,20,240,142,59,9,210,142,210
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056681,21,240,147,59,6,212,147,212
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056741,27,240,178,17,8,203,178,203
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056761,29,240,131,72,7,210,131,210
+12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056771,30,240,139,57,10,206,139,206
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056791,32,240,151,55,10,216,151,216
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056801,33,240,148,55,6,209,148,209
+12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056811,34,240,144,59,8,211,144,211
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1211,Colegio Franz Tamayo,3056891,42,72,35,25,5,65,35,65
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1212,U. E. José Carrasco (Manco Kapac),3057581,8,240,152,60,9,221,152,221
 12,Carrasco,6,Entre Ríos,2804,Entre Rios,1212,U. E. José Carrasco (Manco Kapac),3057611,11,240,147,66,6,219,147,219
@@ -2679,13 +2755,20 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Carrasco,6,Entre Ríos,3995,14 De Septiembre,25306,U.E. Esteban Arce,3057031,2,240,153,58,4,215,153,215
 12,Carrasco,6,Entre Ríos,4123,Urbanización Chancadora,25540,U.E. Chancadora,3057131,2,240,178,40,4,222,178,222
 12,Carrasco,6,Entre Ríos,4123,Urbanización Chancadora,25540,U.E. Chancadora,3057141,3,240,173,40,5,218,173,218
+12,Carrasco,6,Entre Ríos,4551,Bella Vista,32245,U.E. Max Fernández,3057481,1,240,162,52,1,215,162,215
+12,Carrasco,6,Entre Ríos,4551,Bella Vista,32245,U.E. Max Fernández,3057491,2,240,170,46,3,219,170,219
 12,Carrasco,6,Entre Ríos,4551,Bella Vista,32245,U.E. Max Fernández,3057501,3,40,26,7,2,35,26,35
 13,Mizque,1,Mizque,1060,Mizque,1321,Colegio Pedro Ignacio Rivero,3058011,3,240,102,91,10,203,102,203
 13,Mizque,1,Mizque,1060,Mizque,1321,Colegio Pedro Ignacio Rivero,3058021,4,240,101,92,14,207,101,207
 13,Mizque,1,Mizque,1060,Mizque,1321,Colegio Pedro Ignacio Rivero,3058041,6,240,79,106,12,197,79,197
 13,Mizque,1,Mizque,1060,Mizque,1321,Colegio Pedro Ignacio Rivero,3058051,7,240,107,90,18,215,107,215
+13,Mizque,1,Mizque,1060,Mizque,1321,Colegio Pedro Ignacio Rivero,3058061,8,240,108,101,8,217,108,217
 13,Mizque,1,Mizque,1060,Mizque,1321,Colegio Pedro Ignacio Rivero,3058081,10,240,81,100,16,197,81,197
+13,Mizque,1,Mizque,1060,Mizque,1321,Colegio Pedro Ignacio Rivero,3058111,13,240,120,76,14,210,120,210
+13,Mizque,1,Mizque,1060,Mizque,1321,Colegio Pedro Ignacio Rivero,3058121,14,240,101,102,9,212,101,212
 13,Mizque,1,Mizque,1060,Mizque,1321,Colegio Pedro Ignacio Rivero,3058141,16,240,98,111,4,213,98,213
+13,Mizque,1,Mizque,1060,Mizque,1321,Colegio Pedro Ignacio Rivero,3058151,17,240,102,91,10,203,102,203
+13,Mizque,1,Mizque,1060,Mizque,1321,Colegio Pedro Ignacio Rivero,3058171,19,240,94,84,22,200,94,200
 13,Mizque,1,Mizque,1062,Tipa Tipa,1302,Sede Social De Tipa Tipa,3057771,3,40,18,16,1,35,18,35
 13,Mizque,1,Mizque,1063,Mina Asientos,1303,Escuela Mixta Dr. Martin Cardenas,3057811,4,240,99,101,8,208,99,208
 13,Mizque,1,Mizque,1063,Mina Asientos,1303,Escuela Mixta Dr. Martin Cardenas,3057831,6,164,76,61,7,144,76,144
@@ -2707,6 +2790,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 13,Mizque,2,Vila Vila,1073,Sivingani,1316,Nucleo Escolar Sivingani,3058311,1,240,51,148,12,211,51,211
 13,Mizque,2,Vila Vila,1073,Sivingani,1316,Nucleo Escolar Sivingani,3058321,2,72,12,50,1,63,12,63
 13,Mizque,3,Alalay,1075,Yana Khakha,1318,Unidad Educativa Yana Khakha,3058361,1,230,155,41,1,197,155,197
+13,Mizque,4,TIOC Raqaypampa,3866,Santiago,1,Unidad Educativa Santiago,3058401,2,64,15,38,5,58,15,58
 14,Punata,1,Punata,1076,Punata,25035,Escuela Adela Zamudio,3058601,1,240,103,95,13,211,103,211
 14,Punata,1,Punata,1076,Punata,25035,Escuela Adela Zamudio,3058611,2,240,90,97,11,198,90,198
 14,Punata,1,Punata,1076,Punata,25035,Escuela Adela Zamudio,3058651,6,240,89,103,15,207,89,207
@@ -2818,6 +2902,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 16,Tiraque,1,Tiraque,1099,Tiraque,1601,Colegio Juan Jose Carrasco,3060701,13,240,63,137,9,209,63,209
 16,Tiraque,1,Tiraque,1099,Tiraque,1601,Colegio Juan Jose Carrasco,3060711,14,240,60,134,10,204,60,204
 16,Tiraque,1,Tiraque,1099,Tiraque,1601,Colegio Juan Jose Carrasco,3060721,15,240,98,90,19,207,98,207
+16,Tiraque,1,Tiraque,1099,Tiraque,26455,U. E. Isabel Torrico Arnez,3061031,2,240,72,114,5,191,72,191
 16,Tiraque,1,Tiraque,1099,Tiraque,26455,U. E. Isabel Torrico Arnez,3061041,3,240,75,112,16,203,75,203
 16,Tiraque,1,Tiraque,1100,Koari,1603,Escuela Koari (Nucleo Esc. S. Bolivar),3060781,2,240,85,107,6,198,85,198
 16,Tiraque,1,Tiraque,1101,Sacabambilla,1604,Escuela Seccional Sacabambilla,3060811,1,240,75,138,8,221,75,221
@@ -2841,9 +2926,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 16,Tiraque,2,Shinahota,1104,Shinahota,1606,U.E. German Busch A,3061421,17,240,119,92,9,220,119,220
 16,Tiraque,2,Shinahota,1104,Shinahota,1606,U.E. German Busch A,3061431,18,240,117,82,12,211,117,211
 16,Tiraque,2,Shinahota,1104,Shinahota,1606,U.E. German Busch A,3061441,19,29,15,9,2,26,15,26
+16,Tiraque,2,Shinahota,1104,Shinahota,25895,U. E. Evo Morales Ayma,3061801,2,240,126,62,16,204,126,204
 16,Tiraque,2,Shinahota,1104,Shinahota,25895,U. E. Evo Morales Ayma,3061821,4,240,128,52,12,192,128,192
 16,Tiraque,2,Shinahota,1104,Shinahota,26472,U. E. German Busch B,3061931,5,240,149,41,20,210,149,210
 16,Tiraque,2,Shinahota,1106,Ibuelo,1607,U.E. Ibuelo,3061541,10,240,123,40,8,171,123,171
+16,Tiraque,2,Shinahota,3669,Ivirizu Vandiola,1,U.E. Ivirizu,3061101,1,240,137,69,4,210,137,210
 16,Tiraque,2,Shinahota,3669,Ivirizu Vandiola,1,U.E. Ivirizu,3061111,2,240,153,33,5,191,153,191
 16,Tiraque,2,Shinahota,3669,Ivirizu Vandiola,1,U.E. Ivirizu,3061121,3,101,75,12,7,94,75,94
 16,Tiraque,2,Shinahota,3968,12 de Agosto,1,U.E. Churo Grande,3061211,1,240,136,70,5,211,136,211
