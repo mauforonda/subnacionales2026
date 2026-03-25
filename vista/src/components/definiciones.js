@@ -1,7 +1,7 @@
 import * as d3 from "npm:d3";
 
 export const DATA_BASE =
-  "https://gist.githubusercontent.com/mauforonda/fe1f4882f415754529262ccedab31399/raw/23c7fe807ff92ddb8b1ecd22dfcbe6224633960d/";
+  "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/resultados/primera_vuelta/";
 
 export const STORAGE_KEY = "subnacionales2026_metrica";
 export const STORAGE_MAP_KEY = "subnacionales2026_mapa";
