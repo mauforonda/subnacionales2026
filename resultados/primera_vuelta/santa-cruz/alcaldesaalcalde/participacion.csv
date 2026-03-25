@@ -5541,6 +5541,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Velasco,2,San Miguel,2298,San Miguel,32048,Coliseo Municipal de San Miguel,7064407,2,240,153,3,54,210,153,210
 3,Velasco,2,San Miguel,2298,San Miguel,32048,Coliseo Municipal de San Miguel,7064467,8,133,88,6,24,118,88,118
 3,Velasco,2,San Miguel,2298,San Miguel,32097,U. E. René Barrientos Ortuño,7064477,1,223,137,3,37,177,137,177
+3,Velasco,2,San Miguel,2299,San Juan del Lomerío,24016,U.E. San Juan de Lomerio,7064367,1,240,160,5,43,208,160,208
 3,Velasco,2,San Miguel,2299,San Juan del Lomerío,24016,U.E. San Juan de Lomerio,7064377,2,240,141,4,47,192,141,192
 3,Velasco,2,San Miguel,2299,San Juan del Lomerío,24016,U.E. San Juan de Lomerio,7064387,3,170,113,4,24,141,113,141
 3,Velasco,2,San Miguel,3547,Cruz del Tocoigo,1,U.E. El Tacoigo,7064117,1,238,123,10,86,219,123,219
@@ -5747,6 +5748,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Ichilo,3,Yapacaní,4044,Nuevo Horizonte Faja Central,25375,U.E. Nuevo Horizonte,7066127,2,240,173,4,33,210,173,210
 4,Ichilo,3,Yapacaní,4044,Nuevo Horizonte Faja Central,25375,U.E. Nuevo Horizonte,7066137,3,240,158,13,29,200,158,200
 4,Ichilo,3,Yapacaní,4044,Nuevo Horizonte Faja Central,25375,U.E. Nuevo Horizonte,7066147,4,249,175,5,26,206,175,206
+4,Ichilo,4,San Juan,2322,San Juan,18020,U.E. Sagrado Corazón 2,7067297,5,240,191,3,15,209,191,209
+4,Ichilo,4,San Juan,2322,San Juan,18020,U.E. Sagrado Corazón 2,7067317,7,240,167,6,24,197,167,197
+4,Ichilo,4,San Juan,2322,San Juan,18020,U.E. Sagrado Corazón 2,7067327,8,240,173,3,20,196,173,196
+4,Ichilo,4,San Juan,2322,San Juan,18020,U.E. Sagrado Corazón 2,7067367,12,240,190,4,16,210,190,210
+4,Ichilo,4,San Juan,2322,San Juan,18020,U.E. Sagrado Corazón 2,7067377,13,240,187,5,14,206,187,206
 5,Chiquitos,2,Pailón,2329,Pailón,13006,U.E. Dr. Angel Foianini Banzer,7068427,1,240,205,2,6,213,205,213
 5,Chiquitos,2,Pailón,2329,Pailón,13006,U.E. Dr. Angel Foianini Banzer,7068437,2,240,199,4,10,213,199,213
 5,Chiquitos,2,Pailón,2329,Pailón,13006,U.E. Dr. Angel Foianini Banzer,7068447,3,240,200,4,5,209,200,209
@@ -5842,12 +5848,21 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Chiquitos,2,Pailón,4227,Puerto Ibáñez,25445,U.E. Ing. Jorge Mauricio Rojas P.,7069017,2,233,201,4,2,207,201,207
 5,Chiquitos,2,Pailón,4671,Comunidad Campesina 25 de Mayo E. Avaroa,32508,U.E. Eduardo Abaroa,7069297,1,183,126,2,27,155,126,155
 5,Chiquitos,3,Roboré,2334,Roboré,3014,Esc. Sagrada Familia,7069337,1,240,172,0,4,176,172,176
+5,Chiquitos,3,Roboré,2334,Roboré,3014,Esc. Sagrada Familia,7069347,2,240,171,2,11,184,171,184
 5,Chiquitos,3,Roboré,2334,Roboré,3014,Esc. Sagrada Familia,7069357,3,240,169,1,7,177,169,177
 5,Chiquitos,3,Roboré,2334,Roboré,3014,Esc. Sagrada Familia,7069367,4,240,187,4,8,199,187,199
 5,Chiquitos,3,Roboré,2334,Roboré,3014,Esc. Sagrada Familia,7069377,5,240,168,3,4,175,168,175
+5,Chiquitos,3,Roboré,2334,Roboré,3014,Esc. Sagrada Familia,7069387,6,240,169,1,6,176,169,176
+5,Chiquitos,3,Roboré,2334,Roboré,3014,Esc. Sagrada Familia,7069397,7,240,158,4,5,167,158,167
+5,Chiquitos,3,Roboré,2334,Roboré,3014,Esc. Sagrada Familia,7069407,8,240,174,1,3,178,174,178
+5,Chiquitos,3,Roboré,2334,Roboré,3014,Esc. Sagrada Familia,7069417,9,240,183,1,10,194,183,194
 5,Chiquitos,3,Roboré,2334,Roboré,3014,Esc. Sagrada Familia,7069427,10,240,166,5,9,180,166,180
 5,Chiquitos,3,Roboré,2334,Roboré,3014,Esc. Sagrada Familia,7069437,11,156,114,3,1,118,114,118
+5,Chiquitos,3,Roboré,2334,Roboré,13012,Esc. Marista,7069477,1,240,190,0,4,194,190,194
+5,Chiquitos,3,Roboré,2334,Roboré,13012,Esc. Marista,7069487,2,240,185,5,6,196,185,196
+5,Chiquitos,3,Roboré,2334,Roboré,13012,Esc. Marista,7069497,3,240,208,1,3,212,208,212
 5,Chiquitos,3,Roboré,2334,Roboré,13012,Esc. Marista,7069507,4,240,197,3,2,202,197,202
+5,Chiquitos,3,Roboré,2334,Roboré,13012,Esc. Marista,7069517,5,240,181,5,6,192,181,192
 5,Chiquitos,3,Roboré,2334,Roboré,13012,Esc. Marista,7069527,6,240,191,7,4,202,191,202
 5,Chiquitos,3,Roboré,2334,Roboré,13012,Esc. Marista,7069537,7,240,192,1,6,199,192,199
 5,Chiquitos,3,Roboré,2334,Roboré,13012,Esc. Marista,7069547,8,196,159,3,5,167,159,167
@@ -5855,17 +5870,26 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069567,2,240,159,5,4,168,159,168
 5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069577,3,240,157,2,4,163,157,163
 5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069587,4,240,182,1,3,186,182,186
+5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069597,5,240,174,4,3,181,174,181
 5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069607,6,240,159,3,4,166,159,166
 5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069617,7,240,175,0,6,181,175,181
+5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069627,8,240,190,2,2,194,190,194
 5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069647,10,240,176,3,3,182,176,182
 5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069657,11,240,191,2,6,199,191,199
 5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069667,12,166,114,3,5,122,114,122
+5,Chiquitos,3,Roboré,2334,Roboré,26430,U.E. San Francisco de Asis,7069757,2,240,165,3,6,174,165,174
 5,Chiquitos,3,Roboré,2334,Roboré,26430,U.E. San Francisco de Asis,7069767,3,240,170,2,7,179,170,179
+5,Chiquitos,3,Roboré,2334,Roboré,26430,U.E. San Francisco de Asis,7069777,4,240,189,3,4,196,189,196
+5,Chiquitos,3,Roboré,2334,Roboré,26430,U.E. San Francisco de Asis,7069787,5,240,186,2,6,194,186,194
 5,Chiquitos,3,Roboré,2334,Roboré,26430,U.E. San Francisco de Asis,7069797,6,226,163,5,9,177,163,177
+5,Chiquitos,3,Roboré,2335,Chochís,5215,Esc. Seccional Chochis,7069447,1,240,201,7,7,215,201,215
 5,Chiquitos,3,Roboré,2335,Chochís,5215,Esc. Seccional Chochis,7069457,2,240,189,6,10,205,189,205
+5,Chiquitos,3,Roboré,2335,Chochís,5215,Esc. Seccional Chochis,7069467,3,104,78,3,6,87,78,87
 5,Chiquitos,3,Roboré,2336,Santiago,13016,Esc. Napoleon Montero Montero,7069677,1,240,151,2,5,158,151,158
 5,Chiquitos,3,Roboré,2336,Santiago,13016,Esc. Napoleon Montero Montero,7069697,3,240,149,3,3,155,149,155
+5,Chiquitos,3,Roboré,2336,Santiago,13016,Esc. Napoleon Montero Montero,7069707,4,258,178,7,4,189,178,189
 5,Chiquitos,3,Roboré,2864,Aguas Calientes,13017,U.E. Aguas Calientes,7069717,1,240,191,7,6,204,191,204
+5,Chiquitos,3,Roboré,2864,Aguas Calientes,13017,U.E. Aguas Calientes,7069727,2,240,202,6,7,215,202,215
 5,Chiquitos,3,Roboré,2864,Aguas Calientes,13017,U.E. Aguas Calientes,7069737,3,146,118,6,7,131,118,131
 5,Chiquitos,3,Roboré,3559,Los Sotos,1,U.E. Los Sotos,7069307,1,240,169,1,6,176,169,176
 5,Chiquitos,3,Roboré,3559,Los Sotos,1,U.E. Los Sotos,7069317,2,30,22,0,1,23,22,23
@@ -5987,6 +6011,26 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,Sara,3,Colpa Bélgica,4222,El Cedro,25848,U.E. Orlando Rivero Vargas,7071047,1,258,199,5,11,215,199,215
 6,Sara,3,Colpa Bélgica,4631,Comunidad Campesina Tarope,32426,U.E. Víctor Herrera Gonzales,7071077,1,94,83,1,8,92,83,92
 6,Sara,3,Colpa Bélgica,4632,Comunidad Campesina Nueva Cuba,32427,U.E. Roberto Barbery Paz,7071087,1,52,48,0,2,50,48,50
+7,Cordillera,1,Lagunillas,2355,Lagunillas,4000,Esc. Lagunillas,7071147,1,240,184,7,8,199,184,199
+7,Cordillera,1,Lagunillas,2355,Lagunillas,4000,Esc. Lagunillas,7071157,2,240,190,3,5,198,190,198
+7,Cordillera,1,Lagunillas,2355,Lagunillas,4000,Esc. Lagunillas,7071167,3,240,194,3,7,204,194,204
+7,Cordillera,1,Lagunillas,2355,Lagunillas,4000,Esc. Lagunillas,7071177,4,240,199,4,7,210,199,210
+7,Cordillera,1,Lagunillas,2355,Lagunillas,4000,Esc. Lagunillas,7071187,5,157,122,9,9,140,122,140
+7,Cordillera,1,Lagunillas,2355,Lagunillas,32104,U. E. 21 de Mayo,7071297,1,87,64,2,1,67,64,67
+7,Cordillera,1,Lagunillas,2356,Aquío,4001,U.E. Aquio,7071197,1,82,65,3,4,72,65,72
+7,Cordillera,1,Lagunillas,2797,Ipati,4051,U.E. 15 de Mayo,7071207,1,240,194,0,8,202,194,202
+7,Cordillera,1,Lagunillas,2797,Ipati,4051,U.E. 15 de Mayo,7071217,2,240,187,6,5,198,187,198
+7,Cordillera,1,Lagunillas,2797,Ipati,4051,U.E. 15 de Mayo,7071227,3,138,106,2,5,113,106,113
+7,Cordillera,1,Lagunillas,2866,Agua Grande,4055,U.E. Kereimba,7071237,1,240,190,4,7,201,190,201
+7,Cordillera,1,Lagunillas,2866,Agua Grande,4055,U.E. Kereimba,7071247,2,128,98,3,3,104,98,104
+7,Cordillera,1,Lagunillas,2869,Alto Parapeti,4056,U.E. Iviyeca,7071257,1,146,115,4,3,122,115,122
+7,Cordillera,1,Lagunillas,3563,Tasete,1,U.E. Tazete,7071097,1,66,52,2,4,58,52,58
+7,Cordillera,1,Lagunillas,3987,Tenta Piau,1,U. E. Tenta Piau,7071107,1,116,86,3,0,89,86,89
+7,Cordillera,1,Lagunillas,4162,Buena Vista,25554,Salón de Reuniones,7071267,1,34,28,4,0,32,28,32
+7,Cordillera,1,Lagunillas,4163,Potrerillos Los Pozos,25555,U.E. Rafael Julián,7071277,1,186,141,6,2,149,141,149
+7,Cordillera,1,Lagunillas,4572,Kuruyuqui,32283,U.E. José María Carpio,7071307,1,53,49,3,1,53,49,53
+7,Cordillera,1,Lagunillas,4575,Mocomocal,32285,U.E. Mocomocal,7071317,1,121,102,4,2,108,102,108
+7,Cordillera,1,Lagunillas,4577,Curupaiti,32288,U.E. Andrés Avalos,7071327,1,92,82,2,0,84,82,84
 7,Cordillera,6,Camiri,2391,Camiri,4006,Aulas U.A.G.R.M.,7074127,1,240,201,2,8,211,201,211
 7,Cordillera,6,Camiri,2391,Camiri,4006,Aulas U.A.G.R.M.,7074137,2,240,177,4,12,193,177,193
 7,Cordillera,6,Camiri,2391,Camiri,4006,Aulas U.A.G.R.M.,7074147,3,240,181,2,8,191,181,191
@@ -6076,6 +6120,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Cordillera,6,Camiri,3575,Imbochi,1,U.E. Imbochi,7073377,1,175,126,1,9,136,126,136
 7,Cordillera,6,Camiri,3576,Puente Viejo,1,U.E. El Puente,7073387,1,240,165,6,15,186,165,186
 7,Cordillera,6,Camiri,3576,Puente Viejo,1,U.E. El Puente,7073397,2,135,96,2,7,105,96,105
+7,Cordillera,7,Boyuibe,2398,Boyuibe,4015,Esc. Central Rafael Pabon,7074417,2,240,142,8,22,172,142,172
+7,Cordillera,7,Boyuibe,2398,Boyuibe,4015,Esc. Central Rafael Pabon,7074427,3,240,128,7,19,154,128,154
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074577,1,240,184,6,13,203,184,203
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074587,2,240,188,6,15,209,188,209
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074597,3,240,195,7,10,212,195,212
@@ -6513,8 +6559,120 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2444,Naicó,21015,U.E. Naico,7078607,1,240,179,12,14,205,179,205
 10,Obispo Santistéban,1,Montero,2444,Naicó,21015,U.E. Naico,7078617,2,67,47,3,4,54,47,54
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081367,7,106,75,1,5,81,75,81
+10,Obispo Santistéban,5,San Pedro,2454,Colonia Calama,21026,Esc. Seccional Litoral,7081977,1,240,205,2,6,213,205,213
+10,Obispo Santistéban,5,San Pedro,2454,Colonia Calama,21026,Esc. Seccional Litoral,7081987,2,123,101,2,3,106,101,106
+10,Obispo Santistéban,5,San Pedro,2455,Colonia Piraí,6028,Esc. 9 de Abril,7081937,1,240,192,2,9,203,192,203
+10,Obispo Santistéban,5,San Pedro,2455,Colonia Piraí,6028,Esc. 9 de Abril,7081947,2,240,200,2,9,211,200,211
+10,Obispo Santistéban,5,San Pedro,2455,Colonia Piraí,6028,Esc. 9 de Abril,7081957,3,240,194,3,6,203,194,203
+10,Obispo Santistéban,5,San Pedro,2455,Colonia Piraí,6028,Esc. 9 de Abril,7081967,4,219,184,5,1,190,184,190
+10,Obispo Santistéban,5,San Pedro,2456,Hardeman,1028,Esc. Padre Remo Prandini Viotti,7081857,1,240,188,9,13,210,188,210
+10,Obispo Santistéban,5,San Pedro,2456,Hardeman,1028,Esc. Padre Remo Prandini Viotti,7081867,2,240,197,4,6,207,197,207
+10,Obispo Santistéban,5,San Pedro,2456,Hardeman,1028,Esc. Padre Remo Prandini Viotti,7081877,3,240,200,4,7,211,200,211
 10,Obispo Santistéban,5,San Pedro,2456,Hardeman,1028,Esc. Padre Remo Prandini Viotti,7081887,4,240,202,4,6,212,202,212
+10,Obispo Santistéban,5,San Pedro,2456,Hardeman,1028,Esc. Padre Remo Prandini Viotti,7081897,5,240,188,6,7,201,188,201
+10,Obispo Santistéban,5,San Pedro,2456,Hardeman,1028,Esc. Padre Remo Prandini Viotti,7081907,6,179,146,4,4,154,146,154
+10,Obispo Santistéban,5,San Pedro,2458,Murillo,1030,U.E. Pedro Domingo Murillo,7081917,1,240,198,6,4,208,198,208
 10,Obispo Santistéban,5,San Pedro,2458,Murillo,1030,U.E. Pedro Domingo Murillo,7081927,2,22,20,0,0,20,20,20
+10,Obispo Santistéban,5,San Pedro,2460,Sagrado Corazón,21032,Esc. Fe y Alegria Tito Boltan,7081997,1,240,204,4,4,212,204,212
+10,Obispo Santistéban,5,San Pedro,2460,Sagrado Corazón,21032,Esc. Fe y Alegria Tito Boltan,7082007,2,240,207,0,10,217,207,217
+10,Obispo Santistéban,5,San Pedro,2460,Sagrado Corazón,21032,Esc. Fe y Alegria Tito Boltan,7082027,4,240,207,2,3,212,207,212
+10,Obispo Santistéban,5,San Pedro,2460,Sagrado Corazón,21032,Esc. Fe y Alegria Tito Boltan,7082037,5,190,154,5,5,164,154,164
+10,Obispo Santistéban,5,San Pedro,2461,San José del Norte,21033,Esc. Obispo Santisteban,7082047,1,240,196,4,10,210,196,210
+10,Obispo Santistéban,5,San Pedro,2461,San José del Norte,21033,Esc. Obispo Santisteban,7082067,3,237,196,3,9,208,196,208
+10,Obispo Santistéban,5,San Pedro,2462,San Pedro (Santistevan),21034,Esc. Fe y Alegria,7082077,1,240,200,4,4,208,200,208
+10,Obispo Santistéban,5,San Pedro,2462,San Pedro (Santistevan),21034,Esc. Fe y Alegria,7082087,2,240,191,4,5,200,191,200
+10,Obispo Santistéban,5,San Pedro,2462,San Pedro (Santistevan),21034,Esc. Fe y Alegria,7082097,3,240,188,2,11,201,188,201
+10,Obispo Santistéban,5,San Pedro,2462,San Pedro (Santistevan),21034,Esc. Fe y Alegria,7082107,4,240,192,2,11,205,192,205
+10,Obispo Santistéban,5,San Pedro,2462,San Pedro (Santistevan),21034,Esc. Fe y Alegria,7082117,5,240,198,4,3,205,198,205
+10,Obispo Santistéban,5,San Pedro,2462,San Pedro (Santistevan),21034,Esc. Fe y Alegria,7082127,6,240,187,3,6,196,187,196
+10,Obispo Santistéban,5,San Pedro,2462,San Pedro (Santistevan),21034,Esc. Fe y Alegria,7082137,7,240,196,2,3,201,196,201
+10,Obispo Santistéban,5,San Pedro,2462,San Pedro (Santistevan),21034,Esc. Fe y Alegria,7082147,8,240,189,6,7,202,189,202
+10,Obispo Santistéban,5,San Pedro,2462,San Pedro (Santistevan),21034,Esc. Fe y Alegria,7082157,9,240,209,4,3,216,209,216
+10,Obispo Santistéban,5,San Pedro,2462,San Pedro (Santistevan),21034,Esc. Fe y Alegria,7082167,10,240,196,4,5,205,196,205
+10,Obispo Santistéban,5,San Pedro,2462,San Pedro (Santistevan),21034,Esc. Fe y Alegria,7082177,11,31,29,1,0,30,29,30
+10,Obispo Santistéban,5,San Pedro,2463,Villa Rosario,21037,Esc. Villa Rosario,7082197,1,240,183,3,16,202,183,202
+10,Obispo Santistéban,5,San Pedro,2463,Villa Rosario,21037,Esc. Villa Rosario,7082207,2,116,94,1,3,98,94,98
+10,Obispo Santistéban,5,San Pedro,2465,San Silvestre,21035,Esc. San Silvestre,7082187,1,176,136,4,16,156,136,156
+10,Obispo Santistéban,5,San Pedro,2863,Canandoa,21040,U.E. Profesor Jose Cabrera R.,7082217,1,240,168,12,12,192,168,192
+10,Obispo Santistéban,5,San Pedro,2863,Canandoa,21040,U.E. Profesor Jose Cabrera R.,7082227,2,240,186,4,10,200,186,200
+10,Obispo Santistéban,5,San Pedro,2863,Canandoa,21040,U.E. Profesor Jose Cabrera R.,7082237,3,33,23,1,4,28,23,28
+10,Obispo Santistéban,5,San Pedro,3580,Peta Grande,1,U.E. 8 de Octubre,7081847,1,193,138,3,10,151,138,151
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082467,1,240,201,1,11,213,201,213
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082477,2,240,198,8,11,217,198,217
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082497,4,240,197,4,12,213,197,213
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082507,5,240,195,1,9,205,195,205
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082517,6,240,184,6,19,209,184,209
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082527,7,240,208,1,7,216,208,216
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082537,8,240,212,3,4,219,212,219
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082547,9,240,197,6,11,214,197,214
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082557,10,240,198,6,17,221,198,221
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082567,11,240,200,2,12,214,200,214
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082577,12,240,212,1,9,222,212,222
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082587,13,240,184,3,14,201,184,201
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082597,14,240,198,1,10,209,198,209
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082607,15,240,184,6,13,203,184,203
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082617,16,240,177,2,30,209,177,209
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082627,17,240,186,4,10,200,186,200
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082637,18,240,194,5,11,210,194,210
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082647,19,240,213,5,4,222,213,222
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082657,20,240,199,3,13,215,199,215
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082667,21,240,191,8,16,215,191,215
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082677,22,240,208,3,11,222,208,222
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082687,23,240,199,5,12,216,199,216
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082707,25,240,193,5,19,217,193,217
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082717,26,240,191,4,22,217,191,217
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082727,27,240,195,5,15,215,195,215
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082737,28,240,198,4,4,206,198,206
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082747,29,240,187,8,11,206,187,206
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082757,30,240,197,6,12,215,197,215
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082767,31,240,198,5,13,216,198,216
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082777,32,240,203,4,13,220,203,220
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082797,34,240,201,3,11,215,201,215
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082807,35,240,191,8,20,219,191,219
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082817,36,240,196,4,11,211,196,211
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082827,37,240,201,9,13,223,201,223
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082837,38,240,198,7,13,218,198,218
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082847,39,240,190,6,7,203,190,203
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082857,40,240,195,6,17,218,195,218
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082867,41,240,179,4,10,193,179,193
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,20000,U.E. Guadalupe Fe y Alegria I y II,7082877,42,197,146,5,10,161,146,161
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,26383,U.E. Carlos Herrera,7082927,1,240,165,4,13,182,165,182
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,26383,U.E. Carlos Herrera,7082937,2,240,185,6,10,201,185,201
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,26383,U.E. Carlos Herrera,7082947,3,240,166,1,13,180,166,180
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,26383,U.E. Carlos Herrera,7082957,4,240,139,3,11,153,139,153
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,26383,U.E. Carlos Herrera,7082967,5,240,179,2,13,194,179,194
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,26383,U.E. Carlos Herrera,7082977,6,240,166,3,11,180,166,180
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,26383,U.E. Carlos Herrera,7082987,7,240,188,3,9,200,188,200
+11,Ñuflo De Chávez,1,Concepción,2467,Concepción,26383,U.E. Carlos Herrera,7082997,8,257,181,4,16,201,181,201
+11,Ñuflo De Chávez,1,Concepción,2468,Candelaria (Ñ.de Chavez),1,U.E. Hno. Wendelin,7082257,2,115,90,4,7,101,90,101
+11,Ñuflo De Chávez,1,Concepción,2469,El Carmen (Ñ.de Chavez),2,U.E. Hugo Edilberto Procchio Campos,7082407,1,240,194,7,20,221,194,221
+11,Ñuflo De Chávez,1,Concepción,2469,El Carmen (Ñ.de Chavez),2,U.E. Hugo Edilberto Procchio Campos,7082417,2,38,34,1,1,36,34,36
+11,Ñuflo De Chávez,1,Concepción,2470,Palmarito de la Frontera,3,U.E. 1ro de Mayo,7082427,1,240,192,12,18,222,192,222
+11,Ñuflo De Chávez,1,Concepción,2470,Palmarito de la Frontera,3,U.E. 1ro de Mayo,7082437,2,240,192,10,21,223,192,223
+11,Ñuflo De Chávez,1,Concepción,2470,Palmarito de la Frontera,3,U.E. 1ro de Mayo,7082447,3,71,61,1,3,65,61,65
+11,Ñuflo De Chávez,1,Concepción,2474,San Pedro,6,U.E. San Pedro,7082457,1,211,165,7,23,195,165,195
+11,Ñuflo De Chávez,1,Concepción,3263,Makanaté,20033,U.E. 19 de Marzo,7082887,1,182,150,2,8,160,150,160
+11,Ñuflo De Chávez,1,Concepción,3324,Palestina,20034,U.E. Ricardo Barba,7082897,1,102,75,2,5,82,75,82
+11,Ñuflo De Chávez,1,Concepción,3581,San Silvestre,1,U.E. Uruguayto Norte,7082267,1,206,168,11,9,188,168,188
+11,Ñuflo De Chávez,1,Concepción,3582,Santa Mónica,1,U.E. Pablo Cuasace,7082277,1,116,93,1,8,102,93,102
+11,Ñuflo De Chávez,1,Concepción,3583,Tierra Hermosa,1,U.E. 21 de junio,7082287,1,240,156,9,20,185,156,185
+11,Ñuflo De Chávez,1,Concepción,3583,Tierra Hermosa,1,U.E. 21 de junio,7082297,2,128,84,6,13,103,84,103
+11,Ñuflo De Chávez,1,Concepción,3584,Altamira,1,U.E. Altamira,7082317,2,251,214,5,9,228,214,228
+11,Ñuflo De Chávez,1,Concepción,3585,Las Mercedes,1,U.E. Mercedes,7082327,1,107,72,2,12,86,72,86
+11,Ñuflo De Chávez,1,Concepción,3586,Guayaba,1,U.E. Guayaba,7082337,1,249,214,10,15,239,214,239
+11,Ñuflo De Chávez,1,Concepción,3587,Zapoco,1,U.E. Freddy Villalba,7082347,1,18,13,0,0,13,13,13
+11,Ñuflo De Chávez,1,Concepción,3914,Medio Monte,1,Medio Monte,7082357,1,206,168,7,25,200,168,200
+11,Ñuflo De Chávez,1,Concepción,3915,Limoncito,1,U.E. San Francisco De Asis,7082367,1,240,178,10,25,213,178,213
+11,Ñuflo De Chávez,1,Concepción,3916,San Miguelito,1,U.E. Jose Ortiz Semar,7082387,1,99,73,2,2,77,73,77
+11,Ñuflo De Chávez,1,Concepción,4223,Integracion A,25849,U. E. Eduardo Abaroa,7082907,1,240,174,2,33,209,174,209
+11,Ñuflo De Chávez,1,Concepción,4223,Integracion A,25849,U. E. Eduardo Abaroa,7082917,2,225,164,8,38,210,164,210
+11,Ñuflo De Chávez,3,San Ramón,2476,San Ramón,8,Esc. Central San Ramon,7083447,3,240,196,3,10,209,196,209
+11,Ñuflo De Chávez,3,San Ramón,2476,San Ramón,8,Esc. Central San Ramon,7083467,5,240,201,2,10,213,201,213
+11,Ñuflo De Chávez,3,San Ramón,2476,San Ramón,8,Esc. Central San Ramon,7083527,11,240,200,5,10,215,200,215
+11,Ñuflo De Chávez,3,San Ramón,2476,San Ramón,26428,U.E. Padre Ricardo Erl Huber,7083607,4,240,209,3,12,224,209,224
+11,Ñuflo De Chávez,3,San Ramón,2476,San Ramón,26428,U.E. Padre Ricardo Erl Huber,7083637,7,240,200,4,16,220,200,220
+11,Ñuflo De Chávez,3,San Ramón,2476,San Ramón,26428,U.E. Padre Ricardo Erl Huber,7083647,8,240,196,4,16,216,196,216
+11,Ñuflo De Chávez,3,San Ramón,2476,San Ramón,26428,U.E. Padre Ricardo Erl Huber,7083657,9,153,124,2,11,137,124,137
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086747,1,240,192,9,15,216,192,216
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086757,2,240,191,8,21,220,191,220
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086767,3,240,177,13,22,212,177,212
