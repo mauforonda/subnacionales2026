@@ -2188,6 +2188,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,3,Mecapaca,785,Mecapaca,1,Escuela Simona Manzaneda,2028171,5,240,144,59,24,227,144,227
 1,Murillo,3,Mecapaca,785,Mecapaca,1,Escuela Simona Manzaneda,2028181,6,240,142,64,12,218,142,218
 1,Murillo,3,Mecapaca,785,Mecapaca,1,Escuela Simona Manzaneda,2028191,7,240,155,45,13,213,155,213
+1,Murillo,3,Mecapaca,785,Mecapaca,32449,U.E. Avircato,2028601,1,239,173,46,12,231,173,231
 1,Murillo,3,Mecapaca,794,Palomar,1,Escuela El Palomar,2028291,7,73,43,17,5,65,43,65
 1,Murillo,3,Mecapaca,797,Huaricana,1,Escuela Huaricana Alto,2028331,4,234,138,70,15,223,138,223
 1,Murillo,3,Mecapaca,799,Chanca,2,Col. San Simon De Ayacucho,2028451,2,231,123,56,25,204,123,204
@@ -2225,6 +2226,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Murillo,4,Achocalla,2743,Chañocahua,2,U. E. Chañocahua,2029201,8,240,78,115,20,213,78,213
 1,Murillo,4,Achocalla,2743,Chañocahua,2,U. E. Chañocahua,2029221,10,240,114,65,37,216,114,216
 1,Murillo,4,Achocalla,2743,Chañocahua,2,U. E. Chañocahua,2029341,22,240,120,60,31,211,120,211
+1,Murillo,4,Achocalla,2743,Chañocahua,2,U. E. Chañocahua,2029351,23,240,109,63,40,212,109,212
 1,Murillo,4,Achocalla,2743,Chañocahua,32503,U.E. Germán Busch Becerra,2029431,1,240,133,60,35,228,133,228
 1,Murillo,4,Achocalla,2743,Chañocahua,32503,U.E. Germán Busch Becerra,2029451,3,208,117,63,21,201,117,201
 1,Murillo,4,Achocalla,2743,Chañocahua,32504,U.E. Sagrado Corazón de Jesús,2029461,1,240,130,70,22,222,130,222
@@ -4745,10 +4747,12 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Camacho,2,Mocomoco,217,Tajani,2309,Col. Tajani,2065421,1,240,161,35,28,224,161,224
 4,Camacho,2,Mocomoco,217,Tajani,2309,Col. Tajani,2065431,2,237,146,42,26,214,146,214
 4,Camacho,2,Mocomoco,218,Sullka Wilasi,25752,U.E. Wilasi,2065561,1,64,57,3,4,64,57,64
+4,Camacho,2,Mocomoco,222,Villa Rosario (Ococoya),2310,Col. San Luis Wila Cala,2065441,1,240,127,78,22,227,127,227
 4,Camacho,2,Mocomoco,222,Villa Rosario (Ococoya),2310,Col. San Luis Wila Cala,2065461,3,246,135,58,29,222,135,222
 4,Camacho,2,Mocomoco,2989,Quillima,2130,Esc. Quillima,2065391,1,240,129,54,45,228,129,228
 4,Camacho,2,Mocomoco,2989,Quillima,2130,Esc. Quillima,2065401,2,184,95,35,45,175,95,175
 4,Camacho,2,Mocomoco,3377,Cajcachi,1,Unidad Educativa Cajcachi,2065361,1,184,118,24,31,173,118,173
+4,Camacho,3,Puerto Mayor de Carabuco,229,Puerto Chaguaya,2251,Colegio Martin Cardenas,2065771,1,240,135,44,24,203,135,203
 4,Camacho,3,Puerto Mayor de Carabuco,231,San Miguel de Yaricoa,2326,Esc. S. M. De Yaricoa,2065911,2,82,50,20,9,79,50,79
 4,Camacho,3,Puerto Mayor de Carabuco,232,Ambaná,2327,Esc. Mcal. Sucre,2065931,2,240,135,66,11,212,135,212
 4,Camacho,3,Puerto Mayor de Carabuco,233,Copusquia,25748,U. E. Copusquia  A,2066011,2,240,143,43,25,211,143,211
@@ -4761,6 +4765,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Camacho,3,Puerto Mayor de Carabuco,4503,Sehuenquera,32136,U.E. Sehuenquera,2066031,1,112,59,20,16,95,59,95
 4,Camacho,4,Humanata,206,Humanata,2279,Col. San Francisco De Padua,2066081,3,240,120,66,21,207,120,207
 4,Camacho,4,Humanata,206,Humanata,2279,Col. San Francisco De Padua,2066101,5,240,114,66,26,206,114,206
+4,Camacho,4,Humanata,206,Humanata,2279,Col. San Francisco De Padua,2066121,7,180,93,33,30,156,93,156
+4,Camacho,4,Humanata,4504,Jichuiri,32137,U.E. Jichuiri,2066141,1,203,121,33,36,190,121,190
 4,Camacho,5,Escoma,207,Escoma,2324,Colegio Don Bosco,2066221,7,240,138,49,29,216,138,216
 4,Camacho,5,Escoma,207,Escoma,2324,Colegio Don Bosco,2066241,9,240,147,36,27,210,147,210
 4,Camacho,5,Escoma,211,Península de Challapata,2331,Plaza 26 de Octubre,2066271,1,240,118,58,42,218,118,218
@@ -4792,6 +4798,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,Larecaja,1,Sorata,2765,Cocoy,2493,Esc. Nucleo Cocoy,2067381,1,240,136,82,15,233,136,233
 6,Larecaja,1,Sorata,2765,Cocoy,2493,Esc. Nucleo Cocoy,2067391,2,149,102,29,17,148,102,148
 6,Larecaja,1,Sorata,3378,Ocara,1,Esc. Unidad Educativa Okara,2066931,1,148,98,37,6,141,98,141
+6,Larecaja,2,Guanay,263,Chacapa,2471,U. E. Chacapa,2067651,1,136,84,43,7,134,84,134
 6,Larecaja,2,Guanay,266,Guanay,2467,U.E. Nacional Guanay,2067541,2,240,127,57,11,195,127,195
 6,Larecaja,2,Guanay,266,Guanay,2467,U.E. Nacional Guanay,2067561,4,240,111,67,17,195,111,195
 6,Larecaja,2,Guanay,266,Guanay,2514,U.E. Carlos Crespo,2067721,4,240,103,76,23,202,103,202
@@ -4810,6 +4817,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,Larecaja,6,Tipuani,301,Tipuani,25732,U.E. Oscar Unzaga De La Vega,2068481,8,240,132,45,7,184,132,184
 6,Larecaja,6,Tipuani,2994,Chuquini,6008,Escuela Chuquini,2068381,2,240,108,54,18,180,108,180
 6,Larecaja,6,Tipuani,2994,Chuquini,6008,Escuela Chuquini,2068391,3,240,103,58,25,186,103,186
+6,Larecaja,7,Mapiri,277,Mapiri,2508,U. E. 16 de Julio de Mapiri,2068821,18,240,131,56,20,207,131,207
 6,Larecaja,7,Mapiri,278,Achiquiri,2516,U.E. Juan José Torrez,2068891,3,240,84,104,12,200,84,200
 6,Larecaja,7,Mapiri,281,Chimate,2517,U. E. Chimate,2068921,2,63,35,18,4,57,35,57
 6,Larecaja,7,Mapiri,3453,Charopampa,1,U. E. 1ro de Mayo  de Charopampa,2068541,5,153,57,51,15,123,57,123
@@ -4853,6 +4861,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Ingavi,1,Viacha,323,Viacha,2975,Esc. 18 de Noviembre,2071901,13,240,117,56,30,203,117,203
 8,Ingavi,1,Viacha,323,Viacha,2975,Esc. 18 de Noviembre,2071911,14,240,123,45,39,207,123,207
 8,Ingavi,1,Viacha,323,Viacha,2975,Esc. 18 de Noviembre,2072001,23,240,129,39,35,203,129,203
+8,Ingavi,1,Viacha,323,Viacha,2975,Esc. 18 de Noviembre,2072011,24,240,124,45,34,203,124,203
 8,Ingavi,1,Viacha,323,Viacha,2975,Esc. 18 de Noviembre,2072021,25,240,121,47,32,200,121,200
 8,Ingavi,1,Viacha,323,Viacha,2976,Colegio Ballivian,2070141,2,240,137,52,28,217,137,217
 8,Ingavi,1,Viacha,323,Viacha,2976,Colegio Ballivian,2070181,6,240,140,52,34,226,140,226
@@ -4869,6 +4878,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Ingavi,1,Viacha,323,Viacha,2976,Colegio Ballivian,2070451,33,240,141,53,28,222,141,222
 8,Ingavi,1,Viacha,323,Viacha,2977,Esc. Viliroco,2072631,4,240,131,48,36,215,131,215
 8,Ingavi,1,Viacha,323,Viacha,2977,Esc. Viliroco,2072701,11,240,127,66,30,223,127,223
+8,Ingavi,1,Viacha,323,Viacha,2977,Esc. Viliroco,2072711,12,240,142,52,28,222,142,222
 8,Ingavi,1,Viacha,323,Viacha,2977,Esc. Viliroco,2072761,17,240,116,59,35,210,116,210
 8,Ingavi,1,Viacha,323,Viacha,2977,Esc. Viliroco,2072811,22,240,107,68,40,215,107,215
 8,Ingavi,1,Viacha,323,Viacha,2977,Esc. Viliroco,2072841,25,240,132,48,36,216,132,216
@@ -5033,7 +5043,9 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Inquisivi,4,Colquiri,433,Colquiri,25344,U.E. Mariscal De Zepita,2076881,6,240,137,58,27,222,137,222
 10,Inquisivi,4,Colquiri,433,Colquiri,25344,U.E. Mariscal De Zepita,2076891,7,240,146,45,34,225,146,225
 10,Inquisivi,4,Colquiri,433,Colquiri,25344,U.E. Mariscal De Zepita,2076911,9,240,139,61,34,234,139,234
+10,Inquisivi,4,Colquiri,434,Caluyo,2626,Colegio Simon Bolivar,2076481,1,240,148,29,43,220,148,220
 10,Inquisivi,4,Colquiri,434,Caluyo,2626,Colegio Simon Bolivar,2076491,2,240,117,91,18,226,117,226
+10,Inquisivi,4,Colquiri,436,Chicote Grande,2710,Escuela Aniceto Arce,2076811,1,240,143,82,10,235,143,235
 10,Inquisivi,4,Colquiri,437,Lanza (Mohoza),2628,Escuela Jose Miguel Lanza,2076521,2,238,92,94,23,209,92,209
 10,Inquisivi,4,Colquiri,440,Uyuni,2630,Escuela Central Uyuni,2076541,1,240,84,107,21,212,84,212
 10,Inquisivi,4,Colquiri,440,Uyuni,2630,Escuela Central Uyuni,2076551,2,77,28,21,18,67,28,67
@@ -5112,6 +5124,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Los Andes,1,Pucarani,544,Aygachi,2260,Esc. Gualberto Villarroel,2080141,2,240,129,70,18,217,129,217
 12,Los Andes,1,Pucarani,544,Aygachi,2260,Esc. Gualberto Villarroel,2080151,3,235,133,46,39,218,133,218
 12,Los Andes,2,Laja,521,Laja,2316,U. E. Pedro Domingo Murillo,2081221,10,240,127,59,36,222,127,222
+12,Los Andes,2,Laja,521,Laja,2316,U. E. Pedro Domingo Murillo,2081241,12,240,149,47,22,218,149,218
 12,Los Andes,2,Laja,521,Laja,2316,U. E. Pedro Domingo Murillo,2081281,16,240,132,79,15,226,132,226
 12,Los Andes,2,Laja,524,Villa S. Juan de Satatotora,2270,Mercado San Juan,2081041,1,240,127,65,33,225,127,225
 12,Los Andes,2,Laja,524,Villa S. Juan de Satatotora,2270,Mercado San Juan,2081051,2,240,105,57,48,210,105,210
@@ -5122,12 +5135,15 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 12,Los Andes,2,Laja,3837,Sacacani,1,U.E. Gualberto Villarroel de Sacacani,2081001,1,255,100,150,5,255,100,255
 12,Los Andes,2,Laja,4181,Puchucollo Bajo,25613,U.E. República Bolivariana de Venezuela,2081501,11,240,130,62,35,227,130,227
 12,Los Andes,2,Laja,4181,Puchucollo Bajo,25613,U.E. República Bolivariana de Venezuela,2081511,12,240,130,59,31,220,130,220
+12,Los Andes,2,Laja,4181,Puchucollo Bajo,25613,U.E. República Bolivariana de Venezuela,2081521,13,240,128,56,38,222,128,222
+12,Los Andes,2,Laja,4181,Puchucollo Bajo,25613,U.E. República Bolivariana de Venezuela,2081531,14,146,89,30,15,134,89,134
 12,Los Andes,2,Laja,4518,Com. Indígena Originaria Chuñuchuñuni,32178,U. E. 25 de Julio,2081571,1,240,151,57,32,240,151,240
 12,Los Andes,2,Laja,4586,Capacasi,32298,U.E. Capacasi,2081581,1,240,135,75,19,229,135,229
 12,Los Andes,2,Laja,4586,Capacasi,32298,U.E. Capacasi,2081591,2,240,129,72,28,229,129,229
 12,Los Andes,2,Laja,4586,Capacasi,32298,U.E. Capacasi,2081611,4,240,121,90,20,231,121,231
 12,Los Andes,2,Laja,4596,Comunidad Indígena Originaria Capiri,32341,U.E. Capiri,2081631,1,240,124,76,24,224,124,224
 12,Los Andes,2,Laja,4596,Comunidad Indígena Originaria Capiri,32341,U.E. Capiri,2081641,2,43,13,27,0,40,13,40
+12,Los Andes,3,Batallas,531,Carhuiza,2274,Col. Fiscal Boliviano Cubano,2081901,4,117,79,14,12,105,79,105
 12,Los Andes,3,Batallas,534,Yaurichambi,2336,Colegio Don Bosco,2081941,4,240,132,62,29,223,132,223
 12,Los Andes,3,Batallas,535,Huancane (Los Andes),25744,U.E. Huancane,2082111,1,240,136,55,23,214,136,214
 12,Los Andes,3,Batallas,535,Huancane (Los Andes),25744,U.E. Huancane,2082121,2,46,29,10,4,43,29,43
@@ -5345,6 +5361,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 20,Caranavi,1,Caranavi,701,Taypiplaya,2554,Esc. P. Domingo Murillo,2088681,6,240,100,78,20,198,100,198
 20,Caranavi,1,Caranavi,701,Taypiplaya,2554,Esc. P. Domingo Murillo,2088691,7,240,100,84,25,209,100,209
 20,Caranavi,1,Caranavi,702,Santa Fé,2567,Escuela Simon Bolivar de Santa Fe,2089411,3,164,89,39,13,141,89,141
+20,Caranavi,1,Caranavi,703,Alcoche,25585,U.E. Germán Busch,2089611,1,240,70,109,21,200,70,200
 20,Caranavi,1,Caranavi,703,Alcoche,25585,U.E. Germán Busch,2089631,3,253,79,118,19,216,79,216
 20,Caranavi,1,Caranavi,706,Incahuara de Kullu Cuchu,2571,Esc. F. Incahuara,2089471,1,82,38,23,4,65,38,65
 20,Caranavi,1,Caranavi,707,Uyunense,2552,Esc. Uyunense,2088601,1,240,113,77,15,205,113,205
@@ -5373,4 +5390,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 20,Caranavi,1,Caranavi,3000,Villamontes,1330,Escuela Central Villamontes,2088291,1,240,97,89,20,206,97,206
 20,Caranavi,1,Caranavi,3000,Villamontes,1330,Escuela Central Villamontes,2088301,2,118,57,37,7,101,57,101
 20,Caranavi,1,Caranavi,3269,Exaltación,20054,Unidad Educativa Manchego,2089491,1,189,99,48,29,176,99,176
+20,Caranavi,2,Alto Beni,709,Sararia,2568,U. E. Sararia,2089871,1,240,121,78,13,212,121,212
+20,Caranavi,2,Alto Beni,712,Santa Ana de Alto Beni,2558,U. E. Bella Vista II,2089851,1,240,101,75,25,201,101,201
+20,Caranavi,2,Alto Beni,719,Eduardo Avaroa,2551,U. E. San Antonio,2089831,4,240,156,44,8,208,156,208
+20,Caranavi,2,Alto Beni,3898,Villa Litoral,1,U. E. Villa Litoral,2089721,2,22,9,10,0,19,9,19
 20,Caranavi,2,Alto Beni,3900,Puente Alto Beni,1,U. E. Puente Alto Beni,2089751,1,217,117,53,21,191,117,191
