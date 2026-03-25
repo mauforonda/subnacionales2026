@@ -81,6 +81,14 @@ function obtenerEleccionActual() {
   </header>
 
   <div id="mapa"></div>
+  <div class="credito">
+    <img
+      class="credito__logo"
+      src="https://mauforonda.github.io/images/icon.svg"
+      alt=""
+    >
+    <span class="credito__text">Creado por Mauricio Foronda</span>
+  </div>
 </div>
 
 ```js
