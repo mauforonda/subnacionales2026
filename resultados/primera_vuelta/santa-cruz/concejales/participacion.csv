@@ -5583,6 +5583,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Ichilo,1,Buena Vista,2307,San Isidro,18004,Esc. U.E. San Isidro,7064947,1,240,162,36,1,199,162,199
 4,Ichilo,1,Buena Vista,2307,San Isidro,18004,Esc. U.E. San Isidro,7064957,2,58,39,9,2,50,39,50
 4,Ichilo,1,Buena Vista,2308,San Miguél (Ichilo),18005,U. E.San Miguel Afuera,7064967,1,240,154,43,3,200,154,200
+4,Ichilo,1,Buena Vista,2308,San Miguél (Ichilo),18005,U. E.San Miguel Afuera,7064977,2,41,27,6,0,33,27,33
 4,Ichilo,1,Buena Vista,2309,San Javier (Ichilo),18006,Esc. U.E. San Javier,7064987,1,45,31,9,1,41,31,41
 4,Ichilo,1,Buena Vista,2310,Palacios,18007,Esc. U.E. Santo Esposorio,7064997,1,208,152,28,3,183,152,183
 4,Ichilo,1,Buena Vista,2316,Villa Diego,18013,Esc. Adhemar Ortiz,7065007,1,240,170,28,4,202,170,202
@@ -6008,6 +6009,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069647,10,240,144,35,3,182,144,182
 5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069657,11,240,158,35,6,199,158,199
 5,Chiquitos,3,Roboré,2334,Roboré,13014,Esc. Don Bosco,7069667,12,166,89,28,5,122,89,122
+5,Chiquitos,3,Roboré,2334,Roboré,26430,U.E. San Francisco de Asis,7069747,1,240,147,36,1,184,147,184
 5,Chiquitos,3,Roboré,2334,Roboré,26430,U.E. San Francisco de Asis,7069757,2,240,127,43,4,174,127,174
 5,Chiquitos,3,Roboré,2334,Roboré,26430,U.E. San Francisco de Asis,7069767,3,240,143,33,3,179,143,179
 5,Chiquitos,3,Roboré,2334,Roboré,26430,U.E. San Francisco de Asis,7069777,4,240,149,45,2,196,149,196
@@ -6163,6 +6165,28 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Cordillera,1,Lagunillas,4572,Kuruyuqui,32283,U.E. José María Carpio,7071307,1,53,30,23,0,53,30,53
 7,Cordillera,1,Lagunillas,4575,Mocomocal,32285,U.E. Mocomocal,7071317,1,121,69,39,0,108,69,108
 7,Cordillera,1,Lagunillas,4577,Curupaiti,32288,U.E. Andrés Avalos,7071327,1,92,62,22,0,84,62,84
+7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072287,7,240,76,21,2,99,76,99
+7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072297,8,240,130,36,8,174,130,174
+7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072317,10,240,125,21,10,156,125,156
+7,Cordillera,3,Cabezas,2374,Cabezas,4031,Esc. Serafin Rodriguez,7072337,12,240,147,43,3,193,147,193
+7,Cordillera,3,Cabezas,2376,Pueblo Viejo (Florida),4032,Esc. Seccional Pueblo Viejo,7072377,1,227,142,47,9,198,142,198
+7,Cordillera,3,Cabezas,2377,Estación Mora,4036,Esc. 12 de Abril,7072407,1,240,138,51,22,211,138,211
+7,Cordillera,3,Cabezas,2377,Estación Mora,4036,Esc. 12 de Abril,7072487,9,240,137,60,10,207,137,207
+7,Cordillera,3,Cabezas,2378,Río Seco Florida,4037,Esc. Rio Seco Florida,7072527,3,162,87,40,5,132,87,132
+7,Cordillera,3,Cabezas,2379,Eduardo Avaroa,4035,Esc. Eduardo Abaroa,7072397,1,236,122,70,16,208,122,208
+7,Cordillera,3,Cabezas,2380,Zanja Honda,4038,Esc. Zanja Honda,7072537,1,240,144,41,25,210,144,210
+7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072707,5,240,130,48,15,193,130,193
+7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072727,7,240,117,70,12,199,117,199
+7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072737,8,240,140,47,11,198,140,198
+7,Cordillera,3,Cabezas,2764,Abapó,14033,Esc. Pto. Camacho,7072747,9,240,111,73,11,195,111,195
+7,Cordillera,3,Cabezas,3180,Santa Rosa,4067,Esc. Santa Rosa,7072657,2,51,27,16,1,44,27,44
+7,Cordillera,3,Cabezas,3181,Pampa del Coscal,4066,U.E. Eduardo Abaroa Pampa El Coscal,7072627,1,240,119,82,14,215,119,215
+7,Cordillera,3,Cabezas,3568,Yatirenda,1,U.E. Yateirenda,7072137,2,253,123,84,12,219,123,219
+7,Cordillera,3,Cabezas,3570,San Lorenzo Brecha 7,1,Esc. Secc. San Francisco De Asis,7072157,1,240,84,61,17,162,84,162
+7,Cordillera,3,Cabezas,3570,San Lorenzo Brecha 7,1,Esc. Secc. San Francisco De Asis,7072167,2,240,64,32,13,109,64,109
+7,Cordillera,3,Cabezas,3570,San Lorenzo Brecha 7,1,Esc. Secc. San Francisco De Asis,7072177,3,240,20,17,13,50,20,50
+7,Cordillera,3,Cabezas,3570,San Lorenzo Brecha 7,1,Esc. Secc. San Francisco De Asis,7072197,5,240,92,36,13,141,92,141
+7,Cordillera,3,Cabezas,3570,San Lorenzo Brecha 7,1,Esc. Secc. San Francisco De Asis,7072207,6,241,65,37,5,107,65,107
 7,Cordillera,4,Cuevo,2384,Cuevo,4039,Esc. Ub. Angel Sandoval,7072847,1,240,160,24,2,186,160,186
 7,Cordillera,4,Cuevo,2384,Cuevo,4039,Esc. Ub. Angel Sandoval,7072857,2,240,118,32,3,153,118,153
 7,Cordillera,4,Cuevo,2384,Cuevo,4039,Esc. Ub. Angel Sandoval,7072867,3,240,147,32,5,184,147,184
@@ -6345,7 +6369,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Vallegrande,3,Moromoro,2423,Añapance,23025,Esc. Nucleo Añapaco,7075347,1,17,13,4,0,17,13,17
 8,Vallegrande,3,Moromoro,2424,La Laja,23022,Esc. La Laja,7075327,1,199,92,65,20,177,92,177
 8,Vallegrande,3,Moromoro,2874,Pampa Negra,3031,Esc. Nucleo Central,7075287,1,63,36,18,3,57,36,57
+8,Vallegrande,3,Moromoro,3578,El Veladero,1,Esc. U.E. El Veladero,7075257,1,240,123,85,6,214,123,214
 8,Vallegrande,3,Moromoro,3578,El Veladero,1,Esc. U.E. El Veladero,7075267,2,80,35,35,3,73,35,73
+8,Vallegrande,4,Postrervalle,2425,Postrervalle,23026,U.E. Placido Lino,7075377,1,240,169,44,3,216,169,216
+8,Vallegrande,4,Postrervalle,2425,Postrervalle,23026,U.E. Placido Lino,7075387,2,240,141,48,13,202,141,202
 8,Vallegrande,4,Postrervalle,2425,Postrervalle,23026,U.E. Placido Lino,7075397,3,240,147,45,5,197,147,197
 8,Vallegrande,4,Postrervalle,2425,Postrervalle,23026,U.E. Placido Lino,7075407,4,48,25,16,2,43,25,43
 8,Vallegrande,4,Postrervalle,2426,San Juan de la Ladera,3027,Esc. San Pablo De La Ladera,7075367,1,46,36,6,1,43,36,43
@@ -7035,10 +7062,17 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 11,Ñuflo De Chávez,5,San Antonio de Lomerio,3599,Las Trancas,1,U.E. 29 de Junio,7084997,1,180,43,118,2,163,43,163
 11,Ñuflo De Chávez,5,San Antonio de Lomerio,3918,Palmira,1,U.E. Pedro Pablo Peña Garcia,7085007,1,141,24,84,18,126,24,126
 11,Ñuflo De Chávez,5,San Antonio de Lomerio,4566,San Simón,32274,U.E. 1ro. de Enero,7085157,1,143,22,25,2,49,22,49
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086237,1,240,143,53,5,201,143,201
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086247,2,240,144,63,6,213,144,213
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086277,5,240,134,66,10,210,134,210
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086297,7,240,127,66,10,203,127,203
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086327,10,240,147,49,7,203,147,203
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086357,13,240,137,57,12,206,137,206
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086367,14,240,133,62,10,205,133,205
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086387,16,240,157,43,8,208,157,208
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086397,17,240,132,62,6,200,132,200
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086407,18,240,151,57,2,210,151,210
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086417,19,240,139,66,6,211,139,211
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086427,20,240,153,54,7,214,153,214
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086437,21,240,148,53,11,212,148,212
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086447,22,240,139,54,11,204,139,204
@@ -7046,8 +7080,17 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,32348,U.E. Mariano Eliodoro Saucedo Sevilla I,7086737,1,142,72,35,8,115,72,115
 13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086497,1,240,122,65,15,202,122,202
 13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086517,3,240,117,67,13,197,117,197
+13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086547,6,66,27,25,4,56,27,56
 13,Manuel María Caballero,1,Comarapa,2498,San Mateo,19003,Esc. Escuela San Mateo,7086567,2,108,62,35,2,99,62,99
+13,Manuel María Caballero,1,Comarapa,2500,Pulquina,19005,Esc. Marcelino Chaipana,7086577,1,240,145,42,14,201,145,201
+13,Manuel María Caballero,1,Comarapa,2500,Pulquina,19005,Esc. Marcelino Chaipana,7086587,2,240,128,72,9,209,128,209
+13,Manuel María Caballero,1,Comarapa,2500,Pulquina,19005,Esc. Marcelino Chaipana,7086597,3,81,52,17,0,69,52,69
+13,Manuel María Caballero,1,Comarapa,2501,San José de la Capilla,19006,Esc. San Jose De La Capilla,7086607,1,240,113,90,4,207,113,207
 13,Manuel María Caballero,1,Comarapa,2501,San José de la Capilla,19006,Esc. San Jose De La Capilla,7086617,2,204,104,58,9,171,104,171
+13,Manuel María Caballero,1,Comarapa,2502,Capillas,19007,Esc. Habra De Capilla,7086627,1,131,65,42,7,114,65,114
+13,Manuel María Caballero,1,Comarapa,2503,Siberia,19008,Esc. Siberia,7086637,1,170,95,44,10,149,95,149
+13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086657,1,240,107,92,15,214,107,214
+13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086667,2,240,99,111,10,220,99,220
 13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086677,3,240,101,93,12,206,101,206
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086747,1,240,134,72,10,216,134,216
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086757,2,240,169,35,16,220,169,220
@@ -7181,21 +7224,55 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,32110,U. E. Rvdo. Padre Antonio Rainer,7088207,3,71,48,16,1,65,48,65
 14,Germán Busch,3,El Carmen Rivero Tórrez,3558,Candelaria,1,U.E. Candelaria,7088027,1,57,41,7,2,50,41,50
 14,Germán Busch,3,El Carmen Rivero Tórrez,3976,Palmito,1,U.E. San Antonio de Palmito,7088047,1,100,51,31,0,82,51,82
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088337,2,240,158,43,7,208,158,208
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088357,4,240,141,57,3,201,141,201
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088367,5,240,130,64,7,201,130,201
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088377,6,240,169,42,5,216,169,216
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088387,7,240,149,51,2,202,149,202
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088397,8,240,161,47,3,211,161,211
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088417,10,240,148,55,5,208,148,208
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088427,11,240,136,57,7,200,136,200
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088437,12,240,167,45,4,216,167,216
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088447,13,240,159,39,9,207,159,207
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088457,14,240,136,64,4,204,136,204
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088467,15,240,166,49,9,224,166,224
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088477,16,259,177,49,5,231,177,231
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088497,2,240,157,51,7,215,157,215
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088517,4,240,164,40,8,212,164,212
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088547,7,240,151,32,15,198,151,198
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088557,8,240,150,55,5,210,150,210
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088567,9,240,154,51,5,210,154,210
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088577,10,240,160,41,7,208,160,208
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088607,13,240,163,40,4,207,163,207
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088637,16,240,151,47,7,205,151,205
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088647,17,240,152,53,3,208,152,208
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088657,18,240,167,43,4,214,167,214
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17002,U.E. Mi Dulce Hogar,7088717,4,240,160,36,5,201,160,201
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17002,U.E. Mi Dulce Hogar,7088727,5,240,148,41,5,194,148,194
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17002,U.E. Mi Dulce Hogar,7088777,10,21,15,2,0,17,15,17
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17003,U. E. José Barrero Valverde,7088787,1,240,169,27,5,201,169,201
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17003,U. E. José Barrero Valverde,7088797,2,240,153,38,4,195,153,195
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17003,U. E. José Barrero Valverde,7088807,3,240,155,31,5,191,155,191
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17003,U. E. José Barrero Valverde,7088817,4,240,152,40,15,207,152,207
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17003,U. E. José Barrero Valverde,7088827,5,240,144,43,2,189,144,189
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),25537,U.E. 27 de Mayo,7088917,1,240,127,64,9,200,127,200
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),25537,U.E. 27 de Mayo,7088927,2,240,152,45,7,204,152,204
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),25537,U.E. 27 de Mayo,7088937,3,240,140,52,13,205,140,205
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),25537,U.E. 27 de Mayo,7088957,5,240,138,57,8,203,138,203
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),25537,U.E. 27 de Mayo,7088967,6,151,96,32,3,131,96,131
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),25538,U.E. San José Obrero,7088997,3,240,150,50,7,207,150,207
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),26349,U. E. San Gregorio,7089027,1,87,56,17,2,75,56,75
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),32111,U. E. José Barrero Valverde (Módulo),7089037,1,240,137,44,4,185,137,185
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),32111,U. E. José Barrero Valverde (Módulo),7089057,3,54,29,9,1,39,29,39
+15,Guarayos,1,Ascención de Guarayos,2519,San Pablo,7002,Esc. San Pablo,7088257,2,240,96,39,2,137,96,137
+15,Guarayos,1,Ascención de Guarayos,2520,Santa María (Nueva Esperanza),7003,U.E. Leonardo Cespedes,7088287,1,240,142,42,13,197,142,197
+15,Guarayos,1,Ascención de Guarayos,2520,Santa María (Nueva Esperanza),7003,U.E. Leonardo Cespedes,7088317,4,132,76,30,3,109,76,109
 15,Guarayos,1,Ascención de Guarayos,3367,Cerro Grande,1,Esc. 6 de Abril,7088237,2,202,114,45,3,162,114,162
+15,Guarayos,1,Ascención de Guarayos,3368,Nueva Jerusalen,17017,U.E. 5 de Marzo,7088847,1,240,134,66,4,204,134,204
 15,Guarayos,1,Ascención de Guarayos,3368,Nueva Jerusalen,17017,U.E. 5 de Marzo,7088857,2,104,55,24,5,84,55,84
+15,Guarayos,1,Ascención de Guarayos,3369,El Junte,17019,U.E. 17 de Febrero,7088867,1,240,83,71,38,192,83,192
 15,Guarayos,1,Ascención de Guarayos,4120,16 de Julio,25535,U.E. 16 de Julio,7088887,1,240,118,81,7,206,118,206
+15,Guarayos,1,Ascención de Guarayos,4633,Comunidad Indígena Cerro Chico,32428,U.E. 25 de Mayo,7089067,1,65,42,18,0,60,42,60
 15,Guarayos,2,Urubicha,2521,Urubichá,7004,U.E. Niño Jesús I,7089087,1,240,142,60,2,204,142,204
 15,Guarayos,2,Urubicha,2521,Urubichá,7004,U.E. Niño Jesús I,7089097,2,240,162,39,7,208,162,208
 15,Guarayos,2,Urubicha,2521,Urubichá,7004,U.E. Niño Jesús I,7089107,3,240,146,46,0,192,146,192
