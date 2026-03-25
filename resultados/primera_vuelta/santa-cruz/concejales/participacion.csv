@@ -5428,6 +5428,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063587,16,240,77,55,78,210,77,210
 3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063597,17,240,78,77,56,211,78,211
 3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063607,18,240,108,50,50,208,108,208
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063627,20,240,97,56,67,220,97,220
 3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063647,22,240,118,38,60,216,118,216
 3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063657,23,240,107,48,58,213,107,213
 3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063667,24,240,95,53,59,207,95,207
@@ -5818,38 +5819,68 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Ichilo,4,San Juan,2873,Estacion Ayacucho,18026,U.E. Ayacucho,7067437,1,240,110,52,47,209,110,209
 4,Ichilo,4,San Juan,2873,Estacion Ayacucho,18026,U.E. Ayacucho,7067447,2,106,52,19,13,84,52,84
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067627,1,240,154,53,4,211,154,211
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067637,2,240,138,44,4,186,138,186
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067647,3,240,131,47,5,183,131,183
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067657,4,240,134,49,5,188,134,188
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067667,5,240,128,36,3,167,128,167
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067677,6,240,120,28,4,152,120,152
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067687,7,240,145,54,3,202,145,202
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067697,8,240,143,51,2,196,143,196
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067707,9,240,140,34,3,177,140,177
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067717,10,240,149,41,1,191,149,191
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067727,11,240,158,40,3,201,158,201
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067737,12,240,146,54,2,202,146,202
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067747,13,240,147,48,3,198,147,198
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13000,Esc. Leonor Rivera,7067757,14,142,74,17,2,93,74,93
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067777,2,240,117,29,4,150,117,150
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067787,3,240,145,46,7,198,145,198
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067797,4,240,139,42,6,187,139,187
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067807,5,240,126,36,6,168,126,168
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067817,6,240,104,38,1,143,104,143
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067827,7,240,95,31,7,133,95,133
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067837,8,240,113,33,9,155,113,155
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067847,9,240,88,27,1,116,88,116
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067867,11,240,154,39,7,200,154,200
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067877,12,240,132,32,6,170,132,170
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067897,14,240,139,31,6,176,139,176
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067907,15,240,132,48,0,180,132,180
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067917,16,240,135,33,7,175,135,175
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067927,17,240,149,38,6,193,149,193
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067937,18,240,140,44,7,191,140,191
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067947,19,240,150,34,4,188,150,188
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067957,20,240,139,38,11,188,139,188
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13001,Esc. German Busch,7067967,21,249,108,34,3,145,108,145
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7067987,2,240,171,30,3,204,171,204
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7067997,3,240,183,25,0,208,183,208
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7068007,4,240,150,50,5,205,150,205
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7068017,5,240,133,34,2,169,133,169
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7068027,6,240,151,42,2,195,151,195
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7068057,9,240,154,30,5,189,154,189
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7068067,10,240,159,46,4,209,159,209
+5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7068077,11,240,165,43,5,213,165,213
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7068097,13,240,164,31,4,199,164,199
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7068107,14,240,162,30,6,198,162,198
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7068117,15,240,175,37,3,215,175,215
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7068127,16,240,162,46,4,212,162,212
 5,Chiquitos,1,San José,2325,San José (Chiquitos),13002,Esc. Unzaga De La Vega,7068137,17,222,128,37,6,171,128,171
 5,Chiquitos,1,San José,2325,San José (Chiquitos),32100,U. E. San Antonio,7068207,1,240,113,57,3,173,113,173
+5,Chiquitos,1,San José,2325,San José (Chiquitos),32100,U. E. San Antonio,7068217,2,178,85,28,2,115,85,115
+5,Chiquitos,1,San José,2326,Quimome,13004,U.E. Quimome,7068147,1,240,77,34,1,112,77,112
+5,Chiquitos,1,San José,2326,Quimome,13004,U.E. Quimome,7068167,3,240,65,18,0,83,65,83
+5,Chiquitos,1,San José,2326,Quimome,13004,U.E. Quimome,7068177,4,240,69,15,4,88,69,88
 5,Chiquitos,1,San José,2326,Quimome,13004,U.E. Quimome,7068187,5,240,57,14,0,71,57,71
+5,Chiquitos,1,San José,2326,Quimome,13004,U.E. Quimome,7068197,6,131,3,1,0,4,3,4
 5,Chiquitos,1,San José,2327,San Juan,3003,Esc. San Juan,7067547,1,240,105,55,7,167,105,167
 5,Chiquitos,1,San José,2327,San Juan,3003,Esc. San Juan,7067557,2,162,82,46,3,131,82,131
 5,Chiquitos,1,San José,2328,Taperas,3005,Esc. Educacional Taperas,7067577,2,240,63,26,2,91,63,91
+5,Chiquitos,1,San José,2328,Taperas,3005,Esc. Educacional Taperas,7067587,3,240,66,37,4,107,66,107
 5,Chiquitos,1,San José,2328,Taperas,3005,Esc. Educacional Taperas,7067597,4,240,95,37,10,142,95,142
+5,Chiquitos,1,San José,2328,Taperas,3005,Esc. Educacional Taperas,7067607,5,240,121,42,8,171,121,171
 5,Chiquitos,1,San José,2328,Taperas,3005,Esc. Educacional Taperas,7067617,6,244,46,22,0,68,46,68
 5,Chiquitos,1,San José,3554,Nuevo Horizonte,1,U.E. Nuevo Horizonte,7067477,1,240,26,9,3,38,26,38
+5,Chiquitos,1,San José,3555,Santa Teresita,1,Esc. Santa Teresita,7067517,1,21,15,1,0,16,15,16
 5,Chiquitos,1,San José,3973,Buena Vista,1,U.E. Buena Vista,7067527,1,259,169,47,2,218,169,218
+5,Chiquitos,1,San José,3974,Ramada,1,U.E. Ramada,7067537,1,80,60,13,0,73,60,73
 5,Chiquitos,1,San José,4623,OTB Comunidad Campesina Agropecuaria Los Sotos,32402,U.E. Los Sotos,7068227,1,201,119,57,4,180,119,180
 5,Chiquitos,1,San José,4635,Comunidad Campesina Agropecuaria 6 de Junio,32430,U.E. 6 de Junio,7068237,1,94,52,32,1,85,52,85
 5,Chiquitos,1,San José,4636,Comunidad Campesina Los Cedros 2,32502,U.E. Los Cedros,7068247,1,46,35,9,0,44,35,44
@@ -6327,11 +6358,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Vallegrande,5,Pucará,2429,La Higuera,23030,Esc. La Higuera,7075477,1,240,173,50,3,226,173,226
 8,Vallegrande,5,Pucará,2429,La Higuera,23030,Esc. La Higuera,7075487,2,115,85,17,1,103,85,103
 9,Florida,1,Samaipata,2430,Samaipata,15001,Esc. Napoleon Gomez,7075507,2,240,159,42,12,213,159,213
+9,Florida,1,Samaipata,2430,Samaipata,15001,Esc. Napoleon Gomez,7075517,3,240,170,36,5,211,170,211
 9,Florida,1,Samaipata,2430,Samaipata,15001,Esc. Napoleon Gomez,7075527,4,240,181,30,6,217,181,217
 9,Florida,1,Samaipata,2430,Samaipata,15001,Esc. Napoleon Gomez,7075537,5,240,177,31,7,215,177,215
 9,Florida,1,Samaipata,2430,Samaipata,15001,Esc. Napoleon Gomez,7075547,6,240,156,38,10,204,156,204
+9,Florida,1,Samaipata,2430,Samaipata,15001,Esc. Napoleon Gomez,7075557,7,72,51,5,3,59,51,59
 9,Florida,1,Samaipata,2430,Samaipata,15016,Esc. Gral. Agustin Saavedra,7075757,1,240,175,36,7,218,175,218
 9,Florida,1,Samaipata,2430,Samaipata,15016,Esc. Gral. Agustin Saavedra,7075767,2,240,178,29,2,209,178,209
+9,Florida,1,Samaipata,2430,Samaipata,15016,Esc. Gral. Agustin Saavedra,7075777,3,240,149,41,13,203,149,203
 9,Florida,1,Samaipata,2430,Samaipata,15016,Esc. Gral. Agustin Saavedra,7075787,4,240,162,42,12,216,162,216
 9,Florida,1,Samaipata,2430,Samaipata,15016,Esc. Gral. Agustin Saavedra,7075797,5,240,158,40,12,210,158,210
 9,Florida,1,Samaipata,2430,Samaipata,15016,Esc. Gral. Agustin Saavedra,7075807,6,240,150,49,14,213,150,213
@@ -6353,6 +6387,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Florida,1,Samaipata,3366,Achiras,15015,Esc. Unidad Educativa 27 De Mayo,7075677,1,240,155,44,11,210,155,210
 9,Florida,1,Samaipata,3366,Achiras,15015,Esc. Unidad Educativa 27 De Mayo,7075687,2,72,51,11,2,64,51,64
 9,Florida,2,Pampagrande,2434,Pampagrande,5005,Esc. Pedro Aristides,7075877,3,240,150,55,6,211,150,211
+9,Florida,2,Pampagrande,2434,Pampagrande,5005,Esc. Pedro Aristides,7075887,4,102,61,25,1,87,61,87
 9,Florida,2,Pampagrande,2435,Mataral,15006,U.E.Delfin Arteaga Taborga,7075907,1,240,135,72,4,211,135,211
 9,Florida,2,Pampagrande,2435,Mataral,15006,U.E.Delfin Arteaga Taborga,7075917,2,240,133,79,1,213,133,213
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7075957,3,240,147,50,9,206,147,206
@@ -6365,13 +6400,36 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7076067,14,240,129,68,7,204,129,204
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7076077,15,240,141,61,9,211,141,211
 9,Florida,2,Pampagrande,2436,Los Negros,15007,Esc. U.E. Eduardo Avaroa,7076087,16,221,103,66,18,187,103,187
+9,Florida,2,Pampagrande,2436,Los Negros,26391,U.E. Simón Bolívar,7076107,1,240,145,33,8,186,145,186
 9,Florida,2,Pampagrande,2436,Los Negros,26391,U.E. Simón Bolívar,7076117,2,135,75,31,3,109,75,109
 9,Florida,2,Pampagrande,2441,Palmasola,15012,Esc. Palmasola (El Carmen),7076097,1,224,121,64,3,188,121,188
 9,Florida,2,Pampagrande,2859,Santa Rosita de Lima,5013,Esc. Nucleo Santa Rosa,7075897,1,204,99,65,10,174,99,174
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076137,1,240,137,48,17,202,137,202
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076147,2,240,127,53,25,205,127,205
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076157,3,240,136,62,9,207,136,207
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076167,4,240,132,68,7,207,132,207
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076177,5,240,136,64,9,209,136,209
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076187,6,240,137,55,15,207,137,207
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076207,8,240,130,61,14,205,130,205
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076217,9,240,124,64,11,199,124,199
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076247,12,240,132,56,13,201,132,201
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076257,13,240,146,47,17,210,146,210
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076297,17,240,141,50,11,202,141,202
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076317,19,240,148,55,14,217,148,217
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076347,22,240,140,60,12,212,140,212
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076357,23,240,128,73,18,219,128,219
+9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076367,24,240,130,70,8,208,130,208
 9,Florida,3,Mairana,2437,Mairana,15008,Esc. Rene Barrientos Ortuño,7076387,26,99,56,20,9,85,56,85
+9,Florida,3,Mairana,2437,Mairana,26392,U.E. Juan Lorenzo Camperos,7076437,1,240,138,45,11,194,138,194
+9,Florida,3,Mairana,2437,Mairana,26392,U.E. Juan Lorenzo Camperos,7076447,2,240,134,43,16,193,134,193
+9,Florida,3,Mairana,2437,Mairana,26392,U.E. Juan Lorenzo Camperos,7076457,3,237,141,40,6,187,141,187
+9,Florida,3,Mairana,2437,Mairana,32106,U. E. Mcal Sucre,7076467,1,240,115,61,20,196,115,196
 9,Florida,3,Mairana,2437,Mairana,32106,U. E. Mcal Sucre,7076477,2,240,102,69,18,189,102,189
+9,Florida,3,Mairana,2437,Mairana,32106,U. E. Mcal Sucre,7076487,3,188,97,50,2,149,97,149
+9,Florida,3,Mairana,2438,Mendiola,5009,Esc. Angel Saavedra Chavez,7076127,1,209,112,60,10,182,112,182
+9,Florida,3,Mairana,2440,Yerba Buena,15011,Esc. Ananias Melendres,7076397,1,240,137,53,20,210,137,210
+9,Florida,3,Mairana,2440,Yerba Buena,15011,Esc. Ananias Melendres,7076407,2,240,151,58,6,215,151,215
+9,Florida,3,Mairana,2440,Yerba Buena,15011,Esc. Ananias Melendres,7076417,3,240,157,47,14,218,157,218
 9,Florida,4,Quirusillas,2439,Quirusillas,15010,Esc. Nestor Paz Zamora,7076497,1,240,170,55,1,226,170,226
 9,Florida,4,Quirusillas,2439,Quirusillas,15010,Esc. Nestor Paz Zamora,7076507,2,240,168,37,2,207,168,207
 9,Florida,4,Quirusillas,2439,Quirusillas,15010,Esc. Nestor Paz Zamora,7076517,3,240,170,39,6,215,170,215
@@ -6734,8 +6792,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080367,2,240,158,51,4,213,158,213
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080377,3,240,166,42,7,215,166,215
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080387,4,240,163,45,6,214,163,214
+10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080397,5,240,180,34,9,223,180,223
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080407,6,240,169,43,4,216,169,216
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080417,7,240,173,29,3,205,173,205
+10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080437,9,240,168,41,8,217,168,217
+10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080447,10,240,155,49,10,214,155,214
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080457,11,240,161,50,4,215,161,215
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080467,12,240,157,56,9,222,157,222
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080477,13,240,160,43,7,210,160,210
@@ -6748,14 +6809,17 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,2,General Saavedra,2446,Caimanes,21018,Esc. 1 de Septiembre,7080547,1,240,146,56,1,203,146,203
 10,Obispo Santistéban,2,General Saavedra,2446,Caimanes,21018,Esc. 1 de Septiembre,7080557,2,240,171,37,7,215,171,215
 10,Obispo Santistéban,2,General Saavedra,2447,Chané Bedoya,21020,Esc. U.E. Chane Bedoya,7080577,1,240,128,69,12,209,128,209
+10,Obispo Santistéban,2,General Saavedra,2447,Chané Bedoya,21020,Esc. U.E. Chane Bedoya,7080587,2,163,101,39,0,140,101,140
 10,Obispo Santistéban,2,General Saavedra,2448,Colonia Aroma,21020,Esc. U.E. Gualberto Villarroel,7080597,1,240,148,59,4,211,148,211
 10,Obispo Santistéban,2,General Saavedra,2448,Colonia Aroma,21020,Esc. U.E. Gualberto Villarroel,7080607,2,240,126,63,18,207,126,207
 10,Obispo Santistéban,2,General Saavedra,2448,Colonia Aroma,21020,Esc. U.E. Gualberto Villarroel,7080617,3,240,143,63,5,211,143,211
 10,Obispo Santistéban,2,General Saavedra,2448,Colonia Aroma,21020,Esc. U.E. Gualberto Villarroel,7080627,4,57,30,16,2,48,30,48
 10,Obispo Santistéban,2,General Saavedra,2449,Pico de Monte,21021,Esc. Nucleo Central Nueva Esperanza,7080637,1,240,176,30,9,215,176,215
+10,Obispo Santistéban,2,General Saavedra,2449,Pico de Monte,21021,Esc. Nucleo Central Nueva Esperanza,7080647,2,240,177,25,9,211,177,211
 10,Obispo Santistéban,2,General Saavedra,2449,Pico de Monte,21021,Esc. Nucleo Central Nueva Esperanza,7080657,3,240,175,36,4,215,175,215
 10,Obispo Santistéban,2,General Saavedra,2449,Pico de Monte,21021,Esc. Nucleo Central Nueva Esperanza,7080667,4,240,158,34,8,200,158,200
 10,Obispo Santistéban,2,General Saavedra,2449,Pico de Monte,21021,Esc. Nucleo Central Nueva Esperanza,7080677,5,240,175,30,5,210,175,210
+10,Obispo Santistéban,2,General Saavedra,2449,Pico de Monte,21021,Esc. Nucleo Central Nueva Esperanza,7080687,6,83,56,13,2,71,56,71
 10,Obispo Santistéban,2,General Saavedra,2450,San Juan de los Amarillos,21022,Esc. Nucleo  Mariscal Sucre,7080697,1,240,146,49,15,210,146,210
 10,Obispo Santistéban,2,General Saavedra,2450,San Juan de los Amarillos,21022,Esc. Nucleo  Mariscal Sucre,7080707,2,240,149,49,6,204,149,204
 10,Obispo Santistéban,2,General Saavedra,2450,San Juan de los Amarillos,21022,Esc. Nucleo  Mariscal Sucre,7080727,4,240,153,46,7,206,153,206
@@ -6765,30 +6829,65 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,2,General Saavedra,4050,Esterita,25381,U.E. Marcelo Quiroga Santa Cruz,7080747,1,240,146,44,10,200,146,200
 10,Obispo Santistéban,2,General Saavedra,4050,Esterita,25381,U.E. Marcelo Quiroga Santa Cruz,7080757,2,166,97,32,10,139,97,139
 10,Obispo Santistéban,2,General Saavedra,4051,Agua Dulce,25382,U.E. San Felix,7080767,1,106,71,21,1,93,71,93
+10,Obispo Santistéban,2,General Saavedra,4052,Cruz Soleto,25383,U.E. Arminda Mercado P.,7080777,1,141,77,44,1,122,77,122
 10,Obispo Santistéban,2,General Saavedra,4053,San Lorenzo,25384,U.E. 10 de Agosto,7080787,1,153,103,30,4,137,103,137
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080907,1,240,153,56,6,215,153,215
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080917,2,240,142,63,30,235,142,235
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080947,5,240,160,43,7,210,160,210
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080967,7,240,148,52,5,205,148,205
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080977,8,240,160,46,6,212,160,212
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080987,9,240,148,61,9,218,148,218
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080997,10,240,141,53,16,210,141,210
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081007,11,240,155,47,7,209,155,209
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081017,12,240,152,57,8,217,152,217
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081027,13,240,144,54,8,206,144,206
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081037,14,240,148,56,7,211,148,211
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081047,15,240,169,32,8,209,169,209
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081067,17,240,160,49,11,220,160,220
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081077,18,240,153,42,15,210,153,210
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081097,20,240,163,41,5,209,163,209
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081107,21,240,159,42,8,209,159,209
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081117,22,240,158,40,22,220,158,220
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081127,23,240,156,39,12,207,156,207
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081137,24,240,147,41,16,204,147,204
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081147,25,240,162,43,6,211,162,211
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081157,26,240,152,39,15,206,152,206
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081167,27,240,172,36,8,216,172,216
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081177,28,240,145,53,11,209,145,209
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081187,29,240,154,52,13,219,154,219
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081197,30,240,165,43,3,211,165,211
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081207,31,240,168,37,10,215,168,215
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081217,32,240,157,46,7,210,157,210
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081227,33,240,140,5,13,158,140,158
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081237,34,240,156,46,6,208,156,208
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081257,36,240,155,40,13,208,155,208
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081317,2,240,152,34,7,193,152,193
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081327,3,240,146,39,9,194,146,194
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081337,4,240,148,29,12,189,148,189
+10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081347,5,240,155,25,8,188,155,188
+10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081357,6,240,166,32,10,208,166,208
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081367,7,106,62,16,3,81,62,81
+10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081377,1,240,163,30,8,201,163,201
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081387,2,240,152,35,8,195,152,195
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081397,3,240,155,30,7,192,155,192
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081407,4,240,153,29,10,192,153,192
+10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081417,5,240,149,29,12,190,149,190
+10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081427,6,240,160,23,12,195,160,195
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081437,7,240,155,19,16,190,155,190
+10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081447,8,240,158,36,4,198,158,198
+10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081457,9,87,55,13,2,70,55,70
+10,Obispo Santistéban,3,Mineros,2451,Mineros,26382,U.E. Eulogio Arredondo Coimbra (Mod. Juan Evo Morales Ayma),7081467,1,240,142,34,7,183,142,183
 10,Obispo Santistéban,3,Mineros,2451,Mineros,26382,U.E. Eulogio Arredondo Coimbra (Mod. Juan Evo Morales Ayma),7081477,2,240,146,27,14,187,146,187
+10,Obispo Santistéban,3,Mineros,2451,Mineros,26382,U.E. Eulogio Arredondo Coimbra (Mod. Juan Evo Morales Ayma),7081487,3,240,136,25,13,174,136,174
+10,Obispo Santistéban,3,Mineros,2451,Mineros,26382,U.E. Eulogio Arredondo Coimbra (Mod. Juan Evo Morales Ayma),7081497,4,240,156,28,9,193,156,193
+10,Obispo Santistéban,3,Mineros,2451,Mineros,26382,U.E. Eulogio Arredondo Coimbra (Mod. Juan Evo Morales Ayma),7081507,5,85,46,18,4,68,46,68
 10,Obispo Santistéban,3,Mineros,2457,La Porfía,1029,Esc. Sub. Central la Porfia,7080867,1,240,122,61,17,200,122,200
 10,Obispo Santistéban,3,Mineros,2457,La Porfía,1029,Esc. Sub. Central la Porfia,7080877,2,240,120,52,27,199,120,199
+10,Obispo Santistéban,3,Mineros,2861,La Patria,1,Esc. La Patria,7080827,2,73,30,29,2,61,30,61
 10,Obispo Santistéban,3,Mineros,2862,Las Marotas,6040,U.E. 21 de Junio,7080897,1,37,23,6,1,30,23,30
 10,Obispo Santistéban,3,Mineros,3323,Pueblo Nuevo,1,Esc. Las Palmas,7080837,1,240,141,64,4,209,141,209
 10,Obispo Santistéban,3,Mineros,3323,Pueblo Nuevo,1,Esc. Las Palmas,7080847,2,245,152,55,5,212,152,212
+10,Obispo Santistéban,3,Mineros,3588,San Juan del Carmen,1,U.E. Francisco Pedraza,7080857,1,128,63,45,2,110,63,110
 10,Obispo Santistéban,3,Mineros,4048,Alianza,25379,U.E. Alianza El Progreso,7081277,1,240,131,66,13,210,131,210
 10,Obispo Santistéban,3,Mineros,4048,Alianza,25379,U.E. Alianza El Progreso,7081287,2,192,107,39,12,158,107,158
 10,Obispo Santistéban,3,Mineros,4049,Chuchial,25380,U.E. 24 de Junio,7081297,1,155,92,47,6,145,92,145
@@ -6936,6 +7035,20 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 11,Ñuflo De Chávez,5,San Antonio de Lomerio,3599,Las Trancas,1,U.E. 29 de Junio,7084997,1,180,43,118,2,163,43,163
 11,Ñuflo De Chávez,5,San Antonio de Lomerio,3918,Palmira,1,U.E. Pedro Pablo Peña Garcia,7085007,1,141,24,84,18,126,24,126
 11,Ñuflo De Chávez,5,San Antonio de Lomerio,4566,San Simón,32274,U.E. 1ro. de Enero,7085157,1,143,22,25,2,49,22,49
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086277,5,240,134,66,10,210,134,210
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086297,7,240,127,66,10,203,127,203
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086397,17,240,132,62,6,200,132,200
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086407,18,240,151,57,2,210,151,210
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086427,20,240,153,54,7,214,153,214
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086437,21,240,148,53,11,212,148,212
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086447,22,240,139,54,11,204,139,204
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086467,24,250,142,72,7,221,142,221
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,32348,U.E. Mariano Eliodoro Saucedo Sevilla I,7086737,1,142,72,35,8,115,72,115
+13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086497,1,240,122,65,15,202,122,202
+13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086517,3,240,117,67,13,197,117,197
+13,Manuel María Caballero,1,Comarapa,2498,San Mateo,19003,Esc. Escuela San Mateo,7086567,2,108,62,35,2,99,62,99
+13,Manuel María Caballero,1,Comarapa,2501,San José de la Capilla,19006,Esc. San Jose De La Capilla,7086617,2,204,104,58,9,171,104,171
+13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086677,3,240,101,93,12,206,101,206
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086747,1,240,134,72,10,216,134,216
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086757,2,240,169,35,16,220,169,220
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086767,3,240,140,60,12,212,140,212
@@ -7052,3 +7165,67 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 14,Germán Busch,2,Puerto Quijarro,2514,Arroyo Concepción,6008,Esc. Mixta La Frontera,7087617,17,160,78,51,6,135,78,135
 14,Germán Busch,2,Puerto Quijarro,2514,Arroyo Concepción,32109,U. E. Resguardo,7087667,1,240,121,38,25,184,121,184
 14,Germán Busch,2,Puerto Quijarro,2514,Arroyo Concepción,32109,U. E. Resguardo,7087677,2,195,107,36,14,157,107,157
+14,Germán Busch,3,El Carmen Rivero Tórrez,2517,Santa Ana,6011,U.E. Santa Ana,7088167,1,240,138,52,4,194,138,194
+14,Germán Busch,3,El Carmen Rivero Tórrez,2517,Santa Ana,6011,U.E. Santa Ana,7088177,2,101,57,29,0,86,57,86
+14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,5509,Esc. Daniel Zambrana,7088057,1,240,163,52,2,217,163,217
+14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,5509,Esc. Daniel Zambrana,7088067,2,240,153,52,5,210,153,210
+14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,5509,Esc. Daniel Zambrana,7088077,3,240,162,38,3,203,162,203
+14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,5509,Esc. Daniel Zambrana,7088097,5,240,145,48,2,195,145,195
+14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,5509,Esc. Daniel Zambrana,7088107,6,240,159,51,1,211,159,211
+14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,5509,Esc. Daniel Zambrana,7088117,7,240,151,43,4,198,151,198
+14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,5509,Esc. Daniel Zambrana,7088127,8,240,154,43,7,204,154,204
+14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,5509,Esc. Daniel Zambrana,7088137,9,240,170,40,4,214,170,214
+14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,5509,Esc. Daniel Zambrana,7088147,10,234,152,47,1,200,152,200
+14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,32110,U. E. Rvdo. Padre Antonio Rainer,7088187,1,240,141,36,5,182,141,182
+14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,32110,U. E. Rvdo. Padre Antonio Rainer,7088197,2,240,136,43,1,180,136,180
+14,Germán Busch,3,El Carmen Rivero Tórrez,2698,El Carmen Rivero Torrez,32110,U. E. Rvdo. Padre Antonio Rainer,7088207,3,71,48,16,1,65,48,65
+14,Germán Busch,3,El Carmen Rivero Tórrez,3558,Candelaria,1,U.E. Candelaria,7088027,1,57,41,7,2,50,41,50
+14,Germán Busch,3,El Carmen Rivero Tórrez,3976,Palmito,1,U.E. San Antonio de Palmito,7088047,1,100,51,31,0,82,51,82
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088357,4,240,141,57,3,201,141,201
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088377,6,240,169,42,5,216,169,216
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088437,12,240,167,45,4,216,167,216
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088457,14,240,136,64,4,204,136,204
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088467,15,240,166,49,9,224,166,224
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17000,U.E. Pablo Cunsik,7088477,16,259,177,49,5,231,177,231
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088557,8,240,150,55,5,210,150,210
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088577,10,240,160,41,7,208,160,208
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088637,16,240,151,47,7,205,151,205
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17003,U. E. José Barrero Valverde,7088787,1,240,169,27,5,201,169,201
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17003,U. E. José Barrero Valverde,7088807,3,240,155,31,5,191,155,191
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17003,U. E. José Barrero Valverde,7088817,4,240,152,40,15,207,152,207
+15,Guarayos,1,Ascención de Guarayos,3367,Cerro Grande,1,Esc. 6 de Abril,7088237,2,202,114,45,3,162,114,162
+15,Guarayos,1,Ascención de Guarayos,3368,Nueva Jerusalen,17017,U.E. 5 de Marzo,7088857,2,104,55,24,5,84,55,84
+15,Guarayos,1,Ascención de Guarayos,4120,16 de Julio,25535,U.E. 16 de Julio,7088887,1,240,118,81,7,206,118,206
+15,Guarayos,2,Urubicha,2521,Urubichá,7004,U.E. Niño Jesús I,7089087,1,240,142,60,2,204,142,204
+15,Guarayos,2,Urubicha,2521,Urubichá,7004,U.E. Niño Jesús I,7089097,2,240,162,39,7,208,162,208
+15,Guarayos,2,Urubicha,2521,Urubichá,7004,U.E. Niño Jesús I,7089107,3,240,146,46,0,192,146,192
+15,Guarayos,2,Urubicha,2521,Urubichá,7004,U.E. Niño Jesús I,7089117,4,240,156,46,5,207,156,207
+15,Guarayos,2,Urubicha,2521,Urubichá,7004,U.E. Niño Jesús I,7089127,5,240,150,46,1,197,150,197
+15,Guarayos,2,Urubicha,2521,Urubichá,7004,U.E. Niño Jesús I,7089137,6,240,140,56,2,198,140,198
+15,Guarayos,2,Urubicha,2521,Urubichá,7004,U.E. Niño Jesús I,7089147,7,240,139,54,4,197,139,197
+15,Guarayos,2,Urubicha,2521,Urubichá,7004,U.E. Niño Jesús I,7089157,8,240,129,59,4,192,129,192
+15,Guarayos,2,Urubicha,2521,Urubichá,7004,U.E. Niño Jesús I,7089167,9,205,123,41,2,166,123,166
+15,Guarayos,2,Urubicha,2521,Urubichá,32112,U. E. José Cors,7089237,1,258,141,51,1,193,141,193
+15,Guarayos,2,Urubicha,2522,Yaguarú,7006,Esc. Nucleo Escolar Yaguaru,7089187,1,240,110,79,10,199,110,199
+15,Guarayos,2,Urubicha,2522,Yaguarú,7006,Esc. Nucleo Escolar Yaguaru,7089197,2,240,121,71,12,204,121,204
+15,Guarayos,2,Urubicha,2522,Yaguarú,7006,Esc. Nucleo Escolar Yaguaru,7089207,3,240,134,57,12,203,134,203
+15,Guarayos,2,Urubicha,2522,Yaguarú,7006,Esc. Nucleo Escolar Yaguaru,7089217,4,240,146,61,5,212,146,212
+15,Guarayos,2,Urubicha,2523,Monseñor Salvatierra,7005,Esc. Secc. Mon. Salvatierra,7089177,1,115,80,16,1,97,80,97
+15,Guarayos,2,Urubicha,3604,Santa Teresita (Cururu),1,U.E. 1ro de abril,7089077,1,122,77,27,5,109,77,109
+15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089347,2,240,163,40,3,206,163,206
+15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089387,6,240,163,41,5,209,163,209
+15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089407,8,240,156,46,2,204,156,204
+15,Guarayos,3,El Puente,2524,El Puente,7007,Esc. Alfredo Smith,7089437,11,240,148,49,5,202,148,202
+15,Guarayos,3,El Puente,2525,Yotaú,7008,Esc. San Jose De Yotau,7089457,1,240,130,69,12,211,130,211
+15,Guarayos,3,El Puente,2525,Yotaú,7008,Esc. San Jose De Yotau,7089467,2,240,139,60,6,205,139,205
+15,Guarayos,3,El Puente,2525,Yotaú,7008,Esc. San Jose De Yotau,7089517,7,147,84,38,3,125,84,125
+15,Guarayos,3,El Puente,3057,10 de Noviembre (Núcleo 47),17010,U.E. Elizardo Perez,7089587,1,240,136,64,9,209,136,209
+15,Guarayos,3,El Puente,3058,El Cármen (Núcleo 53),7009,Esc. Seccional El Carmen,7089537,2,240,123,3,57,183,123,183
+15,Guarayos,3,El Puente,3188,Núcleo 50 Villa Esperanza,7011,Esc. U.E. Bolivar,7089567,2,83,50,23,2,75,50,75
+15,Guarayos,3,El Puente,3190,Limoncito,7012,Esc. Seccional Limoncito,7089577,1,245,165,37,7,209,165,209
+15,Guarayos,3,El Puente,3358,Corralón,1,Esc. Corralon,7089247,1,203,107,48,6,161,107,161
+15,Guarayos,3,El Puente,3606,Cachuela,1,Esc. Cachuela,7089277,1,88,53,19,4,76,53,76
+15,Guarayos,3,El Puente,3608,Los Chacos,1,U.E. Los Chacos,7089287,1,185,73,57,4,134,73,134
+15,Guarayos,3,El Puente,3609,El Combate,1,Esc. El Combate,7089297,1,71,50,6,2,58,50,58
+15,Guarayos,3,El Puente,3913,Monte Sinai,1,Monte Sinai,7089317,1,240,127,75,5,207,127,207
+15,Guarayos,3,El Puente,4485,Momene,32113,U. E. Santa Martha,7089617,1,71,37,22,2,61,37,61
