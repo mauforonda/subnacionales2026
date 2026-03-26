@@ -960,6 +960,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,General José Ballivián,2,San Borja,3518,Indígenas Arenales,1,Esc. Indigena Arenales,8008892,1,240,164,44,11,219,164,219
 3,General José Ballivián,2,San Borja,3518,Indígenas Arenales,1,Esc. Indigena Arenales,8008902,2,240,152,55,13,220,152,220
 3,General José Ballivián,2,San Borja,3518,Indígenas Arenales,1,Esc. Indigena Arenales,8008912,3,115,74,26,8,108,74,108
+3,General José Ballivián,2,San Borja,3519,Misión Fatima,1,Esc. Mision Fatima,8008922,1,240,114,71,12,197,114,197
+3,General José Ballivián,2,San Borja,3519,Misión Fatima,1,Esc. Mision Fatima,8008932,2,237,96,71,29,196,96,196
 3,General José Ballivián,2,San Borja,3870,Quiquibey,1,U.E. Quiquibey,8008942,1,240,139,33,25,197,139,197
 3,General José Ballivián,2,San Borja,3870,Quiquibey,1,U.E. Quiquibey,8008952,2,102,60,10,7,77,60,77
 3,General José Ballivián,2,San Borja,3871,Manguito,1,U.E. Manguito,8008962,1,240,150,58,8,216,150,216
@@ -1110,6 +1112,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Yacuma,1,Santa Ana,2681,El Peru Rio Apere,1,Esc. Wenceslao Añez,8010722,1,240,173,11,5,189,173,189
 4,Yacuma,1,Santa Ana,2681,El Peru Rio Apere,1,Esc. Wenceslao Añez,8010732,2,142,99,10,5,114,99,114
 4,Yacuma,1,Santa Ana,4579,Carmen del Matto,32291,U.E. Carmen del Matto,8010742,1,66,47,3,8,58,47,58
+4,Yacuma,2,Exaltación,2582,Exaltación,1,Esc. Jose Max Paredes,8011142,1,240,0,0,0,0,0,0
+4,Yacuma,2,Exaltación,2582,Exaltación,1,Esc. Jose Max Paredes,8011152,2,240,0,0,0,0,0,0
+4,Yacuma,2,Exaltación,2582,Exaltación,1,Esc. Jose Max Paredes,8011162,3,240,0,0,0,0,0,0
+4,Yacuma,2,Exaltación,2582,Exaltación,1,Esc. Jose Max Paredes,8011172,4,235,0,0,0,0,0,0
 4,Yacuma,2,Exaltación,2583,Coquinal,1,Esc. Coquinal,8011182,1,244,169,10,6,185,169,185
 4,Yacuma,2,Exaltación,2584,San Carlos,1,Esc. San Carlos,8011192,1,74,46,6,4,56,46,56
 4,Yacuma,2,Exaltación,2585,El Trompillo Mamoré,1,Esc. El Trompillo,8011202,1,21,8,1,1,10,8,10
@@ -1118,6 +1124,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Yacuma,2,Exaltación,3103,San Juan del Jordán,1,Escuela San Juan del Jordan,8011232,1,101,62,2,2,66,62,66
 4,Yacuma,2,Exaltación,3521,Nueva Esperanza,1,Esc. Nueva Esperanza,8011242,1,45,33,0,2,35,33,35
 4,Yacuma,2,Exaltación,3522,Campo Ana Maria,1,Esc. Campo Ana Maria,8011252,1,39,24,4,3,31,24,31
+4,Yacuma,2,Exaltación,4117,Las Abras de Yacuma,1,U.E. Las Abras De Yacuma,8011262,1,243,100,22,3,125,100,125
 4,Yacuma,2,Exaltación,4486,Bienvenido,32117,U.E. Bienvenido,8011272,1,179,100,12,3,115,100,115
 5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011512,1,240,175,24,11,210,175,210
 5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011522,2,240,156,26,6,188,156,188
@@ -1152,9 +1159,15 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011732,11,240,156,34,11,201,156,201
 5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011742,12,240,159,27,16,202,159,202
 5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011752,13,114,73,13,4,90,73,90
+5,Moxos,1,San Ignacio,2597,San Ignacito,1,Esc. Central San Ignacito,8011282,1,12,8,3,0,11,8,11
 5,Moxos,1,San Ignacio,2598,Fatima,1,Esc. Fatima,8011292,1,159,115,14,3,132,115,132
 5,Moxos,1,San Ignacio,2600,Argentina,1,Esc. La Argentina,8011302,1,121,91,14,3,108,91,108
 5,Moxos,1,San Ignacio,2601,Desengaño,1,Esc. El Desengaño,8011312,1,154,105,5,7,117,105,117
+5,Moxos,1,San Ignacio,2604,San Francisco,1,Esc. San Francisco,8011322,1,240,118,36,7,161,118,161
+5,Moxos,1,San Ignacio,2604,San Francisco,1,Esc. San Francisco,8011332,2,61,32,8,0,40,32,40
+5,Moxos,1,San Ignacio,2605,San Lorenzo de Moxos,1,Esc. Ovidio Roca C.,8011342,1,240,159,34,4,197,159,197
+5,Moxos,1,San Ignacio,2605,San Lorenzo de Moxos,1,Esc. Ovidio Roca C.,8011352,2,240,163,18,9,190,163,190
+5,Moxos,1,San Ignacio,2605,San Lorenzo de Moxos,1,Esc. Ovidio Roca C.,8011362,3,166,114,23,5,142,114,142
 5,Moxos,1,San Ignacio,2608,San José de Patrocinio,1,Esc. San Jose De Patrocinio,8011372,1,39,25,3,2,30,25,30
 5,Moxos,1,San Ignacio,2609,Santisima Trinidad,1,Escuela Santísima Trinidad,8011382,1,240,126,60,17,203,126,203
 5,Moxos,1,San Ignacio,2609,Santisima Trinidad,1,Escuela Santísima Trinidad,8011392,2,60,36,5,8,49,36,49
@@ -1166,7 +1179,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Moxos,1,San Ignacio,3110,Mercedes de Lojojota,1,Esc. Mercedes De Lojojota,8011452,1,224,109,34,13,156,109,156
 5,Moxos,1,San Ignacio,3127,Trinidacito,1,Esc. Trinidacito,8011462,1,51,28,5,2,35,28,35
 5,Moxos,1,San Ignacio,3406,Bermeo,1,Escuela De Bermeo,8011472,1,119,73,21,1,95,73,95
+5,Moxos,1,San Ignacio,3757,Oromomo,1,Esc. Oromomo,8011482,1,240,109,48,39,196,109,196
+5,Moxos,1,San Ignacio,3757,Oromomo,1,Esc. Oromomo,8011492,2,182,79,33,12,124,79,124
 5,Moxos,1,San Ignacio,3875,San Bernardo,1,U.E. San Bernardo,8011502,1,155,84,12,8,104,84,104
+5,Moxos,1,San Ignacio,4358,San José del Secure,26060,U.E. San José del Secure,8011612,1,130,84,4,6,94,84,94
+5,Moxos,1,San Ignacio,4595,Comunidad Indígena San Ramoncito Rio Ichoa Tipnis,32337,U.E. San Mateo de San Ramoncito,8011622,1,67,37,14,0,51,37,51
 5,Moxos,2,TIOC Territorio Indígena Multiétnico - TIM,2602,Santa Rosa Rio Apere,1,Esc. Central Santa Rosa,8011863,1,151,104,18,6,128,104,128
 5,Moxos,2,TIOC Territorio Indígena Multiétnico - TIM,2603,Pueblo Nuevo,1,Esc. Sub Central Pueblo Nuevo,8011873,1,84,43,13,7,63,43,63
 5,Moxos,2,TIOC Territorio Indígena Multiétnico - TIM,2606,Monte Grande,1,Esc. Monte Grande,8011883,1,240,86,112,14,212,86,212
@@ -1216,6 +1233,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,Marbán,2,San Andrés,2683,Somopae,1,Esc. Somopae,8012192,2,59,44,6,3,53,44,53
 6,Marbán,2,San Andrés,2748,Buen Jesús,1,Esc. Buen Jesus,8012202,1,240,159,24,6,189,159,189
 6,Marbán,2,San Andrés,2748,Buen Jesús,1,Esc. Buen Jesus,8012212,2,183,120,22,12,154,120,154
+6,Marbán,2,San Andrés,3072,Monte Cristo,1,Esc. Monte Cristo,8012222,1,91,40,8,12,60,40,60
+6,Marbán,2,San Andrés,3073,La Isiga Perseverancia,1,Esc. La Isiga Persevera,8012232,1,56,13,8,3,24,13,24
 6,Marbán,2,San Andrés,3113,4 de Julio,1,Escuela 4 de Julio,8012242,1,240,148,39,5,192,148,192
 6,Marbán,2,San Andrés,3113,4 de Julio,1,Escuela 4 de Julio,8012252,2,42,24,7,2,33,24,33
 6,Marbán,2,San Andrés,3276,Elvira,1,Escuela Elvira,8012262,1,240,168,22,10,200,168,200
