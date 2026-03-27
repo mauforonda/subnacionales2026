@@ -2247,6 +2247,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028441,8,0,43,9,2,49,0,32,2,7,4,
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028451,9,6,43,16,0,63,2,32,1,2,3,
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8007,U.E. 25 de Diciembre,7028461,10,0,30,19,0,70,3,30,8,9,3,
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8008,Colegio Simon Bolivar,7028531,1,3,19,10,5,46,0,44,5,16,3,
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8008,Colegio Simon Bolivar,7028541,2,2,22,6,0,56,3,51,6,10,6,
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8008,Colegio Simon Bolivar,7028551,3,10,16,6,0,43,2,47,3,10,10,
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8008,Colegio Simon Bolivar,7028561,4,3,26,6,1,44,1,51,5,13,5,
@@ -5579,6 +5580,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Warnes,1,Warnes,3538,Satélite Norte,9,U.E. Maximo Novillo,7058251,9,13,27,12,2,40,4,27,5,4,6,2
 2,Warnes,1,Warnes,3538,Satélite Norte,9,U.E. Maximo Novillo,7058261,10,8,17,14,1,37,1,32,2,16,6,2
 2,Warnes,1,Warnes,3538,Satélite Norte,9,U.E. Maximo Novillo,7058271,11,10,23,8,0,38,1,44,2,11,9,0
+2,Warnes,1,Warnes,3538,Satélite Norte,9,U.E. Maximo Novillo,7058281,12,16,13,12,1,30,6,37,4,8,7,1
 2,Warnes,1,Warnes,3538,Satélite Norte,9,U.E. Maximo Novillo,7058301,14,18,22,14,0,47,3,46,1,1,6,3
 2,Warnes,1,Warnes,3538,Satélite Norte,9,U.E. Maximo Novillo,7058311,15,12,26,19,2,34,3,43,2,0,6,2
 2,Warnes,1,Warnes,3538,Satélite Norte,9,U.E. Maximo Novillo,7058321,16,8,33,21,2,36,6,31,2,8,11,5
@@ -5854,6 +5856,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Ichilo,1,Buena Vista,4041,Arboleda,25372,U.E. 6 de Agosto,7065091,1,0,42,36,1,14,6,21,,9,,
 4,Ichilo,1,Buena Vista,4041,Arboleda,25372,U.E. 6 de Agosto,7065101,2,1,55,50,3,15,3,16,,3,,
 4,Ichilo,1,Buena Vista,4041,Arboleda,25372,U.E. 6 de Agosto,7065111,3,0,4,3,0,3,1,2,,0,,
+4,Ichilo,1,Buena Vista,4042,El Carmen Surutu,25373,U.E. Carmen Surutú,7065121,1,5,14,2,1,10,6,21,,39,,
 4,Ichilo,2,San Carlos,2311,San Carlos,18030,Esc. Central San Carlos,7065481,1,2,63,15,11,23,5,23,,7,,
 4,Ichilo,2,San Carlos,2311,San Carlos,18030,Esc. Central San Carlos,7065491,2,3,47,26,7,29,5,21,,3,,
 4,Ichilo,2,San Carlos,2311,San Carlos,18030,Esc. Central San Carlos,7065501,3,1,48,21,14,19,9,24,,7,,
@@ -6379,12 +6382,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Cordillera,1,Lagunillas,2797,Ipati,4051,U.E. 15 de Mayo,7071211,2,,36,12,0,66,3,9,2,5,,
 7,Cordillera,1,Lagunillas,2797,Ipati,4051,U.E. 15 de Mayo,7071221,3,,18,2,0,54,2,4,0,0,,
 7,Cordillera,1,Lagunillas,2866,Agua Grande,4055,U.E. Kereimba,7071241,2,,29,17,0,20,0,7,0,1,,
+7,Cordillera,1,Lagunillas,2869,Alto Parapeti,4056,U.E. Iviyeca,7071251,1,,21,6,3,61,1,5,0,2,,
 7,Cordillera,1,Lagunillas,3987,Tenta Piau,1,U. E. Tenta Piau,7071101,1,,20,28,2,13,2,2,0,1,,
 7,Cordillera,1,Lagunillas,3988,Caraparicito,1,U.E. Carparicito,7071111,1,,16,4,9,61,16,4,0,1,,
 7,Cordillera,1,Lagunillas,3989,Pampa Redonda,1,U.E. Pampa Redonda,7071121,1,,22,10,3,53,1,4,0,2,,
 7,Cordillera,1,Lagunillas,3990,Yaity,1,U.E. Yaity,7071131,1,,11,5,0,54,0,1,0,0,,
 7,Cordillera,1,Lagunillas,4162,Buena Vista,25554,Salón de Reuniones,7071261,1,,25,0,0,1,0,0,1,0,,
 7,Cordillera,1,Lagunillas,4163,Potrerillos Los Pozos,25555,U.E. Rafael Julián,7071271,1,,12,15,0,57,0,6,1,1,,
+7,Cordillera,1,Lagunillas,4164,Irenda,25556,U.E. Irenda,7071281,1,,74,15,0,41,1,2,0,4,,
 7,Cordillera,1,Lagunillas,4577,Curupaiti,32288,U.E. Andrés Avalos,7071321,1,,7,4,0,47,0,4,0,0,,
 7,Cordillera,2,AIOC Charagua Iyambae,2357,Charagua,4002,Escuela Central Fe y Alegria,7071401,2,,22,23,4,43,0,16,15,7,,
 7,Cordillera,2,AIOC Charagua Iyambae,2357,Charagua,4002,Escuela Central Fe y Alegria,7071421,4,,36,13,4,30,2,6,8,6,,
@@ -7877,6 +7882,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088651,18,,61,45,1,28,6,21,,2,,1
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088661,19,,37,41,0,26,9,29,,2,,1
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17001,Esc. Esteban Gebard,7088671,20,,16,10,0,6,3,10,,2,,1
+15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17002,U.E. Mi Dulce Hogar,7088681,1,,36,25,3,26,7,32,,5,,4
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17002,U.E. Mi Dulce Hogar,7088691,2,,36,21,2,25,14,32,,1,,2
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17002,U.E. Mi Dulce Hogar,7088701,3,,19,16,4,30,7,35,,11,,7
 15,Guarayos,1,Ascención de Guarayos,2518,Ascención (Guarayos),17002,U.E. Mi Dulce Hogar,7088711,4,,40,23,4,25,7,28,,5,,10
