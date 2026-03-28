@@ -279,12 +279,36 @@ main,
 
 .maplibregl-popup {
   max-width: none !important;
+  pointer-events: none;
+}
+
+.maplibregl-popup.popup--interactive {
+  pointer-events: auto;
 }
 
 .maplibregl-popup-content {
   padding: 0;
   border-radius: 0.9rem;
   box-shadow: 0 18px 36px rgba(28, 28, 28, 0.15);
+}
+
+.maplibregl-popup-close-button {
+  top: 0.28rem;
+  right: 0.34rem;
+  width: 1.3rem;
+  height: 1.3rem;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  font-size: 1rem;
+  line-height: 1;
+  color: var(--text-soft);
+}
+
+.maplibregl-popup-close-button:hover {
+  background: rgba(0, 0, 0, 0.06);
+  color: var(--text-strong);
 }
 
 .popup {

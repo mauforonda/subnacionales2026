@@ -130,7 +130,7 @@ const mapaInicial = leerMapaInicial(storage, STORAGE_MAP_KEY, MAPA_FALLBACK);
 ```js
 const map = crearMapa("#mapa", mapaInicial);
 const popup = new maplibregl.Popup({
-  closeButton: false,
+  closeButton: true,
   closeOnClick: false,
 });
 
@@ -238,6 +238,21 @@ let locked = false;
 
 {
   await ready;
+  let suppressPopupClose = false;
+
+  const actualizarInteractividadPopup = () => {
+    const el = popup.getElement();
+    if (!el) return;
+    el.classList.toggle("popup--interactive", locked);
+  };
+
+  const limpiarInteraccion = () => {
+    locked = false;
+    map.__activePopupFeature = null;
+    map.__activePopupSource = null;
+    limpiarResaltado(map);
+    popup.remove();
+  };
 
   if (map.__hoverHandlers) {
     const {
@@ -248,6 +263,7 @@ let locked = false;
       mouseleaveTerritorios,
       clickTerritorios,
       clickAny,
+      closePopup,
     } = map.__hoverHandlers;
     map.off("mousemove", "recintos_hover", mousemoveRecintos);
     map.off("mouseleave", "recintos_hover", mouseleaveRecintos);
@@ -256,11 +272,23 @@ let locked = false;
     map.off("mouseleave", "territorios_hover", mouseleaveTerritorios);
     map.off("click", "territorios_hover", clickTerritorios);
     map.off("click", clickAny);
+    popup.off("close", closePopup);
   }
 
-  const sameHoverTarget = (feature, source) =>
-    map.__activePopupFeature?.properties?.codigo_hover ===
-      feature?.properties?.codigo_hover && map.__activePopupSource === source;
+  const sameHoverTarget = (feature, source) => {
+    if (map.__activePopupSource !== source) return false;
+    if (source === "territorios") {
+      return (
+        (map.__activePopupFeature?.id ??
+          map.__activePopupFeature?.properties?.feature_id) ===
+        (feature?.id ?? feature?.properties?.feature_id)
+      );
+    }
+    return (
+      map.__activePopupFeature?.properties?.codigo_hover ===
+      feature?.properties?.codigo_hover
+    );
+  };
 
   const mousemoveRecintos = (e) => {
     if (locked) return;
@@ -271,25 +299,36 @@ let locked = false;
     map.__activePopupFeature = feature;
     map.__activePopupSource = "recintos";
     resaltarFeature(map, "recintos", feature);
-
+    suppressPopupClose = true;
     popup
       .setLngLat(feature.geometry.coordinates)
       .setHTML(popupHTML(feature, obtenerMetricaActual()))
       .addTo(map);
+    suppressPopupClose = false;
+    actualizarInteractividadPopup();
   };
 
   const mouseleaveRecintos = () => {
     map.getCanvas().style.cursor = "";
     if (!locked) {
-      map.__activePopupFeature = null;
-      map.__activePopupSource = null;
-      limpiarResaltado(map);
-      popup.remove();
+      limpiarInteraccion();
     }
   };
 
-  const clickRecintos = () => {
+  const clickRecintos = (e) => {
+    const feature = e.features?.[0];
+    if (!feature) return;
     locked = true;
+    map.__activePopupFeature = feature;
+    map.__activePopupSource = "recintos";
+    resaltarFeature(map, "recintos", feature);
+    suppressPopupClose = true;
+    popup
+      .setLngLat(feature.geometry.coordinates)
+      .setHTML(popupHTML(feature, obtenerMetricaActual()))
+      .addTo(map);
+    suppressPopupClose = false;
+    actualizarInteractividadPopup();
   };
 
   const mousemoveTerritorios = (e) => {
@@ -304,26 +343,36 @@ let locked = false;
     map.__activePopupFeature = feature;
     map.__activePopupSource = "territorios";
     resaltarFeature(map, "territorios", feature);
-    const lngLat = e.lngLat ?? map.getCenter();
-
+    suppressPopupClose = true;
     popup
-      .setLngLat(lngLat)
+      .setLngLat(e.lngLat ?? map.getCenter())
       .setHTML(popupHTML(feature, obtenerMetricaActual()))
       .addTo(map);
+    suppressPopupClose = false;
+    actualizarInteractividadPopup();
   };
 
   const mouseleaveTerritorios = () => {
     map.getCanvas().style.cursor = "";
     if (!locked) {
-      map.__activePopupFeature = null;
-      map.__activePopupSource = null;
-      limpiarResaltado(map);
-      popup.remove();
+      limpiarInteraccion();
     }
   };
 
-  const clickTerritorios = () => {
+  const clickTerritorios = (e) => {
+    const feature = e.features?.[0];
+    if (!feature) return;
     locked = true;
+    map.__activePopupFeature = feature;
+    map.__activePopupSource = "territorios";
+    resaltarFeature(map, "territorios", feature);
+    suppressPopupClose = true;
+    popup
+      .setLngLat(e.lngLat ?? map.getCenter())
+      .setHTML(popupHTML(feature, obtenerMetricaActual()))
+      .addTo(map);
+    suppressPopupClose = false;
+    actualizarInteractividadPopup();
   };
 
   const clickAny = (e) => {
@@ -331,12 +380,13 @@ let locked = false;
       layers: ["recintos_hover", "territorios_hover"],
     }).length;
     if (!hit) {
-      locked = false;
-      map.__activePopupFeature = null;
-      map.__activePopupSource = null;
-      limpiarResaltado(map);
-      popup.remove();
+      limpiarInteraccion();
     }
+  };
+
+  const closePopup = () => {
+    if (suppressPopupClose) return;
+    limpiarInteraccion();
   };
 
   map.on("mousemove", "recintos_hover", mousemoveRecintos);
@@ -346,6 +396,7 @@ let locked = false;
   map.on("mouseleave", "territorios_hover", mouseleaveTerritorios);
   map.on("click", "territorios_hover", clickTerritorios);
   map.on("click", clickAny);
+  popup.on("close", closePopup);
 
   map.__hoverHandlers = {
     mousemoveRecintos,
@@ -355,6 +406,7 @@ let locked = false;
     mouseleaveTerritorios,
     clickTerritorios,
     clickAny,
+    closePopup,
   };
 }
 ```

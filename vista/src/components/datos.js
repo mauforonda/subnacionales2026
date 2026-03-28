@@ -101,7 +101,7 @@ export function crearTerritorios(territoriosRaw, municipios, departamentos, elec
   return {
     type: "FeatureCollection",
     features: territoriosRaw.features
-      .map((feature) => {
+      .map((feature, index) => {
         const municipioCodigo = normalizarMunicipioCodigo(
           feature.properties?.municipio,
         );
@@ -123,8 +123,10 @@ export function crearTerritorios(territoriosRaw, municipios, departamentos, elec
 
         return {
           type: "Feature",
+          id: `territorio-${municipioCodigo || index}`,
           geometry: feature.geometry,
           properties: {
+            feature_id: `territorio-${municipioCodigo || index}`,
             codigo_hover:
               eleccion === "alcalde" ? municipioCodigo : departamentoCodigo,
             municipio_codigo: municipioCodigo,
