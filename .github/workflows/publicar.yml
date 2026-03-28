@@ -16,6 +16,7 @@ jobs:
 
       - name: setup docs
         run: |
+          rm -rf docs
           mkdir -p docs
           touch docs/.nojekyll
 
