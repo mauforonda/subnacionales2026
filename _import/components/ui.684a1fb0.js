@@ -17,19 +17,29 @@ export function popupHTML(feature, metrica) {
     metrica.campo === "invalido"
       ? 'de <span class="popup__metric_emphasis">blancos o nulos</span>'
       : `a <span class="popup__metric_emphasis">${p.partido_ganador_scope ?? "la opcion ganadora"}</span>`;
+  const titulo =
+    p.nivel === "recinto"
+      ? p.recinto ?? "Recinto sin nombre"
+      : p.nombre_territorio ?? "Territorio sin nombre";
+  const placeHTML =
+    p.nivel === "departamento"
+      ? `<div class="popup__place">
+          <div class="popup__municipio">${p.departamento ?? "s/d"}</div>
+        </div>`
+      : `<div class="popup__place">
+          <div class="popup__municipio">${p.municipio_nombre ?? "s/d"}</div>
+          <div class="popup__departamento">${p.departamento ?? "s/d"}</div>
+        </div>`;
 
   return `
     <div class="popup" style="--popup-accent:${color}">
-      <div class="popup__title">${p.recinto ?? "Recinto sin nombre"}</div>
+      <div class="popup__title">${titulo}</div>
       <div class="popup__subtitle">${d3.format(",")(p.habilitados ?? 0)} votantes habilitados</div>
       <div class="popup__metric">
         <div class="popup__metric_value">${d3.format(".0%")(valor ?? 0)}</div>
         <div class="popup__metric_label">${detalle}</div>
       </div>
-      <div class="popup__place">
-        <div class="popup__municipio">${p.municipio_nombre ?? "s/d"}</div>
-        <div class="popup__departamento">${p.departamento ?? "s/d"}</div>
-      </div>
+      ${placeHTML}
     </div>
   `;
 }

@@ -12,16 +12,17 @@
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
 <link rel="stylesheet" type="text/css" href="./_observablehq/theme-air,near-midnight,alt,wide.9b64840a.css">
 <link rel="stylesheet" type="text/css" href="./_observablehq/stdlib/inputs.f7bf0e12.css">
-<link rel="modulepreload" href="./_observablehq/client.a0083439.js">
+<link rel="modulepreload" href="./_observablehq/client.2b9a26a3.js">
 <link rel="modulepreload" href="./_observablehq/runtime.607a8173.js">
 <link rel="modulepreload" href="./_observablehq/stdlib.277aeab8.js">
 <link rel="modulepreload" href="./_npm/maplibre-gl@5.21.1/13f11ada.js">
 <link rel="modulepreload" href="./_import/components/definiciones.87be0c74.js">
-<link rel="modulepreload" href="./_import/components/datos.7137a2e8.js">
-<link rel="modulepreload" href="./_import/components/mapa.98936880.js">
-<link rel="modulepreload" href="./_import/components/ui.7f2f8fb5.js">
+<link rel="modulepreload" href="./_import/components/datos.0178ced9.js">
+<link rel="modulepreload" href="./_import/components/mapa.22c0dc4a.js">
+<link rel="modulepreload" href="./_import/components/ui.684a1fb0.js">
 <link rel="modulepreload" href="./_observablehq/stdlib/inputs.31cd1366.js">
 <link rel="modulepreload" href="./_npm/d3@7.9.0/66d82917.js">
+<link rel="modulepreload" href="./_npm/topojson-client@3.1.0/edd9ee95.js">
 <link rel="modulepreload" href="./_npm/@observablehq/plot@0.6.17/a96a6bbb.js">
 <link rel="modulepreload" href="./_npm/htl@0.3.1/72f4716c.js">
 <link rel="modulepreload" href="./_npm/isoformat@0.2.1/18cbf477.js">
@@ -63,12 +64,12 @@
 <link rel="icon" href="https://mauforonda.github.io/images/icon.svg" type="image/svg" sizes="32x32">
 <script type="module">
 
-import {define} from "./_observablehq/client.a0083439.js";
+import {define} from "./_observablehq/client.2b9a26a3.js";
 
-define({id: "8f874a5b", outputs: ["maplibregl","DATA_BASE","MAPA_FALLBACK","STORAGE_ELECCION_KEY","STORAGE_KEY","STORAGE_MAP_KEY","elecciones","getStorage","metricas","cargarDatos","crearRecintos","aplicarMetricaMapa","crearCapasBase","crearMapa","leerMapaInicial","persistirMapa","popupHTML","renderizarLeyenda"], body: async () => {
-const [{default: maplibregl}, {DATA_BASE, MAPA_FALLBACK, STORAGE_ELECCION_KEY, STORAGE_KEY, STORAGE_MAP_KEY, elecciones, getStorage, metricas}, {cargarDatos, crearRecintos}, {aplicarMetricaMapa, crearCapasBase, crearMapa, leerMapaInicial, persistirMapa}, {popupHTML, renderizarLeyenda}] = await Promise.all([import("./_npm/maplibre-gl@5.21.1/13f11ada.js"), import("./_import/components/definiciones.87be0c74.js"), import("./_import/components/datos.7137a2e8.js"), import("./_import/components/mapa.98936880.js"), import("./_import/components/ui.7f2f8fb5.js")]);
+define({id: "2613dfc5", outputs: ["maplibregl","DATA_BASE","MAPA_FALLBACK","STORAGE_ELECCION_KEY","STORAGE_KEY","STORAGE_MAP_KEY","elecciones","getStorage","metricas","cargarDatos","crearRecintosConDepartamentos","crearTerritorios","aplicarMetricaMapa","limpiarResaltado","crearCapasBase","crearMapa","leerMapaInicial","persistirMapa","resaltarFeature","popupHTML","renderizarLeyenda"], body: async () => {
+const [{default: maplibregl}, {DATA_BASE, MAPA_FALLBACK, STORAGE_ELECCION_KEY, STORAGE_KEY, STORAGE_MAP_KEY, elecciones, getStorage, metricas}, {cargarDatos, crearRecintosConDepartamentos, crearTerritorios}, {aplicarMetricaMapa, limpiarResaltado, crearCapasBase, crearMapa, leerMapaInicial, persistirMapa, resaltarFeature}, {popupHTML, renderizarLeyenda}] = await Promise.all([import("./_npm/maplibre-gl@5.21.1/13f11ada.js"), import("./_import/components/definiciones.87be0c74.js"), import("./_import/components/datos.0178ced9.js"), import("./_import/components/mapa.22c0dc4a.js"), import("./_import/components/ui.684a1fb0.js")]);
 
-return {maplibregl,DATA_BASE,MAPA_FALLBACK,STORAGE_ELECCION_KEY,STORAGE_KEY,STORAGE_MAP_KEY,elecciones,getStorage,metricas,cargarDatos,crearRecintos,aplicarMetricaMapa,crearCapasBase,crearMapa,leerMapaInicial,persistirMapa,popupHTML,renderizarLeyenda};
+return {maplibregl,DATA_BASE,MAPA_FALLBACK,STORAGE_ELECCION_KEY,STORAGE_KEY,STORAGE_MAP_KEY,elecciones,getStorage,metricas,cargarDatos,crearRecintosConDepartamentos,crearTerritorios,aplicarMetricaMapa,limpiarResaltado,crearCapasBase,crearMapa,leerMapaInicial,persistirMapa,resaltarFeature,popupHTML,renderizarLeyenda};
 }});
 
 define({id: "f27f9d2c", inputs: ["getStorage","STORAGE_KEY","STORAGE_ELECCION_KEY","Inputs","metricas","elecciones","Generators"], outputs: ["storage","metricaInicial","eleccionInicial","metricaInput","eleccionInput","metrica","eleccion","obtenerMetricaActual","obtenerEleccionActual"], body: (getStorage,STORAGE_KEY,STORAGE_ELECCION_KEY,Inputs,metricas,elecciones,Generators) => {
@@ -110,14 +111,26 @@ metricaInput
 ))
 }});
 
-define({id: "49c840d2", inputs: ["cargarDatos","DATA_BASE","obtenerEleccionActual","crearRecintos","eleccionInput","leerMapaInicial","storage","STORAGE_MAP_KEY","MAPA_FALLBACK"], outputs: ["resultadosRaw","municipios","timestamp","recintos","mapaInicial"], body: async (cargarDatos,DATA_BASE,obtenerEleccionActual,crearRecintos,eleccionInput,leerMapaInicial,storage,STORAGE_MAP_KEY,MAPA_FALLBACK) => {
-const { resultadosRaw, municipios, timestamp } = await cargarDatos(
+define({id: "9ca95a93", inputs: ["cargarDatos","DATA_BASE","obtenerEleccionActual","crearRecintosConDepartamentos","eleccionInput","crearTerritorios","leerMapaInicial","storage","STORAGE_MAP_KEY","MAPA_FALLBACK"], outputs: ["resultadosRaw","municipios","departamentos","territoriosRaw","timestamp","recintos","territorios","mapaInicial"], body: async (cargarDatos,DATA_BASE,obtenerEleccionActual,crearRecintosConDepartamentos,eleccionInput,crearTerritorios,leerMapaInicial,storage,STORAGE_MAP_KEY,MAPA_FALLBACK) => {
+const { resultadosRaw, municipios, departamentos, territoriosRaw, timestamp } =
+  await cargarDatos(
   DATA_BASE,
   obtenerEleccionActual().archivo,
 );
-const recintos = crearRecintos(resultadosRaw, municipios, eleccionInput.value);
+const recintos = crearRecintosConDepartamentos(
+  resultadosRaw,
+  municipios,
+  departamentos,
+  eleccionInput.value,
+);
+const territorios = crearTerritorios(
+  territoriosRaw,
+  municipios,
+  departamentos,
+  eleccionInput.value,
+);
 const mapaInicial = leerMapaInicial(storage, STORAGE_MAP_KEY, MAPA_FALLBACK);
-return {resultadosRaw,municipios,timestamp,recintos,mapaInicial};
+return {resultadosRaw,municipios,departamentos,territoriosRaw,timestamp,recintos,territorios,mapaInicial};
 }});
 
 define({id: "d6f5b653", inputs: ["timestamp"], body: (timestamp) => {
@@ -145,10 +158,10 @@ invalidation.then(() => {
 return {map,popup};
 }});
 
-define({id: "0cdf295d", inputs: ["map","crearCapasBase","recintos","metricas"], outputs: ["ready"], body: (map,crearCapasBase,recintos,metricas) => {
+define({id: "b082a22a", inputs: ["map","crearCapasBase","territorios","recintos","metricas"], outputs: ["ready"], body: (map,crearCapasBase,territorios,recintos,metricas) => {
 const ready = new Promise((resolve) => {
   map.on("load", () => {
-    crearCapasBase(map, recintos, metricas.invalido);
+    crearCapasBase(map, territorios, recintos, metricas.invalido);
     resolve();
   });
 });
@@ -163,7 +176,7 @@ define({id: "2ac06a58", inputs: ["ready","renderizarLeyenda","obtenerMetricaActu
 }
 }});
 
-define({id: "0e3f32d7", inputs: ["ready","obtenerMetricaActual","storage","STORAGE_KEY","metricaInput","renderizarLeyenda","aplicarMetricaMapa","map","invalidation"], body: async (ready,obtenerMetricaActual,storage,STORAGE_KEY,metricaInput,renderizarLeyenda,aplicarMetricaMapa,map,invalidation) => {
+define({id: "60df4c18", inputs: ["ready","obtenerMetricaActual","storage","STORAGE_KEY","metricaInput","renderizarLeyenda","aplicarMetricaMapa","map","popup","popupHTML","resaltarFeature","invalidation"], body: async (ready,obtenerMetricaActual,storage,STORAGE_KEY,metricaInput,renderizarLeyenda,aplicarMetricaMapa,map,popup,popupHTML,resaltarFeature,invalidation) => {
 {
   await ready;
   const actualizar = () => {
@@ -171,6 +184,16 @@ define({id: "0e3f32d7", inputs: ["ready","obtenerMetricaActual","storage","STORA
     if (storage) storage.setItem(STORAGE_KEY, metricaInput.value);
     renderizarLeyenda(metricaSiguiente);
     aplicarMetricaMapa(map, metricaSiguiente);
+    if (map.__activePopupFeature) {
+      popup.setHTML(popupHTML(map.__activePopupFeature, metricaSiguiente));
+      resaltarFeature(
+        map,
+        map.__activePopupFeature.properties.nivel === "recinto"
+          ? "recintos"
+          : "territorios",
+        map.__activePopupFeature,
+      );
+    }
   };
   metricaInput.addEventListener("input", actualizar);
   invalidation.then(() =>
@@ -179,22 +202,42 @@ define({id: "0e3f32d7", inputs: ["ready","obtenerMetricaActual","storage","STORA
 }
 }});
 
-define({id: "1a20135f", inputs: ["ready","obtenerEleccionActual","storage","STORAGE_ELECCION_KEY","eleccionInput","cargarDatos","DATA_BASE","crearRecintos","map","invalidation"], body: async (ready,obtenerEleccionActual,storage,STORAGE_ELECCION_KEY,eleccionInput,cargarDatos,DATA_BASE,crearRecintos,map,invalidation) => {
+define({id: "373f4b9a", inputs: ["ready","obtenerEleccionActual","storage","STORAGE_ELECCION_KEY","eleccionInput","cargarDatos","DATA_BASE","crearRecintosConDepartamentos","crearTerritorios","limpiarResaltado","map","invalidation"], body: async (ready,obtenerEleccionActual,storage,STORAGE_ELECCION_KEY,eleccionInput,cargarDatos,DATA_BASE,crearRecintosConDepartamentos,crearTerritorios,limpiarResaltado,map,invalidation) => {
 {
   await ready;
+  let eleccionRequestId = 0;
   const actualizarEleccion = async () => {
+    eleccionRequestId += 1;
+    const requestId = eleccionRequestId;
     const eleccionSiguiente = obtenerEleccionActual();
     if (storage) storage.setItem(STORAGE_ELECCION_KEY, eleccionInput.value);
-    const { resultadosRaw, municipios, timestamp } = await cargarDatos(
+    const {
+      resultadosRaw,
+      municipios,
+      departamentos,
+      territoriosRaw,
+      timestamp,
+    } = await cargarDatos(
       DATA_BASE,
       eleccionSiguiente.archivo,
     );
-    const recintosNuevos = crearRecintos(
+    if (requestId !== eleccionRequestId) return;
+    const recintosNuevos = crearRecintosConDepartamentos(
       resultadosRaw,
       municipios,
+      departamentos,
       eleccionInput.value,
     );
+    const territoriosNuevos = crearTerritorios(
+      territoriosRaw,
+      municipios,
+      departamentos,
+      eleccionInput.value,
+    );
+    limpiarResaltado(map);
+    map.__activePopupFeature = null;
     map.getSource("recintos")?.setData(recintosNuevos);
+    map.getSource("territorios")?.setData(territoriosNuevos);
     const container = document.querySelector("#timestamp-container");
     container.textContent = timestamp
       ? `actualizado el ${timestamp.fecha} a las ${timestamp.hora}`
@@ -207,24 +250,44 @@ define({id: "1a20135f", inputs: ["ready","obtenerEleccionActual","storage","STOR
 }
 }});
 
-define({id: "dcbdfb41", inputs: ["ready","map","popup","popupHTML","obtenerMetricaActual"], outputs: ["locked"], body: async (ready,map,popup,popupHTML,obtenerMetricaActual) => {
+define({id: "0b757fc1", inputs: ["ready","map","resaltarFeature","popup","popupHTML","obtenerMetricaActual","limpiarResaltado"], outputs: ["locked"], body: async (ready,map,resaltarFeature,popup,popupHTML,obtenerMetricaActual,limpiarResaltado) => {
 let locked = false;
 
 {
   await ready;
 
   if (map.__hoverHandlers) {
-    const { mouseenter, mouseleave, clickIn, clickAny } = map.__hoverHandlers;
-    map.off("mouseenter", "recintos_hover", mouseenter);
-    map.off("mouseleave", "recintos_hover", mouseleave);
-    map.off("click", "recintos_hover", clickIn);
+    const {
+      mousemoveRecintos,
+      mouseleaveRecintos,
+      clickRecintos,
+      mousemoveTerritorios,
+      mouseleaveTerritorios,
+      clickTerritorios,
+      clickAny,
+    } = map.__hoverHandlers;
+    map.off("mousemove", "recintos_hover", mousemoveRecintos);
+    map.off("mouseleave", "recintos_hover", mouseleaveRecintos);
+    map.off("click", "recintos_hover", clickRecintos);
+    map.off("mousemove", "territorios_hover", mousemoveTerritorios);
+    map.off("mouseleave", "territorios_hover", mouseleaveTerritorios);
+    map.off("click", "territorios_hover", clickTerritorios);
     map.off("click", clickAny);
   }
 
-  const mouseenter = (e) => {
+  const sameHoverTarget = (feature, source) =>
+    map.__activePopupFeature?.properties?.codigo_hover ===
+      feature?.properties?.codigo_hover && map.__activePopupSource === source;
+
+  const mousemoveRecintos = (e) => {
+    if (locked) return;
     map.getCanvas().style.cursor = "pointer";
     const feature = e.features?.[0];
     if (!feature) return;
+    if (sameHoverTarget(feature, "recintos")) return;
+    map.__activePopupFeature = feature;
+    map.__activePopupSource = "recintos";
+    resaltarFeature(map, "recintos", feature);
 
     popup
       .setLngLat(feature.geometry.coordinates)
@@ -232,31 +295,84 @@ let locked = false;
       .addTo(map);
   };
 
-  const mouseleave = () => {
+  const mouseleaveRecintos = () => {
     map.getCanvas().style.cursor = "";
-    if (!locked) popup.remove();
+    if (!locked) {
+      map.__activePopupFeature = null;
+      map.__activePopupSource = null;
+      limpiarResaltado(map);
+      popup.remove();
+    }
   };
 
-  const clickIn = () => {
+  const clickRecintos = () => {
+    locked = true;
+  };
+
+  const mousemoveTerritorios = (e) => {
+    if (locked) return;
+    map.getCanvas().style.cursor = "pointer";
+    const feature = e.features?.[0];
+    if (!feature) return;
+    if (sameHoverTarget(feature, "territorios")) {
+      popup.setLngLat(e.lngLat ?? map.getCenter());
+      return;
+    }
+    map.__activePopupFeature = feature;
+    map.__activePopupSource = "territorios";
+    resaltarFeature(map, "territorios", feature);
+    const lngLat = e.lngLat ?? map.getCenter();
+
+    popup
+      .setLngLat(lngLat)
+      .setHTML(popupHTML(feature, obtenerMetricaActual()))
+      .addTo(map);
+  };
+
+  const mouseleaveTerritorios = () => {
+    map.getCanvas().style.cursor = "";
+    if (!locked) {
+      map.__activePopupFeature = null;
+      map.__activePopupSource = null;
+      limpiarResaltado(map);
+      popup.remove();
+    }
+  };
+
+  const clickTerritorios = () => {
     locked = true;
   };
 
   const clickAny = (e) => {
     const hit = map.queryRenderedFeatures(e.point, {
-      layers: ["recintos_hover"],
+      layers: ["recintos_hover", "territorios_hover"],
     }).length;
     if (!hit) {
       locked = false;
+      map.__activePopupFeature = null;
+      map.__activePopupSource = null;
+      limpiarResaltado(map);
       popup.remove();
     }
   };
 
-  map.on("mouseenter", "recintos_hover", mouseenter);
-  map.on("mouseleave", "recintos_hover", mouseleave);
-  map.on("click", "recintos_hover", clickIn);
+  map.on("mousemove", "recintos_hover", mousemoveRecintos);
+  map.on("mouseleave", "recintos_hover", mouseleaveRecintos);
+  map.on("click", "recintos_hover", clickRecintos);
+  map.on("mousemove", "territorios_hover", mousemoveTerritorios);
+  map.on("mouseleave", "territorios_hover", mouseleaveTerritorios);
+  map.on("click", "territorios_hover", clickTerritorios);
   map.on("click", clickAny);
 
-  map.__hoverHandlers = { mouseenter, mouseleave, clickIn, clickAny };
+  map.__hoverHandlers = {
+    mousemoveRecintos,
+    mouseleaveRecintos,
+    clickRecintos,
+    mousemoveTerritorios,
+    mouseleaveTerritorios,
+    clickTerritorios,
+    clickAny,
+  };
 }
 return {locked};
 }});
@@ -268,12 +384,12 @@ return {locked};
 <main id="observablehq-main" class="observablehq">
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/maplibre-gl@4.0.2/dist/maplibre-gl.css">
 <link rel="stylesheet" type="text/css" href="./_file/index.0c2f0040.css">
-<div class="observablehq observablehq--block"><!--:8f874a5b:--></div>
+<div class="observablehq observablehq--block"><!--:2613dfc5:--></div>
 <div class="observablehq observablehq--block"><!--:f27f9d2c:--></div>
 <div class="app">
   <header class="header">
     <div class="header__eyebrow">Elecciones subnacionales 2026</div>
-    <div class="header__subtitle">Votos a <span class="header__eleccion"><observablehq-loading></observablehq-loading><!--:c63a2d52:--></span> por recinto a nivel nacional</div>
+    <div class="header__subtitle">Votos para <span class="header__eleccion"><observablehq-loading></observablehq-loading><!--:c63a2d52:--></span></div>
     <div class="header__timestamp" id="timestamp-container"></div>
     <div class="header__controls">
       <div class="control control--legend">
@@ -289,14 +405,14 @@ return {locked};
     <span class="credito__text">Creado por Mauricio Foronda</span>
   </div>
 </div>
-<div class="observablehq observablehq--block"><!--:49c840d2:--></div>
+<div class="observablehq observablehq--block"><!--:9ca95a93:--></div>
 <div class="observablehq observablehq--block"><!--:d6f5b653:--></div>
 <div class="observablehq observablehq--block"><!--:2f3369b8:--></div>
-<div class="observablehq observablehq--block"><!--:0cdf295d:--></div>
+<div class="observablehq observablehq--block"><!--:b082a22a:--></div>
 <div class="observablehq observablehq--block"><!--:2ac06a58:--></div>
-<div class="observablehq observablehq--block"><!--:0e3f32d7:--></div>
-<div class="observablehq observablehq--block"><!--:1a20135f:--></div>
-<div class="observablehq observablehq--block"><!--:dcbdfb41:--></div>
+<div class="observablehq observablehq--block"><!--:60df4c18:--></div>
+<div class="observablehq observablehq--block"><!--:373f4b9a:--></div>
+<div class="observablehq observablehq--block"><!--:0b757fc1:--></div>
 </main>
 </div>
 </body>
