@@ -17,8 +17,8 @@
 <link rel="modulepreload" href="./_observablehq/stdlib.277aeab8.js">
 <link rel="modulepreload" href="./_npm/maplibre-gl@5.21.1/13f11ada.js">
 <link rel="modulepreload" href="./_import/components/definiciones.87be0c74.js">
-<link rel="modulepreload" href="./_import/components/datos.0178ced9.js">
-<link rel="modulepreload" href="./_import/components/mapa.22c0dc4a.js">
+<link rel="modulepreload" href="./_import/components/datos.4a292b33.js">
+<link rel="modulepreload" href="./_import/components/mapa.a43ae1cb.js">
 <link rel="modulepreload" href="./_import/components/ui.684a1fb0.js">
 <link rel="modulepreload" href="./_observablehq/stdlib/inputs.31cd1366.js">
 <link rel="modulepreload" href="./_npm/d3@7.9.0/66d82917.js">
@@ -67,7 +67,7 @@
 import {define} from "./_observablehq/client.2b9a26a3.js";
 
 define({id: "2613dfc5", outputs: ["maplibregl","DATA_BASE","MAPA_FALLBACK","STORAGE_ELECCION_KEY","STORAGE_KEY","STORAGE_MAP_KEY","elecciones","getStorage","metricas","cargarDatos","crearRecintosConDepartamentos","crearTerritorios","aplicarMetricaMapa","limpiarResaltado","crearCapasBase","crearMapa","leerMapaInicial","persistirMapa","resaltarFeature","popupHTML","renderizarLeyenda"], body: async () => {
-const [{default: maplibregl}, {DATA_BASE, MAPA_FALLBACK, STORAGE_ELECCION_KEY, STORAGE_KEY, STORAGE_MAP_KEY, elecciones, getStorage, metricas}, {cargarDatos, crearRecintosConDepartamentos, crearTerritorios}, {aplicarMetricaMapa, limpiarResaltado, crearCapasBase, crearMapa, leerMapaInicial, persistirMapa, resaltarFeature}, {popupHTML, renderizarLeyenda}] = await Promise.all([import("./_npm/maplibre-gl@5.21.1/13f11ada.js"), import("./_import/components/definiciones.87be0c74.js"), import("./_import/components/datos.0178ced9.js"), import("./_import/components/mapa.22c0dc4a.js"), import("./_import/components/ui.684a1fb0.js")]);
+const [{default: maplibregl}, {DATA_BASE, MAPA_FALLBACK, STORAGE_ELECCION_KEY, STORAGE_KEY, STORAGE_MAP_KEY, elecciones, getStorage, metricas}, {cargarDatos, crearRecintosConDepartamentos, crearTerritorios}, {aplicarMetricaMapa, limpiarResaltado, crearCapasBase, crearMapa, leerMapaInicial, persistirMapa, resaltarFeature}, {popupHTML, renderizarLeyenda}] = await Promise.all([import("./_npm/maplibre-gl@5.21.1/13f11ada.js"), import("./_import/components/definiciones.87be0c74.js"), import("./_import/components/datos.4a292b33.js"), import("./_import/components/mapa.a43ae1cb.js"), import("./_import/components/ui.684a1fb0.js")]);
 
 return {maplibregl,DATA_BASE,MAPA_FALLBACK,STORAGE_ELECCION_KEY,STORAGE_KEY,STORAGE_MAP_KEY,elecciones,getStorage,metricas,cargarDatos,crearRecintosConDepartamentos,crearTerritorios,aplicarMetricaMapa,limpiarResaltado,crearCapasBase,crearMapa,leerMapaInicial,persistirMapa,resaltarFeature,popupHTML,renderizarLeyenda};
 }});
@@ -142,10 +142,10 @@ define({id: "d6f5b653", inputs: ["timestamp"], body: (timestamp) => {
 }
 }});
 
-define({id: "2f3369b8", inputs: ["crearMapa","mapaInicial","maplibregl","persistirMapa","storage","STORAGE_MAP_KEY","invalidation"], outputs: ["map","popup"], body: (crearMapa,mapaInicial,maplibregl,persistirMapa,storage,STORAGE_MAP_KEY,invalidation) => {
+define({id: "2a53284c", inputs: ["crearMapa","mapaInicial","maplibregl","persistirMapa","storage","STORAGE_MAP_KEY","invalidation"], outputs: ["map","popup"], body: (crearMapa,mapaInicial,maplibregl,persistirMapa,storage,STORAGE_MAP_KEY,invalidation) => {
 const map = crearMapa("#mapa", mapaInicial);
 const popup = new maplibregl.Popup({
-  closeButton: false,
+  closeButton: true,
   closeOnClick: false,
 });
 
@@ -250,11 +250,26 @@ define({id: "373f4b9a", inputs: ["ready","obtenerEleccionActual","storage","STOR
 }
 }});
 
-define({id: "0b757fc1", inputs: ["ready","map","resaltarFeature","popup","popupHTML","obtenerMetricaActual","limpiarResaltado"], outputs: ["locked"], body: async (ready,map,resaltarFeature,popup,popupHTML,obtenerMetricaActual,limpiarResaltado) => {
+define({id: "6657533f", inputs: ["ready","popup","map","limpiarResaltado","resaltarFeature","popupHTML","obtenerMetricaActual"], outputs: ["locked"], body: async (ready,popup,map,limpiarResaltado,resaltarFeature,popupHTML,obtenerMetricaActual) => {
 let locked = false;
 
 {
   await ready;
+  let suppressPopupClose = false;
+
+  const actualizarInteractividadPopup = () => {
+    const el = popup.getElement();
+    if (!el) return;
+    el.classList.toggle("popup--interactive", locked);
+  };
+
+  const limpiarInteraccion = () => {
+    locked = false;
+    map.__activePopupFeature = null;
+    map.__activePopupSource = null;
+    limpiarResaltado(map);
+    popup.remove();
+  };
 
   if (map.__hoverHandlers) {
     const {
@@ -265,6 +280,7 @@ let locked = false;
       mouseleaveTerritorios,
       clickTerritorios,
       clickAny,
+      closePopup,
     } = map.__hoverHandlers;
     map.off("mousemove", "recintos_hover", mousemoveRecintos);
     map.off("mouseleave", "recintos_hover", mouseleaveRecintos);
@@ -273,11 +289,23 @@ let locked = false;
     map.off("mouseleave", "territorios_hover", mouseleaveTerritorios);
     map.off("click", "territorios_hover", clickTerritorios);
     map.off("click", clickAny);
+    popup.off("close", closePopup);
   }
 
-  const sameHoverTarget = (feature, source) =>
-    map.__activePopupFeature?.properties?.codigo_hover ===
-      feature?.properties?.codigo_hover && map.__activePopupSource === source;
+  const sameHoverTarget = (feature, source) => {
+    if (map.__activePopupSource !== source) return false;
+    if (source === "territorios") {
+      return (
+        (map.__activePopupFeature?.id ??
+          map.__activePopupFeature?.properties?.feature_id) ===
+        (feature?.id ?? feature?.properties?.feature_id)
+      );
+    }
+    return (
+      map.__activePopupFeature?.properties?.codigo_hover ===
+      feature?.properties?.codigo_hover
+    );
+  };
 
   const mousemoveRecintos = (e) => {
     if (locked) return;
@@ -288,25 +316,36 @@ let locked = false;
     map.__activePopupFeature = feature;
     map.__activePopupSource = "recintos";
     resaltarFeature(map, "recintos", feature);
-
+    suppressPopupClose = true;
     popup
       .setLngLat(feature.geometry.coordinates)
       .setHTML(popupHTML(feature, obtenerMetricaActual()))
       .addTo(map);
+    suppressPopupClose = false;
+    actualizarInteractividadPopup();
   };
 
   const mouseleaveRecintos = () => {
     map.getCanvas().style.cursor = "";
     if (!locked) {
-      map.__activePopupFeature = null;
-      map.__activePopupSource = null;
-      limpiarResaltado(map);
-      popup.remove();
+      limpiarInteraccion();
     }
   };
 
-  const clickRecintos = () => {
+  const clickRecintos = (e) => {
+    const feature = e.features?.[0];
+    if (!feature) return;
     locked = true;
+    map.__activePopupFeature = feature;
+    map.__activePopupSource = "recintos";
+    resaltarFeature(map, "recintos", feature);
+    suppressPopupClose = true;
+    popup
+      .setLngLat(feature.geometry.coordinates)
+      .setHTML(popupHTML(feature, obtenerMetricaActual()))
+      .addTo(map);
+    suppressPopupClose = false;
+    actualizarInteractividadPopup();
   };
 
   const mousemoveTerritorios = (e) => {
@@ -321,26 +360,36 @@ let locked = false;
     map.__activePopupFeature = feature;
     map.__activePopupSource = "territorios";
     resaltarFeature(map, "territorios", feature);
-    const lngLat = e.lngLat ?? map.getCenter();
-
+    suppressPopupClose = true;
     popup
-      .setLngLat(lngLat)
+      .setLngLat(e.lngLat ?? map.getCenter())
       .setHTML(popupHTML(feature, obtenerMetricaActual()))
       .addTo(map);
+    suppressPopupClose = false;
+    actualizarInteractividadPopup();
   };
 
   const mouseleaveTerritorios = () => {
     map.getCanvas().style.cursor = "";
     if (!locked) {
-      map.__activePopupFeature = null;
-      map.__activePopupSource = null;
-      limpiarResaltado(map);
-      popup.remove();
+      limpiarInteraccion();
     }
   };
 
-  const clickTerritorios = () => {
+  const clickTerritorios = (e) => {
+    const feature = e.features?.[0];
+    if (!feature) return;
     locked = true;
+    map.__activePopupFeature = feature;
+    map.__activePopupSource = "territorios";
+    resaltarFeature(map, "territorios", feature);
+    suppressPopupClose = true;
+    popup
+      .setLngLat(e.lngLat ?? map.getCenter())
+      .setHTML(popupHTML(feature, obtenerMetricaActual()))
+      .addTo(map);
+    suppressPopupClose = false;
+    actualizarInteractividadPopup();
   };
 
   const clickAny = (e) => {
@@ -348,12 +397,13 @@ let locked = false;
       layers: ["recintos_hover", "territorios_hover"],
     }).length;
     if (!hit) {
-      locked = false;
-      map.__activePopupFeature = null;
-      map.__activePopupSource = null;
-      limpiarResaltado(map);
-      popup.remove();
+      limpiarInteraccion();
     }
+  };
+
+  const closePopup = () => {
+    if (suppressPopupClose) return;
+    limpiarInteraccion();
   };
 
   map.on("mousemove", "recintos_hover", mousemoveRecintos);
@@ -363,6 +413,7 @@ let locked = false;
   map.on("mouseleave", "territorios_hover", mouseleaveTerritorios);
   map.on("click", "territorios_hover", clickTerritorios);
   map.on("click", clickAny);
+  popup.on("close", closePopup);
 
   map.__hoverHandlers = {
     mousemoveRecintos,
@@ -372,6 +423,7 @@ let locked = false;
     mouseleaveTerritorios,
     clickTerritorios,
     clickAny,
+    closePopup,
   };
 }
 return {locked};
@@ -383,7 +435,7 @@ return {locked};
 <div id="observablehq-center">
 <main id="observablehq-main" class="observablehq">
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/maplibre-gl@4.0.2/dist/maplibre-gl.css">
-<link rel="stylesheet" type="text/css" href="./_file/index.0c2f0040.css">
+<link rel="stylesheet" type="text/css" href="./_file/index.d93a3bb9.css">
 <div class="observablehq observablehq--block"><!--:2613dfc5:--></div>
 <div class="observablehq observablehq--block"><!--:f27f9d2c:--></div>
 <div class="app">
@@ -407,12 +459,12 @@ return {locked};
 </div>
 <div class="observablehq observablehq--block"><!--:9ca95a93:--></div>
 <div class="observablehq observablehq--block"><!--:d6f5b653:--></div>
-<div class="observablehq observablehq--block"><!--:2f3369b8:--></div>
+<div class="observablehq observablehq--block"><!--:2a53284c:--></div>
 <div class="observablehq observablehq--block"><!--:b082a22a:--></div>
 <div class="observablehq observablehq--block"><!--:2ac06a58:--></div>
 <div class="observablehq observablehq--block"><!--:60df4c18:--></div>
 <div class="observablehq observablehq--block"><!--:373f4b9a:--></div>
-<div class="observablehq observablehq--block"><!--:0b757fc1:--></div>
+<div class="observablehq observablehq--block"><!--:6657533f:--></div>
 </main>
 </div>
 </body>

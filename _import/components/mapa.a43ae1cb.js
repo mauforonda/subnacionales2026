@@ -101,7 +101,10 @@ export function aplicarMetricaMapa(map, metrica) {
 }
 
 export function resaltarFeature(map, source, feature) {
-  const id = feature?.properties?.codigo_hover ?? feature?.id;
+  const id =
+    source === "territorios"
+      ? feature?.id ?? feature?.properties?.feature_id
+      : feature?.properties?.codigo_hover ?? feature?.id;
   if (id == null) return;
   limpiarResaltado(map);
   map.setFeatureState({source, id}, {hover: true});
@@ -152,7 +155,7 @@ export function crearCapasBase(map, territorios, recintos, metrica) {
     map.addSource("territorios", {
       type: "geojson",
       data: territorios,
-      promoteId: "codigo_hover",
+      promoteId: "feature_id",
     });
   }
 
@@ -182,8 +185,8 @@ export function crearCapasBase(map, territorios, recintos, metrica) {
       type: "line",
       source: "territorios",
       paint: {
-        "line-color": "rgba(255,255,255,0.48)",
-        "line-width": 0.5,
+        "line-color": "rgba(245, 242, 235, 0.22)",
+        "line-width": 0.55,
         "line-opacity": [
           "interpolate",
           ["linear"],
