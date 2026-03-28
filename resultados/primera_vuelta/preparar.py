@@ -113,17 +113,37 @@ def procesar_participacion(path, codigo_depto):
         participacion_agregada.VotoValido / participacion_agregada.VotoEmitido
     )
     participacion_agregada.rename(
-        columns={"InscritosHabilitados": "habilitados"}, inplace=True
+        columns={
+            "VotoValido": "voto_valido",
+            "VotoEmitido": "voto_emitido",
+            "InscritosHabilitados": "habilitados",
+        },
+        inplace=True,
     )
 
     participacion = pd.concat(
-        [recintos_admin, participacion_agregada[["validos", "habilitados"]]], axis=1
+        [
+            recintos_admin,
+            participacion_agregada[
+                ["voto_valido", "voto_emitido", "validos", "habilitados"]
+            ],
+        ],
+        axis=1,
     )
 
     municipios = df.groupby("municipio")[["NombreMunicipio"]].first()
     municipios.rename(columns={"NombreMunicipio": "nombre_municipio"}, inplace=True)
 
     return municipios, participacion
+
+
+def agregar_participacion_scope(participacion, scope_por_codigo):
+    scope_participacion = participacion.join(scope_por_codigo.rename("scope"))
+    agregada = scope_participacion.groupby("scope")[
+        ["voto_valido", "voto_emitido", "habilitados"]
+    ].sum()
+    agregada["validos"] = agregada["voto_valido"] / agregada["voto_emitido"]
+    return agregada[["validos", "habilitados"]]
 
 
 def guardar_json(path, data):
@@ -154,10 +174,12 @@ def guardar_timestamp_agregado():
 
 def main():
     municipios_data = {}
+    departamentos_data = {}
     resultados_por_eleccion = {eleccion: {} for eleccion in ELECCIONES}
     recintos = procesar_recintos()
 
     for i, departamento in enumerate(DEPARTAMENTOS):
+        codigo_depto = str(i + 1)
         depto_slug = slugify(departamento)
         municipios_depto = None
 
@@ -191,25 +213,34 @@ def main():
                 ganador_scope, porcentaje_ganador = procesar_validos(
                     folder / "validos.csv", i + 1, scope_por_codigo
                 )
-                partido_ganador = ganador_scope.loc[departamento, "partido_ganador"]
-                for municipio_codigo in municipios_depto.index:
-                    municipios_data.setdefault(
-                        municipio_codigo,
-                        {
-                            "nombre_municipio": municipios_depto.loc[
-                                municipio_codigo, "nombre_municipio"
-                            ],
-                            "departamento": departamento,
-                        },
-                    )[eleccion] = partido_ganador
+                participacion_scope = agregar_participacion_scope(
+                    participacion, scope_por_codigo
+                )
+                departamentos_data[codigo_depto] = {
+                    "nombre_departamento": departamento,
+                    eleccion: {
+                        "nombre": ganador_scope.loc[departamento, "partido_ganador"],
+                        "validos": round(
+                            float(participacion_scope.loc[departamento, "validos"]), 4
+                        ),
+                        "habilitados": int(
+                            participacion_scope.loc[departamento, "habilitados"]
+                        ),
+                        "ganador": round(
+                            float(ganador_scope.loc[departamento, "porcentaje_ganador"]),
+                            4,
+                        ),
+                    },
+                }
             else:
                 scope_por_codigo = participacion["municipio"]
                 ganador_scope, porcentaje_ganador = procesar_validos(
                     folder / "validos.csv", i + 1, scope_por_codigo
                 )
-                for municipio_codigo, partido_ganador in ganador_scope[
-                    "partido_ganador"
-                ].items():
+                participacion_scope = agregar_participacion_scope(
+                    participacion, scope_por_codigo
+                )
+                for municipio_codigo, row in ganador_scope.iterrows():
                     municipios_data.setdefault(
                         municipio_codigo,
                         {
@@ -218,11 +249,23 @@ def main():
                             ],
                             "departamento": departamento,
                         },
-                    )[eleccion] = partido_ganador
+                    )[eleccion] = {
+                        "nombre": row["partido_ganador"],
+                        "validos": round(
+                            float(participacion_scope.loc[municipio_codigo, "validos"]),
+                            4,
+                        ),
+                        "habilitados": int(
+                            participacion_scope.loc[municipio_codigo, "habilitados"]
+                        ),
+                        "ganador": round(float(row["porcentaje_ganador"]), 4),
+                    }
 
             resultados_eleccion = pd.concat(
                 [participacion, porcentaje_ganador, recintos], axis=1
-            ).dropna()
+            ).dropna()[
+                ["municipio", "recinto", "validos", "habilitados", "ganador", "x", "y"]
+            ]
             resultados_por_eleccion[eleccion].update(
                 redondear_metricas(resultados_eleccion.to_dict(orient="index"))
             )
@@ -237,6 +280,7 @@ def main():
             )
 
     guardar_json(BASE / "municipios.json", municipios_data)
+    guardar_json(BASE / "departamentos.json", departamentos_data)
     for eleccion, resultados in resultados_por_eleccion.items():
         guardar_json(BASE / f"resultados_{eleccion}.json", resultados)
     guardar_timestamp_agregado()

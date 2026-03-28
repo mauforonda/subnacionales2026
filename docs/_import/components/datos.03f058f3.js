@@ -1,21 +1,20 @@
-import * as d3 from "npm:d3";
-import { feature as topojsonFeature } from "npm:topojson-client";
+import * as d3 from "../../_npm/d3@7.9.0/66d82917.js";
 
 export async function cargarDatos(base, archivoResultados) {
-  const [resultadosRaw, municipios, departamentos, territoriosTopo, timestampRaw] =
+  const [resultadosRaw, municipios, departamentos, territoriosRaw, timestampRaw] =
     await Promise.all([
-      d3.json(`${base}${archivoResultados}`),
-      d3.json(`${base}municipios.json`),
-      d3.json(`${base}departamentos.json`),
-      d3.json(`${base}municipios.topo.json`),
-      d3.text(`${base}timestamp`),
+    d3.json(`${base}${archivoResultados}`),
+    d3.json(`${base}municipios.json`),
+    d3.json(`${base}departamentos.json`),
+    d3.json(`${base}municipios.geojson`),
+    d3.text(`${base}timestamp`),
     ]);
 
   return {
     resultadosRaw,
     municipios,
     departamentos,
-    territoriosRaw: topojsonAFeatureCollection(territoriosTopo),
+    territoriosRaw,
     timestamp: formatearTimestamp(timestampRaw),
   };
 }
@@ -35,14 +34,6 @@ function formatearTimestamp(timestampRaw) {
     fecha: `${day}/${month}/${year}`,
     hora: `${hours}:${minutes}`,
   };
-}
-
-function topojsonAFeatureCollection(topology) {
-  const objectName = Object.keys(topology?.objects ?? {})[0];
-  if (!objectName) {
-    return {type: "FeatureCollection", features: []};
-  }
-  return topojsonFeature(topology, topology.objects[objectName]);
 }
 
 export function crearRecintos(resultadosRaw, municipios, eleccion) {
@@ -74,7 +65,6 @@ export function crearRecintosConDepartamentos(
           },
           properties: {
             codigo,
-            codigo_hover: codigo,
             nivel: "recinto",
             municipio_codigo: value.municipio,
             departamento_codigo: departamentoCodigo,
@@ -125,8 +115,6 @@ export function crearTerritorios(territoriosRaw, municipios, departamentos, elec
           type: "Feature",
           geometry: feature.geometry,
           properties: {
-            codigo_hover:
-              eleccion === "alcalde" ? municipioCodigo : departamentoCodigo,
             municipio_codigo: municipioCodigo,
             departamento_codigo: departamentoCodigo,
             nivel: eleccion === "alcalde" ? "municipio" : "departamento",

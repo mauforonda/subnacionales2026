@@ -29,13 +29,19 @@ import {
   getStorage,
   metricas,
 } from "./components/definiciones.js";
-import { cargarDatos, crearRecintos } from "./components/datos.js";
+import {
+  cargarDatos,
+  crearRecintosConDepartamentos,
+  crearTerritorios,
+} from "./components/datos.js";
 import {
   aplicarMetricaMapa,
+  limpiarResaltado,
   crearCapasBase,
   crearMapa,
   leerMapaInicial,
   persistirMapa,
+  resaltarFeature,
 } from "./components/mapa.js";
 import { popupHTML, renderizarLeyenda } from "./components/ui.js";
 ```
@@ -69,7 +75,7 @@ function obtenerEleccionActual() {
 <div class="app">
   <header class="header">
     <div class="header__eyebrow">Elecciones subnacionales 2026</div>
-    <div class="header__subtitle">Votos a <span class="header__eleccion">${eleccionInput}</span> por recinto a nivel nacional</div>
+    <div class="header__subtitle">Votos para <span class="header__eleccion">${eleccionInput}</span></div>
     <div class="header__timestamp" id="timestamp-container"></div>
     <div class="header__controls">
       <div class="control control--legend">
@@ -92,11 +98,23 @@ function obtenerEleccionActual() {
 </div>
 
 ```js
-const { resultadosRaw, municipios, timestamp } = await cargarDatos(
+const { resultadosRaw, municipios, departamentos, territoriosRaw, timestamp } =
+  await cargarDatos(
   DATA_BASE,
   obtenerEleccionActual().archivo,
 );
-const recintos = crearRecintos(resultadosRaw, municipios, eleccionInput.value);
+const recintos = crearRecintosConDepartamentos(
+  resultadosRaw,
+  municipios,
+  departamentos,
+  eleccionInput.value,
+);
+const territorios = crearTerritorios(
+  territoriosRaw,
+  municipios,
+  departamentos,
+  eleccionInput.value,
+);
 const mapaInicial = leerMapaInicial(storage, STORAGE_MAP_KEY, MAPA_FALLBACK);
 ```
 
@@ -127,7 +145,7 @@ invalidation.then(() => {
 ```js
 const ready = new Promise((resolve) => {
   map.on("load", () => {
-    crearCapasBase(map, recintos, metricas.invalido);
+    crearCapasBase(map, territorios, recintos, metricas.invalido);
     resolve();
   });
 });
@@ -149,6 +167,16 @@ const ready = new Promise((resolve) => {
     if (storage) storage.setItem(STORAGE_KEY, metricaInput.value);
     renderizarLeyenda(metricaSiguiente);
     aplicarMetricaMapa(map, metricaSiguiente);
+    if (map.__activePopupFeature) {
+      popup.setHTML(popupHTML(map.__activePopupFeature, metricaSiguiente));
+      resaltarFeature(
+        map,
+        map.__activePopupFeature.properties.nivel === "recinto"
+          ? "recintos"
+          : "territorios",
+        map.__activePopupFeature,
+      );
+    }
   };
   metricaInput.addEventListener("input", actualizar);
   invalidation.then(() =>
@@ -160,19 +188,39 @@ const ready = new Promise((resolve) => {
 ```js
 {
   await ready;
+  let eleccionRequestId = 0;
   const actualizarEleccion = async () => {
+    eleccionRequestId += 1;
+    const requestId = eleccionRequestId;
     const eleccionSiguiente = obtenerEleccionActual();
     if (storage) storage.setItem(STORAGE_ELECCION_KEY, eleccionInput.value);
-    const { resultadosRaw, municipios, timestamp } = await cargarDatos(
+    const {
+      resultadosRaw,
+      municipios,
+      departamentos,
+      territoriosRaw,
+      timestamp,
+    } = await cargarDatos(
       DATA_BASE,
       eleccionSiguiente.archivo,
     );
-    const recintosNuevos = crearRecintos(
+    if (requestId !== eleccionRequestId) return;
+    const recintosNuevos = crearRecintosConDepartamentos(
       resultadosRaw,
       municipios,
+      departamentos,
       eleccionInput.value,
     );
+    const territoriosNuevos = crearTerritorios(
+      territoriosRaw,
+      municipios,
+      departamentos,
+      eleccionInput.value,
+    );
+    limpiarResaltado(map);
+    map.__activePopupFeature = null;
     map.getSource("recintos")?.setData(recintosNuevos);
+    map.getSource("territorios")?.setData(territoriosNuevos);
     const container = document.querySelector("#timestamp-container");
     container.textContent = timestamp
       ? `actualizado el ${timestamp.fecha} a las ${timestamp.hora}`
@@ -192,17 +240,37 @@ let locked = false;
   await ready;
 
   if (map.__hoverHandlers) {
-    const { mouseenter, mouseleave, clickIn, clickAny } = map.__hoverHandlers;
-    map.off("mouseenter", "recintos_hover", mouseenter);
-    map.off("mouseleave", "recintos_hover", mouseleave);
-    map.off("click", "recintos_hover", clickIn);
+    const {
+      mousemoveRecintos,
+      mouseleaveRecintos,
+      clickRecintos,
+      mousemoveTerritorios,
+      mouseleaveTerritorios,
+      clickTerritorios,
+      clickAny,
+    } = map.__hoverHandlers;
+    map.off("mousemove", "recintos_hover", mousemoveRecintos);
+    map.off("mouseleave", "recintos_hover", mouseleaveRecintos);
+    map.off("click", "recintos_hover", clickRecintos);
+    map.off("mousemove", "territorios_hover", mousemoveTerritorios);
+    map.off("mouseleave", "territorios_hover", mouseleaveTerritorios);
+    map.off("click", "territorios_hover", clickTerritorios);
     map.off("click", clickAny);
   }
 
-  const mouseenter = (e) => {
+  const sameHoverTarget = (feature, source) =>
+    map.__activePopupFeature?.properties?.codigo_hover ===
+      feature?.properties?.codigo_hover && map.__activePopupSource === source;
+
+  const mousemoveRecintos = (e) => {
+    if (locked) return;
     map.getCanvas().style.cursor = "pointer";
     const feature = e.features?.[0];
     if (!feature) return;
+    if (sameHoverTarget(feature, "recintos")) return;
+    map.__activePopupFeature = feature;
+    map.__activePopupSource = "recintos";
+    resaltarFeature(map, "recintos", feature);
 
     popup
       .setLngLat(feature.geometry.coordinates)
@@ -210,30 +278,83 @@ let locked = false;
       .addTo(map);
   };
 
-  const mouseleave = () => {
+  const mouseleaveRecintos = () => {
     map.getCanvas().style.cursor = "";
-    if (!locked) popup.remove();
+    if (!locked) {
+      map.__activePopupFeature = null;
+      map.__activePopupSource = null;
+      limpiarResaltado(map);
+      popup.remove();
+    }
   };
 
-  const clickIn = () => {
+  const clickRecintos = () => {
+    locked = true;
+  };
+
+  const mousemoveTerritorios = (e) => {
+    if (locked) return;
+    map.getCanvas().style.cursor = "pointer";
+    const feature = e.features?.[0];
+    if (!feature) return;
+    if (sameHoverTarget(feature, "territorios")) {
+      popup.setLngLat(e.lngLat ?? map.getCenter());
+      return;
+    }
+    map.__activePopupFeature = feature;
+    map.__activePopupSource = "territorios";
+    resaltarFeature(map, "territorios", feature);
+    const lngLat = e.lngLat ?? map.getCenter();
+
+    popup
+      .setLngLat(lngLat)
+      .setHTML(popupHTML(feature, obtenerMetricaActual()))
+      .addTo(map);
+  };
+
+  const mouseleaveTerritorios = () => {
+    map.getCanvas().style.cursor = "";
+    if (!locked) {
+      map.__activePopupFeature = null;
+      map.__activePopupSource = null;
+      limpiarResaltado(map);
+      popup.remove();
+    }
+  };
+
+  const clickTerritorios = () => {
     locked = true;
   };
 
   const clickAny = (e) => {
     const hit = map.queryRenderedFeatures(e.point, {
-      layers: ["recintos_hover"],
+      layers: ["recintos_hover", "territorios_hover"],
     }).length;
     if (!hit) {
       locked = false;
+      map.__activePopupFeature = null;
+      map.__activePopupSource = null;
+      limpiarResaltado(map);
       popup.remove();
     }
   };
 
-  map.on("mouseenter", "recintos_hover", mouseenter);
-  map.on("mouseleave", "recintos_hover", mouseleave);
-  map.on("click", "recintos_hover", clickIn);
+  map.on("mousemove", "recintos_hover", mousemoveRecintos);
+  map.on("mouseleave", "recintos_hover", mouseleaveRecintos);
+  map.on("click", "recintos_hover", clickRecintos);
+  map.on("mousemove", "territorios_hover", mousemoveTerritorios);
+  map.on("mouseleave", "territorios_hover", mouseleaveTerritorios);
+  map.on("click", "territorios_hover", clickTerritorios);
   map.on("click", clickAny);
 
-  map.__hoverHandlers = { mouseenter, mouseleave, clickIn, clickAny };
+  map.__hoverHandlers = {
+    mousemoveRecintos,
+    mouseleaveRecintos,
+    clickRecintos,
+    mousemoveTerritorios,
+    mouseleaveTerritorios,
+    clickTerritorios,
+    clickAny,
+  };
 }
 ```

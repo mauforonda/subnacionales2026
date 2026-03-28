@@ -1,5 +1,5 @@
-import * as d3 from "npm:d3";
-import * as Plot from "npm:@observablehq/plot";
+import * as d3 from "../../_npm/d3@7.9.0/66d82917.js";
+import * as Plot from "../../_npm/@observablehq/plot@0.6.17/a96a6bbb.js";
 
 export function popupHTML(feature, metrica) {
   const p = feature.properties ?? {};
