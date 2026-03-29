@@ -40,6 +40,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6,Col. Polifuncional Calama,7038191,7,4,24,6,0,0,46,0,30,4,6,4
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6,Col. Polifuncional Calama,7038201,8,1,20,9,0,0,39,1,43,6,5,4
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6,Col. Polifuncional Calama,7038211,9,1,16,5,3,3,40,1,37,3,5,2
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6,Col. Polifuncional Calama,7038221,10,5,13,2,1,1,38,1,41,2,10,7
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6,Col. Polifuncional Calama,7038231,11,8,23,8,1,0,42,1,26,2,5,5
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6,Col. Polifuncional Calama,7038241,12,2,29,4,0,2,53,3,34,2,6,4
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,6,Col. Polifuncional Calama,7038251,13,3,26,3,1,1,48,1,27,3,7,6
@@ -2519,7 +2520,6 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8012,Col. Maria Teresa Pulido,7030811,4,3,20,5,1,3,37,1,34,5,8,3
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8012,Col. Maria Teresa Pulido,7030821,5,5,21,5,0,0,27,3,38,4,10,1
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8012,Col. Maria Teresa Pulido,7030831,6,3,11,8,3,3,54,1,31,0,8,4
-1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8012,Col. Maria Teresa Pulido,7030841,7,3,32,4,0,1,39,1,38,1,6,3
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8012,Col. Maria Teresa Pulido,7030851,8,11,31,10,1,1,35,0,28,3,5,2
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8012,Col. Maria Teresa Pulido,7030861,9,2,20,3,1,3,38,2,30,1,8,9
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,8012,Col. Maria Teresa Pulido,7030871,10,5,17,9,2,1,49,2,38,1,3,0
@@ -6240,7 +6240,19 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062761,9,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062771,10,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062781,11,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062791,12,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062801,13,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062811,14,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062821,15,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062831,16,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062841,17,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062851,18,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062861,19,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062871,20,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062881,21,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062891,22,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062901,23,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062911,24,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,4000,Esc. Mariscal Sucre,7062921,25,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,4001,U.E. Carlos Mayser Sauer,7063011,8,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,4001,U.E. Carlos Mayser Sauer,7063031,10,0,0,0,0,0,0,0,0,0,0,0
@@ -6249,14 +6261,46 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Velasco,1,San Ignacio,2286,San Ignacio,4001,U.E. Carlos Mayser Sauer,7063061,13,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,4001,U.E. Carlos Mayser Sauer,7063071,14,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063431,1,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063441,2,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063451,3,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063461,4,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063471,5,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063481,6,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063491,7,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063501,8,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063511,9,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063521,10,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063531,11,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063541,12,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063551,13,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063561,14,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063571,15,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063581,16,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063591,17,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24002,Esc. Lic. Senoritas Monsenor Daniel Rive,7063611,19,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063751,1,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063761,2,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063771,3,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063781,4,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063791,5,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063801,6,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063811,7,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063821,8,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063831,9,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063841,10,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063851,11,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063861,12,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063871,13,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063881,14,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063891,15,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063901,16,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063911,17,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063921,18,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063931,19,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,24020,U.E. Don Bosco Miguel Areje,7063941,20,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,32052,Coliseo Arturo Añez,7064011,1,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,32052,Coliseo Arturo Añez,7064021,2,0,0,0,0,0,0,0,0,0,0,0
+3,Velasco,1,San Ignacio,2286,San Ignacio,32052,Coliseo Arturo Añez,7064031,3,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,32052,Coliseo Arturo Añez,7064041,4,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,32052,Coliseo Arturo Añez,7064051,5,0,0,0,0,0,0,0,0,0,0,0
 3,Velasco,1,San Ignacio,2286,San Ignacio,32052,Coliseo Arturo Añez,7064061,6,0,0,0,0,0,0,0,0,0,0,0
@@ -6264,6 +6308,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,Velasco,1,San Ignacio,2287,El Carmen de Ruíz,24005,U.E. 13 de Mayo,7063721,1,0,37,7,0,0,26,2,2,0,1,5
 3,Velasco,1,San Ignacio,2287,El Carmen de Ruíz,24005,U.E. 13 de Mayo,7063731,2,0,27,4,0,0,30,2,11,3,0,0
 3,Velasco,1,San Ignacio,2287,El Carmen de Ruíz,24005,U.E. 13 de Mayo,7063741,3,1,17,6,0,1,22,0,7,1,2,1
+3,Velasco,1,San Ignacio,2288,Florida,4006,Esc. Alberto Natusch Busch,7063121,1,0,10,2,0,0,10,0,4,0,2,1
 3,Velasco,1,San Ignacio,2289,Piso Firme,4007,U.E. Modesto Gómez Pedraza,7063131,1,0,18,13,0,0,14,1,22,0,10,1
 3,Velasco,1,San Ignacio,2289,Piso Firme,4007,U.E. Modesto Gómez Pedraza,7063141,2,0,2,1,0,0,1,0,0,1,2,0
 3,Velasco,1,San Ignacio,2290,Espíritu,4003,U.E. Lorenzo Moreno Antelo,7063091,1,1,26,2,1,0,18,1,7,0,0,5
@@ -6935,6 +6980,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,Sara,1,Portachuelo,2337,Portachuelo,2015,U.E. Adelaida Landívar Moreno,7070051,14,0,48,38,3,2,38,1,16,0,0,1
 6,Sara,1,Portachuelo,2337,Portachuelo,2015,U.E. Adelaida Landívar Moreno,7070061,15,0,50,34,3,0,43,1,15,0,3,0
 6,Sara,1,Portachuelo,2337,Portachuelo,2015,U.E. Adelaida Landívar Moreno,7070071,16,1,33,33,2,0,46,0,14,3,0,0
+6,Sara,1,Portachuelo,2337,Portachuelo,2015,U.E. Adelaida Landívar Moreno,7070081,17,0,27,20,5,0,26,0,7,1,2,1
 6,Sara,1,Portachuelo,2337,Portachuelo,22000,Esc. Julio Landivar,7070091,1,0,62,34,0,0,49,0,13,1,0,0
 6,Sara,1,Portachuelo,2337,Portachuelo,22000,Esc. Julio Landivar,7070101,2,2,42,37,0,0,47,0,11,1,3,1
 6,Sara,1,Portachuelo,2337,Portachuelo,22000,Esc. Julio Landivar,7070111,3,1,46,29,2,1,36,0,10,2,0,0
