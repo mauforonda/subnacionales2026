@@ -99,7 +99,7 @@ function formatearTimestamp(value) {
     <div class="header__subtitle">Resultados para gobernador</div>
     <div class="header__timestamp" id="timestamp-container"></div>
     <div class="header__selector">
-      <!-- <div class="header__selector_label">Departamento</div> -->
+      <div class="header__selector_label">Selecciona un departamento</div>
       ${departamentoInput}
     </div>
     <div class="header__summary" id="resumen-departamento"></div>
@@ -122,6 +122,34 @@ function formatearTimestamp(value) {
   container.textContent = timestamp
     ? `actualizado el ${timestamp.fecha} a las ${timestamp.hora}`
     : "";
+}
+```
+
+```js
+{
+  const header = document.querySelector(".header--gobernaciones");
+  if (header) {
+    const actualizarIndicadorScroll = () => {
+      const scrollable = header.scrollHeight - header.clientHeight > 12;
+      const atBottom =
+        header.scrollTop + header.clientHeight >= header.scrollHeight - 4;
+      header.classList.toggle("header--scrollable", scrollable);
+      header.classList.toggle("header--at-bottom", !scrollable || atBottom);
+    };
+
+    const rafActualizar = () => requestAnimationFrame(actualizarIndicadorScroll);
+    header.__updateScrollIndicator = rafActualizar;
+
+    header.addEventListener("scroll", actualizarIndicadorScroll);
+    window.addEventListener("resize", rafActualizar);
+    rafActualizar();
+
+    invalidation.then(() => {
+      header.removeEventListener("scroll", actualizarIndicadorScroll);
+      window.removeEventListener("resize", rafActualizar);
+      delete header.__updateScrollIndicator;
+    });
+  }
 }
 ```
 
@@ -440,6 +468,8 @@ const ready = new Promise((resolve) => {
     const container = document.querySelector("#resumen-departamento");
     if (!container) return;
     container.replaceChildren(resumenNode({ codigo, ...manifiesto[codigo] }));
+    document.querySelector(".header--gobernaciones")
+      ?.__updateScrollIndicator?.();
   };
 
   const aplicarDepartamento = async (codigo, { ajustarVista = false } = {}) => {
