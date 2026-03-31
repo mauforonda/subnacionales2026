@@ -8,16 +8,18 @@
 
 .header__selector {
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
   margin-top: 1rem;
 }
 
 .header__selector_label {
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.3rem;
   font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
+  /* font-weight: 700; */
+  /* letter-spacing: 0.12em; */
+  /* text-transform: uppercase; */
   color: var(--text-soft);
   text-align: center;
 }
@@ -33,9 +35,9 @@
   min-width: 12rem;
   max-width: 15rem;
   margin: 0 auto;
-  padding: 0.38rem 0.85rem;
+  padding: 0.38rem 0.95rem;
   border: 1px solid rgba(0, 0, 0, 0.08);
-  border-radius: .7rem;
+  border-radius: 0.7rem;
   background: rgba(255, 255, 255, 0.6);
   font: inherit;
   font-weight: 500;
@@ -117,13 +119,55 @@
 
 @media (max-width: 720px) {
   .header--gobernaciones {
+    position: absolute;
     max-width: none;
+    max-height: min(68vh, 22rem);
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .header--gobernaciones.header--scrollable:not(.header--at-bottom)::after {
+    content: "...";
+    position: sticky;
+    bottom: -0.55rem;
+    display: block;
+    width: calc(100% + 1.2rem);
+    margin-left: -0.6rem;
+    box-sizing: border-box;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: -0.8rem;
+    padding: 1.35rem 0 0.55rem;
+    background:
+      linear-gradient(
+        to bottom,
+        rgba(244, 241, 235, 0),
+        rgba(235, 236, 244, 0.82) 94%,
+        rgba(235, 239, 244, 0.98) 100%
+      );
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-align: center;
+    color: var(--text-soft);
+    pointer-events: none;
   }
 
   .header__selector select {
     min-width: 10.5rem;
     max-width: 13rem;
     font-size: 0.92rem;
+  }
+
+  .header__selector {
+    margin-top: 1rem;
+  }
+
+  .header__selector_label {
+    margin-bottom: 0.3rem;
+    font-size: 0.7rem;
   }
 
   .maplibregl-popup-content .popup--gobernaciones {
