@@ -31,6 +31,10 @@ DEPARTAMENTOS = [
     "Beni",
     "Pando",
 ]
+TOP_PARTIDOS_POR_DEPARTAMENTO = {
+    "2": 8,
+    "4": 5,
+}
 BASE = Path(__file__).resolve().parent
 REPO_ROOT = BASE.parent.parent
 GEO = REPO_ROOT / "geo" / "2026" / "recintos.gpkg"
@@ -93,17 +97,20 @@ def cargar_validos(path_validos):
     return df.groupby("codigo")[partidos].sum()
 
 
-def top3_por_departamento(resultados_departamento):
+def top_partidos_por_departamento(resultados_departamento, n=3):
     return (
         resultados_departamento.sort_values(ascending=False)
-        .head(3)
+        .head(n)
         .index.tolist()
     )
 
 
-def compactar_resultados(serie_resultados, top3):
-    data = {partido: int(serie_resultados.get(partido, 0)) for partido in top3}
-    otros = int(serie_resultados.drop(labels=top3, errors="ignore").sum())
+def compactar_resultados(serie_resultados, partidos_destacados):
+    data = {
+        partido: int(serie_resultados.get(partido, 0))
+        for partido in partidos_destacados
+    }
+    otros = int(serie_resultados.drop(labels=partidos_destacados, errors="ignore").sum())
     data["otros"] = otros
     return data
 
@@ -134,12 +141,17 @@ def preparar_departamento(codigo_depto, nombre_depto, recintos_geo):
 
     partidos = validos.columns.tolist()
     resultados_departamento = tabla[partidos].sum()
-    top3 = top3_por_departamento(resultados_departamento)
-    resultados_depto = compactar_resultados(resultados_departamento, top3)
+    n_partidos = TOP_PARTIDOS_POR_DEPARTAMENTO.get(codigo_depto, 3)
+    partidos_destacados = top_partidos_por_departamento(
+        resultados_departamento, n=n_partidos
+    )
+    resultados_depto = compactar_resultados(
+        resultados_departamento, partidos_destacados
+    )
 
     recintos = {}
     for codigo, row in tabla.iterrows():
-        resultados_recinto = compactar_resultados(row[partidos], top3)
+        resultados_recinto = compactar_resultados(row[partidos], partidos_destacados)
         recintos[codigo] = {
             "habilitados": int(row["habilitados"]),
             "ganador": ganador_real(row[partidos]),

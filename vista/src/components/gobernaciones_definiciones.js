@@ -42,6 +42,31 @@ export const gobernacionesPartidos = {
       color: "#529c7c",
       foto: await FileAttachment("../imagenes/felix_patzi.png").url(),
     }),
+    IH: partido("IH", {
+      candidato: "Antonio Riveros",
+      color: "#b357b3",
+      foto: await FileAttachment("../imagenes/antonio_riveros.png").url(),
+    }),
+    VENCEREMOS: partido("VENCEREMOS", {
+      candidato: "Andrés Gomez",
+      color: "#e34011",
+      foto: await FileAttachment("../imagenes/andres_gomez.png").url(),
+    }),
+    UPC: partido("UPC", {
+      candidato: "Santos Quispe",
+      color: "#b03b10",
+      foto: await FileAttachment("../imagenes/santos_quispe.png").url(),
+    }),
+    ASLP: partido("ASLP", {
+      candidato: "Ingvar Ellefsen ",
+      color: "#002780",
+      foto: await FileAttachment("../imagenes/ingvar_ellefsen.png").url(),
+    }),
+    VIDA: partido("VIDA", {
+      candidato: "Gregorio Merlo",
+      color: "#f98f2e",
+      foto: await FileAttachment("../imagenes/gregorio_merlo.png").url(),
+    }),
   },
   3: {
     "A-UPP": partido("A-UPP", {
@@ -75,6 +100,16 @@ export const gobernacionesPartidos = {
       candidato: "Johnny Franklin Vedia",
       color: "#ccc16a",
       foto: await FileAttachment("../imagenes/johnny_vedia.png").url(),
+    }),
+    NGP: partido("NGP", {
+      candidato: "Juan Saul García",
+      color: "#48b7dc",
+      foto: await FileAttachment("../imagenes/juan_garcia.png").url(),
+    }),
+    AORA: partido("AORA", {
+      candidato: "Rubén Gutiérrez Carrizo ",
+      color: "#4ca689",
+      foto: await FileAttachment("../imagenes/ruben_gutierrez.png").url(),
     }),
   },
   5: {
