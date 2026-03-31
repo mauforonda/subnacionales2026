@@ -144,7 +144,7 @@ function fotoPartido(meta, id) {
   const foto = meta?.[id]?.foto;
   if (typeof foto === "string" && foto) return foto;
   const color = meta?.[id]?.color ?? "#b8b8b8";
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50" fill="${color}"/></svg>`;
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="49" fill="${color}" fill-opacity="0.22" stroke="${color}" stroke-opacity="0.38" stroke-width="1.5"/></svg>`;
   return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
 }
 
@@ -210,7 +210,7 @@ function plotResultado(resultado, meta, { fontSizeMultiplier = 1 } = {}) {
         x: "porcentaje",
         y: "id",
         fill: (d) => d.color ?? "#b8b8b8",
-        fillOpacity: 0.82,
+        fillOpacity: (d) => (d.id === "otros" ? .5 : 0.82),
         insetTop: 30,
         insetBottom: 8,
         r: 12,
