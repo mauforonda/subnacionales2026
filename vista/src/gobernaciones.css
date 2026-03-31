@@ -1,0 +1,134 @@
+:root {
+  --chart-bar-bg: rgba(17, 17, 17, 0.08);
+}
+
+.header--gobernaciones {
+  max-width: 27rem;
+}
+
+.header__selector {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.header__selector_label {
+  margin-bottom: 0.2rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-soft);
+  text-align: center;
+}
+
+.header__selector .inputs-3a86ea,
+.header__selector form {
+  margin: 0;
+  width: auto !important;
+}
+
+.header__selector select {
+  width: auto;
+  min-width: 12rem;
+  max-width: 15rem;
+  margin: 0 auto;
+  padding: 0.38rem 0.85rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: .7rem;
+  background: rgba(255, 255, 255, 0.6);
+  font: inherit;
+  font-weight: 500;
+  color: var(--text-strong);
+  box-shadow: none;
+  text-align: center;
+  text-align-last: center;
+  font-size: 1rem;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: none;
+  cursor: pointer;
+  transition:
+    background-color 120ms ease,
+    border-color 120ms ease,
+    color 120ms ease,
+    box-shadow 120ms ease;
+}
+
+.header__timestamp {
+  margin-top: 0.38rem;
+}
+
+.header__selector select:focus {
+  outline: none;
+  color: var(--text-strong);
+  background: rgba(255, 255, 255, 0.98);
+  border-color: rgba(0, 0, 0, 0.14);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.08);
+}
+
+.header__selector select:hover {
+  color: var(--text-strong);
+  background: rgba(255, 255, 255, 0.98);
+  border-color: rgba(0, 0, 0, 0.14);
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.08);
+}
+
+.header__note {
+  margin-top: 0.5rem;
+  font-size: 0.76rem;
+  line-height: 1.25;
+  color: var(--text-soft);
+  text-align: center;
+}
+
+.header__summary {
+  margin-top: 1.15rem;
+}
+
+.resultado-chart {
+  display: block;
+  width: 100%;
+  overflow: visible;
+}
+
+.resultado-chart text {
+  font-family: "Inter", system-ui, sans-serif;
+}
+
+.maplibregl-popup-content .popup--gobernaciones {
+  min-width: 18rem;
+  max-width: 23rem;
+  padding: 0.9rem 0.9rem 0.8rem;
+}
+
+.popup__chart {
+  margin-top: 0.55rem;
+}
+
+.popup__meta {
+  margin-top: 0.2rem;
+  font-size: 0.74rem;
+  line-height: 1.2;
+  color: var(--text-soft);
+  text-align: center;
+}
+
+@media (max-width: 720px) {
+  .header--gobernaciones {
+    max-width: none;
+  }
+
+  .header__selector select {
+    min-width: 10.5rem;
+    max-width: 13rem;
+    font-size: 0.92rem;
+  }
+
+  .maplibregl-popup-content .popup--gobernaciones {
+    min-width: 16rem;
+    max-width: min(82vw, 20rem);
+    padding: 0.8rem 0.75rem 0.75rem;
+  }
+}
