@@ -98,11 +98,20 @@ function formatearTimestamp(value) {
     <div class="header__eyebrow">Elecciones subnacionales 2026</div>
     <div class="header__subtitle">Resultados para gobernador</div>
     <div class="header__timestamp" id="timestamp-container"></div>
-    <div class="header__selector">
-      <div class="header__selector_label">Selecciona un departamento</div>
-      ${departamentoInput}
+    <button
+      class="header__toggle"
+      id="header-toggle"
+      type="button"
+      aria-expanded="true"
+      aria-label="Ocultar panel"
+    ><span class="header__toggle_icon" aria-hidden="true"></span></button>
+    <div class="header__collapsible" id="header-collapsible">
+      <div class="header__selector">
+        <div class="header__selector_label">Selecciona un departamento</div>
+        ${departamentoInput}
+      </div>
+      <div class="header__summary" id="resumen-departamento"></div>
     </div>
-    <div class="header__summary" id="resumen-departamento"></div>
   </header>
 
   <div id="mapa"></div>
@@ -128,11 +137,16 @@ function formatearTimestamp(value) {
 ```js
 {
   const header = document.querySelector(".header--gobernaciones");
+  const scrollContainer = document.querySelector("#header-collapsible");
+  const toggle = document.querySelector("#header-toggle");
   if (header) {
     const actualizarIndicadorScroll = () => {
-      const scrollable = header.scrollHeight - header.clientHeight > 12;
+      if (!scrollContainer) return;
+      const scrollable =
+        scrollContainer.scrollHeight - scrollContainer.clientHeight > 12;
       const atBottom =
-        header.scrollTop + header.clientHeight >= header.scrollHeight - 4;
+        scrollContainer.scrollTop + scrollContainer.clientHeight >=
+        scrollContainer.scrollHeight - 4;
       header.classList.toggle("header--scrollable", scrollable);
       header.classList.toggle("header--at-bottom", !scrollable || atBottom);
     };
@@ -140,13 +154,34 @@ function formatearTimestamp(value) {
     const rafActualizar = () => requestAnimationFrame(actualizarIndicadorScroll);
     header.__updateScrollIndicator = rafActualizar;
 
-    header.addEventListener("scroll", actualizarIndicadorScroll);
+    scrollContainer?.addEventListener("scroll", actualizarIndicadorScroll);
     window.addEventListener("resize", rafActualizar);
+
+    const actualizarColapso = () => {
+      if (!toggle) return;
+      const collapsed = header.classList.contains("header--collapsed");
+      toggle.setAttribute("aria-expanded", collapsed ? "false" : "true");
+      toggle.setAttribute(
+        "aria-label",
+        collapsed ? "Expandir panel" : "Ocultar panel",
+      );
+      rafActualizar();
+    };
+
+    const alternarColapso = () => {
+      if (window.innerWidth > 720) return;
+      header.classList.toggle("header--collapsed");
+      actualizarColapso();
+    };
+
+    toggle?.addEventListener("click", alternarColapso);
     rafActualizar();
+    actualizarColapso();
 
     invalidation.then(() => {
-      header.removeEventListener("scroll", actualizarIndicadorScroll);
+      scrollContainer?.removeEventListener("scroll", actualizarIndicadorScroll);
       window.removeEventListener("resize", rafActualizar);
+      toggle?.removeEventListener("click", alternarColapso);
       delete header.__updateScrollIndicator;
     });
   }
