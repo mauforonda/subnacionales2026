@@ -1,4 +1,4 @@
-import maplibregl from "../../_npm/maplibre-gl@5.21.1/13f11ada.js";
+import maplibregl from "../../_npm/maplibre-gl@5.23.0/67fd5c26.js";
 
 const TERRITORIOS_FADE_START = 8.6;
 const TERRITORIOS_FADE_END = 9;
