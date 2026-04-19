@@ -35,10 +35,11 @@ TOP_PARTIDOS_POR_DEPARTAMENTO = {
     "2": 8,
     "4": 5,
 }
-BASE = Path(__file__).resolve().parent
-REPO_ROOT = BASE.parent.parent
+ARTEFACTOS_DIR = Path(__file__).resolve().parent
+REPO_ROOT = ARTEFACTOS_DIR.parent.parent.parent
+RESULTADOS_DIR = REPO_ROOT / "resultados" / "primera_vuelta"
 GEO = REPO_ROOT / "geo" / "2026" / "recintos.gpkg"
-SALIDA_DIR = BASE / "vista_gobernaciones"
+SALIDA_DIR = ARTEFACTOS_DIR / "gobernaciones"
 SALIDA_MANIFIESTO = SALIDA_DIR / "manifiesto.json"
 
 
@@ -132,7 +133,7 @@ def ganador_real(resultados_departamento):
 
 def preparar_departamento(codigo_depto, nombre_depto, recintos_geo):
     depto_slug = slugify(nombre_depto)
-    folder = BASE / depto_slug / "gobernador-a"
+    folder = RESULTADOS_DIR / depto_slug / "gobernador-a"
 
     participacion = cargar_participacion(folder / "participacion.csv", codigo_depto)
     validos = cargar_validos(folder / "validos.csv")

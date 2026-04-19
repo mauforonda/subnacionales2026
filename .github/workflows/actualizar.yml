@@ -20,19 +20,19 @@ jobs:
         with:
           python-version: '3.12'
           cache: 'pip'
-          cache-dependency-path: resultados/primera_vuelta/requirements.txt
+          cache-dependency-path: requirements.txt
       - name: Python
         run: |
           python -m pip install --upgrade pip
-          pip install -r resultados/primera_vuelta/requirements.txt
+          pip install -r requirements.txt
       - name: Actualizar
         run: |
           ./resultados/primera_vuelta/actualizar.py
 
       - name: Preparar
         run: |
-          ./resultados/primera_vuelta/preparar.py
-          ./resultados/primera_vuelta/preparar_gobernaciones.py
+          ./mapas/artefactos/primera_vuelta/preparar.py
+          ./mapas/artefactos/primera_vuelta/preparar_gobernaciones.py
 
       - name: Commit
         run: |

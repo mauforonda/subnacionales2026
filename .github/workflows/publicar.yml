@@ -25,14 +25,14 @@ jobs:
         with:
           node-version: 20
           cache: "npm"
-          cache-dependency-path: ./vista/package-lock.json
+          cache-dependency-path: ./mapas/vista/package-lock.json
 
       - name: dependencias
-        working-directory: ./vista
+        working-directory: ./mapas/vista
         run: npm ci
 
       - name: build
-        working-directory: ./vista
+        working-directory: ./mapas/vista
         run: npm run build
 
       - name: ensure .nojekyll

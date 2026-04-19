@@ -42,9 +42,9 @@ import {
 
 ```js
 const DATA_BASE =
-  "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/resultados/primera_vuelta/vista_gobernaciones/";
+  "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/mapas/artefactos/primera_vuelta/gobernaciones/";
 const TIMESTAMP_URL =
-  "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/resultados/primera_vuelta/timestamp";
+  "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/mapas/artefactos/primera_vuelta/timestamp";
 const STORAGE_DEPARTAMENTO_KEY = "subnacionales2026_gobernaciones_departamento";
 const STORAGE_MAP_KEY = "subnacionales2026_gobernaciones_mapa";
 const MAPA_FALLBACK = {

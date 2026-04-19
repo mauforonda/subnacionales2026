@@ -43,8 +43,9 @@ DEPARTAMENTOS = [
     "Pando",
 ]
 
-BASE = Path(__file__).resolve().parent
-REPO_ROOT = BASE.parent.parent
+ARTEFACTOS_DIR = Path(__file__).resolve().parent
+REPO_ROOT = ARTEFACTOS_DIR.parent.parent.parent
+RESULTADOS_DIR = REPO_ROOT / "resultados" / "primera_vuelta"
 GEO = REPO_ROOT / "geo" / "2026" / "recintos.gpkg"
 
 
@@ -147,6 +148,7 @@ def agregar_participacion_scope(participacion, scope_por_codigo):
 
 
 def guardar_json(path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w") as f:
         json.dump(data, f, ensure_ascii=False)
 
@@ -162,14 +164,14 @@ def redondear_metricas(resultados):
 def guardar_timestamp_agregado():
     timestamps = []
     for departamento in DEPARTAMENTOS:
-        timestamp_path = BASE / slugify(departamento) / "timestamp"
+        timestamp_path = RESULTADOS_DIR / slugify(departamento) / "timestamp"
         if timestamp_path.exists():
             timestamps.append(timestamp_path.read_text().strip())
 
     if not timestamps:
         return
 
-    (BASE / "timestamp").write_text(f"{max(timestamps)}\n")
+    (ARTEFACTOS_DIR / "timestamp").write_text(f"{max(timestamps)}\n")
 
 
 def main():
@@ -184,7 +186,7 @@ def main():
         municipios_depto = None
 
         for eleccion, config in ELECCIONES.items():
-            folder = BASE / depto_slug / config["slug"]
+            folder = RESULTADOS_DIR / depto_slug / config["slug"]
             municipios, participacion = procesar_participacion(
                 folder / "participacion.csv", i + 1
             )
@@ -279,10 +281,10 @@ def main():
                 },
             )
 
-    guardar_json(BASE / "municipios.json", municipios_data)
-    guardar_json(BASE / "departamentos.json", departamentos_data)
+    guardar_json(ARTEFACTOS_DIR / "municipios.json", municipios_data)
+    guardar_json(ARTEFACTOS_DIR / "departamentos.json", departamentos_data)
     for eleccion, resultados in resultados_por_eleccion.items():
-        guardar_json(BASE / f"resultados_{eleccion}.json", resultados)
+        guardar_json(ARTEFACTOS_DIR / f"resultados_{eleccion}.json", resultados)
     guardar_timestamp_agregado()
 
 
