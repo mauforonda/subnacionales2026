@@ -27,13 +27,10 @@ jobs:
           pip install -r requirements.txt
       - name: Actualizar
         run: |
-          ./resultados/primera_vuelta/actualizar.py
           ./resultados/segunda_vuelta/actualizar.py
 
       - name: Preparar
         run: |
-          ./mapas/artefactos/primera_vuelta/preparar.py
-          ./mapas/artefactos/primera_vuelta/preparar_gobernaciones.py
           ./mapas/artefactos/segunda_vuelta/preparar_gobernaciones.py
 
       - name: Commit
