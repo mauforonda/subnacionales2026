@@ -804,6 +804,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Arce,1,Padcaya,1915,Rosillas,25,U.E. Rosillas II,6008581,2,240,185,2,16,203,185,203
 2,Arce,1,Padcaya,1915,Rosillas,25,U.E. Rosillas II,6008591,3,120,95,0,5,100,95,100
 2,Arce,1,Padcaya,3046,Marañuelo,27,U.E. San Jose de Marañuelo,6008601,1,210,165,2,4,171,165,171
+2,Arce,1,Padcaya,3289,La Huerta,1,U.E. La Huerta,6008071,1,240,194,1,8,203,194,203
 2,Arce,1,Padcaya,3289,La Huerta,1,U.E. La Huerta,6008081,2,79,63,0,3,66,63,66
 2,Arce,1,Padcaya,3333,Quebrada de Cañas,1,U.E. Quebrada De Cañas,6008091,1,163,117,1,15,133,117,133
 2,Arce,1,Padcaya,3752,Abra de San Miguel,1,U.E. Abra de San Miguel,6008111,1,240,202,1,1,204,202,204
@@ -813,6 +814,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014911,3,240,195,2,11,208,195,208
 4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014921,4,240,197,1,9,207,197,207
 4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014931,5,240,188,2,8,198,188,198
+4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014951,7,240,197,0,8,205,197,205
 4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014961,8,240,188,0,9,197,188,197
 4,Avilés,1,Uriondo,1925,Concepción (Uriondo),2,Col. Delfin Pino Ichazu,6014971,9,240,180,2,15,197,180,197
 4,Avilés,1,Uriondo,1926,Rujero,3,Esc. Nicolas Gareca,6014991,1,164,102,6,19,127,102,127
@@ -835,9 +837,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Avilés,1,Uriondo,1935,Miscas Caldera,13,U.E. 15 de Octubre,6015311,2,202,124,2,11,137,124,137
 4,Avilés,1,Uriondo,2684,La Compañia,4,U.E. La Compañia,6015001,1,240,180,2,16,198,180,198
 4,Avilés,1,Uriondo,2684,La Compañia,4,U.E. La Compañia,6015011,2,227,181,1,22,204,181,204
+4,Avilés,1,Uriondo,3272,San José de Charajas,1,U.E. 19 de Marzo,6014851,1,240,191,0,7,198,191,198
 4,Avilés,1,Uriondo,3272,San José de Charajas,1,U.E. 19 de Marzo,6014861,2,39,28,0,1,29,28,29
 4,Avilés,1,Uriondo,3338,Mulli Cancha,1,Esc. Mulli Cancha 27 De Mayo,6014871,1,91,62,0,14,76,62,76
 4,Avilés,1,Uriondo,3339,Ancon Grande,1,U.E. Ancon Grande,6014881,1,174,150,1,1,152,150,152
+4,Avilés,1,Uriondo,4648,San Isidro,32457,U.E. San Juan,6015361,2,90,80,0,5,85,80,85
 4,Avilés,2,Yunchará,1936,Yunchara,2,Col. 6 de Abril,6015371,1,240,161,1,10,172,161,172
 4,Avilés,2,Yunchará,1936,Yunchara,2,Col. 6 de Abril,6015381,2,23,17,0,0,17,17,17
 4,Avilés,2,Yunchará,1939,San José de Churquis,5,U.E. San Jose de Churquis,6015431,1,74,52,0,6,58,52,58
@@ -862,6 +866,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015731,11,240,167,1,14,182,167,182
 5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015741,12,240,180,1,18,199,180,199
 5,Méndez,1,San Lorenzo,1990,San Lorenzo,2,U.E. Eustaquio Mendez,6015751,13,118,87,2,4,93,87,93
+5,Méndez,1,San Lorenzo,1991,Tarija Cancha,3,U.E. Tarija Cancha Sud,6015771,1,240,181,1,10,192,181,192
 5,Méndez,1,San Lorenzo,1991,Tarija Cancha,3,U.E. Tarija Cancha Sud,6015781,2,240,190,2,13,205,190,205
 5,Méndez,1,San Lorenzo,1991,Tarija Cancha,3,U.E. Tarija Cancha Sud,6015791,3,240,194,0,11,205,194,205
 5,Méndez,1,San Lorenzo,1991,Tarija Cancha,3,U.E. Tarija Cancha Sud,6015801,4,190,146,2,13,161,146,161
@@ -916,6 +921,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Méndez,1,San Lorenzo,3290,Bordo El Mollar,1,U.E. Bordo El Mollar,6015581,3,240,156,3,17,176,156,176
 5,Méndez,1,San Lorenzo,3290,Bordo El Mollar,1,U.E. Bordo El Mollar,6015591,4,95,73,0,6,79,73,79
 5,Méndez,1,San Lorenzo,4646,Santa Bárbara,32455,U.E. Santa Bárbara,6016521,1,240,180,2,31,213,180,213
+5,Méndez,1,San Lorenzo,4646,Santa Bárbara,32455,U.E. Santa Bárbara,6016531,2,85,72,2,3,77,72,77
 5,Méndez,2,El Puente,2023,Iscayachi,9,U.E. Franz Tamayo,6016671,1,240,151,3,33,187,151,187
 5,Méndez,2,El Puente,2023,Iscayachi,9,U.E. Franz Tamayo,6016681,2,240,177,2,10,189,177,189
 5,Méndez,2,El Puente,2023,Iscayachi,9,U.E. Franz Tamayo,6016691,3,240,167,4,12,183,167,183
