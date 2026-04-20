@@ -326,6 +326,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Trinidad,2526,Trinidad,32011,U.E. Evangélico Cuatro,8002631,2,66,117
 1,Cercado,1,Trinidad,2526,Trinidad,32011,U.E. Evangélico Cuatro,8002641,3,80,118
 1,Cercado,1,Trinidad,2526,Trinidad,32011,U.E. Evangélico Cuatro,8002651,4,27,36
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002831,1,78,104
 1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002841,2,89,96
 1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002851,3,68,112
 1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002861,4,88,98
@@ -410,6 +411,56 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,2,San Javier,3867,La Curva,1,U.E. La Curva,8003991,2,23,64
 1,Cercado,2,San Javier,3867,La Curva,1,U.E. La Curva,8004001,3,1,6
 1,Cercado,2,San Javier,4172,Villa Rodeo,25567,U.E. Villa Rodeo,8004121,1,22,29
+2,Vaca Diez,1,Riberalta,2543,Nazareth,1,Escuela Nazareth,8004131,1,55,47
+2,Vaca Diez,1,Riberalta,2546,Tumichucua,1,U.E. Zaida Gosalvez Alarcón,8004141,1,118,51
+2,Vaca Diez,1,Riberalta,2546,Tumichucua,1,U.E. Zaida Gosalvez Alarcón,8004151,2,56,30
+2,Vaca Diez,1,Riberalta,2749,Warnes,1,U.E.   Warnes,8004161,1,79,74
+2,Vaca Diez,1,Riberalta,2749,Warnes,1,U.E.   Warnes,8004171,2,78,84
+2,Vaca Diez,1,Riberalta,2749,Warnes,1,U.E.   Warnes,8004181,3,26,31
+2,Vaca Diez,1,Riberalta,3096,Bolivar,1,U.E. Bolívar,8004191,1,98,66
+2,Vaca Diez,1,Riberalta,3096,Bolivar,1,U.E. Bolívar,8004201,2,92,74
+2,Vaca Diez,1,Riberalta,3096,Bolivar,1,U.E. Bolívar,8004211,3,55,25
+2,Vaca Diez,1,Riberalta,3097,12 de Octubre,1,Escuela 12 de Octubre,8004221,1,103,59
+2,Vaca Diez,1,Riberalta,3097,12 de Octubre,1,Escuela 12 de Octubre,8004231,2,54,41
+2,Vaca Diez,1,Riberalta,3101,Santa María  de Vaca Diez,1,U.E. Santa Maria,8004291,1,69,74
+2,Vaca Diez,1,Riberalta,3101,Santa María  de Vaca Diez,1,U.E. Santa Maria,8004301,2,85,79
+2,Vaca Diez,1,Riberalta,4003,La Esperanza,25317,U.E. La Esperanza,8004311,1,67,89
+2,Vaca Diez,1,Riberalta,4003,La Esperanza,25317,U.E. La Esperanza,8004321,2,92,84
+2,Vaca Diez,1,Riberalta,4003,La Esperanza,25317,U.E. La Esperanza,8004331,3,26,29
+2,Vaca Diez,1,Riberalta,4004,Popechi,25318,U.E. Popechi,8004341,1,86,74
+2,Vaca Diez,1,Riberalta,4004,Popechi,25318,U.E. Popechi,8004351,2,75,61
+2,Vaca Diez,1,Riberalta,4005,Bella Flor,25319,U.E. Bella Flor,8004361,1,104,59
+2,Vaca Diez,1,Riberalta,4005,Bella Flor,25319,U.E. Bella Flor,8004371,2,14,11
+2,Vaca Diez,1,Riberalta,4576,Nueva Unión,32286,U.E. Nueva Unión I,8004411,1,80,38
+4,Yacuma,1,Santa Ana,2587,Los Montes de Oro,1,Esc. Los Montes De Oro,8010711,1,3,1
+4,Yacuma,1,Santa Ana,4579,Carmen del Matto,32291,U.E. Carmen del Matto,8010741,1,11,43
+4,Yacuma,2,Exaltación,2582,Exaltación,1,Esc. Jose Max Paredes,8011141,1,76,14
+4,Yacuma,2,Exaltación,2582,Exaltación,1,Esc. Jose Max Paredes,8011171,4,69,17
+4,Yacuma,2,Exaltación,2584,San Carlos,1,Esc. San Carlos,8011191,1,26,17
+4,Yacuma,2,Exaltación,2585,El Trompillo Mamoré,1,Esc. El Trompillo,8011201,1,2,5
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011521,2,90,69
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011531,3,84,78
+5,Moxos,1,San Ignacio,2596,San Ignacio,2,L. Gilfredo Cortez Candia,8011571,7,102,64
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011761,1,75,75
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011791,4,121,59
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011801,5,90,75
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011811,6,92,83
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011821,7,99,69
+5,Moxos,1,San Ignacio,2596,San Ignacio,26360,U.E. Estanislau de Marchena,8011851,10,15,18
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011641,2,86,81
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011651,3,82,87
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011671,5,90,77
+5,Moxos,1,San Ignacio,2596,San Ignacio,32433,U.E. Sócrates Parada Eguez,8011711,9,101,75
+5,Moxos,1,San Ignacio,2597,San Ignacito,1,Esc. Central San Ignacito,8011281,1,1,9
+5,Moxos,1,San Ignacio,2598,Fatima,1,Esc. Fatima,8011291,1,61,63
+5,Moxos,1,San Ignacio,2600,Argentina,1,Esc. La Argentina,8011301,1,75,14
+5,Moxos,1,San Ignacio,2605,San Lorenzo de Moxos,1,Esc. Ovidio Roca C.,8011351,2,63,86
+5,Moxos,1,San Ignacio,2605,San Lorenzo de Moxos,1,Esc. Ovidio Roca C.,8011361,3,40,66
+5,Moxos,1,San Ignacio,2827,Monte Mae,1,Esc. Monte Mae,8011431,1,31,45
+5,Moxos,1,San Ignacio,3406,Bermeo,1,Escuela De Bermeo,8011471,1,51,15
+5,Moxos,2,TIOC Territorio Indígena Multiétnico - TIM,2606,Monte Grande,1,Esc. Monte Grande,8011891,2,19,50
+5,Moxos,2,TIOC Territorio Indígena Multiétnico - TIM,2825,Retiro,1,Esc. Retiro,8011901,1,58,38
+5,Moxos,2,TIOC Territorio Indígena Multiétnico - TIM,3106,San José del Cabitu,1,Esc. San Jose Del Cabitu,8011921,1,88,68
 6,Marbán,1,Loreto,2624,Loreto,1,Esc. Perfecta Vda. De Bejarano,8011941,1,63,88
 6,Marbán,1,Loreto,2624,Loreto,1,Esc. Perfecta Vda. De Bejarano,8011951,2,49,115
 6,Marbán,1,Loreto,2624,Loreto,1,Esc. Perfecta Vda. De Bejarano,8011961,3,18,25
@@ -418,9 +469,29 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,Marbán,2,San Andrés,2633,San Andrés,1,Esc. Humberto Velarde,8012081,1,66,106
 6,Marbán,2,San Andrés,2633,San Andrés,1,Esc. Humberto Velarde,8012091,2,10,11
 6,Marbán,2,San Andrés,2634,Perotó,1,Esc. Peroto,8012101,1,79,90
+6,Marbán,2,San Andrés,2635,Villa Banzer,1,Esc.Villa Banzer,8012111,1,52,46
+6,Marbán,2,San Andrés,2636,Santa Rosa Km.100,1,Esc. Santa Rosa,8012121,1,73,92
+6,Marbán,2,San Andrés,2636,Santa Rosa Km.100,1,Esc. Santa Rosa,8012131,2,76,78
+6,Marbán,2,San Andrés,2636,Santa Rosa Km.100,1,Esc. Santa Rosa,8012141,3,12,6
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012321,1,78,90
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012331,2,70,89
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012341,3,80,69
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012351,4,76,80
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012361,5,99,80
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012371,6,90,70
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012391,8,124,64
+6,Marbán,2,San Andrés,2637,San Pablo,2,Esc. Central 2 De Agosto,8012421,11,92,80
 6,Marbán,2,San Andrés,2642,San Lorenzo de Marban,1,Esc. San Lorenzo,8012161,1,59,47
 6,Marbán,2,San Andrés,2643,Villa Alba,1,Esc. Villa Alba,8012171,1,97,48
 6,Marbán,2,San Andrés,2683,Somopae,1,Esc. Somopae,8012181,1,92,91
 6,Marbán,2,San Andrés,2683,Somopae,1,Esc. Somopae,8012191,2,17,28
+6,Marbán,2,San Andrés,2748,Buen Jesús,1,Esc. Buen Jesus,8012201,1,121,48
+6,Marbán,2,San Andrés,3113,4 de Julio,1,Escuela 4 de Julio,8012241,1,85,53
+6,Marbán,2,San Andrés,3113,4 de Julio,1,Escuela 4 de Julio,8012251,2,13,8
 6,Marbán,2,San Andrés,3276,Elvira,1,Escuela Elvira,8012261,1,89,73
 6,Marbán,2,San Andrés,3276,Elvira,1,Escuela Elvira,8012271,2,47,31
+6,Marbán,2,San Andrés,3341,Nueva Magdalena,1,Escuela Nueva Magdalena,8012291,2,50,20
+6,Marbán,2,San Andrés,3385,Nueva Betania,1,Escuela de Nueva Betania,8012301,1,98,75
+6,Marbán,2,San Andrés,3385,Nueva Betania,1,Escuela de Nueva Betania,8012311,2,76,48
+6,Marbán,2,San Andrés,4115,Villa San Pedro,25525,U.E. Canaan,8012451,1,94,40
+6,Marbán,2,San Andrés,4422,Unión y Fe,26179,U.E. Unión y Fe,8012471,1,86,74
