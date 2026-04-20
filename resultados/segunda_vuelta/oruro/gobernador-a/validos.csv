@@ -1023,6 +1023,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,32187,U.E. Emilio Vasquez,4006811,3,31,88
 1,Cercado,1,Oruro,2059,Oruro,32311,U.E. Fred Nuñez Gonzales,4008671,1,59,104
 1,Cercado,1,Oruro,2059,Oruro,32311,U.E. Fred Nuñez Gonzales,4008681,2,66,105
+1,Cercado,1,Oruro,2059,Oruro,32311,U.E. Fred Nuñez Gonzales,4008691,3,36,63
 1,Cercado,1,Oruro,2059,Oruro,32363,U. E. Vichuloma,4009451,1,46,124
 1,Cercado,1,Oruro,2059,Oruro,32363,U. E. Vichuloma,4009461,2,54,120
 1,Cercado,1,Oruro,2059,Oruro,32364,U.E. Fidel Alejandro Castro Ruz,4003561,1,80,99
@@ -1044,6 +1045,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Oruro,2059,Oruro,32494,U. E. Adolfo Ballivian 1,4005441,1,71,44
 1,Cercado,1,Oruro,2059,Oruro,32495,U. E. Apoyo Educativo Oruro,4006891,1,22,18
 1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010731,1,72,102
+1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010741,2,82,75
 1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010751,3,85,92
 1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010761,4,76,105
 1,Cercado,2,Caracollo,2060,Caracollo,3,Esc. Mariscal Sucre,4010771,5,63,113
@@ -1080,8 +1082,18 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,2,Caracollo,2808,Central Huntuta,2,U.E. Sebastian Pagador,4010701,2,30,64
 1,Cercado,2,Caracollo,3483,Central Vila Vila  A,1,Casa Comunal,4010481,1,22,144
 1,Cercado,2,Caracollo,3483,Central Vila Vila  A,1,Casa Comunal,4010491,2,22,94
+1,Cercado,3,El Choro,2078,El Choro,144,Esc. Sebastian  Pagador,4011211,1,46,143
+1,Cercado,3,El Choro,2078,El Choro,144,Esc. Sebastian  Pagador,4011221,2,70,103
+1,Cercado,3,El Choro,2078,El Choro,144,Esc. Sebastian  Pagador,4011231,3,43,114
 1,Cercado,4,Paria,3642,K'asa Huasa,1,U. E. K'Asa Huasa,4011321,1,53,147
 1,Cercado,4,Paria,3642,K'asa Huasa,1,U. E. K'Asa Huasa,4011331,2,5,31
+2,Abaroa,1,Challapata,2084,Challapata,1,U. E. Republica Argentina,4011831,4,95,59
+2,Abaroa,1,Challapata,2084,Challapata,1,U. E. Republica Argentina,4011911,12,82,61
+2,Abaroa,1,Challapata,2084,Challapata,1,U. E. Republica Argentina,4011921,13,84,77
+2,Abaroa,1,Challapata,2084,Challapata,2,U. E. Eduardo Avaroa,4012021,1,93,64
+2,Abaroa,1,Challapata,2084,Challapata,2,U. E. Eduardo Avaroa,4012031,2,101,54
+2,Abaroa,1,Challapata,2084,Challapata,2,U. E. Eduardo Avaroa,4012041,3,104,62
+2,Abaroa,1,Challapata,2084,Challapata,2,U. E. Eduardo Avaroa,4012071,6,100,78
 2,Abaroa,1,Challapata,2084,Challapata,3,U. E. San Juan de Dios,4012361,1,111,77
 2,Abaroa,1,Challapata,2084,Challapata,3,U. E. San Juan de Dios,4012371,2,103,71
 2,Abaroa,1,Challapata,2084,Challapata,3,U. E. San Juan de Dios,4012381,3,110,60
@@ -1113,9 +1125,22 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Abaroa,1,Challapata,2084,Challapata,5,U.E. Antofagasta,4012641,7,76,81
 2,Abaroa,1,Challapata,2084,Challapata,5,U.E. Antofagasta,4012651,8,98,66
 2,Abaroa,1,Challapata,2084,Challapata,5,U.E. Antofagasta,4012661,9,42,32
+2,Abaroa,1,Challapata,2088,Ancacato,2,U.E. German Busch,4012301,1,26,62
+2,Abaroa,1,Challapata,2089,Huancarani,2,U.E. Huancarani,4012311,1,38,76
+2,Abaroa,1,Challapata,2090,Huancané,2,U.E. Huancane,4012331,2,43,50
+2,Abaroa,1,Challapata,3487,Machoca Churacani,1,U. E. Churacani,4011951,1,51,84
+2,Abaroa,1,Challapata,3488,Central Aguas Calientes,1,U. E. Cruce Aguas Calientes,4011961,1,65,81
+2,Abaroa,1,Challapata,3490,Cayachata,1,U. E. Cayachata,4011991,1,44,14
+2,Abaroa,1,Challapata,3709,Chiritambo,1,U. E. Chiritambo,4012011,1,5,14
+2,Abaroa,1,Challapata,4459,Cusumi,26488,U.E. Cusumi,4012671,1,28,56
+2,Abaroa,1,Challapata,4460,Jancoñuño (Challapata),26489,U.E.Jancoñuño,4012681,1,93,82
+2,Abaroa,1,Challapata,4589,Río Verde,32318,U.E. Río Verde,4012691,1,27,42
+2,Abaroa,2,Santuario de Quillacas,2093,Soraga,2,Esc. Soraga,4012811,1,43,107
 6,Poopó,1,Poopó,2129,Venta y Media,2,U.E. Hernando Siles,4013831,1,53,131
+6,Poopó,1,Poopó,2129,Venta y Media,2,U.E. Hernando Siles,4013841,2,28,157
 6,Poopó,1,Poopó,2129,Venta y Media,2,U.E. Hernando Siles,4013851,3,22,56
 6,Poopó,1,Poopó,2843,Coripata,2,Esc. Mariscal Sucre,4013861,1,23,82
+6,Poopó,1,Poopó,3492,Puñaca,1,Esc. Puñaca,4013671,1,15,59
 6,Poopó,3,Antequera,4128,Iruma Vinto,25545,U.E. Franz Tamayo,4014091,1,21,60
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014121,1,55,141
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,1,Esc. Eduardo Avaroa,4014131,2,61,126
@@ -1143,4 +1168,13 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,5,U.E. 12 de Abril,4014681,4,51,122
 7,Pantaleón Dalence,1,Huanuni,2139,Huanuni,5,U.E. 12 de Abril,4014691,5,16,49
 7,Pantaleón Dalence,2,Machacamarca,3703,Comunidad Sora,1,Esc. Adolfo Mier,4014751,1,44,140
+14,Sebastián Pagador,1,Santiago de Huari,2211,Santiago de Huari,2,U. E.  Gualberto Villarroel,4016351,1,48,129
+14,Sebastián Pagador,1,Santiago de Huari,2211,Santiago de Huari,2,U. E.  Gualberto Villarroel,4016361,2,53,130
+14,Sebastián Pagador,1,Santiago de Huari,2211,Santiago de Huari,2,U. E.  Gualberto Villarroel,4016371,3,46,150
+14,Sebastián Pagador,1,Santiago de Huari,2211,Santiago de Huari,2,U. E.  Gualberto Villarroel,4016381,4,49,128
+14,Sebastián Pagador,1,Santiago de Huari,2211,Santiago de Huari,2,U. E.  Gualberto Villarroel,4016391,5,44,133
+14,Sebastián Pagador,1,Santiago de Huari,2211,Santiago de Huari,2,U. E.  Gualberto Villarroel,4016411,7,46,130
+14,Sebastián Pagador,1,Santiago de Huari,2212,Condo  C (C.San Pedro de Condo),2,U.E. San Pedro de Condo,4016421,1,46,114
+14,Sebastián Pagador,1,Santiago de Huari,2212,Condo  C (C.San Pedro de Condo),2,U.E. San Pedro de Condo,4016431,2,39,116
+14,Sebastián Pagador,1,Santiago de Huari,2212,Condo  C (C.San Pedro de Condo),2,U.E. San Pedro de Condo,4016441,3,26,67
 14,Sebastián Pagador,1,Santiago de Huari,3494,Uru Uru Llapa Llapani,1,Esc. Llapallapani,4016311,1,25,127

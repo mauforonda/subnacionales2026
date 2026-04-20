@@ -4582,6 +4582,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2239,Guapilo,1,Escuela Seccional Guapilo,7000171,14,240,196,1,12,209,196,209
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2239,Guapilo,1,Escuela Seccional Guapilo,7000181,15,240,198,2,7,207,198,207
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2239,Guapilo,1,Escuela Seccional Guapilo,7000191,16,185,147,0,12,159,147,159
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2242,Paurito,1,Esc. Gabriel Jose Moreno,7000291,2,240,205,0,7,212,205,212
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2242,Paurito,1,Esc. Gabriel Jose Moreno,7000301,3,240,196,3,3,202,196,202
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2242,Paurito,1,Esc. Gabriel Jose Moreno,7000321,5,240,197,1,4,202,197,202
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2242,Paurito,1,Esc. Gabriel Jose Moreno,7000341,7,240,197,1,3,201,197,201
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2243,Palmar del Oratorio,1,Esc. Hugo Banzer Suarez,7000391,1,240,203,1,9,213,203,213
@@ -4660,7 +4662,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2245,Villa Pantano,1,U.E. Villa Flor (Módulo),7000591,6,240,197,1,11,209,197,209
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2245,Villa Pantano,1,U.E. Villa Flor (Módulo),7000601,7,240,188,0,8,196,188,196
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2245,Villa Pantano,1,U.E. Villa Flor (Módulo),7000621,9,240,171,2,11,184,171,184
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,3277,Usuri,1,Esc. Usuri Aponte,7000691,3,240,177,3,14,194,177,194
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,3319,La Peña,1,Esc. La Peña,7000711,1,240,170,3,27,200,170,200
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,3319,La Peña,1,Esc. La Peña,7000731,3,240,168,4,24,196,168,196
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,3424,Jorori,25051,U.E. Aponte De Jorori,7000831,7,36,32,0,4,36,32,36
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4032,Clara Serrano,25363,U.E. Clara Serrano,7000841,1,240,198,1,16,215,198,215
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4032,Clara Serrano,25363,U.E. Clara Serrano,7000851,2,240,183,1,12,196,183,196
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4032,Clara Serrano,25363,U.E. Clara Serrano,7000861,3,240,188,2,12,202,188,202
@@ -4682,14 +4687,27 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4034,Villa Viana,25365,U.E. Thevenet De Viana,7001061,7,240,177,2,17,196,177,196
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4034,Villa Viana,25365,U.E. Thevenet De Viana,7001071,8,240,187,1,19,207,187,207
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4034,Villa Viana,25365,U.E. Thevenet De Viana,7001081,9,32,24,0,3,27,24,27
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4366,Comunidad  Tundy,26070,U.E. Tundy,7001141,1,240,188,4,11,203,188,203
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4366,Comunidad  Tundy,26070,U.E. Tundy,7001151,2,240,199,1,14,214,199,214
 1,Andrés Ibáñez,3,Porongo,2247,Porongo,1,Esc. Fray Santiago De Rivero,7051021,12,240,202,0,4,206,202,206
 1,Andrés Ibáñez,3,Porongo,2247,Porongo,1,Esc. Fray Santiago De Rivero,7051031,13,259,215,2,7,224,215,224
+1,Andrés Ibáñez,3,Porongo,2248,Terebinto,1006,Esc. Jose Parada Laguindey,7051291,4,146,108,0,7,115,108,115
+1,Andrés Ibáñez,3,Porongo,2249,Luquillas,1007,Escuela Central Aniceto Parada Roca,7051311,2,240,194,0,2,196,194,196
+1,Andrés Ibáñez,3,Porongo,2249,Luquillas,1007,Escuela Central Aniceto Parada Roca,7051321,3,130,103,0,8,111,103,111
 1,Andrés Ibáñez,3,Porongo,2894,Tarumatu,1026,U.E. Prof. Neisa Salvatierra,7051351,3,232,184,1,5,190,184,190
+1,Andrés Ibáñez,3,Porongo,3054,Los Batos,1035,Escuela San Lorenzo,7051431,3,240,183,1,6,190,183,190
+1,Andrés Ibáñez,3,Porongo,3054,Los Batos,1035,Escuela San Lorenzo,7051451,5,240,195,3,10,208,195,208
+1,Andrés Ibáñez,3,Porongo,3054,Los Batos,1035,Escuela San Lorenzo,7051521,12,247,196,3,8,207,196,207
+1,Andrés Ibáñez,3,Porongo,3055,Sombrerito,1031,Escuela Central Sombrerito,7051381,1,240,206,1,9,216,206,216
+1,Andrés Ibáñez,3,Porongo,3055,Sombrerito,1031,Escuela Central Sombrerito,7051391,2,28,25,0,0,25,25,25
 1,Andrés Ibáñez,3,Porongo,3056,Agua Dulce,1032,Escuela Irenia Montero,7051401,1,158,113,4,11,128,113,128
 1,Andrés Ibáñez,3,Porongo,4031,Tacuarembo,25362,U.E. Tacuarembo,7051561,1,105,78,5,7,90,78,90
 1,Andrés Ibáñez,4,La Guardia,2250,La Guardia,11008,Esc. Tomas Jose Morales,7051731,2,240,196,1,14,211,196,211
+1,Andrés Ibáñez,4,La Guardia,2250,La Guardia,11008,Esc. Tomas Jose Morales,7051741,3,240,194,4,10,208,194,208
 1,Andrés Ibáñez,4,La Guardia,2250,La Guardia,11026,U.E. Nataniel Garcia Chavez,7052351,4,240,182,0,22,204,182,204
 1,Andrés Ibáñez,4,La Guardia,2250,La Guardia,25414,U.E. Nacional La Guardia,7053551,8,240,189,0,5,194,189,194
+1,Andrés Ibáñez,4,La Guardia,2250,La Guardia,32043,Coliseo de la Guardia,7053801,1,240,175,1,8,184,175,184
+1,Andrés Ibáñez,4,La Guardia,2251,Peji (Villa Arrien),11016,U.E. Viila Arrien Peji,7051801,1,240,189,3,8,200,189,200
 1,Andrés Ibáñez,4,La Guardia,2254,El Carmen (Ibañez),11024,Esc. Nataniel Verdugez,7053881,1,240,192,2,7,201,192,201
 1,Andrés Ibáñez,4,La Guardia,2254,El Carmen (Ibañez),11024,Esc. Nataniel Verdugez,7053891,2,240,192,1,12,205,192,205
 1,Andrés Ibáñez,4,La Guardia,2254,El Carmen (Ibañez),11024,Esc. Nataniel Verdugez,7053901,3,240,194,1,12,207,194,207
@@ -4858,8 +4876,18 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,11041,Esc. Juana Azurduy De Padilla,7052721,7,240,187,1,10,198,187,198
 1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,11041,Esc. Juana Azurduy De Padilla,7052751,10,240,199,0,11,210,199,210
 1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,11041,Esc. Juana Azurduy De Padilla,7052761,11,258,215,1,6,222,215,222
+1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,11043,U.E. Integracion de las Americas,7053041,6,240,170,0,26,196,170,196
 1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,11043,U.E. Integracion de las Americas,7053071,9,133,100,0,8,108,100,108
+1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,11044,U.E. Barrio Lindo,7053101,3,240,187,1,13,201,187,201
+1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,11044,U.E. Barrio Lindo,7053131,6,240,197,3,10,210,197,210
+1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,11044,U.E. Barrio Lindo,7053141,7,240,193,1,7,201,193,201
+1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,11044,U.E. Barrio Lindo,7053151,8,240,174,3,27,204,174,204
+1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,11044,U.E. Barrio Lindo,7053211,14,240,178,6,8,192,178,192
+1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,11044,U.E. Barrio Lindo,7053221,15,152,116,1,3,120,116,120
+1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,25411,U.E. Hernando Zanabria,7053301,1,240,182,2,10,194,182,194
+1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,25411,U.E. Hernando Zanabria,7053321,3,240,187,1,17,205,187,205
 1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,25411,U.E. Hernando Zanabria,7053331,4,240,180,2,15,197,180,197
+1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,25411,U.E. Hernando Zanabria,7053361,7,252,195,0,14,209,195,209
 1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,25412,U.E. Luz De Esperanza,7053371,1,240,211,0,1,212,211,212
 1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,25412,U.E. Luz De Esperanza,7053381,2,240,198,0,4,202,198,202
 1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,25412,U.E. Luz De Esperanza,7053391,3,240,201,34,5,240,201,240
@@ -4872,16 +4900,30 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,25413,U.E. Bicentenario Arco Iris,7053461,6,240,195,1,8,204,195,204
 1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,25413,U.E. Bicentenario Arco Iris,7053471,7,155,128,2,8,138,128,138
 1,Andrés Ibáñez,4,La Guardia,2255,Kilómetro Doce,26394,Módulo Maestro Pitágoras II,7053741,4,240,187,3,15,205,187,205
+1,Andrés Ibáñez,4,La Guardia,2256,San José (Ibañez),11021,Esc. Ruben Dario Soliz,7055611,12,150,122,0,11,133,122,133
+1,Andrés Ibáñez,4,La Guardia,2256,San José (Ibañez),25415,U.E. Quebrada Seca,7055261,1,240,184,1,13,198,184,198
 1,Andrés Ibáñez,4,La Guardia,2256,San José (Ibañez),25415,U.E. Quebrada Seca,7055271,2,119,101,0,7,108,101,108
+1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11040,Escuela Maestro Pitagoras,7052401,2,240,190,1,10,201,190,201
+1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11040,Escuela Maestro Pitagoras,7052481,10,240,201,0,11,212,201,212
+1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11040,Escuela Maestro Pitagoras,7052541,16,240,187,2,14,203,187,203
+1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11040,Escuela Maestro Pitagoras,7052551,17,240,190,3,6,199,190,199
 1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11040,Escuela Maestro Pitagoras,7052631,25,240,184,4,15,203,184,203
 1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11041,Esc. Central Angel Foianini,7052801,4,240,189,2,13,204,189,204
 1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11041,Esc. Central Angel Foianini,7052821,6,240,195,2,18,215,195,215
 1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11041,Esc. Central Angel Foianini,7052831,7,240,213,2,5,220,213,220
+1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11041,Esc. Central Angel Foianini,7052841,8,240,196,2,7,205,196,205
 1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11041,Esc. Central Angel Foianini,7052851,9,240,194,1,11,206,194,206
+1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11041,Esc. Central Angel Foianini,7052881,12,240,190,0,11,201,190,201
+1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11041,Esc. Central Angel Foianini,7052891,13,240,181,3,10,194,181,194
+1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11041,Esc. Central Angel Foianini,7052911,15,240,192,1,8,201,192,201
+1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11041,Esc. Central Angel Foianini,7052921,16,240,201,1,6,208,201,208
+1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11041,Esc. Central Angel Foianini,7052931,17,240,190,1,14,205,190,205
 1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,11041,Esc. Central Angel Foianini,7052941,18,240,195,0,12,207,195,207
 1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,26341,U. E. Cumbre de las Américas I,7053631,1,240,192,1,20,213,192,213
+1,Andrés Ibáñez,4,La Guardia,2856,Simon Bolivar,26341,U. E. Cumbre de las Américas I,7053671,5,240,190,2,11,203,190,203
 1,Andrés Ibáñez,4,La Guardia,3059,Brecha 3,9013,Esc. La Peña  Brecha 3,7051681,3,240,160,5,10,175,160,175
 1,Andrés Ibáñez,4,La Guardia,3059,Brecha 3,9013,Esc. La Peña  Brecha 3,7051701,5,240,181,1,21,203,181,203
+1,Andrés Ibáñez,4,La Guardia,4482,San Carlos,11039,U.E. San Carlos,7052371,1,240,194,2,8,204,194,204
 1,Andrés Ibáñez,4,La Guardia,4482,San Carlos,11039,U.E. San Carlos,7052381,2,172,139,0,10,149,139,149
 1,Andrés Ibáñez,5,El Torno,2257,El Torno,1036,Esc. Naciones Unidas,7056191,1,240,193,1,11,205,193,205
 1,Andrés Ibáñez,5,El Torno,2257,El Torno,1036,Esc. Naciones Unidas,7056201,2,240,184,3,12,199,184,199
@@ -4988,6 +5030,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,5,El Torno,3278,Santa Martha,32270,U.E. Santa Martha,7057401,1,254,198,8,18,224,198,224
 1,Andrés Ibáñez,5,El Torno,3534,Villa Barrientos,1,Esc. Villa Barrientos,7055711,1,123,90,0,11,101,90,101
 1,Andrés Ibáñez,5,El Torno,3535,Quebrada León,1,Esc. Quebrada Leon,7055721,1,235,167,3,15,185,167,185
+10,Obispo Santistéban,1,Montero,2442,Montero,1000,U.E. Plena René Moreno Montero,7076541,1,240,186,2,16,204,186,204
 10,Obispo Santistéban,1,Montero,2442,Montero,1000,U.E. Plena René Moreno Montero,7076551,2,240,197,1,5,203,197,203
 10,Obispo Santistéban,1,Montero,2442,Montero,1000,U.E. Plena René Moreno Montero,7076561,3,240,199,1,5,205,199,205
 10,Obispo Santistéban,1,Montero,2442,Montero,1000,U.E. Plena René Moreno Montero,7076581,5,240,199,3,4,206,199,206
@@ -5016,6 +5059,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7076831,4,240,183,1,16,200,183,200
 10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7076841,5,240,178,3,8,189,178,189
 10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7076851,6,240,177,3,17,197,177,197
+10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7076861,7,240,173,2,21,196,173,196
 10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7076881,9,240,192,1,15,208,192,208
 10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7076891,10,240,195,0,5,200,195,200
 10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7076901,11,240,171,0,10,181,171,181
@@ -5029,6 +5073,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7076981,19,240,187,0,10,197,187,197
 10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7076991,20,240,186,1,10,197,186,197
 10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7077001,21,240,170,3,22,195,170,195
+10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7077021,23,240,162,1,20,183,162,183
 10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7077031,24,240,148,1,53,202,148,202
 10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7077041,25,240,188,0,6,194,188,194
 10,Obispo Santistéban,1,Montero,2442,Montero,1003,Col. Daniel Rivero,7077051,26,240,187,0,13,200,187,200
@@ -5061,6 +5106,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2442,Montero,1011,Col. Eduardo Abaroa,7077431,9,240,191,4,6,201,191,201
 10,Obispo Santistéban,1,Montero,2442,Montero,1011,Col. Eduardo Abaroa,7077441,10,128,104,1,7,112,104,112
 10,Obispo Santistéban,1,Montero,2442,Montero,21005,U.E. Marceliano Montero,7077601,1,240,190,0,10,200,190,200
+10,Obispo Santistéban,1,Montero,2442,Montero,21005,U.E. Marceliano Montero,7077611,2,240,199,0,3,202,199,202
 10,Obispo Santistéban,1,Montero,2442,Montero,21005,U.E. Marceliano Montero,7077621,3,240,195,0,3,198,195,198
 10,Obispo Santistéban,1,Montero,2442,Montero,21005,U.E. Marceliano Montero,7077631,4,240,202,0,6,208,202,208
 10,Obispo Santistéban,1,Montero,2442,Montero,21005,U.E. Marceliano Montero,7077641,5,240,202,0,5,207,202,207
@@ -5139,6 +5185,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2442,Montero,21044,Col. Unidad Educativa La Esperanza,7078701,9,240,189,0,9,198,189,198
 10,Obispo Santistéban,1,Montero,2442,Montero,21044,Col. Unidad Educativa La Esperanza,7078711,10,240,183,1,8,192,183,192
 10,Obispo Santistéban,1,Montero,2442,Montero,21044,Col. Unidad Educativa La Esperanza,7078721,11,240,186,0,10,196,186,196
+10,Obispo Santistéban,1,Montero,2442,Montero,21044,Col. Unidad Educativa La Esperanza,7078731,12,240,190,1,9,200,190,200
 10,Obispo Santistéban,1,Montero,2442,Montero,21044,Col. Unidad Educativa La Esperanza,7078741,13,240,192,1,9,202,192,202
 10,Obispo Santistéban,1,Montero,2442,Montero,21044,Col. Unidad Educativa La Esperanza,7078751,14,217,173,0,10,183,173,183
 10,Obispo Santistéban,1,Montero,2442,Montero,21045,Col. Unidad Educativa Villa Virginia,7078761,1,240,171,3,20,194,171,194
@@ -5146,6 +5193,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2442,Montero,21045,Col. Unidad Educativa Villa Virginia,7078781,3,240,167,6,21,194,167,194
 10,Obispo Santistéban,1,Montero,2442,Montero,21045,Col. Unidad Educativa Villa Virginia,7078791,4,240,176,2,14,192,176,192
 10,Obispo Santistéban,1,Montero,2442,Montero,21045,Col. Unidad Educativa Villa Virginia,7078801,5,240,165,1,21,187,165,187
+10,Obispo Santistéban,1,Montero,2442,Montero,21045,Col. Unidad Educativa Villa Virginia,7078811,6,240,145,6,47,198,145,198
 10,Obispo Santistéban,1,Montero,2442,Montero,21045,Col. Unidad Educativa Villa Virginia,7078821,7,240,192,1,11,204,192,204
 10,Obispo Santistéban,1,Montero,2442,Montero,21045,Col. Unidad Educativa Villa Virginia,7078831,8,240,179,1,10,190,179,190
 10,Obispo Santistéban,1,Montero,2442,Montero,21045,Col. Unidad Educativa Villa Virginia,7078841,9,240,168,4,15,187,168,187
@@ -5163,11 +5211,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2442,Montero,21046,Col. Franz Tamayo,7078961,9,240,176,0,14,190,176,190
 10,Obispo Santistéban,1,Montero,2442,Montero,21046,Col. Franz Tamayo,7078971,10,240,184,1,8,193,184,193
 10,Obispo Santistéban,1,Montero,2442,Montero,21046,Col. Franz Tamayo,7078981,11,240,176,1,20,197,176,197
+10,Obispo Santistéban,1,Montero,2442,Montero,21046,Col. Franz Tamayo,7078991,12,240,177,3,16,196,177,196
 10,Obispo Santistéban,1,Montero,2442,Montero,21046,Col. Franz Tamayo,7079001,13,240,168,3,10,181,168,181
+10,Obispo Santistéban,1,Montero,2442,Montero,21046,Col. Franz Tamayo,7079011,14,240,178,3,12,193,178,193
 10,Obispo Santistéban,1,Montero,2442,Montero,21046,Col. Franz Tamayo,7079021,15,240,176,2,8,186,176,186
 10,Obispo Santistéban,1,Montero,2442,Montero,21046,Col. Franz Tamayo,7079031,16,186,142,1,7,150,142,150
 10,Obispo Santistéban,1,Montero,2442,Montero,21047,Col. Angel Limpias,7079061,3,240,182,4,11,197,182,197
 10,Obispo Santistéban,1,Montero,2442,Montero,21047,Col. Angel Limpias,7079071,4,240,179,1,14,194,179,194
+10,Obispo Santistéban,1,Montero,2442,Montero,21047,Col. Angel Limpias,7079081,5,240,161,0,24,185,161,185
 10,Obispo Santistéban,1,Montero,2442,Montero,21047,Col. Angel Limpias,7079101,7,240,181,2,12,195,181,195
 10,Obispo Santistéban,1,Montero,2442,Montero,21047,Col. Angel Limpias,7079111,8,240,178,2,11,191,178,191
 10,Obispo Santistéban,1,Montero,2442,Montero,21047,Col. Angel Limpias,7079121,9,240,186,2,10,198,186,198
@@ -5176,8 +5227,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2442,Montero,21047,Col. Angel Limpias,7079151,12,240,175,2,11,188,175,188
 10,Obispo Santistéban,1,Montero,2442,Montero,21047,Col. Angel Limpias,7079161,13,240,179,1,9,189,179,189
 10,Obispo Santistéban,1,Montero,2442,Montero,21047,Col. Angel Limpias,7079171,14,240,168,1,15,184,168,184
+10,Obispo Santistéban,1,Montero,2442,Montero,21047,Col. Angel Limpias,7079191,16,218,169,3,5,177,169,177
 10,Obispo Santistéban,1,Montero,2442,Montero,21049,Col. U.E. Montecristo,7079201,1,240,189,0,17,206,189,206
 10,Obispo Santistéban,1,Montero,2442,Montero,21049,Col. U.E. Montecristo,7079211,2,240,190,1,6,197,190,197
+10,Obispo Santistéban,1,Montero,2442,Montero,21049,Col. U.E. Montecristo,7079221,3,240,198,1,7,206,198,206
 10,Obispo Santistéban,1,Montero,2442,Montero,21049,Col. U.E. Montecristo,7079241,5,240,182,1,8,191,182,191
 10,Obispo Santistéban,1,Montero,2442,Montero,21049,Col. U.E. Montecristo,7079251,6,240,191,0,8,199,191,199
 10,Obispo Santistéban,1,Montero,2442,Montero,21049,Col. U.E. Montecristo,7079271,8,240,174,0,12,186,174,186
@@ -5191,7 +5244,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2442,Montero,21050,Col. U.E. Elvira Frias,7079361,6,240,197,1,14,212,197,212
 10,Obispo Santistéban,1,Montero,2442,Montero,21050,Col. U.E. Elvira Frias,7079371,7,240,177,2,20,199,177,199
 10,Obispo Santistéban,1,Montero,2442,Montero,21050,Col. U.E. Elvira Frias,7079381,8,240,200,1,11,212,200,212
+10,Obispo Santistéban,1,Montero,2442,Montero,21050,Col. U.E. Elvira Frias,7079391,9,240,177,2,27,206,177,206
 10,Obispo Santistéban,1,Montero,2442,Montero,21050,Col. U.E. Elvira Frias,7079401,10,240,180,2,15,197,180,197
+10,Obispo Santistéban,1,Montero,2442,Montero,21050,Col. U.E. Elvira Frias,7079411,11,240,179,2,16,197,179,197
+10,Obispo Santistéban,1,Montero,2442,Montero,21050,Col. U.E. Elvira Frias,7079421,12,240,196,0,10,206,196,206
 10,Obispo Santistéban,1,Montero,2442,Montero,21050,Col. U.E. Elvira Frias,7079441,14,240,178,0,17,195,178,195
 10,Obispo Santistéban,1,Montero,2442,Montero,21050,Col. U.E. Elvira Frias,7079451,15,240,189,3,11,203,189,203
 10,Obispo Santistéban,1,Montero,2442,Montero,21050,Col. U.E. Elvira Frias,7079461,16,240,179,3,24,206,179,206
@@ -5206,6 +5262,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2442,Montero,21050,Col. U.E. Elvira Frias,7079561,26,75,57,1,7,65,57,65
 10,Obispo Santistéban,1,Montero,2442,Montero,21051,Col. San Jose Obrero,7079571,1,240,179,3,8,190,179,190
 10,Obispo Santistéban,1,Montero,2442,Montero,21051,Col. San Jose Obrero,7079581,2,240,174,3,21,198,174,198
+10,Obispo Santistéban,1,Montero,2442,Montero,21051,Col. San Jose Obrero,7079591,3,240,194,0,9,203,194,203
 10,Obispo Santistéban,1,Montero,2442,Montero,21051,Col. San Jose Obrero,7079601,4,240,185,6,13,204,185,204
 10,Obispo Santistéban,1,Montero,2442,Montero,21051,Col. San Jose Obrero,7079611,5,240,177,2,19,198,177,198
 10,Obispo Santistéban,1,Montero,2442,Montero,21051,Col. San Jose Obrero,7079621,6,240,188,3,12,203,188,203
@@ -5221,9 +5278,13 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2442,Montero,21051,Col. San Jose Obrero,7079741,18,240,175,1,12,188,175,188
 10,Obispo Santistéban,1,Montero,2442,Montero,21051,Col. San Jose Obrero,7079751,19,240,167,4,11,182,167,182
 10,Obispo Santistéban,1,Montero,2442,Montero,21051,Col. San Jose Obrero,7079761,20,240,168,1,15,184,168,184
+10,Obispo Santistéban,1,Montero,2442,Montero,21051,Col. San Jose Obrero,7079771,21,136,98,2,5,105,98,105
 10,Obispo Santistéban,1,Montero,2442,Montero,21052,(Cárcel) Cárcel Pública de Montero,7079781,1,240,164,4,17,185,164,185
 10,Obispo Santistéban,1,Montero,2442,Montero,21052,(Cárcel) Cárcel Pública de Montero,7079791,2,240,158,2,18,178,158,178
 10,Obispo Santistéban,1,Montero,2442,Montero,21052,(Cárcel) Cárcel Pública de Montero,7079801,3,90,60,0,7,67,60,67
+10,Obispo Santistéban,1,Montero,2442,Montero,21053,U.E. Nuevo Milenio,7079811,1,240,177,0,14,191,177,191
+10,Obispo Santistéban,1,Montero,2442,Montero,21053,U.E. Nuevo Milenio,7079821,2,240,191,1,8,200,191,200
+10,Obispo Santistéban,1,Montero,2442,Montero,21053,U.E. Nuevo Milenio,7079831,3,240,179,4,10,193,179,193
 10,Obispo Santistéban,1,Montero,2442,Montero,21053,U.E. Nuevo Milenio,7079841,4,240,181,2,11,194,181,194
 10,Obispo Santistéban,1,Montero,2442,Montero,21053,U.E. Nuevo Milenio,7079851,5,240,175,0,14,189,175,189
 10,Obispo Santistéban,1,Montero,2442,Montero,21053,U.E. Nuevo Milenio,7079861,6,230,171,3,9,183,171,183
@@ -5240,12 +5301,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2442,Montero,21055,U.E. San Silvestre,7079971,6,240,174,0,10,184,174,184
 10,Obispo Santistéban,1,Montero,2442,Montero,21055,U.E. San Silvestre,7079981,7,240,179,0,12,191,179,191
 10,Obispo Santistéban,1,Montero,2442,Montero,21055,U.E. San Silvestre,7079991,8,240,185,0,7,192,185,192
+10,Obispo Santistéban,1,Montero,2442,Montero,21055,U.E. San Silvestre,7080001,9,240,191,1,11,203,191,203
 10,Obispo Santistéban,1,Montero,2442,Montero,21055,U.E. San Silvestre,7080011,10,232,184,1,19,204,184,204
 10,Obispo Santistéban,1,Montero,2442,Montero,25459,U.E. Juancito Pinto,7080021,1,240,171,2,16,189,171,189
 10,Obispo Santistéban,1,Montero,2442,Montero,25459,U.E. Juancito Pinto,7080031,2,240,174,1,15,190,174,190
 10,Obispo Santistéban,1,Montero,2442,Montero,25459,U.E. Juancito Pinto,7080041,3,240,165,1,14,180,165,180
 10,Obispo Santistéban,1,Montero,2442,Montero,25459,U.E. Juancito Pinto,7080051,4,240,172,1,15,188,172,188
 10,Obispo Santistéban,1,Montero,2442,Montero,25459,U.E. Juancito Pinto,7080061,5,240,183,1,9,193,183,193
+10,Obispo Santistéban,1,Montero,2442,Montero,25459,U.E. Juancito Pinto,7080071,6,240,167,0,21,188,167,188
 10,Obispo Santistéban,1,Montero,2442,Montero,25459,U.E. Juancito Pinto,7080081,7,240,172,1,14,187,172,187
 10,Obispo Santistéban,1,Montero,2442,Montero,25459,U.E. Juancito Pinto,7080091,8,240,160,3,18,181,160,181
 10,Obispo Santistéban,1,Montero,2442,Montero,25459,U.E. Juancito Pinto,7080101,9,240,163,1,16,180,163,180
@@ -5271,6 +5334,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),1016,Col. Juan Zabala,7077551,11,240,171,4,20,195,171,195
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),1016,Col. Juan Zabala,7077561,12,240,176,5,9,190,176,190
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),1016,Col. Juan Zabala,7077571,13,240,169,1,5,175,169,175
+10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),1016,Col. Juan Zabala,7077591,15,149,106,1,1,108,106,108
+10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078421,1,240,184,3,6,193,184,193
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078431,2,240,181,0,12,193,181,193
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078441,3,240,192,0,8,200,192,200
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078451,4,240,174,1,13,188,174,188
@@ -5278,12 +5343,17 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078471,6,240,186,1,6,193,186,193
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078481,7,240,191,1,7,199,191,199
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078491,8,240,198,0,10,208,198,208
+10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078501,9,240,174,0,14,188,174,188
+10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078511,10,240,194,3,4,201,194,201
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078521,11,240,195,1,4,200,195,200
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078541,13,240,184,0,9,193,184,193
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078551,14,240,188,0,15,203,188,203
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078561,15,240,196,1,9,206,196,206
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),21015,Col. Nacional Guabira,7078591,18,248,181,4,9,194,181,194
+10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),26427,U.E. Gladys Moreno,7080201,1,240,160,1,12,173,160,173
+10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),26427,U.E. Gladys Moreno,7080211,2,240,170,0,12,182,170,182
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),26427,U.E. Gladys Moreno,7080221,3,240,190,0,8,198,190,198
+10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),26427,U.E. Gladys Moreno,7080231,4,240,183,0,14,197,183,197
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),26427,U.E. Gladys Moreno,7080241,5,240,171,2,25,198,171,198
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),26427,U.E. Gladys Moreno,7080251,6,240,172,3,18,193,172,193
 10,Obispo Santistéban,1,Montero,2443,Villa Fátima (Guabirá),26427,U.E. Gladys Moreno,7080261,7,240,190,6,13,209,190,209
