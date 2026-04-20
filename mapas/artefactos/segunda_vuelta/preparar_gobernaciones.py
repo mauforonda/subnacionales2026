@@ -98,7 +98,7 @@ def cargar_validos(path_validos):
     df = pd.read_csv(path_validos)
     partidos = [col for col in df.columns if col not in ADMIN]
     df["codigo"] = identificar(df, "CodigoLocalidad", "CodigoRecinto")
-    return df.groupby("codigo")[partidos].sum()
+    return df.groupby("codigo")[partidos].sum(), len(df.index)
 
 
 def seleccionar_candidaturas(validos):
@@ -195,7 +195,7 @@ def preparar_departamento(codigo_depto, nombre_depto, recintos_geo):
         return None
 
     participacion = cargar_participacion(folder / "participacion.csv", codigo_depto)
-    validos_raw = cargar_validos(folder / "validos.csv")
+    validos_raw, actas_contadas = cargar_validos(folder / "validos.csv")
     candidaturas = seleccionar_candidaturas(validos_raw)
     validos = validos_raw[candidaturas].copy()
 
@@ -205,7 +205,6 @@ def preparar_departamento(codigo_depto, nombre_depto, recintos_geo):
         return None
 
     resultados_departamento = tabla[candidaturas].sum()
-    actas_contadas = len(validos_raw.index)
     actas_totales = ACTAS_TOTALES.get(codigo_depto)
     recintos = {}
     for codigo, row in tabla.iterrows():
@@ -263,7 +262,7 @@ def main():
 
         folder = obtener_insumos_departamento(nombre_depto)
         participacion = cargar_participacion(folder / "participacion.csv", codigo_depto)
-        validos_raw = cargar_validos(folder / "validos.csv")
+        validos_raw, _ = cargar_validos(folder / "validos.csv")
         candidaturas = seleccionar_candidaturas(validos_raw)
         validos = validos_raw[candidaturas].copy()
         tabla = participacion.join(validos, how="inner")
