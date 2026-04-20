@@ -4596,6 +4596,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32269,Nueva América A,7029011,3,240,218,2,4,224,218,224
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32269,Nueva América A,7029021,4,240,216,0,7,223,216,223
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2234,Santa Cruz de la Sierra,32269,Nueva América A,7029031,5,200,179,0,9,188,179,188
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2238,Zafranilla,1,Escuela Seccional Zafranilla,7000011,1,240,194,3,7,204,194,204
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2238,Zafranilla,1,Escuela Seccional Zafranilla,7000021,2,240,202,1,4,207,202,207
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2238,Zafranilla,1,Escuela Seccional Zafranilla,7000031,3,79,68,1,1,70,68,70
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2239,Guapilo,1,Escuela Seccional Guapilo,7000041,1,240,201,0,9,210,201,210
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2239,Guapilo,1,Escuela Seccional Guapilo,7000051,2,240,185,1,11,197,185,197
@@ -4614,6 +4616,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2239,Guapilo,1,Escuela Seccional Guapilo,7000181,15,240,198,2,7,207,198,207
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2239,Guapilo,1,Escuela Seccional Guapilo,7000191,16,185,147,0,12,159,147,159
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2240,Ingeniero Montero Hoyos,1,Escuela Adolfo Roman Hijo,7000211,2,240,193,2,7,202,193,202
+1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2240,Ingeniero Montero Hoyos,26396,U.E. Adolfo Roman Hijo B,7001201,2,186,142,3,7,152,142,152
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2242,Paurito,1,Esc. Gabriel Jose Moreno,7000281,1,240,202,2,7,211,202,211
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2242,Paurito,1,Esc. Gabriel Jose Moreno,7000291,2,240,205,0,7,212,205,212
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,2242,Paurito,1,Esc. Gabriel Jose Moreno,7000301,3,240,196,3,3,202,196,202
@@ -4751,47 +4754,111 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4366,Comunidad  Tundy,26070,U.E. Tundy,7001171,4,38,28,0,4,32,28,32
 1,Andrés Ibáñez,1,Santa Cruz de La Sierra,4439,San Lorenzo de la Barranca,26334,U. E. San Lorenzo A,7001181,1,89,66,0,5,71,66,71
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11000,Escuela Colegio Manuel Angel Cortez,7049611,3,240,199,0,7,206,199,206
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11000,Escuela Colegio Manuel Angel Cortez,7049631,5,240,190,1,6,197,190,197
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11000,Escuela Colegio Manuel Angel Cortez,7049681,10,240,188,1,10,199,188,199
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11000,Escuela Colegio Manuel Angel Cortez,7049711,13,240,188,0,11,199,188,199
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11000,Escuela Colegio Manuel Angel Cortez,7049721,14,240,194,2,8,204,194,204
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11000,Escuela Colegio Manuel Angel Cortez,7049741,16,240,186,0,10,196,186,196
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11000,Escuela Colegio Manuel Angel Cortez,7049761,18,251,196,2,10,208,196,208
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11001,Escuela Colegio Lorenzo Cortez Rivera,7049951,1,240,208,0,4,212,208,212
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11001,Escuela Colegio Lorenzo Cortez Rivera,7049981,4,240,188,3,14,205,188,205
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11001,Escuela Colegio Lorenzo Cortez Rivera,7049991,5,240,201,0,8,209,201,209
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11001,Escuela Colegio Lorenzo Cortez Rivera,7050021,8,240,187,1,12,200,187,200
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11001,Escuela Colegio Lorenzo Cortez Rivera,7050041,10,240,198,3,2,203,198,203
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11001,Escuela Colegio Lorenzo Cortez Rivera,7050051,11,240,191,0,5,196,191,196
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11001,Escuela Colegio Lorenzo Cortez Rivera,7050061,12,240,196,1,8,205,196,205
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11001,Escuela Colegio Lorenzo Cortez Rivera,7050071,13,240,197,3,4,204,197,204
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11001,Escuela Colegio Lorenzo Cortez Rivera,7050101,16,240,203,0,7,210,203,210
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11001,Escuela Colegio Lorenzo Cortez Rivera,7050131,19,240,197,1,6,204,197,204
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11001,Escuela Colegio Lorenzo Cortez Rivera,7050141,20,240,201,0,11,212,201,212
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11001,Escuela Colegio Lorenzo Cortez Rivera,7050171,23,123,100,1,1,102,100,102
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11027,Escuela Col. San Marcos,7050261,2,240,198,1,5,204,198,204
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11027,Escuela Col. San Marcos,7050271,3,240,199,1,8,208,199,208
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11027,Escuela Col. San Marcos,7050281,4,240,191,1,6,198,191,198
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11027,Escuela Col. San Marcos,7050341,10,240,189,0,8,197,189,197
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11027,Escuela Col. San Marcos,7050441,20,240,193,1,6,200,193,200
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11027,Escuela Col. San Marcos,7050451,21,240,202,2,4,208,202,208
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11027,Escuela Col. San Marcos,7050491,25,240,193,0,10,203,193,203
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11042,Colegio Nal. Benemeritos de La Patria,7050571,7,240,186,0,7,193,186,193
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11042,Colegio Nal. Benemeritos de La Patria,7050621,12,240,195,1,2,198,195,198
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11042,Colegio Nal. Benemeritos de La Patria,7050631,13,240,188,0,13,201,188,201
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,11042,Colegio Nal. Benemeritos de La Patria,7050711,21,240,207,1,8,216,207,216
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,25053,Escuela Callejas,7050771,2,240,190,0,8,198,190,198
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,25053,Escuela Callejas,7050781,3,240,206,1,2,209,206,209
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,25420,U.E. San Antonio,7050181,1,240,182,0,12,194,182,194
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,25420,U.E. San Antonio,7050201,3,240,170,0,13,183,170,183
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,25420,U.E. San Antonio,7050211,4,240,178,2,8,188,178,188
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,25420,U.E. San Antonio,7050221,5,240,183,0,7,190,183,190
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,25420,U.E. San Antonio,7050231,6,240,193,1,3,197,193,197
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,25420,U.E. San Antonio,7050241,7,128,94,1,10,105,94,105
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,25471,U.E. Patuju,7050841,2,240,184,1,10,195,184,195
 1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,25471,U.E. Patuju,7050871,5,240,209,0,5,214,209,214
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,25471,U.E. Patuju,7050901,8,73,58,0,1,59,58,59
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,32190,Coliseo Municipal de Cotoca,7049141,1,240,166,3,16,185,166,185
+1,Andrés Ibáñez,2,Cotoca,2235,Cotoca,32190,Coliseo Municipal de Cotoca,7049151,2,199,151,0,11,162,151,162
 1,Andrés Ibáñez,2,Cotoca,2236,Campanero,5002,Escuela Rep. de Mexico,7048581,1,240,182,2,20,204,182,204
+1,Andrés Ibáñez,2,Cotoca,2236,Campanero,5002,Escuela Rep. de Mexico,7048591,2,240,196,3,13,212,196,212
 1,Andrés Ibáñez,2,Cotoca,2236,Campanero,5002,Escuela Rep. de Mexico,7048621,5,240,194,1,21,216,194,216
 1,Andrés Ibáñez,2,Cotoca,2236,Campanero,5002,Escuela Rep. de Mexico,7048631,6,240,185,0,13,198,185,198
+1,Andrés Ibáñez,2,Cotoca,2236,Campanero,5002,Escuela Rep. de Mexico,7048641,7,240,173,3,11,187,173,187
+1,Andrés Ibáñez,2,Cotoca,2236,Campanero,5002,Escuela Rep. de Mexico,7048651,8,240,179,2,12,193,179,193
+1,Andrés Ibáñez,2,Cotoca,2236,Campanero,5002,Escuela Rep. de Mexico,7048661,9,240,162,3,20,185,162,185
 1,Andrés Ibáñez,2,Cotoca,2237,Don Lorenzo,11003,U.E. Don Lorenzo,7048701,1,240,180,0,13,193,180,193
 1,Andrés Ibáñez,2,Cotoca,2237,Don Lorenzo,11003,U.E. Don Lorenzo,7048731,4,240,187,1,7,195,187,195
+1,Andrés Ibáñez,2,Cotoca,2237,Don Lorenzo,11003,U.E. Don Lorenzo,7048761,7,126,99,0,4,103,99,103
+1,Andrés Ibáñez,2,Cotoca,2246,Puerto Pailas,1004,Escuela Demetrio Añez,7048511,6,240,178,1,7,186,178,186
+1,Andrés Ibáñez,2,Cotoca,2246,Puerto Pailas,1004,Escuela Demetrio Añez,7048531,8,240,187,0,10,197,187,197
+1,Andrés Ibáñez,2,Cotoca,2246,Puerto Pailas,1004,Escuela Demetrio Añez,7048551,10,240,191,1,6,198,191,198
+1,Andrés Ibáñez,2,Cotoca,2246,Puerto Pailas,1004,Escuela Demetrio Añez,7048561,11,240,191,3,4,198,191,198
 1,Andrés Ibáñez,2,Cotoca,2246,Puerto Pailas,26397,U.E. Andrés Ibañez,7049121,1,240,164,1,19,184,164,184
+1,Andrés Ibáñez,2,Cotoca,2246,Puerto Pailas,26397,U.E. Andrés Ibañez,7049131,2,171,109,1,9,119,109,119
+1,Andrés Ibáñez,2,Cotoca,3053,Tajibo,11029,Unidad Educativa Fidel Saucedo,7048771,1,240,197,0,3,200,197,200
 1,Andrés Ibáñez,2,Cotoca,3053,Tajibo,11029,Unidad Educativa Fidel Saucedo,7048801,4,240,200,3,10,213,200,213
+1,Andrés Ibáñez,2,Cotoca,3053,Tajibo,11029,Unidad Educativa Fidel Saucedo,7048811,5,240,189,1,8,198,189,198
+1,Andrés Ibáñez,2,Cotoca,3053,Tajibo,11029,Unidad Educativa Fidel Saucedo,7048821,6,240,198,0,6,204,198,204
 1,Andrés Ibáñez,2,Cotoca,3053,Tajibo,11029,Unidad Educativa Fidel Saucedo,7048831,7,240,189,0,14,203,189,203
+1,Andrés Ibáñez,2,Cotoca,3053,Tajibo,11029,Unidad Educativa Fidel Saucedo,7048861,10,193,142,1,18,161,142,161
+1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,6017,Esc. Mariscal Antonio Jose De Sucre,7049231,3,240,197,3,4,204,197,204
+1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,6017,Esc. Mariscal Antonio Jose De Sucre,7049241,4,240,167,1,26,194,167,194
+1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,6017,Esc. Mariscal Antonio Jose De Sucre,7049261,6,240,202,0,20,222,202,222
+1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,6017,Esc. Mariscal Antonio Jose De Sucre,7049271,7,240,210,0,7,217,210,217
+1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,6017,Esc. Mariscal Antonio Jose De Sucre,7049281,8,240,201,1,3,205,201,205
+1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,6018,Escuela U.E Club Social 24 de Septiembre,7049451,9,240,194,2,11,207,194,207
+1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,6018,Escuela U.E Club Social 24 de Septiembre,7049481,12,240,192,2,13,207,192,207
 1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,6018,Escuela U.E Club Social 24 de Septiembre,7049501,14,240,185,1,18,204,185,204
 1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,6018,Escuela U.E Club Social 24 de Septiembre,7049551,19,240,191,1,15,207,191,207
+1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,6018,Escuela U.E Club Social 24 de Septiembre,7049571,21,240,192,0,9,201,192,201
 1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,26339,U. E. Bicentenario,7049341,1,240,187,2,18,207,187,207
 1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,26339,U. E. Bicentenario,7049351,2,240,187,0,11,198,187,198
 1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,26339,U. E. Bicentenario,7049361,3,93,78,0,4,82,78,82
 1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,32189,Las Palmeras II,7049321,1,240,188,1,10,199,188,199
+1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,32189,Las Palmeras II,7049331,2,145,117,1,3,121,117,121
+1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,32431,U.E. Tavaguasu,7049781,1,240,205,1,15,221,205,221
+1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,32431,U.E. Tavaguasu,7049791,2,82,74,1,3,78,74,78
+1,Andrés Ibáñez,2,Cotoca,3192,Mapaiso de las Piedades,32434,U.E. San Francisco,7049821,2,142,117,1,3,121,117,121
+1,Andrés Ibáñez,2,Cotoca,3320,El Bisito,11038,Escuela Unidad Educativa Oscar Alfaro,7049841,2,240,191,2,11,204,191,204
+1,Andrés Ibáñez,2,Cotoca,3320,El Bisito,11038,Escuela Unidad Educativa Oscar Alfaro,7049861,4,240,191,2,14,207,191,207
+1,Andrés Ibáñez,2,Cotoca,3320,El Bisito,11038,Escuela Unidad Educativa Oscar Alfaro,7049871,5,240,171,2,16,189,171,189
+1,Andrés Ibáñez,2,Cotoca,3320,El Bisito,11038,Escuela Unidad Educativa Oscar Alfaro,7049881,6,240,178,0,8,186,178,186
+1,Andrés Ibáñez,2,Cotoca,3320,El Bisito,11038,Escuela Unidad Educativa Oscar Alfaro,7049891,7,240,186,3,11,200,186,200
+1,Andrés Ibáñez,2,Cotoca,3320,El Bisito,11038,Escuela Unidad Educativa Oscar Alfaro,7049931,11,240,196,0,11,207,196,207
 1,Andrés Ibáñez,2,Cotoca,3320,El Bisito,11038,Escuela Unidad Educativa Oscar Alfaro,7049941,12,168,123,0,8,131,123,131
+1,Andrés Ibáñez,2,Cotoca,3320,El Bisito,26073,U.E. La  Cruceña,7049301,1,240,191,0,9,200,191,200
+1,Andrés Ibáñez,2,Cotoca,3320,El Bisito,26073,U.E. La  Cruceña,7049311,2,143,116,2,6,124,116,124
 1,Andrés Ibáñez,2,Cotoca,3321,La Enconada,11037,Escuela German Busch,7048881,2,240,177,3,12,192,177,192
 1,Andrés Ibáñez,2,Cotoca,3321,La Enconada,11037,Escuela German Busch,7048891,3,240,195,1,15,211,195,211
+1,Andrés Ibáñez,2,Cotoca,3321,La Enconada,11037,Escuela German Busch,7048921,6,240,191,1,13,205,191,205
+1,Andrés Ibáñez,2,Cotoca,3321,La Enconada,11037,Escuela German Busch,7048931,7,240,208,1,4,213,208,213
 1,Andrés Ibáñez,2,Cotoca,3533,Gremial Cortez,1,Esc. Gremial Cortez,7048421,3,240,182,1,9,192,182,192
+1,Andrés Ibáñez,2,Cotoca,3533,Gremial Cortez,1,Esc. Gremial Cortez,7048441,5,240,196,1,5,202,196,202
+1,Andrés Ibáñez,2,Cotoca,4229,Tarope,25856,U.E. 6 de Agosto,7048971,2,240,180,1,17,198,180,198
+1,Andrés Ibáñez,2,Cotoca,4229,Tarope,25856,U.E. 6 de Agosto,7048981,3,240,187,41,12,240,187,240
+1,Andrés Ibáñez,2,Cotoca,4229,Tarope,25856,U.E. 6 de Agosto,7048991,4,240,195,1,8,204,195,204
+1,Andrés Ibáñez,2,Cotoca,4229,Tarope,25856,U.E. 6 de Agosto,7049001,5,240,168,0,27,195,168,195
+1,Andrés Ibáñez,2,Cotoca,4440,El Espino,26335,U. E. El Espino,7049101,1,240,204,0,4,208,204,208
 1,Andrés Ibáñez,2,Cotoca,4618,OTB Comunidad Arroyito,32401,U.E. Litoral,7049161,1,240,200,0,18,218,200,218
+1,Andrés Ibáñez,2,Cotoca,4618,OTB Comunidad Arroyito,32401,U.E. Litoral,7049171,2,30,26,0,2,28,26,28
+1,Andrés Ibáñez,2,Cotoca,4626,Comunidad Campesina Arroyuelo,32507,U.E. Arroyuelo,7049201,1,249,210,2,10,222,210,222
 1,Andrés Ibáñez,3,Porongo,2247,Porongo,1,Esc. Fray Santiago De Rivero,7050911,1,240,201,1,13,215,201,215
 1,Andrés Ibáñez,3,Porongo,2247,Porongo,1,Esc. Fray Santiago De Rivero,7050941,4,240,195,1,7,203,195,203
 1,Andrés Ibáñez,3,Porongo,2247,Porongo,1,Esc. Fray Santiago De Rivero,7050951,5,240,200,1,3,204,200,204
@@ -4799,6 +4866,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,3,Porongo,2247,Porongo,1,Esc. Fray Santiago De Rivero,7051031,13,259,215,2,7,224,215,224
 1,Andrés Ibáñez,3,Porongo,2247,Porongo,26398,U.E. Virgilio  Jordán Portales,7051601,4,140,109,1,27,137,109,137
 1,Andrés Ibáñez,3,Porongo,2248,Terebinto,1006,Esc. Jose Parada Laguindey,7051291,4,146,108,0,7,115,108,115
+1,Andrés Ibáñez,3,Porongo,2249,Luquillas,1007,Escuela Central Aniceto Parada Roca,7051301,1,240,182,1,9,192,182,192
 1,Andrés Ibáñez,3,Porongo,2249,Luquillas,1007,Escuela Central Aniceto Parada Roca,7051311,2,240,194,0,2,196,194,196
 1,Andrés Ibáñez,3,Porongo,2249,Luquillas,1007,Escuela Central Aniceto Parada Roca,7051321,3,130,103,0,8,111,103,111
 1,Andrés Ibáñez,3,Porongo,2894,Tarumatu,1026,U.E. Prof. Neisa Salvatierra,7051331,1,240,185,4,5,194,185,194
@@ -4826,12 +4894,21 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,2,Escuela Puerto Ichilo,7051101,3,240,196,1,6,203,196,203
 1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,2,Escuela Puerto Ichilo,7051111,4,240,194,0,10,204,194,204
 1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,3,Urubo Open Mall,7051141,1,240,183,1,4,188,183,188
+1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,3,Urubo Open Mall,7051151,2,240,182,1,5,188,182,188
 1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,3,Urubo Open Mall,7051161,3,240,176,1,2,179,176,179
 1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,3,Urubo Open Mall,7051171,4,240,192,0,2,194,192,194
+1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,3,Urubo Open Mall,7051181,5,240,172,3,6,181,172,181
 1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,3,Urubo Open Mall,7051191,6,240,186,1,5,192,186,192
+1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,3,Urubo Open Mall,7051201,7,240,195,0,4,199,195,199
 1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,3,Urubo Open Mall,7051211,8,240,179,0,7,186,179,186
 1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,3,Urubo Open Mall,7051221,9,240,185,1,3,189,185,189
 1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,3,Urubo Open Mall,7051231,10,240,186,3,1,190,186,190
+1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,3,Urubo Open Mall,7051241,11,240,189,1,5,195,189,195
+1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,32203,Seguridad Ciudadana,7051611,1,240,183,1,5,189,183,189
+1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,32203,Seguridad Ciudadana,7051621,2,240,196,0,5,201,196,201
+1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,32203,Seguridad Ciudadana,7051631,3,240,186,0,6,192,186,192
+1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,32203,Seguridad Ciudadana,7051641,4,240,172,0,9,181,172,181
+1,Andrés Ibáñez,3,Porongo,3698,Colinas del Urubo,32203,Seguridad Ciudadana,7051651,5,128,97,1,3,101,97,101
 1,Andrés Ibáñez,3,Porongo,4027,Las Cruces,25355,U.E. Las Cruces,7051541,2,52,43,0,0,43,43,43
 1,Andrés Ibáñez,3,Porongo,4031,Tacuarembo,25362,U.E. Tacuarembo,7051561,1,105,78,5,7,90,78,90
 1,Andrés Ibáñez,4,La Guardia,2250,La Guardia,11008,Esc. Tomas Jose Morales,7051721,1,240,203,1,4,208,203,208
@@ -5309,8 +5386,14 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,5,El Torno,2260,Santa Rita,1011,Esc. Seccional Santa Rita,7056001,9,240,187,1,15,203,187,203
 1,Andrés Ibáñez,5,El Torno,2260,Santa Rita,1011,Esc. Seccional Santa Rita,7056011,10,240,189,2,4,195,189,195
 1,Andrés Ibáñez,5,El Torno,2260,Santa Rita,1011,Esc. Seccional Santa Rita,7056021,11,59,44,0,4,48,44,48
+1,Andrés Ibáñez,5,El Torno,2261,Limoncito,1012,Escuela Andres Ibañez,7056031,1,240,192,0,14,206,192,206
+1,Andrés Ibáñez,5,El Torno,2261,Limoncito,1012,Escuela Andres Ibañez,7056041,2,240,172,1,20,193,172,193
+1,Andrés Ibáñez,5,El Torno,2261,Limoncito,1012,Escuela Andres Ibañez,7056051,3,240,198,1,11,210,198,210
 1,Andrés Ibáñez,5,El Torno,2261,Limoncito,1012,Escuela Andres Ibañez,7056061,4,240,184,2,22,208,184,208
 1,Andrés Ibáñez,5,El Torno,2261,Limoncito,1012,Escuela Andres Ibañez,7056071,5,240,172,4,17,193,172,193
+1,Andrés Ibáñez,5,El Torno,2261,Limoncito,1012,Escuela Andres Ibañez,7056091,7,240,166,4,12,182,166,182
+1,Andrés Ibáñez,5,El Torno,2261,Limoncito,1012,Escuela Andres Ibañez,7056101,8,240,191,1,14,206,191,206
+1,Andrés Ibáñez,5,El Torno,2261,Limoncito,1012,Escuela Andres Ibañez,7056111,9,240,184,0,12,196,184,196
 1,Andrés Ibáñez,5,El Torno,2261,Limoncito,1012,Escuela Andres Ibañez,7056121,10,240,173,3,24,200,173,200
 1,Andrés Ibáñez,5,El Torno,2261,Limoncito,1012,Escuela Andres Ibañez,7056131,11,240,179,2,16,197,179,197
 1,Andrés Ibáñez,5,El Torno,2261,Limoncito,1012,Escuela Andres Ibañez,7056141,12,207,151,2,16,169,151,169
@@ -5321,16 +5404,31 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,5,El Torno,2262,Jorochito,11013,Esc.  29 de Junio,7056601,5,240,203,1,11,215,203,215
 1,Andrés Ibáñez,5,El Torno,2262,Jorochito,11013,Esc.  29 de Junio,7056611,6,240,182,5,7,194,182,194
 1,Andrés Ibáñez,5,El Torno,2262,Jorochito,11013,Esc.  29 de Junio,7056621,7,240,182,2,20,204,182,204
+1,Andrés Ibáñez,5,El Torno,2262,Jorochito,11013,Esc.  29 de Junio,7056631,8,240,193,5,16,214,193,214
+1,Andrés Ibáñez,5,El Torno,2262,Jorochito,11013,Esc.  29 de Junio,7056641,9,240,179,2,17,198,179,198
+1,Andrés Ibáñez,5,El Torno,2262,Jorochito,11013,Esc.  29 de Junio,7056681,13,205,159,4,4,167,159,167
+1,Andrés Ibáñez,5,El Torno,2263,Tarumá   San Luís,103,Nucleo Central Taruma,7055851,1,240,179,3,11,193,179,193
 1,Andrés Ibáñez,5,El Torno,2263,Tarumá   San Luís,103,Nucleo Central Taruma,7055861,2,240,176,2,23,201,176,201
+1,Andrés Ibáñez,5,El Torno,2263,Tarumá   San Luís,103,Nucleo Central Taruma,7055871,3,240,188,1,15,204,188,204
 1,Andrés Ibáñez,5,El Torno,2263,Tarumá   San Luís,11014,Esc. Nucleo San Luis,7056691,1,240,187,1,15,203,187,203
+1,Andrés Ibáñez,5,El Torno,2263,Tarumá   San Luís,11014,Esc. Nucleo San Luis,7056701,2,240,178,5,10,193,178,193
+1,Andrés Ibáñez,5,El Torno,2263,Tarumá   San Luís,11014,Esc. Nucleo San Luis,7056711,3,240,183,1,14,198,183,198
 1,Andrés Ibáñez,5,El Torno,2263,Tarumá   San Luís,11014,Esc. Nucleo San Luis,7056721,4,240,188,3,15,206,188,206
 1,Andrés Ibáñez,5,El Torno,2263,Tarumá   San Luís,11014,Esc. Nucleo San Luis,7056731,5,240,190,2,9,201,190,201
 1,Andrés Ibáñez,5,El Torno,2263,Tarumá   San Luís,11014,Esc. Nucleo San Luis,7056741,6,240,184,1,19,204,184,204
+1,Andrés Ibáñez,5,El Torno,2263,Tarumá   San Luís,11014,Esc. Nucleo San Luis,7056751,7,75,56,1,5,62,56,62
+1,Andrés Ibáñez,5,El Torno,2264,La Angostura,11015,Esc. Alberto Ribera Tapia,7056761,1,240,181,3,22,206,181,206
+1,Andrés Ibáñez,5,El Torno,2264,La Angostura,11015,Esc. Alberto Ribera Tapia,7056791,4,240,177,2,15,194,177,194
+1,Andrés Ibáñez,5,El Torno,2264,La Angostura,11015,Esc. Alberto Ribera Tapia,7056801,5,240,162,2,30,194,162,194
+1,Andrés Ibáñez,5,El Torno,2264,La Angostura,11015,Esc. Alberto Ribera Tapia,7056811,6,45,36,0,2,38,36,38
 1,Andrés Ibáñez,5,El Torno,3060,Villa Tumavi,1033,U.E. Villa Tumavi,7056161,1,240,199,2,15,216,199,216
 1,Andrés Ibáñez,5,El Torno,3060,Villa Tumavi,1033,U.E. Villa Tumavi,7056171,2,240,185,3,19,207,185,207
+1,Andrés Ibáñez,5,El Torno,3061,Tiquipaya,11034,Escuela Tiquipaya,7057151,1,240,171,4,24,199,171,199
 1,Andrés Ibáñez,5,El Torno,3061,Tiquipaya,11034,Escuela Tiquipaya,7057161,2,240,174,2,25,201,174,201
 1,Andrés Ibáñez,5,El Torno,3061,Tiquipaya,11034,Escuela Tiquipaya,7057171,3,240,160,4,29,193,160,193
+1,Andrés Ibáñez,5,El Torno,3061,Tiquipaya,11034,Escuela Tiquipaya,7057191,5,240,191,1,17,209,191,209
 1,Andrés Ibáñez,5,El Torno,3061,Tiquipaya,11034,Escuela Tiquipaya,7057201,6,52,36,0,3,39,36,39
+1,Andrés Ibáñez,5,El Torno,3061,Tiquipaya,25533,U.E. Marcelo Quiroga Santa Cruz,7057301,2,98,75,1,8,84,75,84
 1,Andrés Ibáñez,5,El Torno,3193,El Cafetal,101,U.E. San José de Cafetal Monte Verde,7055761,1,249,193,5,14,212,193,212
 1,Andrés Ibáñez,5,El Torno,3278,Santa Martha,102,Escuela Santa Martha,7055771,1,240,177,6,21,204,177,204
 1,Andrés Ibáñez,5,El Torno,3278,Santa Martha,102,Escuela Santa Martha,7055781,2,240,182,2,17,201,182,201
@@ -5342,35 +5440,53 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Andrés Ibáñez,5,El Torno,3278,Santa Martha,32270,U.E. Santa Martha,7057401,1,254,198,8,18,224,198,224
 1,Andrés Ibáñez,5,El Torno,3534,Villa Barrientos,1,Esc. Villa Barrientos,7055711,1,123,90,0,11,101,90,101
 1,Andrés Ibáñez,5,El Torno,3535,Quebrada León,1,Esc. Quebrada Leon,7055721,1,235,167,3,15,185,167,185
+1,Andrés Ibáñez,5,El Torno,3537,Cañada Dos,1,Esc. Cañada Dos,7055741,1,240,169,3,25,197,169,197
 1,Andrés Ibáñez,5,El Torno,4119,Villa Florida,25534,U.E. Villa Florida,7057311,1,154,123,2,8,133,123,133
+2,Warnes,1,Warnes,2265,Warnes,25000,U.E. Ignacio Warnes,7060711,9,240,192,1,9,202,192,202
 2,Warnes,1,Warnes,2265,Warnes,25000,U.E. Ignacio Warnes,7060741,12,240,192,2,10,204,192,204
 2,Warnes,1,Warnes,2265,Warnes,25000,U.E. Ignacio Warnes,7060901,28,240,190,1,7,198,190,198
+2,Warnes,1,Warnes,2265,Warnes,25002,Esc. Col. Constantino Cuellar,7058801,17,240,199,0,8,207,199,207
+2,Warnes,1,Warnes,2265,Warnes,25002,Esc. Col. Constantino Cuellar,7058811,18,240,192,0,9,201,192,201
+2,Warnes,1,Warnes,2265,Warnes,25003,Esc. El Jipa,7058891,6,240,185,1,12,198,185,198
 2,Warnes,1,Warnes,2265,Warnes,25003,Esc. El Jipa,7058911,8,240,181,2,9,192,181,192
 2,Warnes,1,Warnes,2265,Warnes,25003,Esc. El Jipa,7058921,9,240,186,3,17,206,186,206
+2,Warnes,1,Warnes,2265,Warnes,25003,Esc. El Jipa,7058931,10,240,168,1,35,204,168,204
 2,Warnes,1,Warnes,2265,Warnes,25468,U.E. Paititi,7061451,3,240,192,0,9,201,192,201
+2,Warnes,1,Warnes,2265,Warnes,25468,U.E. Paititi,7061471,5,240,185,1,9,195,185,195
+2,Warnes,1,Warnes,2265,Warnes,25468,U.E. Paititi,7061491,7,128,105,0,4,109,105,109
 2,Warnes,1,Warnes,2265,Warnes,26378,U.E. Melchor Pinto Parada,7061591,2,240,186,0,6,192,186,192
+2,Warnes,1,Warnes,2266,Valle Sánchez (Warnes),25003,Esc. Valle Sanchez,7059001,6,240,201,1,8,210,201,210
+2,Warnes,1,Warnes,2266,Valle Sánchez (Warnes),25003,Esc. Valle Sanchez,7059011,7,240,201,1,6,208,201,208
 2,Warnes,1,Warnes,2266,Valle Sánchez (Warnes),25004,Esc. Terracor,7059121,1,240,205,0,4,209,205,209
 2,Warnes,1,Warnes,2266,Valle Sánchez (Warnes),25004,Esc. Terracor,7059171,6,240,189,1,12,202,189,202
 2,Warnes,1,Warnes,2266,Valle Sánchez (Warnes),32049,U.E. Valle Sanchez (Módulo Educativo),7059621,6,240,200,0,5,205,200,205
 2,Warnes,1,Warnes,2275,Las Gamas (Warnes),5011,Esc. Adrian Justiniano Roca,7057811,3,240,197,0,6,203,197,203
 2,Warnes,1,Warnes,2276,Motacú,25012,Esc. Unid. Edu.   Motacu,7058151,1,240,197,0,4,201,197,201
+2,Warnes,1,Warnes,2276,Motacú,25012,Esc. Unid. Edu.   Motacu,7058161,2,161,137,0,7,144,137,144
+2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059671,2,240,199,4,9,212,199,212
 2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059681,3,240,191,2,12,205,191,205
 2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059691,4,240,156,4,48,208,156,208
 2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059721,7,240,176,3,14,193,176,193
 2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059731,8,240,145,1,64,210,145,210
+2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059761,11,240,192,2,16,210,192,210
+2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059771,12,240,191,1,11,203,191,203
 2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059811,16,240,186,1,18,205,186,205
 2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059841,19,240,192,2,14,208,192,208
+2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059861,21,240,195,1,8,204,195,204
 2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059881,23,240,189,3,14,206,189,206
 2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059921,27,240,184,0,13,197,184,197
 2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059931,28,240,190,3,11,204,190,204
 2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059941,29,240,192,0,8,200,192,200
 2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059951,30,240,155,0,46,201,155,201
 2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059961,31,240,195,0,10,205,195,205
+2,Warnes,1,Warnes,3538,Satélite Norte,1,Esc. Ciudad Satelite Norte,7059971,32,30,20,1,6,27,20,27
 2,Warnes,1,Warnes,3538,Satélite Norte,2,U.E. Potrero Largo,7061831,2,240,181,2,12,195,181,195
 2,Warnes,1,Warnes,3538,Satélite Norte,2,U.E. Potrero Largo,7061841,3,240,169,2,24,195,169,195
 2,Warnes,1,Warnes,3538,Satélite Norte,2,U.E. Potrero Largo,7061851,4,240,191,0,11,202,191,202
 2,Warnes,1,Warnes,3538,Satélite Norte,2,U.E. Potrero Largo,7061861,5,240,169,2,12,183,169,183
 2,Warnes,1,Warnes,3538,Satélite Norte,2,U.E. Potrero Largo,7061871,6,240,189,2,15,206,189,206
+2,Warnes,1,Warnes,3538,Satélite Norte,2,U.E. Potrero Largo,7061911,10,240,183,2,10,195,183,195
+2,Warnes,1,Warnes,3538,Satélite Norte,2,U.E. Potrero Largo,7061941,13,240,171,2,9,182,171,182
 2,Warnes,1,Warnes,3538,Satélite Norte,3,Esc. Juana Azurduy De Padilla,7059981,1,240,190,0,14,204,190,204
 2,Warnes,1,Warnes,3538,Satélite Norte,3,Esc. Juana Azurduy De Padilla,7059991,2,240,192,4,9,205,192,205
 2,Warnes,1,Warnes,3538,Satélite Norte,3,Esc. Juana Azurduy De Padilla,7060011,4,240,186,1,12,199,186,199
@@ -5380,7 +5496,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Warnes,1,Warnes,3538,Satélite Norte,3,Esc. Juana Azurduy De Padilla,7060121,15,75,58,0,1,59,58,59
 2,Warnes,1,Warnes,3538,Satélite Norte,4,U.E. San Juan,7060131,1,240,184,0,12,196,184,196
 2,Warnes,1,Warnes,3538,Satélite Norte,4,U.E. San Juan,7060141,2,240,198,1,8,207,198,207
+2,Warnes,1,Warnes,3538,Satélite Norte,4,U.E. San Juan,7060151,3,240,195,5,11,211,195,211
+2,Warnes,1,Warnes,3538,Satélite Norte,5,U.E. Monte Carmelo,7060271,4,240,184,2,12,198,184,198
 2,Warnes,1,Warnes,3538,Satélite Norte,5,U.E. Monte Carmelo,7060321,9,240,177,1,11,189,177,189
+2,Warnes,1,Warnes,3538,Satélite Norte,6,U.E. El Manantial,7060361,2,240,182,0,19,201,182,201
 2,Warnes,1,Warnes,3538,Satélite Norte,6,U.E. El Manantial,7060381,4,240,174,2,21,197,174,197
 2,Warnes,1,Warnes,3538,Satélite Norte,6,U.E. El Manantial,7060391,5,240,185,3,13,201,185,201
 2,Warnes,1,Warnes,3538,Satélite Norte,6,U.E. El Manantial,7060401,6,240,183,0,14,197,183,197
@@ -5388,13 +5507,21 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Warnes,1,Warnes,3538,Satélite Norte,7,U.E. Campo Rosso 4 de Abril,7060481,3,240,182,0,9,191,182,191
 2,Warnes,1,Warnes,3538,Satélite Norte,7,U.E. Campo Rosso 4 de Abril,7060491,4,240,182,1,12,195,182,195
 2,Warnes,1,Warnes,3538,Satélite Norte,7,U.E. Campo Rosso 4 de Abril,7060571,12,187,144,0,6,150,144,150
+2,Warnes,1,Warnes,3538,Satélite Norte,8,26 de Marzo,7060581,1,240,188,5,16,209,188,209
+2,Warnes,1,Warnes,3538,Satélite Norte,8,26 de Marzo,7060601,3,240,192,3,15,210,192,210
 2,Warnes,1,Warnes,3538,Satélite Norte,8,26 de Marzo,7060611,4,240,168,3,18,189,168,189
+2,Warnes,1,Warnes,3538,Satélite Norte,8,26 de Marzo,7060621,5,157,125,1,7,133,125,133
 2,Warnes,1,Warnes,3538,Satélite Norte,25462,U.E. Juancito Pinto,7060981,2,240,170,2,12,184,170,184
+2,Warnes,1,Warnes,3538,Satélite Norte,25462,U.E. Juancito Pinto,7061041,8,240,184,1,13,198,184,198
+2,Warnes,1,Warnes,3538,Satélite Norte,25463,U.E. Satelite Norte,7061091,2,240,181,3,15,199,181,199
 2,Warnes,1,Warnes,3538,Satélite Norte,25463,U.E. Satelite Norte,7061171,10,240,176,0,16,192,176,192
 2,Warnes,1,Warnes,3538,Satélite Norte,25463,U.E. Satelite Norte,7061191,12,240,184,1,7,192,184,192
 2,Warnes,1,Warnes,3538,Satélite Norte,25463,U.E. Satelite Norte,7061201,13,240,190,2,7,199,190,199
 2,Warnes,1,Warnes,3538,Satélite Norte,25463,U.E. Satelite Norte,7061211,14,240,187,4,6,197,187,197
 2,Warnes,1,Warnes,3538,Satélite Norte,25464,U.E. Nueva Jerusalen Pentaguazu,7061251,3,240,190,1,11,202,190,202
+2,Warnes,1,Warnes,3538,Satélite Norte,25464,U.E. Nueva Jerusalen Pentaguazu,7061311,9,240,179,2,16,197,179,197
+2,Warnes,1,Warnes,3538,Satélite Norte,26342,U. E. San Francisco de Borja,7061981,3,240,180,0,9,189,180,189
+2,Warnes,1,Warnes,3538,Satélite Norte,26342,U. E. San Francisco de Borja,7062011,6,151,120,1,10,131,120,131
 2,Warnes,1,Warnes,3538,Satélite Norte,26352,U. E. Prof. Carmelo Duran Mejia,7059481,1,240,174,4,19,197,174,197
 2,Warnes,1,Warnes,3538,Satélite Norte,26352,U. E. Prof. Carmelo Duran Mejia,7059491,2,240,147,3,18,168,147,168
 2,Warnes,1,Warnes,3538,Satélite Norte,26352,U. E. Prof. Carmelo Duran Mejia,7059501,3,240,184,0,7,191,184,191
@@ -5402,11 +5529,15 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Warnes,1,Warnes,3538,Satélite Norte,26379,U.E. Marcelo Quiroga Santa Cruz,7061621,1,240,176,1,13,190,176,190
 2,Warnes,1,Warnes,3538,Satélite Norte,26379,U.E. Marcelo Quiroga Santa Cruz,7061631,2,240,173,1,10,184,173,184
 2,Warnes,1,Warnes,3538,Satélite Norte,26379,U.E. Marcelo Quiroga Santa Cruz,7061641,3,109,75,0,6,81,75,81
+2,Warnes,1,Warnes,3538,Satélite Norte,26381,U.E. Téc. Humanístico Juan Pablo II,7061701,6,106,82,0,8,90,82,90
 2,Warnes,1,Warnes,3538,Satélite Norte,32058,Coliseo Satélite Norte,7061721,2,240,181,2,10,193,181,193
 2,Warnes,1,Warnes,3538,Satélite Norte,32058,Coliseo Satélite Norte,7061741,4,240,185,1,12,198,185,198
 2,Warnes,1,Warnes,3538,Satélite Norte,32058,Coliseo Satélite Norte,7061751,5,240,179,3,13,195,179,195
 2,Warnes,1,Warnes,3538,Satélite Norte,32058,Coliseo Satélite Norte,7061761,6,240,186,2,15,203,186,203
+2,Warnes,1,Warnes,3971,Buena Fe,1,U.E. Buena Fe,7057481,5,240,192,1,9,202,192,202
+2,Warnes,1,Warnes,3971,Buena Fe,1,U.E. Buena Fe,7057491,6,240,182,2,12,196,182,196
 2,Warnes,1,Warnes,3971,Buena Fe,1,U.E. Buena Fe,7057501,7,240,192,1,9,202,192,202
+2,Warnes,1,Warnes,3971,Buena Fe,1,U.E. Buena Fe,7057531,10,240,163,1,26,190,163,190
 4,Ichilo,3,Yapacaní,2314,El Palmar (Ichilo),18011,U.E. Eduardo Avaroa El Palmar,7065761,1,240,169,4,26,199,169,199
 4,Ichilo,3,Yapacaní,2314,El Palmar (Ichilo),18011,U.E. Eduardo Avaroa El Palmar,7065771,2,240,178,2,22,202,178,202
 4,Ichilo,3,Yapacaní,2314,El Palmar (Ichilo),18011,U.E. Eduardo Avaroa El Palmar,7065781,3,240,180,1,18,199,180,199
@@ -5425,43 +5556,65 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Ichilo,3,Yapacaní,2321,San Germán,18019,U.E.  Don Bosco,7065981,8,240,186,1,19,206,186,206
 4,Ichilo,3,Yapacaní,2321,San Germán,18019,U.E.  Don Bosco,7065991,9,240,181,1,12,194,181,194
 4,Ichilo,3,Yapacaní,2324,El Condor,18022,Esc. U.E. Nucleo Central el Condor,7066021,1,240,180,0,24,204,180,204
+4,Ichilo,3,Yapacaní,2857,Puerto Avaroa,18028,U. E. Santa cruz de la Sierra,7066061,1,240,173,3,13,189,173,189
 4,Ichilo,3,Yapacaní,2857,Puerto Avaroa,18028,U. E. Santa cruz de la Sierra,7066071,2,240,181,1,15,197,181,197
 4,Ichilo,3,Yapacaní,2857,Puerto Avaroa,18028,U. E. Santa cruz de la Sierra,7066081,3,123,78,1,11,90,78,90
 4,Ichilo,3,Yapacaní,3552,Campo Vibora,1,U.E. Campo Víbora,7065671,1,240,147,4,20,171,147,171
+4,Ichilo,3,Yapacaní,3552,Campo Vibora,1,U.E. Campo Víbora,7065681,2,240,146,4,26,176,146,176
 4,Ichilo,3,Yapacaní,3552,Campo Vibora,1,U.E. Campo Víbora,7065701,4,240,145,3,23,171,145,171
 4,Ichilo,3,Yapacaní,3552,Campo Vibora,1,U.E. Campo Víbora,7065711,5,240,128,4,30,162,128,162
 4,Ichilo,3,Yapacaní,3552,Campo Vibora,1,U.E. Campo Víbora,7065721,6,240,144,2,17,163,144,163
+4,Ichilo,3,Yapacaní,3699,Corte Hondo,1,Escuela Corte Hondo,7065751,1,105,93,1,9,103,93,103
 4,Ichilo,3,Yapacaní,4044,Nuevo Horizonte Faja Central,25375,U.E. Nuevo Horizonte,7066121,2,240,165,4,23,192,165,192
 4,Ichilo,3,Yapacaní,4044,Nuevo Horizonte Faja Central,25375,U.E. Nuevo Horizonte,7066131,3,240,170,3,19,192,170,192
 4,Ichilo,3,Yapacaní,4044,Nuevo Horizonte Faja Central,25375,U.E. Nuevo Horizonte,7066141,4,249,170,7,22,199,170,199
 6,Sara,3,Colpa Bélgica,2340,Colpa,22004,Esc. Republica Del Brasil,7070881,1,240,164,1,5,170,164,170
 6,Sara,3,Colpa Bélgica,2340,Colpa,22004,Esc. Republica Del Brasil,7070891,2,240,185,1,6,192,185,192
+6,Sara,3,Colpa Bélgica,2340,Colpa,22004,Esc. Republica Del Brasil,7070901,3,240,193,0,7,200,193,200
 6,Sara,3,Colpa Bélgica,2340,Colpa,22004,Esc. Republica Del Brasil,7070921,5,240,181,0,1,182,181,182
 6,Sara,3,Colpa Bélgica,2340,Colpa,22004,Esc. Republica Del Brasil,7070931,6,198,147,0,7,154,147,154
+6,Sara,3,Colpa Bélgica,2342,La Bélgica,25678,U.E. Hans Bottler Bowles,7070941,1,240,181,0,9,190,181,190
+6,Sara,3,Colpa Bélgica,2342,La Bélgica,25678,U.E. Hans Bottler Bowles,7070951,2,240,183,0,11,194,183,194
+6,Sara,3,Colpa Bélgica,2342,La Bélgica,25678,U.E. Hans Bottler Bowles,7070961,3,240,190,2,6,198,190,198
+6,Sara,3,Colpa Bélgica,2342,La Bélgica,25678,U.E. Hans Bottler Bowles,7070971,4,240,194,2,2,198,194,198
 6,Sara,3,Colpa Bélgica,2342,La Bélgica,25678,U.E. Hans Bottler Bowles,7070981,5,240,181,1,9,191,181,191
+6,Sara,3,Colpa Bélgica,2342,La Bélgica,25678,U.E. Hans Bottler Bowles,7070991,6,240,197,2,3,202,197,202
 6,Sara,3,Colpa Bélgica,2342,La Bélgica,25678,U.E. Hans Bottler Bowles,7071001,7,240,182,3,8,193,182,193
 6,Sara,3,Colpa Bélgica,2342,La Bélgica,25678,U.E. Hans Bottler Bowles,7071021,9,240,197,1,6,204,197,204
 6,Sara,3,Colpa Bélgica,2342,La Bélgica,25678,U.E. Hans Bottler Bowles,7071031,10,238,202,0,5,207,202,207
+6,Sara,3,Colpa Bélgica,2342,La Bélgica,32103,U. E. Sergio Vaca Velasco,7071051,1,240,189,0,4,193,189,193
+6,Sara,3,Colpa Bélgica,2342,La Bélgica,32103,U. E. Sergio Vaca Velasco,7071061,2,40,27,0,1,28,27,28
 6,Sara,3,Colpa Bélgica,4631,Comunidad Campesina Tarope,32426,U.E. Víctor Herrera Gonzales,7071071,1,94,83,1,3,87,83,87
 6,Sara,3,Colpa Bélgica,4632,Comunidad Campesina Nueva Cuba,32427,U.E. Roberto Barbery Paz,7071081,1,52,47,1,2,50,47,50
 7,Cordillera,3,Cabezas,3181,Pampa del Coscal,4066,U.E. Eduardo Abaroa Pampa El Coscal,7072621,1,240,183,1,15,199,183,199
+7,Cordillera,3,Cabezas,3181,Pampa del Coscal,4066,U.E. Eduardo Abaroa Pampa El Coscal,7072631,2,173,141,0,13,154,141,154
+8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074571,1,240,179,0,10,189,179,189
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074581,2,240,185,0,13,198,185,198
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074591,3,240,187,1,12,200,187,200
+8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074601,4,240,171,1,21,193,171,193
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074611,5,240,185,1,14,200,185,200
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074621,6,240,175,2,17,194,175,194
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074631,7,240,183,1,15,199,183,199
+8,Vallegrande,1,Vallegrande,2400,Vallegrande,23000,U.E. Juana Carmen Román,7074641,8,59,46,0,3,49,46,49
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23032,Kinder Santa Maria,7074801,1,240,195,3,9,207,195,207
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23032,Kinder Santa Maria,7074811,2,240,188,2,8,198,188,198
+8,Vallegrande,1,Vallegrande,2400,Vallegrande,23032,Kinder Santa Maria,7074821,3,240,181,1,16,198,181,198
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23032,Kinder Santa Maria,7074831,4,240,171,3,13,187,171,187
+8,Vallegrande,1,Vallegrande,2400,Vallegrande,23032,Kinder Santa Maria,7074841,5,240,199,2,9,210,199,210
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23032,Kinder Santa Maria,7074851,6,240,182,3,7,192,182,192
+8,Vallegrande,1,Vallegrande,2400,Vallegrande,23032,Kinder Santa Maria,7074861,7,240,189,1,12,202,189,202
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23032,Kinder Santa Maria,7074871,8,240,187,3,12,202,187,202
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23037,Esc. Obispo Manuel Jose Peña,7074881,1,240,194,2,6,202,194,202
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23037,Esc. Obispo Manuel Jose Peña,7074901,3,240,182,2,17,201,182,201
+8,Vallegrande,1,Vallegrande,2400,Vallegrande,23037,Esc. Obispo Manuel Jose Peña,7074911,4,240,180,2,18,200,180,200
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23037,Esc. Obispo Manuel Jose Peña,7074921,5,240,191,2,12,205,191,205
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23037,Esc. Obispo Manuel Jose Peña,7074931,6,240,187,3,11,201,187,201
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23037,Esc. Obispo Manuel Jose Peña,7074941,7,240,187,1,14,202,187,202
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23037,Esc. Obispo Manuel Jose Peña,7074951,8,240,191,3,5,199,191,199
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,23037,Esc. Obispo Manuel Jose Peña,7074961,9,240,194,4,9,207,194,207
+8,Vallegrande,1,Vallegrande,2400,Vallegrande,25557,U.E. Fagima Eid de Villagómez,7075041,4,240,195,0,9,204,195,204
+8,Vallegrande,1,Vallegrande,2400,Vallegrande,25557,U.E. Fagima Eid de Villagómez,7075051,5,240,180,4,12,196,180,196
+8,Vallegrande,1,Vallegrande,2400,Vallegrande,25557,U.E. Fagima Eid de Villagómez,7075091,9,240,196,0,7,203,196,203
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,25557,U.E. Fagima Eid de Villagómez,7075101,10,26,21,0,3,24,21,24
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,26389,U.E Isabel Villegas Mariscal,7075141,2,240,183,3,7,193,183,193
 8,Vallegrande,1,Vallegrande,2400,Vallegrande,26389,U.E Isabel Villegas Mariscal,7075151,3,240,192,0,6,198,192,198
@@ -5474,13 +5627,17 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Vallegrande,1,Vallegrande,2409,Piraimirí,23008,Esc. Piraimiri,7074731,1,80,48,2,14,64,48,64
 8,Vallegrande,1,Vallegrande,2412,Santa Rosita,23004,Esc. Santa Rosita,7074691,1,228,187,2,8,197,187,197
 8,Vallegrande,1,Vallegrande,2413,Sitanos,23010,Esc. Los Sitanos,7074751,1,73,57,1,6,64,57,64
+8,Vallegrande,1,Vallegrande,2414,Temporal,23005,Esc. Temporal,7074701,1,29,26,0,0,26,26,26
+8,Vallegrande,1,Vallegrande,3292,Arenales,20035,Esc. Unidad Educativa Arenales,7074551,1,148,118,2,6,126,118,126
 8,Vallegrande,1,Vallegrande,4159,Mataralcito,25551,U.E. Mataralcito,7074981,1,53,33,0,1,34,33,34
 8,Vallegrande,2,Trigal,2416,Trigal,23017,U.E. San pedro,7075191,1,240,200,2,10,212,200,212
 8,Vallegrande,2,Trigal,2416,Trigal,23017,U.E. San pedro,7075201,2,240,187,2,10,199,187,199
+8,Vallegrande,2,Trigal,2417,Muyurina,6218,Esc. Tte.Roman Alderette,7075181,1,173,144,1,5,150,144,150
 8,Vallegrande,2,Trigal,2418,La Aguada,23019,Esc. La Aguada,7075221,1,54,48,0,1,49,48,49
 8,Vallegrande,2,Trigal,2419,Lagunillas (Vallegrande),23020,Esc. Lagunillas,7075241,2,95,80,0,10,90,80,90
 8,Vallegrande,3,Moromoro,2421,Moromoro,6223,U.E. Eloy Peña,7075301,2,240,182,2,18,202,182,202
 8,Vallegrande,3,Moromoro,2422,Abra del Astillero,23024,Esc. Astillero,7075331,1,126,85,1,11,97,85,97
+8,Vallegrande,3,Moromoro,3578,El Veladero,1,Esc. U.E. El Veladero,7075261,2,80,60,0,2,62,60,62
 9,Florida,2,Pampagrande,2435,Mataral,15006,U.E.Delfin Arteaga Taborga,7075921,3,131,106,2,5,113,106,113
 10,Obispo Santistéban,1,Montero,2442,Montero,1000,U.E. Plena René Moreno Montero,7076541,1,240,186,2,16,204,186,204
 10,Obispo Santistéban,1,Montero,2442,Montero,1000,U.E. Plena René Moreno Montero,7076551,2,240,197,1,5,203,197,203
@@ -5867,6 +6024,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080461,12,240,197,4,6,207,197,207
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080471,13,240,188,4,10,202,188,202
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080481,14,240,197,0,10,207,197,207
+10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080491,15,240,193,0,3,196,193,196
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,1017,Col. Principe De Paz,7080501,16,240,196,1,3,200,196,200
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,32349,U.E. Aura Hurtado,7080791,1,240,186,1,11,198,186,198
 10,Obispo Santistéban,2,General Saavedra,2445,General Saavedra,32349,U.E. Aura Hurtado,7080801,2,219,169,1,2,172,169,172
@@ -5874,27 +6032,45 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,2,General Saavedra,2446,Caimanes,21018,Esc. 1 de Septiembre,7080561,3,142,115,1,7,123,115,123
 10,Obispo Santistéban,2,General Saavedra,2448,Colonia Aroma,21020,Esc. U.E. Gualberto Villarroel,7080591,1,240,178,9,10,197,178,197
 10,Obispo Santistéban,2,General Saavedra,2448,Colonia Aroma,21020,Esc. U.E. Gualberto Villarroel,7080601,2,240,182,4,17,203,182,203
+10,Obispo Santistéban,2,General Saavedra,2448,Colonia Aroma,21020,Esc. U.E. Gualberto Villarroel,7080611,3,240,201,4,5,210,201,210
+10,Obispo Santistéban,2,General Saavedra,2448,Colonia Aroma,21020,Esc. U.E. Gualberto Villarroel,7080621,4,57,42,0,2,44,42,44
 10,Obispo Santistéban,2,General Saavedra,2449,Pico de Monte,21021,Esc. Nucleo Central Nueva Esperanza,7080631,1,240,195,2,10,207,195,207
+10,Obispo Santistéban,2,General Saavedra,2449,Pico de Monte,21021,Esc. Nucleo Central Nueva Esperanza,7080651,3,240,198,2,7,207,198,207
+10,Obispo Santistéban,2,General Saavedra,2449,Pico de Monte,21021,Esc. Nucleo Central Nueva Esperanza,7080661,4,240,172,4,20,196,172,196
+10,Obispo Santistéban,2,General Saavedra,2449,Pico de Monte,21021,Esc. Nucleo Central Nueva Esperanza,7080671,5,240,193,4,10,207,193,207
+10,Obispo Santistéban,2,General Saavedra,2449,Pico de Monte,21021,Esc. Nucleo Central Nueva Esperanza,7080681,6,83,67,2,2,71,67,71
 10,Obispo Santistéban,2,General Saavedra,2450,San Juan de los Amarillos,21022,Esc. Nucleo  Mariscal Sucre,7080701,2,240,193,3,5,201,193,201
+10,Obispo Santistéban,2,General Saavedra,2450,San Juan de los Amarillos,21022,Esc. Nucleo  Mariscal Sucre,7080711,3,240,203,2,12,217,203,217
+10,Obispo Santistéban,2,General Saavedra,2450,San Juan de los Amarillos,21022,Esc. Nucleo  Mariscal Sucre,7080731,5,209,163,5,10,178,163,178
 10,Obispo Santistéban,2,General Saavedra,2464,Puente Caimanes,1038,U.E. Rvdo. Santiago Courneen,7080521,1,240,178,1,15,194,178,194
 10,Obispo Santistéban,2,General Saavedra,2464,Puente Caimanes,1038,U.E. Rvdo. Santiago Courneen,7080531,2,239,188,1,5,194,188,194
 10,Obispo Santistéban,2,General Saavedra,4050,Esterita,25381,U.E. Marcelo Quiroga Santa Cruz,7080751,2,166,119,2,15,136,119,136
 10,Obispo Santistéban,2,General Saavedra,4051,Agua Dulce,25382,U.E. San Felix,7080761,1,106,84,3,2,89,84,89
 10,Obispo Santistéban,2,General Saavedra,4053,San Lorenzo,25384,U.E. 10 de Agosto,7080781,1,153,122,3,9,134,122,134
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080921,3,240,197,1,10,208,197,208
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080931,4,240,199,1,2,202,199,202
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080941,5,240,184,3,19,206,184,206
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080951,6,240,180,4,17,201,180,201
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080961,7,240,183,0,7,190,183,190
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080971,8,240,197,0,11,208,197,208
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080981,9,240,199,0,8,207,199,207
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7080991,10,240,187,3,11,201,187,201
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081021,13,240,188,3,11,202,188,202
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081031,14,240,188,2,12,202,188,202
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081051,16,240,199,0,6,205,199,205
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081061,17,240,188,2,18,208,188,208
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081081,19,240,178,2,13,193,178,193
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081091,20,240,193,1,9,203,193,203
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081101,21,240,193,1,12,206,193,206
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081121,23,240,198,2,3,203,198,203
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081141,25,240,198,1,6,205,198,205
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081161,27,240,192,0,17,209,192,209
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081171,28,240,189,1,9,199,189,199
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081191,30,240,204,3,5,212,204,212
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081201,31,240,191,2,10,203,191,203
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081211,32,240,197,0,6,203,197,203
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081231,34,240,190,0,7,197,190,197
+10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081241,35,240,194,1,10,205,194,205
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081251,36,240,188,0,8,196,188,196
 10,Obispo Santistéban,3,Mineros,2451,Mineros,21023,Esc. Nucleo Central Minero,7081261,37,136,106,1,2,109,106,109
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081301,1,240,183,1,4,188,183,188
@@ -5904,48 +6080,81 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081351,6,240,182,1,17,200,182,200
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25457,U.E. Alice Alvarez De Aredondo I,7081361,7,106,72,0,4,76,72,76
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081371,1,240,175,1,10,186,175,186
+10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081381,2,240,182,1,9,192,182,192
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081391,3,240,180,0,5,185,180,185
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081401,4,240,180,2,5,187,180,187
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081411,5,240,159,1,17,177,159,177
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081421,6,240,173,3,7,183,173,183
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081431,7,240,172,1,6,179,172,179
 10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081441,8,240,172,0,14,186,172,186
+10,Obispo Santistéban,3,Mineros,2451,Mineros,25458,U.E. Benjamin Banegas Vaca,7081451,9,87,63,1,8,72,63,72
+10,Obispo Santistéban,3,Mineros,2451,Mineros,26382,U.E. Eulogio Arredondo Coimbra (Mod. Juan Evo Morales Ayma),7081461,1,240,154,1,16,171,154,171
 10,Obispo Santistéban,3,Mineros,2451,Mineros,26382,U.E. Eulogio Arredondo Coimbra (Mod. Juan Evo Morales Ayma),7081471,2,240,167,1,9,177,167,177
 10,Obispo Santistéban,3,Mineros,2451,Mineros,26382,U.E. Eulogio Arredondo Coimbra (Mod. Juan Evo Morales Ayma),7081491,4,240,175,1,6,182,175,182
+10,Obispo Santistéban,3,Mineros,2451,Mineros,26382,U.E. Eulogio Arredondo Coimbra (Mod. Juan Evo Morales Ayma),7081501,5,85,62,1,3,66,62,66
 10,Obispo Santistéban,3,Mineros,2457,La Porfía,1029,Esc. Sub. Central la Porfia,7080861,1,240,169,3,24,196,169,196
+10,Obispo Santistéban,3,Mineros,2861,La Patria,1,Esc. La Patria,7080821,2,73,52,1,1,54,52,54
 10,Obispo Santistéban,3,Mineros,3323,Pueblo Nuevo,1,Esc. Las Palmas,7080831,1,240,188,2,16,206,188,206
+10,Obispo Santistéban,3,Mineros,3323,Pueblo Nuevo,1,Esc. Las Palmas,7080841,2,245,183,1,19,203,183,203
 10,Obispo Santistéban,3,Mineros,3588,San Juan del Carmen,1,U.E. Francisco Pedraza,7080851,1,128,99,2,8,109,99,109
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086231,1,240,174,5,15,194,174,194
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086241,2,240,172,4,21,197,172,197
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086251,3,240,178,2,14,194,178,194
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086261,4,240,171,2,18,191,171,191
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086271,5,240,187,2,14,203,187,203
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086281,6,240,183,6,15,204,183,204
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086291,7,240,167,8,23,198,167,198
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086301,8,240,189,2,20,211,189,211
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086311,9,240,163,5,24,192,163,192
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086321,10,240,175,4,14,193,175,193
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086331,11,240,178,4,19,201,178,201
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086341,12,240,171,3,30,204,171,204
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086351,13,240,164,3,25,192,164,192
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086361,14,240,171,4,24,199,171,199
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086381,16,240,180,2,17,199,180,199
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086391,17,240,164,1,17,182,164,182
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086401,18,240,196,1,16,213,196,213
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086411,19,240,183,2,14,199,183,199
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086421,20,240,188,6,12,206,188,206
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086431,21,240,173,3,30,206,173,206
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086441,22,240,165,6,27,198,165,198
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086451,23,240,168,3,21,192,168,192
+13,Manuel María Caballero,1,Comarapa,2495,Comarapa,5800,Esc. Gabriel Rene Moreno,7086461,24,250,184,4,27,215,184,215
 13,Manuel María Caballero,1,Comarapa,2495,Comarapa,32348,U.E. Mariano Eliodoro Saucedo Sevilla I,7086731,1,142,90,1,13,104,90,104
 13,Manuel María Caballero,1,Comarapa,2496,San Juan del Potrero,19001,Esc. San Juan del Potrero,7086471,1,240,181,8,12,201,181,201
 13,Manuel María Caballero,1,Comarapa,2496,San Juan del Potrero,19001,Esc. San Juan del Potrero,7086481,2,202,139,1,19,159,139,159
+13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086491,1,240,170,2,21,193,170,193
 13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086501,2,240,161,3,30,194,161,194
 13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086511,3,240,161,7,23,191,161,191
+13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086521,4,240,176,1,21,198,176,198
 13,Manuel María Caballero,1,Comarapa,2497,San Isidro (Caballero),19002,Esc. San Isidro,7086541,6,66,41,1,9,51,41,51
+13,Manuel María Caballero,1,Comarapa,2498,San Mateo,19003,Esc. Escuela San Mateo,7086551,1,240,178,1,21,200,178,200
 13,Manuel María Caballero,1,Comarapa,2498,San Mateo,19003,Esc. Escuela San Mateo,7086561,2,108,89,1,7,97,89,97
+13,Manuel María Caballero,1,Comarapa,2500,Pulquina,19005,Esc. Marcelino Chaipana,7086571,1,240,165,1,23,189,165,189
 13,Manuel María Caballero,1,Comarapa,2500,Pulquina,19005,Esc. Marcelino Chaipana,7086581,2,240,123,6,60,189,123,189
+13,Manuel María Caballero,1,Comarapa,2500,Pulquina,19005,Esc. Marcelino Chaipana,7086591,3,81,59,2,15,76,59,76
+13,Manuel María Caballero,1,Comarapa,2501,San José de la Capilla,19006,Esc. San Jose De La Capilla,7086601,1,240,179,3,14,196,179,196
+13,Manuel María Caballero,1,Comarapa,2502,Capillas,19007,Esc. Habra De Capilla,7086621,1,131,88,4,10,102,88,102
 13,Manuel María Caballero,1,Comarapa,2503,Siberia,19008,Esc. Siberia,7086631,1,170,122,6,13,141,122,141
 13,Manuel María Caballero,1,Comarapa,2504,Manzanal,19009,Esc. Manzanal,7086641,1,154,98,2,17,117,98,117
+13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086651,1,240,169,6,30,205,169,205
+13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086661,2,240,168,5,29,202,168,202
 13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086671,3,240,156,10,35,201,156,201
 13,Manuel María Caballero,1,Comarapa,2505,Torrecillas,19010,Esc. Torrecillas,7086681,4,128,88,2,22,112,88,112
 13,Manuel María Caballero,1,Comarapa,3189,El Jague,19015,Esc.  El Jague,7086691,1,57,47,4,1,52,47,52
+13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086741,1,240,181,2,18,201,181,201
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086751,2,240,180,2,27,209,180,209
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086761,3,240,185,1,16,202,185,202
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086771,4,240,184,4,16,204,184,204
+13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086781,5,240,177,2,19,198,177,198
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086801,7,240,172,3,16,191,172,191
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086811,8,240,181,1,13,195,181,195
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086821,9,240,182,5,20,207,182,207
 13,Manuel María Caballero,2,Saipina,2506,Saipina,19011,Esc. Humberto Villarroel,7086831,10,240,173,4,18,195,173,195
+13,Manuel María Caballero,2,Saipina,2506,Saipina,32108,U. E. Rafael y José Mendoza B,7086921,1,240,178,3,7,188,178,188
+13,Manuel María Caballero,2,Saipina,2507,San Rafael (Caballero),19012,Esc. San Rafael,7086851,1,240,198,0,12,210,198,210
+13,Manuel María Caballero,2,Saipina,2507,San Rafael (Caballero),19012,Esc. San Rafael,7086861,2,57,47,1,5,53,47,53
+13,Manuel María Caballero,2,Saipina,2508,Chilón,19013,Esc. U.E. Santa Catalina Chilon,7086881,1,240,170,3,18,191,170,191
 13,Manuel María Caballero,2,Saipina,2508,Chilón,19013,Esc. U.E. Santa Catalina Chilon,7086891,2,240,173,4,15,192,173,192
 13,Manuel María Caballero,2,Saipina,2508,Chilón,19013,Esc. U.E. Santa Catalina Chilon,7086901,3,81,62,2,2,66,62,66
 13,Manuel María Caballero,2,Saipina,4481,Bañados del Rosario,19012,Esc. Emilia Caballero,7086871,1,86,67,1,10,78,67,78
