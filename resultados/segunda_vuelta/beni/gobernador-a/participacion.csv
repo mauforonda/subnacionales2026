@@ -1,11 +1,38 @@
 CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,InscritosHabilitados,VotoValido,VotoBlanco,VotoNulo,VotoEmitido,VotoValidoReal,VotoEmitidoReal
 1,Cercado,1,Trinidad,2526,Trinidad,2,U.E. Nicolas Suarez,8000241,3,240,175,1,11,187,175,187
 1,Cercado,1,Trinidad,2526,Trinidad,2,U.E. Nicolas Suarez,8000271,6,239,168,0,4,172,168,172
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000951,6,240,190,2,7,199,190,199
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000961,7,240,179,0,9,188,179,188
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8000971,8,240,179,1,9,189,179,189
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001051,16,240,180,2,8,190,180,190
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001061,17,240,178,4,9,191,178,191
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001071,18,240,176,1,12,189,176,189
+1,Cercado,1,Trinidad,2526,Trinidad,5,U.E. J. Chavez Suarez,8001081,19,152,108,3,9,120,108,120
+1,Cercado,1,Trinidad,2526,Trinidad,6,U.E. Pedro Ignacio Muiba,8001661,6,240,179,3,15,197,179,197
+1,Cercado,1,Trinidad,2526,Trinidad,7,U.E. San Antonio,8001791,7,240,175,3,15,193,175,193
 1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000611,5,240,188,1,3,192,188,192
+1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000631,7,240,196,1,13,210,196,210
 1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000641,8,240,184,0,8,192,184,192
+1,Cercado,1,Trinidad,2526,Trinidad,8,U.E. Raúl Monje Roca,8000651,9,240,191,1,13,205,191,205
+1,Cercado,1,Trinidad,2526,Trinidad,9,U.E. J. Lorenzo Campero,8002181,3,240,191,0,10,201,191,201
+1,Cercado,1,Trinidad,2526,Trinidad,9,U.E. J. Lorenzo Campero,8002211,6,229,188,1,10,199,188,199
+1,Cercado,1,Trinidad,2526,Trinidad,10,U.E. Hormando Ortiz Chávez,8002461,1,240,185,1,6,192,185,192
+1,Cercado,1,Trinidad,2526,Trinidad,10,U.E. Hormando Ortiz Chávez,8002471,2,240,182,1,9,192,182,192
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001941,7,240,177,2,12,191,177,191
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001951,8,240,184,0,9,193,184,193
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001961,9,240,185,2,7,194,185,194
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8001971,10,240,182,1,14,197,182,197
+1,Cercado,1,Trinidad,2526,Trinidad,11,U.E. San Vicente,8002001,13,224,168,1,4,173,168,173
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003311,3,240,180,2,7,189,180,189
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003321,4,240,177,2,8,187,177,187
+1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003331,5,240,181,2,7,190,181,190
 1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003341,6,240,190,0,9,199,190,199
 1,Cercado,1,Trinidad,2526,Trinidad,13,U.E.  Emilio Campos Pedriel,8003351,7,240,193,0,8,201,193,201
+1,Cercado,1,Trinidad,2526,Trinidad,14,U.E. J.Azurduy De Padilla,8002521,1,240,187,1,7,195,187,195
+1,Cercado,1,Trinidad,2526,Trinidad,14,U.E. J.Azurduy De Padilla,8002531,2,240,183,4,13,200,183,200
 1,Cercado,1,Trinidad,2526,Trinidad,14,U.E. J.Azurduy De Padilla,8002541,3,240,193,2,8,203,193,203
+1,Cercado,1,Trinidad,2526,Trinidad,14,U.E. J.Azurduy De Padilla,8002551,4,240,194,1,5,200,194,200
+1,Cercado,1,Trinidad,2526,Trinidad,14,U.E. J.Azurduy De Padilla,8002561,5,240,182,0,11,193,182,193
 1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000671,1,240,182,1,9,192,182,192
 1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000681,2,240,177,3,9,189,177,189
 1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000711,5,240,167,2,12,181,167,181
@@ -18,18 +45,96 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000811,15,240,181,2,10,193,181,193
 1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000821,16,240,168,1,8,177,168,177
 1,Cercado,1,Trinidad,2526,Trinidad,15,U.E. 4 De  Febrero,8000831,17,133,103,0,7,110,103,110
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002221,1,240,178,2,5,185,178,185
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002231,2,240,168,3,15,186,168,186
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002241,3,240,179,3,10,192,179,192
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002251,4,240,189,3,8,200,189,200
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002261,5,240,190,1,7,198,190,198
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002271,6,240,169,0,9,178,169,178
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002281,7,240,175,4,3,182,175,182
+1,Cercado,1,Trinidad,2526,Trinidad,18,U.E. La Salle,8002291,8,190,142,0,7,149,142,149
 1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003101,5,240,187,0,17,204,187,204
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003111,6,240,180,2,12,194,180,194
 1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003141,9,240,184,0,8,192,184,192
 1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003161,11,240,201,0,8,209,201,209
+1,Cercado,1,Trinidad,2526,Trinidad,19,U.E. Mary Ribera G.,8003171,12,240,196,2,10,208,196,208
 1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001101,1,240,177,2,18,197,177,197
+1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001111,2,240,186,4,8,198,186,198
 1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001141,5,240,184,3,3,190,184,190
 1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001151,6,240,181,0,11,192,181,192
 1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001171,8,240,179,3,8,190,179,190
 1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001201,11,240,193,0,10,203,193,203
 1,Cercado,1,Trinidad,2526,Trinidad,20,U.E. Corina Hurtado De,8001211,12,197,147,3,11,161,147,161
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002331,4,240,179,2,10,191,179,191
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002341,5,240,186,0,9,195,186,195
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002351,6,240,177,2,9,188,177,188
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002371,8,240,178,1,8,187,178,187
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002381,9,240,176,2,4,182,176,182
+1,Cercado,1,Trinidad,2526,Trinidad,24,U.E. Nuestra Señora de Fátima,8002391,10,178,132,1,10,143,132,143
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002681,3,240,177,0,6,183,177,183
 1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002711,6,240,170,6,13,189,170,189
 1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002721,7,240,172,2,17,191,172,191
+1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002771,12,240,183,1,10,194,183,194
 1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002801,15,240,154,1,11,166,154,166
 1,Cercado,1,Trinidad,2526,Trinidad,26,U.E.  Nueva Trinidad,8002811,16,240,171,3,9,183,171,183
+1,Cercado,1,Trinidad,2526,Trinidad,29,(Cárcel) Cárcel De Mujeres,8000841,1,68,52,2,0,54,52,54
+1,Cercado,1,Trinidad,2526,Trinidad,31,U.E. Mangalito,8001361,6,240,183,1,9,193,183,193
+1,Cercado,1,Trinidad,2526,Trinidad,31,U.E. Mangalito,8001371,7,240,180,3,9,192,180,192
+1,Cercado,1,Trinidad,2526,Trinidad,31,U.E. Mangalito,8001381,8,240,180,2,13,195,180,195
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000391,1,240,187,1,18,206,187,206
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000401,2,240,185,2,14,201,185,201
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000421,4,240,182,3,8,193,182,193
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000431,5,240,162,2,14,178,162,178
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000441,6,240,180,1,7,188,180,188
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000451,7,240,172,3,12,187,172,187
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000461,8,240,182,6,7,195,182,195
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000471,9,240,194,0,7,201,194,201
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000481,10,240,187,0,7,194,187,194
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000491,11,240,169,1,15,185,169,185
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000501,12,240,180,1,14,195,180,195
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000511,13,240,176,1,7,184,176,184
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000521,14,240,172,2,13,187,172,187
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000541,16,240,184,5,15,204,184,204
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000551,17,240,185,4,9,198,185,198
+1,Cercado,1,Trinidad,2526,Trinidad,40,U.E.  13 de Abril,8000561,18,180,146,0,4,150,146,150
+1,Cercado,1,Trinidad,2526,Trinidad,25028,U.E. Orlando Monasterio Claure,8001581,1,240,179,2,19,200,179,200
+1,Cercado,1,Trinidad,2526,Trinidad,25028,U.E. Orlando Monasterio Claure,8001591,2,240,189,4,5,198,189,198
+1,Cercado,1,Trinidad,2526,Trinidad,25028,U.E. Orlando Monasterio Claure,8001601,3,74,63,0,1,64,63,64
+1,Cercado,1,Trinidad,2526,Trinidad,25031,U.E. Luis Espinal Cams,8001251,4,240,167,1,17,185,167,185
+1,Cercado,1,Trinidad,2526,Trinidad,25032,U.E. Gonzalo Suarez D.,8000851,1,240,166,3,10,179,166,179
 1,Cercado,1,Trinidad,2526,Trinidad,25032,U.E. Gonzalo Suarez D.,8000861,2,240,169,0,14,183,169,183
 1,Cercado,1,Trinidad,2526,Trinidad,25032,U.E. Gonzalo Suarez D.,8000871,3,240,165,2,10,177,165,177
+1,Cercado,1,Trinidad,2526,Trinidad,25032,U.E. Gonzalo Suarez D.,8000881,4,240,171,4,12,187,171,187
+1,Cercado,1,Trinidad,2526,Trinidad,25033,U.E. Los Cedros,8003571,1,240,166,2,10,178,166,178
+1,Cercado,1,Trinidad,2526,Trinidad,25033,U.E. Los Cedros,8003581,2,240,181,2,2,185,181,185
+1,Cercado,1,Trinidad,2526,Trinidad,32003,U.A.B. Medicina,8002401,1,240,188,1,6,195,188,195
+1,Cercado,1,Trinidad,2526,Trinidad,32003,U.A.B. Medicina,8002411,2,240,174,4,9,187,174,187
+1,Cercado,1,Trinidad,2526,Trinidad,32009,U.E. Andrés Bello,8002491,1,240,174,1,6,181,174,181
+1,Cercado,1,Trinidad,2526,Trinidad,32009,U.E. Andrés Bello,8002511,3,83,64,2,1,67,64,67
+1,Cercado,1,Trinidad,2526,Trinidad,32010,U.E. Christa Mc Auliffe,8001831,1,240,172,2,9,183,172,183
+1,Cercado,1,Trinidad,2526,Trinidad,32010,U.E. Christa Mc Auliffe,8001841,2,240,191,0,5,196,191,196
+1,Cercado,1,Trinidad,2526,Trinidad,32010,U.E. Christa Mc Auliffe,8001851,3,240,189,5,3,197,189,197
+1,Cercado,1,Trinidad,2526,Trinidad,32010,U.E. Christa Mc Auliffe,8001861,4,240,184,1,4,189,184,189
+1,Cercado,1,Trinidad,2526,Trinidad,32010,U.E. Christa Mc Auliffe,8001871,5,222,168,1,8,177,168,177
+1,Cercado,1,Trinidad,2526,Trinidad,32011,U.E. Evangélico Cuatro,8002651,4,77,63,1,5,69,63,69
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002841,2,240,185,2,8,195,185,195
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002851,3,240,180,1,17,198,180,198
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002861,4,240,186,2,16,204,186,204
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002881,6,240,185,3,9,197,185,197
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002891,7,240,168,1,19,188,168,188
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002901,8,240,188,0,8,196,188,196
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002921,10,240,181,5,15,201,181,201
+1,Cercado,1,Trinidad,2526,Trinidad,32012,U.E.Inmaculada,8002931,11,66,57,0,2,59,57,59
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8002951,2,240,202,1,10,213,202,213
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8002961,3,240,187,1,11,199,187,199
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8002991,6,240,192,2,17,211,192,211
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8003001,7,240,174,3,14,191,174,191
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8003011,8,240,186,4,7,197,186,197
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8003021,9,240,187,0,10,197,187,197
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8003031,10,240,185,3,12,200,185,200
+1,Cercado,1,Trinidad,2526,Trinidad,32014,U.E. Jesús Rioja Aponte,8003051,12,54,45,2,0,47,45,47
+1,Cercado,1,Trinidad,2526,Trinidad,32147,U.E.Villa Magdalena,8003881,5,240,177,1,12,190,177,190
+1,Cercado,1,Trinidad,2526,Trinidad,32147,U.E.Villa Magdalena,8003891,6,86,68,1,2,71,68,71
+1,Cercado,1,Trinidad,2526,Trinidad,32148,U.E.Villa Marin,8001521,2,240,176,0,9,185,176,185
+1,Cercado,1,Trinidad,2526,Trinidad,32148,U.E.Villa Marin,8001561,6,240,160,3,16,179,160,179
+1,Cercado,1,Trinidad,2526,Trinidad,32150,U.E. Nacional 6 de Agosto,8003951,6,156,133,0,4,137,133,137
