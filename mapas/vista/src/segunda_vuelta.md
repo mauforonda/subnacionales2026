@@ -47,7 +47,7 @@ const DATA_BASE =
 const MUNICIPIOS_URL =
   "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/mapas/artefactos/segunda_vuelta/municipios.json";
 const MUNICIPIOS_TOPO_URL =
-  "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/mapas/artefactos/primera_vuelta/municipios.topo.json";
+  "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/mapas/artefactos/segunda_vuelta/municipios.topojson";
 const TIMESTAMP_URL =
   "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/mapas/artefactos/segunda_vuelta/timestamp";
 const STORAGE_DEPARTAMENTO_KEY = "subnacionales2026_segunda_vuelta_departamento";
