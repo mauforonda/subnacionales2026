@@ -1,11 +1,19 @@
 CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,NombreLocalidad,CodigoRecinto,NombreRecinto,CodigoMesa,NumeroMesa,PATRIA,CDC
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000311,1,35,145
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000321,2,49,135
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000331,3,30,160
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000341,4,45,148
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000351,5,38,156
+1,Cercado,1,Tarija,1875,La Pintada,1,U.E. La Pintada,6000361,6,11,65
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000821,1,67,121
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000831,2,60,125
+1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000841,3,83,112
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000851,4,81,117
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000861,5,67,127
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000871,6,80,104
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000881,7,71,114
 1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000891,8,72,120
+1,Cercado,1,Tarija,2680,Tarija,1,U.E. Nacional San Luis,6000901,9,42,74
 1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001201,1,53,142
 1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001211,2,61,117
 1,Cercado,1,Tarija,2680,Tarija,2,U.E. Maria Laura Justiniano,6001221,3,55,138
@@ -62,17 +70,24 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000921,2,81,121
 1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000931,3,79,114
 1,Cercado,1,Tarija,2680,Tarija,56,U.E. Narciso Campero,6000941,4,59,100
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002841,1,40,147
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002851,2,41,131
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002861,3,40,127
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002871,4,52,118
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002881,5,38,135
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002891,6,50,135
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002901,7,34,144
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002911,8,43,130
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002921,9,44,136
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002931,10,45,145
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002941,11,34,141
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002951,12,31,135
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002961,13,38,143
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002971,14,42,145
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002981,15,61,128
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6002991,16,43,123
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6003001,17,46,143
+1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6003011,18,42,137
 1,Cercado,1,Tarija,2680,Tarija,67,U.E. Hermann Gmeiner,6003021,19,18,64
 1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002321,1,52,127
 1,Cercado,1,Tarija,2680,Tarija,68,U.E. Ignacia Nazaria March,6002331,2,39,137
@@ -109,6 +124,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005331,9,68,128
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005341,10,72,107
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005351,11,80,126
+1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005361,12,61,138
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005371,13,57,133
 1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6005381,14,46,128
 1,Cercado,1,Tarija,2680,Tarija,71,U.E. Esteban Migliaci,6004611,1,49,149
@@ -228,6 +244,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007861,3,25,159
 1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007871,4,42,149
 1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007881,5,32,152
+1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007891,6,37,142
 1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007901,7,36,140
 1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007911,8,39,149
 1,Cercado,1,Tarija,2680,Tarija,77,U.E. El Portillo,6007921,9,28,169
@@ -456,6 +473,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002811,12,37,132
 1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002821,13,65,112
 1,Cercado,1,Tarija,2680,Tarija,99,U.E. Nuestra Señora Del Rosario,6002831,14,19,53
+1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001781,1,46,130
 1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001791,2,42,143
 1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001801,3,42,137
 1,Cercado,1,Tarija,2680,Tarija,100,C.E.B.A.,6001811,4,44,140
@@ -699,3 +717,36 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005631,6,43,139
 1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005641,7,61,149
 1,Cercado,1,Tarija,2680,Tarija,32461,U.E. Castelfort Catellanos I (secundaria),6005651,8,44,97
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6007951,1,75,120
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6007961,2,74,122
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6007971,3,82,115
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6007981,4,73,131
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6007991,5,61,121
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6008001,6,86,113
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6008011,7,71,136
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6008021,8,54,149
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6008031,9,59,137
+2,Arce,1,Padcaya,1887,Padcaya,1,U.E. Aniceto Arce,6008041,10,44,86
+2,Arce,1,Padcaya,1889,Abra de la Cruz,3,U.E. Eloy Aparicio,6008131,1,54,156
+2,Arce,1,Padcaya,1889,Abra de la Cruz,3,U.E. Eloy Aparicio,6008141,2,42,156
+2,Arce,1,Padcaya,1889,Abra de la Cruz,3,U.E. Eloy Aparicio,6008151,3,27,93
+2,Arce,1,Padcaya,1904,Mecoya (Zona Centro),15,U.E. San Antonio de Macoya,6008381,1,66,114
+2,Arce,1,Padcaya,1904,Mecoya (Zona Centro),15,U.E. San Antonio de Macoya,6008391,2,15,20
+2,Arce,1,Padcaya,1906,San Francisco,16,U.E. San Francisco (Arce),6008401,1,44,65
+2,Arce,1,Padcaya,1907,El Carmen,17,U.E. El Carmen,6008411,1,28,97
+2,Arce,1,Padcaya,1911,Cañas,21,U.E. Blanca Navajas,6008491,1,62,141
+2,Arce,1,Padcaya,1911,Cañas,21,U.E. Blanca Navajas,6008501,2,60,122
+2,Arce,1,Padcaya,1911,Cañas,21,U.E. Blanca Navajas,6008511,3,19,24
+2,Arce,1,Padcaya,1915,Rosillas,25,U.E. Rosillas II,6008571,1,77,99
+2,Arce,1,Padcaya,1915,Rosillas,25,U.E. Rosillas II,6008581,2,86,99
+2,Arce,1,Padcaya,1915,Rosillas,25,U.E. Rosillas II,6008591,3,38,57
+2,Arce,1,Padcaya,3046,Marañuelo,27,U.E. San Jose de Marañuelo,6008601,1,68,97
+2,Arce,1,Padcaya,3333,Quebrada de Cañas,1,U.E. Quebrada De Cañas,6008091,1,17,100
+2,Arce,1,Padcaya,3752,Abra de San Miguel,1,U.E. Abra de San Miguel,6008111,1,63,139
+2,Arce,1,Padcaya,3752,Abra de San Miguel,1,U.E. Abra de San Miguel,6008121,2,10,27
+4,Avilés,1,Uriondo,1931,Colon Sud,9,U.E. Nuevo Amanecer,6015171,1,42,148
+4,Avilés,1,Uriondo,1931,Colon Sud,9,U.E. Nuevo Amanecer,6015181,2,48,137
+4,Avilés,1,Uriondo,1931,Colon Sud,9,U.E. Nuevo Amanecer,6015191,3,50,133
+4,Avilés,1,Uriondo,1931,Colon Sud,9,U.E. Nuevo Amanecer,6015201,4,48,135
+4,Avilés,1,Uriondo,1931,Colon Sud,9,U.E. Nuevo Amanecer,6015211,5,21,83
+4,Avilés,1,Uriondo,3339,Ancon Grande,1,U.E. Ancon Grande,6014881,1,32,118
