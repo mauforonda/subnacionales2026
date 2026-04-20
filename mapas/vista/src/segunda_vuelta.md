@@ -71,11 +71,12 @@ const municipiosGeo = topojsonAFeatureCollection(municipiosTopo);
 const timestampRaw = await d3.text(TIMESTAMP_URL).catch(() => "");
 const timestamp = formatearTimestamp(timestampRaw);
 const departamentoGuardado = storage?.getItem(STORAGE_DEPARTAMENTO_KEY);
+const departamentoPreferido = manifiesto?.["7"] ? "7" : null;
 const primerDepartamentoDisponible = Object.keys(manifiesto ?? {})[0] ?? "7";
 const departamentoInicial =
   departamentoGuardado && manifiesto[departamentoGuardado]
     ? departamentoGuardado
-    : primerDepartamentoDisponible;
+    : (departamentoPreferido ?? primerDepartamentoDisponible);
 const departamentoInput = Inputs.select(Object.keys(DEPARTAMENTOS), {
   value: departamentoInicial,
   format: (d) => DEPARTAMENTOS[d] ?? d,
