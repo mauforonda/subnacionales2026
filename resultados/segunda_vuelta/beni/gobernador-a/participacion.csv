@@ -686,6 +686,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,3096,Bolivar,1,U.E. Bolívar,8004211,3,130,80,11,6,97,80,97
 2,Vaca Diez,1,Riberalta,3097,12 de Octubre,1,Escuela 12 de Octubre,8004221,1,240,162,8,16,186,162,186
 2,Vaca Diez,1,Riberalta,3097,12 de Octubre,1,Escuela 12 de Octubre,8004231,2,148,95,4,9,108,95,108
+2,Vaca Diez,1,Riberalta,3099,Alto Ivon,1,Escuela Alto Ivon,8004271,3,215,102,3,61,166,102,166
 2,Vaca Diez,1,Riberalta,3101,Santa María  de Vaca Diez,1,U.E. Santa Maria,8004291,1,240,143,9,18,170,143,170
 2,Vaca Diez,1,Riberalta,3101,Santa María  de Vaca Diez,1,U.E. Santa Maria,8004301,2,246,164,5,22,191,164,191
 2,Vaca Diez,1,Riberalta,4003,La Esperanza,25317,U.E. La Esperanza,8004311,1,240,156,11,22,189,156,189
@@ -695,6 +696,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 2,Vaca Diez,1,Riberalta,4004,Popechi,25318,U.E. Popechi,8004351,2,198,136,9,2,147,136,147
 2,Vaca Diez,1,Riberalta,4005,Bella Flor,25319,U.E. Bella Flor,8004361,1,240,163,3,13,179,163,179
 2,Vaca Diez,1,Riberalta,4005,Bella Flor,25319,U.E. Bella Flor,8004371,2,40,25,0,1,26,25,26
+2,Vaca Diez,1,Riberalta,4509,Los Cayuses,32144,U.E. Los Cayuses,8004401,1,77,45,1,5,51,45,51
 2,Vaca Diez,1,Riberalta,4576,Nueva Unión,32286,U.E. Nueva Unión I,8004411,1,153,118,3,10,131,118,131
 2,Vaca Diez,2,Guayaramerín,2548,Villa Bella,1,Esc. Antofagasta,8007061,1,110,75,3,3,81,75,81
 2,Vaca Diez,2,Guayaramerín,2549,Cachuela Esperanza,1,Esc. Juddi De Suarez,8007071,1,240,168,62,6,236,168,236
@@ -902,6 +904,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009761,8,240,183,0,10,193,183,193
 3,General José Ballivián,2,San Borja,2559,San Borja,25860,U.E. Cochabamba,8009771,9,40,32,0,1,33,32,33
 3,General José Ballivián,2,San Borja,2560,Santa Elena del Caripo,1,Esc. Santa Elena del Caripo,8008641,1,165,129,5,2,136,129,136
+3,General José Ballivián,2,San Borja,2562,Junreno,1,Esc. Junrreno,8008651,1,73,57,0,0,57,57,57
 3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009141,1,240,164,0,23,187,164,187
 3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009151,2,240,157,3,34,194,157,194
 3,General José Ballivián,2,San Borja,2563,Yucumo,26361,U.E. Yucumo,8009161,3,240,136,8,31,175,136,175
@@ -934,6 +937,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 3,General José Ballivián,2,San Borja,2571,El Chacal,1,Esc. El Chacal,8008801,1,240,189,0,26,215,189,215
 3,General José Ballivián,2,San Borja,2571,El Chacal,1,Esc. El Chacal,8008811,2,240,184,1,18,203,184,203
 3,General José Ballivián,2,San Borja,2571,El Chacal,1,Esc. El Chacal,8008821,3,67,47,0,9,56,47,56
+3,General José Ballivián,2,San Borja,2788,Las Habras,1,Esc. Las Abras,8008831,1,125,93,2,3,98,93,98
 3,General José Ballivián,2,San Borja,3074,Oriente,1,Escuela El Oriente Del Yacuma,8008841,1,192,131,2,4,137,131,137
 3,General José Ballivián,2,San Borja,3517,Tacuaral de Mattos,1,Esc. Tacuaral De Mattos,8008851,1,240,179,2,23,204,179,204
 3,General José Ballivián,2,San Borja,3517,Tacuaral de Mattos,1,Esc. Tacuaral De Mattos,8008861,2,240,192,2,17,211,192,211
@@ -1091,6 +1095,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 4,Yacuma,2,Exaltación,2584,San Carlos,1,Esc. San Carlos,8011191,1,74,43,1,0,44,43,44
 4,Yacuma,2,Exaltación,2585,El Trompillo Mamoré,1,Esc. El Trompillo,8011201,1,21,7,0,0,7,7,7
 4,Yacuma,2,Exaltación,2586,Rancho Ginebra,1,Esc. El Motacusal,8011211,1,137,83,0,3,86,83,86
+4,Yacuma,2,Exaltación,3102,Cooperativa,1,Esc. Cooperativa,8011221,1,61,34,0,2,36,34,36
 4,Yacuma,2,Exaltación,3103,San Juan del Jordán,1,Escuela San Juan del Jordan,8011231,1,101,26,0,0,26,26,26
 4,Yacuma,2,Exaltación,3521,Nueva Esperanza,1,Esc. Nueva Esperanza,8011241,1,45,31,2,2,35,31,35
 4,Yacuma,2,Exaltación,3522,Campo Ana Maria,1,Esc. Campo Ana Maria,8011251,1,39,30,0,1,31,30,31
@@ -1133,6 +1138,8 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Moxos,1,San Ignacio,2598,Fatima,1,Esc. Fatima,8011291,1,159,124,1,5,130,124,130
 5,Moxos,1,San Ignacio,2600,Argentina,1,Esc. La Argentina,8011301,1,121,89,1,12,102,89,102
 5,Moxos,1,San Ignacio,2601,Desengaño,1,Esc. El Desengaño,8011311,1,154,103,0,7,110,103,110
+5,Moxos,1,San Ignacio,2604,San Francisco,1,Esc. San Francisco,8011321,1,240,140,4,15,159,140,159
+5,Moxos,1,San Ignacio,2604,San Francisco,1,Esc. San Francisco,8011331,2,61,45,1,2,48,45,48
 5,Moxos,1,San Ignacio,2605,San Lorenzo de Moxos,1,Esc. Ovidio Roca C.,8011341,1,240,152,2,19,173,152,173
 5,Moxos,1,San Ignacio,2605,San Lorenzo de Moxos,1,Esc. Ovidio Roca C.,8011351,2,240,149,4,25,178,149,178
 5,Moxos,1,San Ignacio,2605,San Lorenzo de Moxos,1,Esc. Ovidio Roca C.,8011361,3,166,106,4,19,129,106,129
@@ -1147,7 +1154,11 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 5,Moxos,1,San Ignacio,3110,Mercedes de Lojojota,1,Esc. Mercedes De Lojojota,8011451,1,224,129,2,14,145,129,145
 5,Moxos,1,San Ignacio,3127,Trinidacito,1,Esc. Trinidacito,8011461,1,51,26,1,0,27,26,27
 5,Moxos,1,San Ignacio,3406,Bermeo,1,Escuela De Bermeo,8011471,1,119,66,5,20,91,66,91
+5,Moxos,1,San Ignacio,3757,Oromomo,1,Esc. Oromomo,8011481,1,240,115,1,19,135,115,135
+5,Moxos,1,San Ignacio,3757,Oromomo,1,Esc. Oromomo,8011491,2,182,75,4,20,99,75,99
 5,Moxos,1,San Ignacio,3875,San Bernardo,1,U.E. San Bernardo,8011501,1,155,98,4,4,106,98,106
+5,Moxos,1,San Ignacio,4358,San José del Secure,26060,U.E. San José del Secure,8011611,1,130,76,1,17,94,76,94
+5,Moxos,1,San Ignacio,4595,Comunidad Indígena San Ramoncito Rio Ichoa Tipnis,32337,U.E. San Mateo de San Ramoncito,8011621,1,67,46,2,3,51,46,51
 5,Moxos,2,TIOC Territorio Indígena Multiétnico - TIM,2602,Santa Rosa Rio Apere,1,Esc. Central Santa Rosa,8011861,1,151,106,2,14,122,106,122
 5,Moxos,2,TIOC Territorio Indígena Multiétnico - TIM,2603,Pueblo Nuevo,1,Esc. Sub Central Pueblo Nuevo,8011871,1,84,53,4,3,60,53,60
 5,Moxos,2,TIOC Territorio Indígena Multiétnico - TIM,2606,Monte Grande,1,Esc. Monte Grande,8011881,1,240,167,4,21,192,167,192
@@ -1159,10 +1170,16 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,Marbán,1,Loreto,2624,Loreto,1,Esc. Perfecta Vda. De Bejarano,8011941,1,240,151,2,14,167,151,167
 6,Marbán,1,Loreto,2624,Loreto,1,Esc. Perfecta Vda. De Bejarano,8011951,2,240,164,1,7,172,164,172
 6,Marbán,1,Loreto,2624,Loreto,1,Esc. Perfecta Vda. De Bejarano,8011961,3,67,43,1,4,48,43,48
+6,Marbán,1,Loreto,2625,San Antonio de Loras,1,Esc. San Antonio,8011971,1,57,30,0,2,32,30,32
+6,Marbán,1,Loreto,2626,Camiaco,1,Esc. Camiaco,8011981,1,240,145,1,9,155,145,155
+6,Marbán,1,Loreto,2626,Camiaco,1,Esc. Camiaco,8011991,2,150,87,3,9,99,87,99
 6,Marbán,1,Loreto,2630,Gundonovia,1,Esc. Gundonovia,8012001,1,157,89,2,10,101,89,101
 6,Marbán,1,Loreto,2631,Sachojere,1,Esc. Sachojere,8012011,1,240,179,1,8,188,179,188
 6,Marbán,1,Loreto,2631,Sachojere,1,Esc. Sachojere,8012021,2,142,112,1,5,118,112,118
 6,Marbán,1,Loreto,2747,San Pablo del Isiboro,1,Esc. San Pablo Isiboro,8012031,1,197,119,3,11,133,119,133
+6,Marbán,1,Loreto,3105,Santa Rosa del Isiboro,1,Santa Rosa del Isiboro,8012041,1,175,102,1,9,112,102,112
+6,Marbán,1,Loreto,3316,Santa Rosa del Chapare,1,Escuela Santa Rosa del Chapare,8012051,1,35,9,0,0,9,9,9
+6,Marbán,1,Loreto,3876,Palermo,1,U.E. Palermo,8012061,1,49,43,1,1,45,43,45
 6,Marbán,1,Loreto,3878,Villa El Carmen del Remanzo,1,U.E. Villa El Carmen del Remanzo,8012071,1,124,58,1,10,69,58,69
 6,Marbán,2,San Andrés,2633,San Andrés,1,Esc. Humberto Velarde,8012081,1,240,172,2,6,180,172,180
 6,Marbán,2,San Andrés,2633,San Andrés,1,Esc. Humberto Velarde,8012091,2,27,21,0,0,21,21,21
@@ -1205,6 +1222,42 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 6,Marbán,2,San Andrés,4115,Villa San Pedro,25525,U.E. Canaan,8012461,2,217,116,1,21,138,116,138
 6,Marbán,2,San Andrés,4422,Unión y Fe,26179,U.E. Unión y Fe,8012471,1,240,160,9,12,181,160,181
 6,Marbán,2,San Andrés,4422,Unión y Fe,26179,U.E. Unión y Fe,8012481,2,28,16,2,1,19,16,19
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012521,1,240,131,2,3,136,131,136
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012531,2,240,145,1,1,147,145,147
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012541,3,240,145,0,3,148,145,148
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012551,4,240,137,1,4,142,137,142
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012561,5,240,147,1,0,148,147,148
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012571,6,240,147,1,6,154,147,154
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012581,7,240,153,1,5,159,153,159
+7,Mamoré,1,San Joaquín,2612,San Joaquín,2,U.E. Arturo Cuellar Rea,8012591,8,167,101,0,0,101,101,101
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012601,1,240,169,1,2,172,169,172
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012611,2,240,176,0,2,178,176,178
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012621,3,240,173,0,2,175,173,175
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012631,4,240,172,1,4,177,172,177
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012641,5,240,170,0,1,171,170,171
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012651,6,240,176,2,2,180,176,180
+7,Mamoré,1,San Joaquín,2612,San Joaquín,3,Unidad Educativa 21 de Agosto,8012661,7,90,63,1,1,65,63,65
+7,Mamoré,1,San Joaquín,2620,Chaco Lejos,1,Esc. Chaco Lejos,8012491,1,46,38,0,0,38,38,38
+7,Mamoré,1,San Joaquín,2621,Puerto Ustarez,1,Esc. Puerto Ustarez,8012501,1,133,95,1,5,101,95,101
+7,Mamoré,1,San Joaquín,3079,Moré Monte Azul,1,Esc. More Monte Azul,8012511,1,116,77,0,2,79,77,79
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012671,1,240,166,0,3,169,166,169
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012681,2,240,156,2,4,162,156,162
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012691,3,240,168,0,2,170,168,170
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012701,4,240,184,2,7,193,184,193
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012711,5,240,176,0,5,181,176,181
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012721,6,240,178,0,2,180,178,180
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012731,7,240,174,1,4,179,174,179
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012741,8,240,157,1,2,160,157,160
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012751,9,240,172,0,3,175,172,175
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012761,10,240,178,1,0,179,178,179
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012771,11,240,170,0,4,174,170,174
+7,Mamoré,2,San Ramón,2616,San Ramón,1,U.E. Napoleón Añez Ortiz,8012781,12,144,98,0,3,101,98,101
+7,Mamoré,2,San Ramón,2617,Poyori,1,Esc. El Poyori,8012791,1,53,43,0,0,43,43,43
+7,Mamoré,2,San Ramón,3173,El Carmen de Guacayane,1,Esc. El Carmen de Guacayane,8012801,1,69,50,0,0,50,50,50
+7,Mamoré,3,Puerto Siles,2618,Puerto Siles,1,Esc. Antofagasta,8012811,1,240,174,2,2,178,174,178
+7,Mamoré,3,Puerto Siles,2618,Puerto Siles,1,Esc. Antofagasta,8012821,2,50,34,2,1,37,34,37
+7,Mamoré,3,Puerto Siles,2619,Santa Rosa de Vigo,1,Esc. Santa Rosa,8012831,1,197,147,0,0,147,147,147
+7,Mamoré,3,Puerto Siles,2622,Alejandría,1,Esc. Alejandria,8012841,1,52,37,0,0,37,37,37
 8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012851,1,240,174,1,11,186,174,186
 8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012861,2,240,173,2,6,181,173,181
 8,Iténez,1,Magdalena,2644,Magdalena,1,U.E. Mcal. Jose Ballivian,8012871,3,240,172,2,4,178,172,178
