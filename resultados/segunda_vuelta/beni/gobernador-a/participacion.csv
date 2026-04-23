@@ -1304,6 +1304,7 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Iténez,1,Magdalena,2645,Nueva Calama,1,Esc. Angel Chavez Arza,8012931,1,155,114,0,5,119,114,119
 8,Iténez,1,Magdalena,2646,La Cayoba,1,Esc. La Cayoba,8012941,1,131,90,0,2,92,90,92
 8,Iténez,1,Magdalena,2647,Santa María del Itenez,1,Esc. Santa Maria,8012951,1,81,66,0,0,66,66,66
+8,Iténez,1,Magdalena,2648,Versalles,1,Esc. Central 1o. De Mayo,8012961,1,78,56,2,5,63,56,63
 8,Iténez,1,Magdalena,2649,Orobayaya,1,U.E. Cnel. Carmelo Cuellar J.,8012971,1,240,180,1,5,186,180,186
 8,Iténez,1,Magdalena,2649,Orobayaya,1,U.E. Cnel. Carmelo Cuellar J.,8012981,2,58,33,1,1,35,33,35
 8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8012991,1,240,171,1,11,183,171,183
@@ -1312,7 +1313,10 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013021,4,240,181,4,4,189,181,189
 8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013031,5,240,171,0,6,177,171,177
 8,Iténez,1,Magdalena,2650,Bella Vista,1,U.E. Macedonio Paz Pino,8013041,6,162,131,2,3,136,131,136
+8,Iténez,1,Magdalena,2682,Buena Vista,1,Esc. Buena Vista,8013051,1,240,155,0,8,163,155,163
+8,Iténez,1,Magdalena,2682,Buena Vista,1,Esc. Buena Vista,8013061,2,39,20,0,0,20,20,20
 8,Iténez,1,Magdalena,3129,San Borja Río Blanco,1,Esc. San Borja Rio Blanco,8013071,1,211,149,2,4,155,149,155
+8,Iténez,1,Magdalena,4578,Nueva Brema,32289,U.E. Nueva Brema,8013181,1,111,88,0,4,92,88,92
 8,Iténez,2,Baures,2651,Baures,1,U.E. Carmelo López,8013191,1,240,180,0,3,183,180,183
 8,Iténez,2,Baures,2651,Baures,1,U.E. Carmelo López,8013201,2,240,180,6,4,190,180,190
 8,Iténez,2,Baures,2651,Baures,1,U.E. Carmelo López,8013211,3,240,176,1,5,182,176,182
@@ -1321,13 +1325,24 @@ CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,CodigoLocalidad,No
 8,Iténez,2,Baures,2651,Baures,1,U.E. Carmelo López,8013241,6,240,180,1,5,186,180,186
 8,Iténez,2,Baures,2651,Baures,1,U.E. Carmelo López,8013251,7,85,62,2,2,66,62,66
 8,Iténez,2,Baures,2652,El Cairo,1,U.E. El Cairo,8013261,1,107,92,0,1,93,92,93
+8,Iténez,2,Baures,2654,El Remanzo del Itenez,1,Esc. El Remanzo,8013271,1,240,139,6,9,154,139,154
+8,Iténez,2,Baures,2654,El Remanzo del Itenez,1,Esc. El Remanzo,8013281,2,186,121,3,11,135,121,135
+8,Iténez,2,Baures,2656,Cafetal,1,Esc. Seccional Cafetal,8013291,1,240,112,2,2,116,112,116
+8,Iténez,2,Baures,2656,Cafetal,1,Esc. Seccional Cafetal,8013301,2,64,27,2,3,32,27,32
+8,Iténez,2,Baures,2819,San Simon,1,Esc. San Simon,8013311,1,240,125,5,20,150,125,150
+8,Iténez,2,Baures,2819,San Simon,1,Esc. San Simon,8013321,2,31,19,0,1,20,19,20
 8,Iténez,2,Baures,3174,Jasiaquiri,1,U.E. Jasiaquiri,8013331,1,178,135,1,8,144,135,144
 8,Iténez,2,Baures,3523,Alta Gracia,1,Esc. Alta Gracia,8013341,1,117,99,3,0,102,99,102
+8,Iténez,2,Baures,3524,Monte Cristo del Tiquin,1,Esc. Monte Cristo Del Tiquin,8013351,1,230,137,2,9,148,137,148
 8,Iténez,2,Baures,3525,El Cairo II,1,Esc. Cairo II,8013361,1,28,24,0,0,24,24,24
+8,Iténez,2,Baures,4417,Mategua,26174,U.E. Mategua,8013371,1,82,48,4,6,58,48,58
 8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013381,1,240,159,2,4,165,159,165
 8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013391,2,240,164,0,3,167,164,167
 8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013401,3,240,171,2,3,176,171,176
 8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013411,4,240,162,1,4,167,162,167
 8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013421,5,240,169,0,0,169,169,169
 8,Iténez,3,Huacaraje,2657,Huacaraje,1,U.E. Juan Alberto Orellana,8013431,6,214,124,1,2,127,124,127
+8,Iténez,3,Huacaraje,2658,El Carmen del Itenez,1,Esc. El Carmen,8013441,1,240,172,0,3,175,172,175
+8,Iténez,3,Huacaraje,2658,El Carmen del Itenez,1,Esc. El Carmen,8013451,2,240,156,0,4,160,156,160
+8,Iténez,3,Huacaraje,2658,El Carmen del Itenez,1,Esc. El Carmen,8013461,3,185,135,0,2,137,135,137
 8,Iténez,3,Huacaraje,3130,La Embrolla,1,U.E. Juan Antonio Velarde Guerra,8013471,1,74,61,0,2,63,61,63
