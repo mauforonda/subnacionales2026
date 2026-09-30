@@ -18,7 +18,7 @@ sidebar: false
 >
 
 ```js
-import maplibregl from "npm:maplibre-gl";
+import maplibregl from "npm:maplibre-gl@4.0.2";
 import {
   DATA_BASE,
   MAPA_FALLBACK,

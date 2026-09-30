@@ -1,4 +1,7 @@
-import maplibregl from "npm:maplibre-gl";
+import maplibregl from "npm:maplibre-gl@4.0.2";
+import {estiloClaro} from "./basemap.js";
+
+const addThematicLayer = (map, layer) => map.addLayer(layer, "etiquetas");
 
 const TERRITORIOS_FADE_START = 8.6;
 const TERRITORIOS_FADE_END = 9;
@@ -62,8 +65,7 @@ export function circleHoverRadiusExpr(campo) {
 export function crearMapa(selector, mapaInicial) {
   const map = new maplibregl.Map({
     container: document.querySelector(selector),
-    style:
-      "https://basemaps.cartocdn.com/gl/positron-nolabels-gl-style/style.json",
+    style: estiloClaro,
     center: mapaInicial.center,
     zoom: mapaInicial.zoom,
     minZoom: 4.2,
@@ -160,7 +162,7 @@ export function crearCapasBase(map, territorios, recintos, metrica) {
   }
 
   if (!map.getLayer("territorios_fill")) {
-    map.addLayer({
+    addThematicLayer(map, {
       id: "territorios_fill",
       type: "fill",
       source: "territorios",
@@ -180,7 +182,7 @@ export function crearCapasBase(map, territorios, recintos, metrica) {
   }
 
   if (!map.getLayer("territorios_line")) {
-    map.addLayer({
+    addThematicLayer(map, {
       id: "territorios_line",
       type: "line",
       source: "territorios",
@@ -201,7 +203,7 @@ export function crearCapasBase(map, territorios, recintos, metrica) {
   }
 
   if (!map.getLayer("territorios_selected")) {
-    map.addLayer({
+    addThematicLayer(map, {
       id: "territorios_selected",
       type: "line",
       source: "territorios",
@@ -227,7 +229,7 @@ export function crearCapasBase(map, territorios, recintos, metrica) {
   }
 
   if (!map.getLayer("territorios_hover")) {
-    map.addLayer({
+    addThematicLayer(map, {
       id: "territorios_hover",
       type: "fill",
       source: "territorios",
@@ -248,7 +250,7 @@ export function crearCapasBase(map, territorios, recintos, metrica) {
   }
 
   if (!map.getLayer("recintos")) {
-    map.addLayer({
+    addThematicLayer(map, {
       id: "recintos",
       type: "circle",
       source: "recintos",
@@ -261,7 +263,7 @@ export function crearCapasBase(map, territorios, recintos, metrica) {
   }
 
   if (!map.getLayer("recintos_selected")) {
-    map.addLayer({
+    addThematicLayer(map, {
       id: "recintos_selected",
       type: "circle",
       source: "recintos",
@@ -279,27 +281,8 @@ export function crearCapasBase(map, territorios, recintos, metrica) {
     });
   }
 
-  if (!map.getSource("etiquetas")) {
-    map.addSource("etiquetas", {
-      type: "raster",
-      tiles: [
-        "https://a.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png",
-      ],
-      tileSize: 256,
-    });
-  }
-
-  if (!map.getLayer("etiquetas")) {
-    map.addLayer({
-      id: "etiquetas",
-      type: "raster",
-      source: "etiquetas",
-      paint: { "raster-opacity": 0.8 },
-    });
-  }
-
   if (!map.getLayer("recintos_hover")) {
-    map.addLayer({
+    addThematicLayer(map, {
       id: "recintos_hover",
       type: "circle",
       source: "recintos",

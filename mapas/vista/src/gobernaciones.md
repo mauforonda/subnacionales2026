@@ -26,7 +26,8 @@ sidebar: false
 ```js
 import * as d3 from "npm:d3";
 import * as Plot from "npm:@observablehq/plot";
-import maplibregl from "npm:maplibre-gl";
+import maplibregl from "npm:maplibre-gl@4.0.2";
+const addThematicLayer = (map, layer) => map.addLayer(layer, "etiquetas");
 import { getStorage } from "./components/definiciones.js";
 import { obtenerDefinicionesDepartamento } from "./components/gobernaciones_definiciones.js";
 import {
@@ -424,14 +425,7 @@ const ready = new Promise((resolve) => {
       data: { type: "FeatureCollection", features: [] },
       promoteId: "codigo_hover",
     });
-    map.addSource("etiquetas", {
-      type: "raster",
-      tiles: [
-        "https://a.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png",
-      ],
-      tileSize: 256,
-    });
-    map.addLayer({
+    addThematicLayer(map, {
       id: "recintos",
       type: "circle",
       source: "recintos",
@@ -441,7 +435,7 @@ const ready = new Promise((resolve) => {
         "circle-opacity": 0.68,
       },
     });
-    map.addLayer({
+    addThematicLayer(map, {
       id: "recintos_selected",
       type: "circle",
       source: "recintos",
@@ -457,13 +451,7 @@ const ready = new Promise((resolve) => {
         ],
       },
     });
-    map.addLayer({
-      id: "etiquetas",
-      type: "raster",
-      source: "etiquetas",
-      paint: { "raster-opacity": 0.8 },
-    });
-    map.addLayer({
+    addThematicLayer(map, {
       id: "recintos_hover",
       type: "circle",
       source: "recintos",
