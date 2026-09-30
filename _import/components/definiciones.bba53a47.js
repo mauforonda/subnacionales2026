@@ -1,4 +1,4 @@
-import * as d3 from "../../_npm/d3@7.9.0/66d82917.js";
+import * as d3 from "../../_npm/d3@7.9.0/080cf928.js";
 
 export const DATA_BASE =
   "https://raw.githubusercontent.com/mauforonda/subnacionales2026/refs/heads/main/mapas/artefactos/primera_vuelta/";

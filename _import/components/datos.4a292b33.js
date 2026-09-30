@@ -1,5 +1,5 @@
-import * as d3 from "../../_npm/d3@7.9.0/66d82917.js";
-import { feature as topojsonFeature } from "../../_npm/topojson-client@3.1.0/edd9ee95.js";
+import * as d3 from "../../_npm/d3@7.9.0/080cf928.js";
+import { feature as topojsonFeature } from "../../_npm/topojson-client@3.1.0/7fb99109.js";
 
 export async function cargarDatos(base, archivoResultados) {
   const [resultadosRaw, municipios, departamentos, territoriosTopo, timestampRaw] =
